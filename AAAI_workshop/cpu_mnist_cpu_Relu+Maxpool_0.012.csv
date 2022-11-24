@@ -1,0 +1,6 @@
+,Unnamed: 0,0,Dataset,Epsilon,Network,Image,Result,TotalTime,Unnamed: 0.1,Verifier,instance,solved_bool,solved,score
+208,26369,,mnist,0.012,N17,MNIST_P70_N17,unsat,56.1617,4369.0,marabou,MNIST_P70_N17 N17 0.012,True,1,1
+428,25374,,mnist,0.012,N17,MNIST_P32_N17,unsat,57.0058,3374.0,marabou,MNIST_P32_N17 N17 0.012,True,1,1
+439,25080,,mnist,0.012,N17,MNIST_P88_N17,unsat,55.0982,3080.0,marabou,MNIST_P88_N17 N17 0.012,True,1,1
+553,25814,,mnist,0.012,N17,MNIST_P34_N17,unsat,54.9992,3814.0,marabou,MNIST_P34_N17 N17 0.012,True,1,1
+575,23757,,mnist,0.012,N17,MNIST_P47_N17,unsat,60.3883,1757.0,marabou,MNIST_P47_N17 N17 0.012,True,1,1
