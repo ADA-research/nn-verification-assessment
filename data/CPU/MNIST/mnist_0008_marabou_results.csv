@@ -1,0 +1,4401 @@
+ProblemId,Result,TotalTime
+MNIST_P58_N40,unsat,84.6949
+MNIST_P35_N37,unsat,302.3559
+MNIST_P52_N38,outofmemory,285.829
+MNIST_P76_N41,outofmemory,102.993
+MNIST_P43_N40,unsat,85.1835
+MNIST_P38_N5,timeout,3600.017
+MNIST_P2_N16,MarabouError(Return code: 1),3.5559
+MNIST_P12_N19,MarabouError(Return code: 1),7.3935
+MNIST_P18_N18,timeout,3600.017
+MNIST_P51_N29,unsat,85.3952
+MNIST_P77_N44,timeout,3600.016
+MNIST_P0_N11,timeout,3600.011
+MNIST_P79_N2,outofmemory,189.893
+MNIST_P56_N31,unsat,293.3973
+MNIST_P81_N4,MarabouError(Return code: 1),7.6562
+MNIST_P34_N23,unsat,85.5832
+MNIST_P36_N39,timeout,3600.019
+MNIST_P63_N29,unsat,82.7261
+MNIST_P69_N40,unsat,83.5382
+MNIST_P78_N41,outofmemory,100.796
+MNIST_P32_N14,outofmemory,75.957
+MNIST_P45_N31,unsat,285.8454
+MNIST_P89_N48,outofmemory,79.173
+MNIST_P44_N24,timeout,3600.015
+MNIST_P54_N12,MarabouError(Return code: 1),2.8175
+MNIST_P27_N23,unsat,76.2878
+MNIST_P38_N7,timeout,3600.013
+MNIST_P47_N24,timeout,3600.014
+MNIST_P66_N20,outofmemory,30.291
+MNIST_P23_N37,unsat,268.7997
+MNIST_P51_N23,unsat,56.3925
+MNIST_P63_N23,unsat,56.1906
+MNIST_P67_N29,unsat,58.7985
+MNIST_P76_N23,unsat,56.9681
+MNIST_P35_N13,timeout,3600.0
+MNIST_P49_N49,outofmemory,58.539
+MNIST_P86_N7,timeout,3600.007
+MNIST_P5_N48,outofmemory,53.838
+MNIST_P95_N21,MarabouError(Return code: 1),5.1235
+MNIST_P53_N47,outofmemory,63.475
+MNIST_P2_N27,timeout,3600.002
+MNIST_P12_N7,timeout,3600.006
+MNIST_P36_N13,timeout,3600.019
+MNIST_P70_N41,outofmemory,58.052
+MNIST_P90_N14,outofmemory,42.12
+MNIST_P29_N27,timeout,3600.02
+MNIST_P51_N22,MarabouError(Return code: 1),1.575
+MNIST_P48_N17,unsat,58.5637
+MNIST_P7_N48,outofmemory,40.107
+MNIST_P46_N22,MarabouError(Return code: 1),1.5975
+MNIST_P52_N13,timeout,3600.006
+MNIST_P16_N2,outofmemory,142.663
+MNIST_P90_N26,timeout,3600.047
+MNIST_P49_N34,timeout,3600.029
+MNIST_P57_N22,MarabouError(Return code: 1),1.3015
+MNIST_P18_N37,unsat,245.1926
+MNIST_P68_N20,outofmemory,18.106
+MNIST_P81_N44,timeout,3600.003
+MNIST_P12_N3,outofmemory,12.576
+MNIST_P42_N4,MarabouError(Return code: 1),3.2357
+MNIST_P95_N33,MarabouError(Return code: 1),1.5595
+MNIST_P80_N29,unsat,43.687
+MNIST_P75_N37,unsat,243.672
+MNIST_P3_N15,timeout,3600.007
+MNIST_P29_N20,outofmemory,21.027
+MNIST_P84_N44,timeout,3600.02
+MNIST_P43_N44,timeout,3600.006
+MNIST_P14_N15,timeout,3600.003
+MNIST_P89_N37,unsat,236.7696
+MNIST_P36_N23,unsat,41.6734
+MNIST_P24_N3,outofmemory,11.416
+MNIST_P85_N21,MarabouError(Return code: 1),3.077
+MNIST_P2_N41,outofmemory,51.58
+MNIST_P75_N45,timeout,3600.0
+MNIST_P85_N16,MarabouError(Return code: 1),0.9915
+MNIST_P61_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1648
+MNIST_P83_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1288
+MNIST_P98_N18,timeout,3600.021
+MNIST_P40_N36,unsat,233.0757
+MNIST_P81_N15,timeout,3600.009
+MNIST_P67_N21,MarabouError(Return code: 1),3.5733
+MNIST_P34_N44,timeout,3600.019
+MNIST_P74_N40,unsat,44.2567
+MNIST_P86_N14,outofmemory,39.754
+MNIST_P23_N2,outofmemory,129.74
+MNIST_P58_N15,timeout,3600.004
+MNIST_P23_N16,MarabouError(Return code: 1),1.1626
+MNIST_P4_N36,unsat,243.3986
+MNIST_P88_N48,outofmemory,37.368
+MNIST_P56_N48,outofmemory,37.628
+MNIST_P44_N5,timeout,3600.007
+MNIST_P13_N9,unsat,271.1369
+MNIST_P16_N46,unsat,277.5953
+MNIST_P47_N36,unsat,240.1928
+MNIST_P29_N38,timeout,3600.012
+MNIST_P56_N24,timeout,3600.015
+MNIST_P55_N10,timeout,3600.014
+MNIST_P48_N33,MarabouError(Return code: 1),1.4458
+MNIST_P38_N11,outofmemory,150.008
+MNIST_P51_N16,MarabouError(Return code: 1),1.2212
+MNIST_P76_N38,timeout,3600.005
+MNIST_P81_N10,timeout,3600.019
+MNIST_P96_N19,MarabouError(Return code: 1),3.6462
+MNIST_P25_N47,outofmemory,54.717
+MNIST_P49_N13,timeout,3600.005
+MNIST_P82_N16,MarabouError(Return code: 1),1.0639
+MNIST_P22_N27,timeout,3600.01
+MNIST_P24_N1,timeout,3600.015
+MNIST_P24_N47,outofmemory,54.566
+MNIST_P99_N41,outofmemory,57.846
+MNIST_P18_N9,unsat,241.6102
+MNIST_P23_N29,unsat,41.0024
+MNIST_P96_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.252
+MNIST_P27_N2,outofmemory,120.262
+MNIST_P50_N19,MarabouError(Return code: 1),3.0187
+MNIST_P96_N17,unsat,57.2979
+MNIST_P23_N9,unsat,248.2428
+MNIST_P99_N13,timeout,3600.013
+MNIST_P4_N45,timeout,3600.0
+MNIST_P75_N10,timeout,3600.015
+MNIST_P59_N27,timeout,3600.005
+MNIST_P90_N47,outofmemory,46.099
+MNIST_P7_N3,outofmemory,12.288
+MNIST_P33_N2,outofmemory,128.317
+MNIST_P79_N41,outofmemory,55.194
+MNIST_P95_N15,timeout,3600.013
+MNIST_P22_N25,unsat,215.9915
+MNIST_P49_N10,timeout,3600.012
+MNIST_P61_N35,timeout,3600.012
+MNIST_P25_N45,unsat,8.1154
+MNIST_P65_N49,outofmemory,35.306
+MNIST_P86_N33,MarabouError(Return code: 1),1.3277
+MNIST_P74_N7,timeout,3600.002
+MNIST_P87_N37,unsat,236.6019
+MNIST_P6_N45,timeout,3600.016
+MNIST_P21_N47,outofmemory,43.459
+MNIST_P45_N20,outofmemory,16.855
+MNIST_P20_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.133
+MNIST_P8_N24,timeout,3600.021
+MNIST_P72_N29,unsat,41.221
+MNIST_P50_N26,timeout,3600.021
+MNIST_P69_N13,unsat,25.7096
+MNIST_P73_N48,outofmemory,33.989
+MNIST_P82_N15,timeout,3600.02
+MNIST_P25_N25,unsat,224.9184
+MNIST_P60_N40,unsat,42.1526
+MNIST_P40_N38,outofmemory,922.847
+MNIST_P21_N17,unsat,55.1304
+MNIST_P48_N22,MarabouError(Return code: 1),1.2756
+MNIST_P32_N49,outofmemory,36.873
+MNIST_P62_N26,timeout,3600.008
+MNIST_P75_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2572
+MNIST_P55_N42,unsat,19.7792
+MNIST_P54_N41,outofmemory,51.887
+MNIST_P2_N31,unsat,228.0758
+MNIST_P38_N49,outofmemory,36.04
+MNIST_P51_N2,outofmemory,126.855
+MNIST_P55_N21,MarabouError(Return code: 1),3.3149
+MNIST_P66_N23,unsat,42.1782
+MNIST_P17_N4,MarabouError(Return code: 1),3.3015
+MNIST_P46_N12,MarabouError(Return code: 1),1.3993
+MNIST_P60_N47,outofmemory,50.577
+MNIST_P40_N21,MarabouError(Return code: 1),3.0906
+MNIST_P77_N31,unsat,238.1631
+MNIST_P10_N4,MarabouError(Return code: 1),3.2901
+MNIST_P36_N5,timeout,3600.013
+MNIST_P69_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.2492
+MNIST_P38_N16,MarabouError(Return code: 1),1.0671
+MNIST_P56_N7,timeout,3600.003
+MNIST_P82_N35,unsat,70.1367
+MNIST_P1_N1,timeout,3600.005
+MNIST_P20_N12,MarabouError(Return code: 1),2.0718
+MNIST_P41_N41,outofmemory,59.134
+MNIST_P97_N1,timeout,3600.018
+MNIST_P14_N27,timeout,3600.011
+MNIST_P35_N16,MarabouError(Return code: 1),1.0081
+MNIST_P24_N23,unsat,41.9714
+MNIST_P11_N5,timeout,3600.016
+MNIST_P38_N20,outofmemory,16.82
+MNIST_P69_N25,unsat,228.114
+MNIST_P49_N15,timeout,3600.013
+MNIST_P71_N48,outofmemory,39.702
+MNIST_P85_N37,unsat,252.3538
+MNIST_P89_N1,unsat,34.9841
+MNIST_P3_N29,unsat,45.4781
+MNIST_P61_N2,outofmemory,132.208
+MNIST_P81_N38,timeout,3600.013
+MNIST_P0_N4,MarabouError(Return code: 1),3.2048
+MNIST_P57_N7,timeout,3600.009
+MNIST_P26_N1,unsat,33.4857
+MNIST_P37_N7,timeout,3600.02
+MNIST_P8_N36,unsat,222.4411
+MNIST_P72_N31,unsat,239.1813
+MNIST_P83_N27,timeout,3600.011
+MNIST_P52_N34,timeout,3600.018
+MNIST_P91_N35,timeout,3600.02
+MNIST_P91_N47,outofmemory,45.739
+MNIST_P31_N24,timeout,3600.018
+MNIST_P89_N16,MarabouError(Return code: 1),1.1348
+MNIST_P13_N42,unsat,19.4052
+MNIST_P51_N19,MarabouError(Return code: 1),3.2332
+MNIST_P73_N3,outofmemory,12.647
+MNIST_P5_N11,timeout,3600.023
+MNIST_P19_N20,outofmemory,17.508
+MNIST_P73_N9,unsat,240.7736
+MNIST_P43_N3,outofmemory,12.036
+MNIST_P33_N12,MarabouError(Return code: 1),1.3848
+MNIST_P10_N44,timeout,3600.022
+MNIST_P1_N44,timeout,3600.002
+MNIST_P56_N21,MarabouError(Return code: 1),3.2395
+MNIST_P79_N49,outofmemory,36.07
+MNIST_P84_N4,MarabouError(Return code: 1),3.1448
+MNIST_P85_N35,timeout,3600.016
+MNIST_P76_N18,timeout,3600.014
+MNIST_P16_N15,timeout,3600.021
+MNIST_P18_N14,outofmemory,37.394
+MNIST_P6_N29,unsat,41.6648
+MNIST_P42_N36,unsat,215.6535
+MNIST_P87_N47,outofmemory,47.805
+MNIST_P60_N4,MarabouError(Return code: 1),2.9595
+MNIST_P45_N19,MarabouError(Return code: 1),3.039
+MNIST_P98_N34,timeout,3600.019
+MNIST_P78_N3,outofmemory,11.928
+MNIST_P96_N35,timeout,3600.015
+MNIST_P18_N48,outofmemory,34.771
+MNIST_P15_N7,timeout,3600.003
+MNIST_P31_N41,outofmemory,52.632
+MNIST_P50_N7,timeout,3600.015
+MNIST_P34_N18,timeout,3600.002
+MNIST_P18_N12,MarabouError(Return code: 1),1.3789
+MNIST_P20_N5,timeout,3600.007
+MNIST_P21_N16,MarabouError(Return code: 1),1.322
+MNIST_P77_N35,timeout,3600.016
+MNIST_P89_N23,unsat,42.5538
+MNIST_P91_N15,timeout,3600.02
+MNIST_P92_N29,unsat,42.8953
+MNIST_P90_N4,MarabouError(Return code: 1),4.7706
+MNIST_P83_N5,timeout,3600.001
+MNIST_P63_N31,unsat,222.2975
+MNIST_P39_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.1951
+MNIST_P74_N4,MarabouError(Return code: 1),3.3011
+MNIST_P82_N3,outofmemory,11.841
+MNIST_P91_N37,unsat,241.9314
+MNIST_P66_N13,unsat,26.2906
+MNIST_P71_N19,MarabouError(Return code: 1),3.2834
+MNIST_P79_N31,unsat,223.2702
+MNIST_P45_N40,unsat,40.9975
+MNIST_P11_N9,unsat,239.545
+MNIST_P83_N13,timeout,3600.017
+MNIST_P86_N47,outofmemory,45.006
+MNIST_P26_N26,unsat,11.227
+MNIST_P61_N23,unsat,44.5057
+MNIST_P16_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1853
+MNIST_P66_N44,timeout,3600.018
+MNIST_P13_N10,timeout,3600.003
+MNIST_P44_N11,timeout,3600.003
+MNIST_P76_N48,outofmemory,36.856
+MNIST_P84_N20,outofmemory,16.733
+MNIST_P90_N13,timeout,3600.008
+MNIST_P76_N15,timeout,3600.015
+MNIST_P95_N7,timeout,3600.02
+MNIST_P58_N14,outofmemory,36.832
+MNIST_P96_N4,MarabouError(Return code: 1),3.0132
+MNIST_P30_N16,MarabouError(Return code: 1),0.9753
+MNIST_P5_N31,unsat,224.559
+MNIST_P55_N39,timeout,3600.021
+MNIST_P27_N15,timeout,3600.003
+MNIST_P44_N25,unsat,213.776
+MNIST_P72_N20,outofmemory,16.599
+MNIST_P81_N35,timeout,3600.004
+MNIST_P70_N4,MarabouError(Return code: 1),3.4045
+MNIST_P88_N16,MarabouError(Return code: 1),1.1229
+MNIST_P48_N4,MarabouError(Return code: 1),3.3548
+MNIST_P19_N4,MarabouError(Return code: 1),3.2618
+MNIST_P82_N19,MarabouError(Return code: 1),3.351
+MNIST_P7_N4,MarabouError(Return code: 1),3.3571
+MNIST_P9_N34,timeout,3600.018
+MNIST_P37_N31,unsat,214.1908
+MNIST_P64_N2,outofmemory,123.126
+MNIST_P65_N14,outofmemory,34.768
+MNIST_P35_N39,timeout,3600.015
+MNIST_P55_N4,MarabouError(Return code: 1),3.4993
+MNIST_P51_N31,unsat,220.5842
+MNIST_P25_N2,outofmemory,117.543
+MNIST_P93_N26,timeout,3600.012
+MNIST_P0_N26,unsat,10.7783
+MNIST_P13_N23,unsat,40.6942
+MNIST_P36_N37,unsat,245.9187
+MNIST_P39_N35,timeout,3600.018
+MNIST_P46_N21,MarabouError(Return code: 1),3.5837
+MNIST_P81_N37,unsat,234.1979
+MNIST_P66_N4,MarabouError(Return code: 1),3.1431
+MNIST_P4_N16,MarabouError(Return code: 1),0.9272
+MNIST_P9_N17,unsat,53.9462
+MNIST_P33_N17,outofmemory,13.63
+MNIST_P36_N48,outofmemory,36.213
+MNIST_P42_N23,unsat,41.7788
+MNIST_P82_N11,timeout,3600.016
+MNIST_P15_N3,outofmemory,11.792
+MNIST_P38_N19,MarabouError(Return code: 1),3.6974
+MNIST_P66_N7,timeout,3600.017
+MNIST_P14_N13,timeout,3600.014
+MNIST_P21_N23,unsat,42.3181
+MNIST_P2_N2,outofmemory,143.757
+MNIST_P49_N35,timeout,3600.006
+MNIST_P87_N17,outofmemory,19.887
+MNIST_P28_N41,outofmemory,51.054
+MNIST_P29_N42,unsat,17.5541
+MNIST_P34_N22,MarabouError(Return code: 1),1.3632
+MNIST_P38_N14,outofmemory,35.377
+MNIST_P76_N7,timeout,3600.004
+MNIST_P52_N22,MarabouError(Return code: 1),1.3279
+MNIST_P79_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2945
+MNIST_P76_N17,unsat,56.1359
+MNIST_P24_N15,timeout,3600.016
+MNIST_P98_N13,timeout,3600.005
+MNIST_P14_N29,unsat,41.7208
+MNIST_P64_N20,outofmemory,17.227
+MNIST_P83_N31,unsat,216.7145
+MNIST_P89_N29,unsat,42.0157
+MNIST_P35_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.3067
+MNIST_P54_N19,MarabouError(Return code: 1),3.3228
+MNIST_P92_N31,unsat,219.7076
+MNIST_P40_N15,timeout,3600.022
+MNIST_P80_N27,timeout,3600.016
+MNIST_P56_N49,outofmemory,36.331
+MNIST_P59_N16,MarabouError(Return code: 1),0.9433
+MNIST_P11_N39,timeout,3600.02
+MNIST_P41_N44,timeout,3600.012
+MNIST_P20_N7,timeout,3600.015
+MNIST_P14_N44,timeout,3600.015
+MNIST_P49_N18,timeout,3600.019
+MNIST_P15_N37,unsat,238.7556
+MNIST_P1_N26,timeout,3600.01
+MNIST_P90_N10,timeout,3600.011
+MNIST_P85_N47,outofmemory,42.999
+MNIST_P74_N21,MarabouError(Return code: 1),3.0441
+MNIST_P91_N22,MarabouError(Return code: 1),1.4545
+MNIST_P94_N18,timeout,3600.005
+MNIST_P5_N25,unsat,215.8135
+MNIST_P71_N15,timeout,3600.012
+MNIST_P80_N19,MarabouError(Return code: 1),3.2837
+MNIST_P90_N44,timeout,3600.012
+MNIST_P28_N39,timeout,3600.011
+MNIST_P51_N27,timeout,3600.021
+MNIST_P40_N2,outofmemory,111.791
+MNIST_P2_N47,outofmemory,43.733
+MNIST_P80_N36,unsat,214.3135
+MNIST_P2_N46,unsat,244.3699
+MNIST_P50_N3,outofmemory,12.845
+MNIST_P10_N45,unsat,8.0009
+MNIST_P62_N5,timeout,3600.007
+MNIST_P81_N40,unsat,41.6173
+MNIST_P58_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.164
+MNIST_P20_N21,MarabouError(Return code: 1),3.3106
+MNIST_P47_N9,unsat,241.6445
+MNIST_P31_N49,outofmemory,38.126
+MNIST_P0_N40,unsat,42.6064
+MNIST_P70_N21,MarabouError(Return code: 1),3.2851
+MNIST_P72_N10,timeout,3600.016
+MNIST_P93_N40,unsat,41.9987
+MNIST_P67_N48,outofmemory,36.115
+MNIST_P73_N5,timeout,3600.02
+MNIST_P47_N33,MarabouError(Return code: 1),1.3435
+MNIST_P91_N24,timeout,3600.01
+MNIST_P6_N12,MarabouError(Return code: 1),1.3794
+MNIST_P84_N12,MarabouError(Return code: 1),2.8489
+MNIST_P75_N34,timeout,3600.008
+MNIST_P63_N5,timeout,3600.022
+MNIST_P13_N35,unsat,64.0185
+MNIST_P41_N20,outofmemory,17.812
+MNIST_P72_N7,timeout,3600.021
+MNIST_P73_N10,timeout,3600.021
+MNIST_P52_N46,unsat,237.2028
+MNIST_P94_N15,timeout,3600.019
+MNIST_P12_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1302
+MNIST_P75_N19,MarabouError(Return code: 1),3.1226
+MNIST_P63_N21,MarabouError(Return code: 1),3.2939
+MNIST_P55_N2,outofmemory,118.263
+MNIST_P9_N27,timeout,3600.012
+MNIST_P37_N48,outofmemory,34.23
+MNIST_P26_N24,timeout,3600.021
+MNIST_P28_N42,unsat,19.1023
+MNIST_P73_N16,MarabouError(Return code: 1),1.0764
+MNIST_P22_N21,MarabouError(Return code: 1),3.3533
+MNIST_P64_N38,timeout,3600.008
+MNIST_P9_N39,timeout,3600.018
+MNIST_P27_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1507
+MNIST_P89_N42,unsat,18.8944
+MNIST_P99_N10,timeout,3600.001
+MNIST_P28_N14,outofmemory,35.678
+MNIST_P15_N48,outofmemory,34.746
+MNIST_P62_N4,MarabouError(Return code: 1),3.1143
+MNIST_P62_N9,unsat,241.8044
+MNIST_P86_N23,unsat,41.8494
+MNIST_P31_N34,timeout,3600.021
+MNIST_P8_N7,outofmemory,217.791
+MNIST_P54_N49,outofmemory,35.793
+MNIST_P2_N26,timeout,3600.001
+MNIST_P54_N40,unsat,42.7143
+MNIST_P60_N5,timeout,3600.008
+MNIST_P73_N29,unsat,42.4773
+MNIST_P74_N2,outofmemory,132.556
+MNIST_P86_N21,MarabouError(Return code: 1),3.3426
+MNIST_P90_N33,MarabouError(Return code: 1),1.4708
+MNIST_P56_N11,timeout,3600.001
+MNIST_P65_N15,outofmemory,62.189
+MNIST_P60_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2018
+MNIST_P66_N12,MarabouError(Return code: 1),1.3956
+MNIST_P75_N40,unsat,41.7036
+MNIST_P7_N9,unsat,235.2487
+MNIST_P46_N10,timeout,3600.001
+MNIST_P23_N27,timeout,3600.002
+MNIST_P13_N49,outofmemory,37.008
+MNIST_P40_N37,unsat,233.8915
+MNIST_P95_N17,unsat,54.5794
+MNIST_P7_N47,outofmemory,43.051
+MNIST_P76_N33,MarabouError(Return code: 1),1.2845
+MNIST_P17_N19,MarabouError(Return code: 1),3.8471
+MNIST_P15_N16,MarabouError(Return code: 1),1.0316
+MNIST_P15_N19,MarabouError(Return code: 1),3.5701
+MNIST_P19_N38,timeout,3600.017
+MNIST_P20_N45,timeout,3600.018
+MNIST_P26_N3,outofmemory,12.304
+MNIST_P6_N17,unsat,54.6973
+MNIST_P27_N12,MarabouError(Return code: 1),1.3102
+MNIST_P65_N12,MarabouError(Return code: 1),1.3647
+MNIST_P79_N47,outofmemory,45.154
+MNIST_P99_N26,timeout,3600.013
+MNIST_P26_N42,unsat,17.8389
+MNIST_P93_N5,timeout,3600.017
+MNIST_P69_N20,outofmemory,17.547
+MNIST_P6_N48,outofmemory,37.628
+MNIST_P92_N21,MarabouError(Return code: 1),2.9966
+MNIST_P59_N38,timeout,3600.009
+MNIST_P10_N11,timeout,3600.008
+MNIST_P10_N26,timeout,3600.01
+MNIST_P8_N35,timeout,3600.002
+MNIST_P50_N13,timeout,3600.001
+MNIST_P63_N48,outofmemory,36.291
+MNIST_P24_N19,MarabouError(Return code: 1),3.2479
+MNIST_P56_N27,timeout,3600.019
+MNIST_P8_N37,unsat,244.4344
+MNIST_P68_N21,MarabouError(Return code: 1),3.3736
+MNIST_P56_N36,unsat,225.7319
+MNIST_P48_N21,MarabouError(Return code: 1),3.0186
+MNIST_P78_N31,unsat,217.4033
+MNIST_P93_N45,timeout,3600.021
+MNIST_P62_N22,MarabouError(Return code: 1),1.3069
+MNIST_P90_N27,timeout,3600.013
+MNIST_P16_N40,unsat,41.5101
+MNIST_P47_N25,unsat,219.5868
+MNIST_P84_N15,timeout,3600.019
+MNIST_P87_N36,unsat,214.3781
+MNIST_P44_N45,timeout,3600.004
+MNIST_P28_N9,unsat,239.9156
+MNIST_P10_N49,outofmemory,34.822
+MNIST_P69_N29,unsat,41.144
+MNIST_P83_N24,timeout,3600.006
+MNIST_P94_N48,outofmemory,35.424
+MNIST_P15_N21,MarabouError(Return code: 1),3.1762
+MNIST_P63_N24,timeout,3600.012
+MNIST_P49_N20,outofmemory,16.932
+MNIST_P92_N12,MarabouError(Return code: 1),1.502
+MNIST_P97_N10,timeout,3600.01
+MNIST_P19_N11,timeout,3600.002
+MNIST_P40_N47,outofmemory,45.572
+MNIST_P41_N36,unsat,230.3781
+MNIST_P64_N29,unsat,42.2785
+MNIST_P80_N34,timeout,3600.004
+MNIST_P62_N38,outofmemory,1629.107
+MNIST_P14_N41,outofmemory,52.717
+MNIST_P72_N18,timeout,3600.011
+MNIST_P1_N49,outofmemory,36.122
+MNIST_P50_N47,outofmemory,48.418
+MNIST_P39_N39,timeout,3600.006
+MNIST_P5_N3,outofmemory,11.831
+MNIST_P48_N35,timeout,3600.013
+MNIST_P51_N26,timeout,3600.003
+MNIST_P55_N14,outofmemory,34.159
+MNIST_P73_N2,outofmemory,118.317
+MNIST_P66_N26,timeout,3600.02
+MNIST_P29_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.2333
+MNIST_P73_N41,outofmemory,52.509
+MNIST_P2_N9,unsat,247.3146
+MNIST_P78_N37,unsat,240.2642
+MNIST_P22_N13,timeout,3600.019
+MNIST_P23_N13,timeout,3600.009
+MNIST_P23_N18,timeout,3600.002
+MNIST_P4_N47,outofmemory,45.201
+MNIST_P28_N31,unsat,218.0631
+MNIST_P50_N11,timeout,3600.02
+MNIST_P18_N4,MarabouError(Return code: 1),2.9808
+MNIST_P39_N5,timeout,3600.015
+MNIST_P22_N49,outofmemory,35.8
+MNIST_P40_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.2424
+MNIST_P29_N24,timeout,3600.006
+MNIST_P8_N2,outofmemory,114.758
+MNIST_P42_N24,timeout,3600.01
+MNIST_P82_N5,timeout,3600.011
+MNIST_P21_N19,MarabouError(Return code: 1),3.1641
+MNIST_P88_N38,timeout,3600.012
+MNIST_P24_N20,outofmemory,18.948
+MNIST_P23_N24,timeout,3600.017
+MNIST_P60_N16,MarabouError(Return code: 1),0.9591
+MNIST_P72_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.2442
+MNIST_P94_N27,timeout,3600.0
+MNIST_P85_N24,timeout,3600.016
+MNIST_P94_N7,timeout,3600.001
+MNIST_P73_N23,unsat,41.9395
+MNIST_P92_N33,MarabouError(Return code: 1),1.3356
+MNIST_P6_N4,MarabouError(Return code: 1),3.0156
+MNIST_P52_N5,timeout,3600.022
+MNIST_P86_N25,unsat,214.542
+MNIST_P39_N11,timeout,3600.016
+MNIST_P81_N16,MarabouError(Return code: 1),1.0217
+MNIST_P78_N26,timeout,3600.006
+MNIST_P1_N10,timeout,3600.02
+MNIST_P79_N46,unsat,241.5458
+MNIST_P11_N14,outofmemory,35.105
+MNIST_P49_N9,unsat,242.8737
+MNIST_P12_N13,timeout,3600.008
+MNIST_P21_N4,MarabouError(Return code: 1),3.205
+MNIST_P51_N39,timeout,3600.004
+MNIST_P0_N24,timeout,3600.011
+MNIST_P12_N48,outofmemory,34.903
+MNIST_P68_N16,MarabouError(Return code: 1),1.0121
+MNIST_P74_N25,unsat,216.155
+MNIST_P65_N13,timeout,3600.009
+MNIST_P28_N10,timeout,3600.005
+MNIST_P88_N2,outofmemory,124.273
+MNIST_P1_N35,timeout,3600.02
+MNIST_P92_N48,outofmemory,35.793
+MNIST_P52_N31,unsat,224.3619
+MNIST_P88_N49,outofmemory,35.009
+MNIST_P32_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1402
+MNIST_P23_N45,unsat,8.0596
+MNIST_P88_N10,timeout,3600.022
+MNIST_P91_N25,unsat,212.1942
+MNIST_P81_N18,timeout,3600.007
+MNIST_P22_N34,timeout,3600.019
+MNIST_P45_N17,unsat,54.5305
+MNIST_P92_N4,MarabouError(Return code: 1),3.4643
+MNIST_P56_N20,outofmemory,16.201
+MNIST_P61_N10,timeout,3600.006
+MNIST_P5_N24,timeout,3600.017
+MNIST_P12_N45,timeout,3600.003
+MNIST_P65_N38,outofmemory,357.604
+MNIST_P81_N41,outofmemory,54.326
+MNIST_P44_N41,outofmemory,51.673
+MNIST_P36_N38,timeout,3600.012
+MNIST_P49_N3,outofmemory,12.929
+MNIST_P32_N40,unsat,41.4086
+MNIST_P1_N37,unsat,242.6998
+MNIST_P63_N14,outofmemory,35.316
+MNIST_P10_N20,outofmemory,17.201
+MNIST_P12_N46,unsat,239.4216
+MNIST_P99_N33,MarabouError(Return code: 1),1.32
+MNIST_P62_N17,outofmemory,25.997
+MNIST_P24_N5,timeout,3600.013
+MNIST_P71_N25,unsat,219.8461
+MNIST_P45_N36,unsat,220.9579
+MNIST_P34_N4,MarabouError(Return code: 1),2.9055
+MNIST_P24_N17,unsat,54.4671
+MNIST_P46_N39,timeout,3600.012
+MNIST_P83_N22,MarabouError(Return code: 1),1.5673
+MNIST_P12_N38,timeout,3600.01
+MNIST_P6_N38,outofmemory,209.914
+MNIST_P61_N15,timeout,3600.006
+MNIST_P70_N35,timeout,3600.023
+MNIST_P71_N1,unsat,30.6445
+MNIST_P96_N15,timeout,3600.019
+MNIST_P44_N35,timeout,3600.006
+MNIST_P66_N22,MarabouError(Return code: 1),1.3405
+MNIST_P99_N46,unsat,237.7859
+MNIST_P10_N40,unsat,42.1678
+MNIST_P8_N9,unsat,242.1749
+MNIST_P39_N24,timeout,3600.001
+MNIST_P19_N12,MarabouError(Return code: 1),1.4433
+MNIST_P50_N31,unsat,218.9658
+MNIST_P83_N48,outofmemory,35.95
+MNIST_P31_N46,unsat,248.6084
+MNIST_P23_N48,outofmemory,35.49
+MNIST_P81_N47,outofmemory,44.423
+MNIST_P52_N47,outofmemory,45.062
+MNIST_P61_N17,outofmemory,57.811
+MNIST_P39_N22,MarabouError(Return code: 1),1.5535
+MNIST_P84_N38,outofmemory,467.439
+MNIST_P1_N20,outofmemory,19.587
+MNIST_P65_N36,unsat,220.034
+MNIST_P13_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.2966
+MNIST_P15_N44,timeout,3600.019
+MNIST_P98_N25,unsat,224.3137
+MNIST_P67_N25,unsat,220.4178
+MNIST_P87_N42,unsat,19.7748
+MNIST_P0_N10,timeout,3600.005
+MNIST_P77_N23,unsat,41.919
+MNIST_P83_N40,unsat,41.6375
+MNIST_P62_N23,unsat,41.2164
+MNIST_P41_N37,unsat,253.4836
+MNIST_P47_N37,unsat,248.824
+MNIST_P8_N18,outofmemory,61.505
+MNIST_P47_N5,timeout,3600.003
+MNIST_P4_N24,timeout,3600.006
+MNIST_P9_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2341
+MNIST_P0_N49,outofmemory,40.83
+MNIST_P15_N17,unsat,55.9634
+MNIST_P32_N25,unsat,222.025
+MNIST_P41_N21,MarabouError(Return code: 1),3.1359
+MNIST_P64_N41,outofmemory,53.287
+MNIST_P72_N19,MarabouError(Return code: 1),3.4428
+MNIST_P51_N21,MarabouError(Return code: 1),3.7599
+MNIST_P56_N39,timeout,3600.018
+MNIST_P94_N44,timeout,3600.014
+MNIST_P25_N49,outofmemory,38.941
+MNIST_P80_N7,timeout,3600.001
+MNIST_P69_N27,timeout,3600.02
+MNIST_P58_N11,timeout,3600.012
+MNIST_P23_N41,outofmemory,52.67
+MNIST_P72_N34,timeout,3600.017
+MNIST_P3_N3,outofmemory,11.678
+MNIST_P29_N33,MarabouError(Return code: 1),1.3489
+MNIST_P46_N45,timeout,3600.004
+MNIST_P73_N15,timeout,3600.0
+MNIST_P93_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1695
+MNIST_P17_N49,outofmemory,38.677
+MNIST_P84_N10,timeout,3600.007
+MNIST_P89_N40,unsat,44.0213
+MNIST_P5_N7,timeout,3600.067
+MNIST_P92_N45,timeout,3600.022
+MNIST_P60_N23,unsat,40.7382
+MNIST_P88_N11,timeout,3600.013
+MNIST_P49_N12,MarabouError(Return code: 1),1.3693
+MNIST_P60_N33,MarabouError(Return code: 1),1.416
+MNIST_P79_N12,MarabouError(Return code: 1),1.2484
+MNIST_P80_N39,timeout,3600.002
+MNIST_P99_N4,MarabouError(Return code: 1),3.2934
+MNIST_P39_N23,unsat,41.139
+MNIST_P19_N37,unsat,235.2486
+MNIST_P31_N14,outofmemory,34.889
+MNIST_P73_N38,timeout,3600.01
+MNIST_P6_N11,timeout,3600.017
+MNIST_P94_N24,timeout,3600.013
+MNIST_P15_N25,unsat,218.9733
+MNIST_P89_N25,unsat,221.095
+MNIST_P83_N23,unsat,40.7413
+MNIST_P54_N27,timeout,3600.004
+MNIST_P92_N19,MarabouError(Return code: 1),3.1722
+MNIST_P2_N1,unsat,30.493
+MNIST_P91_N11,timeout,3600.015
+MNIST_P48_N31,unsat,220.5866
+MNIST_P7_N24,timeout,3600.0
+MNIST_P83_N1,unsat,30.869
+MNIST_P42_N13,timeout,3600.016
+MNIST_P80_N17,unsat,53.9976
+MNIST_P90_N12,MarabouError(Return code: 1),1.2629
+MNIST_P24_N27,timeout,3600.018
+MNIST_P41_N42,unsat,18.3413
+MNIST_P8_N12,MarabouError(Return code: 1),1.3197
+MNIST_P62_N11,timeout,3600.014
+MNIST_P51_N14,outofmemory,36.351
+MNIST_P68_N2,outofmemory,125.375
+MNIST_P68_N14,outofmemory,33.963
+MNIST_P22_N37,unsat,245.567
+MNIST_P36_N4,MarabouError(Return code: 1),3.3609
+MNIST_P62_N48,outofmemory,36.496
+MNIST_P89_N7,timeout,3600.003
+MNIST_P21_N2,outofmemory,127.768
+MNIST_P3_N19,MarabouError(Return code: 1),3.0756
+MNIST_P35_N25,unsat,224.7174
+MNIST_P24_N49,outofmemory,40.768
+MNIST_P55_N5,timeout,3600.005
+MNIST_P62_N10,timeout,3600.007
+MNIST_P56_N19,MarabouError(Return code: 1),3.0645
+MNIST_P90_N9,unsat,245.6552
+MNIST_P86_N42,unsat,18.4396
+MNIST_P17_N31,unsat,228.9449
+MNIST_P32_N42,unsat,18.8518
+MNIST_P84_N47,outofmemory,50.111
+MNIST_P89_N20,outofmemory,18.061
+MNIST_P12_N5,timeout,3600.005
+MNIST_P73_N20,outofmemory,17.074
+MNIST_P57_N33,MarabouError(Return code: 1),1.5914
+MNIST_P37_N40,unsat,46.2798
+MNIST_P18_N11,timeout,3600.008
+MNIST_P54_N26,timeout,3600.001
+MNIST_P67_N37,unsat,251.9455
+MNIST_P75_N11,timeout,3600.005
+MNIST_P38_N17,unsat,56.0774
+MNIST_P62_N20,outofmemory,17.502
+MNIST_P96_N7,outofmemory,356.189
+MNIST_P37_N14,outofmemory,35.52
+MNIST_P22_N3,outofmemory,12.473
+MNIST_P65_N9,unsat,253.2075
+MNIST_P35_N4,MarabouError(Return code: 1),3.0974
+MNIST_P59_N21,MarabouError(Return code: 1),3.2689
+MNIST_P77_N34,timeout,3600.015
+MNIST_P6_N10,timeout,3600.018
+MNIST_P96_N13,timeout,3600.008
+MNIST_P8_N47,outofmemory,46.048
+MNIST_P7_N11,timeout,3600.014
+MNIST_P66_N2,outofmemory,142.908
+MNIST_P82_N14,outofmemory,45.48
+MNIST_P87_N2,outofmemory,122.127
+MNIST_P68_N36,unsat,220.4557
+MNIST_P67_N17,unsat,56.816
+MNIST_P96_N42,unsat,20.7709
+MNIST_P6_N39,timeout,3600.003
+MNIST_P77_N4,MarabouError(Return code: 1),3.1733
+MNIST_P35_N48,outofmemory,34.636
+MNIST_P62_N18,timeout,3600.013
+MNIST_P28_N25,unsat,220.3466
+MNIST_P38_N33,MarabouError(Return code: 1),1.2902
+MNIST_P92_N11,timeout,3600.011
+MNIST_P51_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1336
+MNIST_P97_N4,MarabouError(Return code: 1),3.0219
+MNIST_P32_N29,unsat,41.2234
+MNIST_P35_N20,outofmemory,16.664
+MNIST_P48_N1,unsat,31.8983
+MNIST_P9_N37,unsat,246.3368
+MNIST_P3_N1,unsat,30.6986
+MNIST_P36_N35,timeout,3600.013
+MNIST_P1_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.1912
+MNIST_P72_N38,timeout,3600.005
+MNIST_P86_N19,MarabouError(Return code: 1),3.1786
+MNIST_P6_N49,outofmemory,36.758
+MNIST_P11_N38,timeout,3600.016
+MNIST_P3_N36,unsat,220.6322
+MNIST_P28_N5,timeout,3600.004
+MNIST_P22_N26,timeout,3600.014
+MNIST_P3_N5,timeout,3600.013
+MNIST_P63_N11,timeout,3600.015
+MNIST_P98_N21,MarabouError(Return code: 1),3.0405
+MNIST_P50_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1301
+MNIST_P18_N3,outofmemory,11.374
+MNIST_P16_N9,unsat,240.8125
+MNIST_P7_N29,unsat,40.4565
+MNIST_P23_N10,timeout,3600.018
+MNIST_P26_N20,outofmemory,16.61
+MNIST_P31_N5,timeout,3600.021
+MNIST_P4_N38,timeout,3600.024
+MNIST_P41_N7,timeout,3600.022
+MNIST_P55_N45,unsat,7.9771
+MNIST_P71_N12,MarabouError(Return code: 1),1.2812
+MNIST_P72_N24,timeout,3600.009
+MNIST_P8_N11,timeout,3600.002
+MNIST_P37_N44,timeout,3600.01
+MNIST_P26_N10,timeout,3600.014
+MNIST_P75_N49,outofmemory,34.674
+MNIST_P96_N49,outofmemory,34.058
+MNIST_P3_N16,MarabouError(Return code: 1),1.0113
+MNIST_P36_N12,MarabouError(Return code: 1),1.3092
+MNIST_P56_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1675
+MNIST_P97_N42,unsat,19.42
+MNIST_P58_N34,timeout,3600.011
+MNIST_P47_N41,outofmemory,51.123
+MNIST_P33_N1,timeout,3600.006
+MNIST_P85_N48,outofmemory,35.883
+MNIST_P53_N19,MarabouError(Return code: 1),3.1121
+MNIST_P4_N18,timeout,3600.018
+MNIST_P35_N38,timeout,3600.023
+MNIST_P55_N31,unsat,226.7844
+MNIST_P7_N22,MarabouError(Return code: 1),1.296
+MNIST_P5_N37,unsat,235.5203
+MNIST_P96_N34,timeout,3600.015
+MNIST_P13_N47,outofmemory,43.864
+MNIST_P40_N3,outofmemory,12.735
+MNIST_P71_N27,timeout,3600.006
+MNIST_P34_N9,unsat,238.2017
+MNIST_P48_N37,unsat,241.5412
+MNIST_P95_N16,MarabouError(Return code: 1),1.0246
+MNIST_P6_N42,unsat,19.0383
+MNIST_P74_N1,unsat,31.1592
+MNIST_P74_N23,unsat,40.4318
+MNIST_P98_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1727
+MNIST_P16_N44,timeout,3600.0
+MNIST_P77_N24,timeout,3600.003
+MNIST_P55_N1,unsat,31.0571
+MNIST_P89_N13,timeout,3600.003
+MNIST_P45_N2,outofmemory,130.001
+MNIST_P51_N48,outofmemory,36.305
+MNIST_P55_N19,MarabouError(Return code: 1),2.9513
+MNIST_P13_N27,timeout,3600.01
+MNIST_P88_N20,outofmemory,17.031
+MNIST_P27_N11,timeout,3600.021
+MNIST_P53_N42,unsat,19.3001
+MNIST_P75_N33,MarabouError(Return code: 1),1.2621
+MNIST_P61_N49,outofmemory,34.719
+MNIST_P94_N23,unsat,40.4733
+MNIST_P14_N25,unsat,214.6789
+MNIST_P47_N15,timeout,3600.003
+MNIST_P84_N24,timeout,3600.0
+MNIST_P93_N31,unsat,222.8383
+MNIST_P40_N23,unsat,41.2481
+MNIST_P63_N4,MarabouError(Return code: 1),3.5074
+MNIST_P54_N20,outofmemory,16.958
+MNIST_P62_N25,unsat,217.7487
+MNIST_P15_N9,unsat,239.4629
+MNIST_P97_N11,timeout,3600.02
+MNIST_P20_N1,unsat,30.5308
+MNIST_P68_N39,timeout,3600.002
+MNIST_P71_N20,outofmemory,16.822
+MNIST_P83_N33,MarabouError(Return code: 1),1.2257
+MNIST_P48_N45,unsat,8.1597
+MNIST_P57_N11,timeout,3600.008
+MNIST_P4_N27,timeout,3600.021
+MNIST_P17_N38,timeout,3600.016
+MNIST_P52_N35,timeout,3600.013
+MNIST_P18_N19,MarabouError(Return code: 1),3.0928
+MNIST_P55_N35,timeout,3600.003
+MNIST_P47_N1,timeout,3600.014
+MNIST_P71_N39,timeout,3600.013
+MNIST_P77_N21,MarabouError(Return code: 1),3.2132
+MNIST_P5_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.1948
+MNIST_P98_N29,unsat,42.4305
+MNIST_P99_N22,MarabouError(Return code: 1),1.2857
+MNIST_P99_N42,unsat,18.5204
+MNIST_P93_N23,unsat,42.516
+MNIST_P89_N27,timeout,3600.009
+MNIST_P24_N4,MarabouError(Return code: 1),3.1709
+MNIST_P24_N11,timeout,3600.007
+MNIST_P37_N34,timeout,3600.002
+MNIST_P0_N39,timeout,3600.009
+MNIST_P95_N31,unsat,222.4456
+MNIST_P76_N11,timeout,3600.014
+MNIST_P42_N18,timeout,3600.001
+MNIST_P47_N35,unsat,65.286
+MNIST_P61_N33,MarabouError(Return code: 1),1.4192
+MNIST_P64_N14,outofmemory,35.512
+MNIST_P70_N31,unsat,223.2834
+MNIST_P26_N44,timeout,3600.015
+MNIST_P72_N13,timeout,3600.02
+MNIST_P73_N34,timeout,3600.025
+MNIST_P93_N48,outofmemory,36.616
+MNIST_P2_N42,unsat,18.4853
+MNIST_P74_N31,unsat,215.1211
+MNIST_P14_N7,timeout,3600.014
+MNIST_P39_N19,MarabouError(Return code: 1),3.1037
+MNIST_P2_N7,timeout,3600.021
+MNIST_P58_N24,timeout,3600.015
+MNIST_P68_N46,unsat,237.3745
+MNIST_P88_N26,timeout,3600.014
+MNIST_P0_N45,unsat,8.0952
+MNIST_P94_N22,MarabouError(Return code: 1),1.3431
+MNIST_P67_N19,MarabouError(Return code: 1),3.1815
+MNIST_P28_N46,unsat,243.5056
+MNIST_P8_N5,timeout,3600.019
+MNIST_P24_N44,timeout,3600.02
+MNIST_P29_N31,unsat,211.8619
+MNIST_P35_N47,outofmemory,48.68
+MNIST_P33_N20,outofmemory,16.455
+MNIST_P38_N48,outofmemory,36.763
+MNIST_P42_N44,timeout,3600.011
+MNIST_P44_N48,outofmemory,35.593
+MNIST_P77_N41,outofmemory,51.261
+MNIST_P1_N23,unsat,42.0748
+MNIST_P99_N1,unsat,31.1376
+MNIST_P99_N25,unsat,218.5245
+MNIST_P14_N33,MarabouError(Return code: 1),1.3584
+MNIST_P79_N21,MarabouError(Return code: 1),3.0277
+MNIST_P15_N11,timeout,3600.014
+MNIST_P74_N13,timeout,3600.016
+MNIST_P64_N22,MarabouError(Return code: 1),1.3413
+MNIST_P87_N40,unsat,40.9713
+MNIST_P89_N41,outofmemory,52.158
+MNIST_P0_N34,timeout,3600.002
+MNIST_P4_N35,timeout,3600.021
+MNIST_P25_N31,unsat,229.8844
+MNIST_P65_N11,timeout,3600.017
+MNIST_P69_N49,outofmemory,33.901
+MNIST_P93_N27,timeout,3600.01
+MNIST_P10_N18,timeout,3600.004
+MNIST_P26_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1319
+MNIST_P14_N12,MarabouError(Return code: 1),1.4509
+MNIST_P24_N12,MarabouError(Return code: 1),1.406
+MNIST_P22_N42,unsat,20.5047
+MNIST_P8_N48,outofmemory,35.906
+MNIST_P63_N20,outofmemory,17.851
+MNIST_P77_N49,outofmemory,33.979
+MNIST_P47_N12,MarabouError(Return code: 1),1.3867
+MNIST_P21_N38,timeout,3600.005
+MNIST_P72_N48,outofmemory,34.931
+MNIST_P37_N15,timeout,3600.0
+MNIST_P71_N22,MarabouError(Return code: 1),1.3904
+MNIST_P28_N44,timeout,3600.001
+MNIST_P39_N38,timeout,3600.018
+MNIST_P42_N17,outofmemory,54.595
+MNIST_P43_N11,outofmemory,137.197
+MNIST_P4_N48,outofmemory,35.827
+MNIST_P85_N13,timeout,3600.005
+MNIST_P90_N31,unsat,223.5372
+MNIST_P16_N12,MarabouError(Return code: 1),1.3093
+MNIST_P82_N39,timeout,3600.007
+MNIST_P88_N36,unsat,210.866
+MNIST_P91_N1,unsat,30.6021
+MNIST_P29_N19,MarabouError(Return code: 1),3.0627
+MNIST_P15_N14,outofmemory,35.931
+MNIST_P25_N21,MarabouError(Return code: 1),3.3055
+MNIST_P68_N29,unsat,41.297
+MNIST_P82_N38,timeout,3600.009
+MNIST_P91_N31,unsat,217.7826
+MNIST_P23_N14,outofmemory,34.129
+MNIST_P14_N2,outofmemory,115.4
+MNIST_P24_N24,timeout,3600.018
+MNIST_P42_N33,MarabouError(Return code: 1),1.2799
+MNIST_P54_N29,unsat,42.4806
+MNIST_P3_N38,timeout,3600.016
+MNIST_P86_N36,unsat,220.7304
+MNIST_P82_N18,timeout,3600.001
+MNIST_P67_N42,unsat,19.8127
+MNIST_P51_N42,unsat,20.2053
+MNIST_P40_N35,timeout,3600.02
+MNIST_P78_N13,timeout,3600.01
+MNIST_P16_N38,timeout,3600.011
+MNIST_P26_N14,outofmemory,35.06
+MNIST_P61_N29,unsat,40.712
+MNIST_P72_N36,unsat,217.7413
+MNIST_P79_N36,unsat,224.5962
+MNIST_P85_N41,outofmemory,52.982
+MNIST_P28_N12,MarabouError(Return code: 1),1.2373
+MNIST_P17_N20,outofmemory,16.488
+MNIST_P59_N12,MarabouError(Return code: 1),1.3176
+MNIST_P34_N39,timeout,3600.009
+MNIST_P4_N40,unsat,41.0765
+MNIST_P88_N25,unsat,217.9468
+MNIST_P65_N5,timeout,3600.022
+MNIST_P20_N33,MarabouError(Return code: 1),1.3592
+MNIST_P56_N15,timeout,3600.004
+MNIST_P7_N27,timeout,3600.01
+MNIST_P81_N26,timeout,3600.02
+MNIST_P36_N33,MarabouError(Return code: 1),1.3171
+MNIST_P98_N3,outofmemory,11.965
+MNIST_P33_N15,timeout,3600.0
+MNIST_P80_N41,outofmemory,52.49
+MNIST_P56_N42,unsat,17.6242
+MNIST_P13_N26,unsat,10.5844
+MNIST_P87_N21,MarabouError(Return code: 1),3.2793
+MNIST_P45_N10,timeout,3600.01
+MNIST_P18_N36,unsat,221.1164
+MNIST_P23_N40,unsat,43.5802
+MNIST_P31_N9,unsat,239.4192
+MNIST_P68_N18,timeout,3600.011
+MNIST_P85_N36,unsat,219.2953
+MNIST_P32_N5,timeout,3600.005
+MNIST_P22_N39,timeout,3600.011
+MNIST_P21_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1947
+MNIST_P71_N36,unsat,220.9666
+MNIST_P98_N47,outofmemory,42.997
+MNIST_P60_N12,MarabouError(Return code: 1),1.3405
+MNIST_P72_N2,outofmemory,115.317
+MNIST_P17_N35,timeout,3600.012
+MNIST_P53_N15,timeout,3600.012
+MNIST_P83_N15,timeout,3600.022
+MNIST_P42_N22,MarabouError(Return code: 1),1.2089
+MNIST_P94_N1,unsat,31.3745
+MNIST_P84_N7,timeout,3600.007
+MNIST_P98_N41,outofmemory,51.144
+MNIST_P42_N19,MarabouError(Return code: 1),3.2064
+MNIST_P52_N12,MarabouError(Return code: 1),1.323
+MNIST_P43_N35,timeout,3600.011
+MNIST_P94_N4,MarabouError(Return code: 1),3.0746
+MNIST_P38_N24,timeout,3600.006
+MNIST_P75_N9,unsat,237.202
+MNIST_P5_N17,unsat,54.8473
+MNIST_P32_N39,timeout,3600.01
+MNIST_P33_N13,timeout,3600.016
+MNIST_P34_N41,outofmemory,53.662
+MNIST_P40_N41,outofmemory,51.145
+MNIST_P87_N35,timeout,3600.007
+MNIST_P27_N41,outofmemory,51.154
+MNIST_P89_N45,timeout,3600.016
+MNIST_P52_N9,unsat,238.0366
+MNIST_P92_N14,outofmemory,34.871
+MNIST_P29_N7,timeout,3600.014
+MNIST_P95_N2,outofmemory,115.72
+MNIST_P73_N37,unsat,246.1103
+MNIST_P10_N23,unsat,40.8407
+MNIST_P69_N35,unsat,62.9363
+MNIST_P78_N20,outofmemory,16.98
+MNIST_P17_N47,outofmemory,43.461
+MNIST_P43_N10,timeout,3600.003
+MNIST_P97_N45,timeout,3600.004
+MNIST_P21_N1,unsat,31.2825
+MNIST_P62_N16,MarabouError(Return code: 1),0.9806
+MNIST_P97_N22,MarabouError(Return code: 1),1.4138
+MNIST_P89_N47,outofmemory,43.148
+MNIST_P8_N22,MarabouError(Return code: 1),1.3897
+MNIST_P19_N1,unsat,30.531
+MNIST_P48_N14,outofmemory,41.478
+MNIST_P77_N29,unsat,42.0326
+MNIST_P89_N12,MarabouError(Return code: 1),1.2403
+MNIST_P11_N48,outofmemory,34.343
+MNIST_P65_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2088
+MNIST_P69_N2,outofmemory,120.201
+MNIST_P19_N36,unsat,230.9828
+MNIST_P38_N40,unsat,41.7295
+MNIST_P47_N7,timeout,3600.018
+MNIST_P58_N41,outofmemory,51.867
+MNIST_P92_N18,timeout,3600.021
+MNIST_P27_N46,unsat,236.7902
+MNIST_P22_N33,MarabouError(Return code: 1),1.3134
+MNIST_P69_N9,unsat,242.5329
+MNIST_P30_N37,unsat,231.8287
+MNIST_P50_N12,MarabouError(Return code: 1),1.3328
+MNIST_P40_N10,timeout,3600.022
+MNIST_P99_N38,timeout,3600.02
+MNIST_P12_N21,MarabouError(Return code: 1),3.0516
+MNIST_P21_N11,timeout,3600.012
+MNIST_P58_N3,outofmemory,12.39
+MNIST_P59_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1284
+MNIST_P19_N33,MarabouError(Return code: 1),1.331
+MNIST_P93_N3,outofmemory,11.76
+MNIST_P37_N1,unsat,32.0754
+MNIST_P43_N1,timeout,3600.007
+MNIST_P32_N7,timeout,3600.005
+MNIST_P96_N27,timeout,3600.013
+MNIST_P87_N4,MarabouError(Return code: 1),3.032
+MNIST_P97_N7,timeout,3600.018
+MNIST_P9_N45,timeout,3600.019
+MNIST_P69_N1,unsat,30.2887
+MNIST_P66_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.262
+MNIST_P70_N19,MarabouError(Return code: 1),3.1318
+MNIST_P85_N40,unsat,43.1592
+MNIST_P4_N20,outofmemory,18.682
+MNIST_P71_N45,unsat,8.2526
+MNIST_P80_N12,MarabouError(Return code: 1),1.507
+MNIST_P25_N4,MarabouError(Return code: 1),3.1915
+MNIST_P14_N45,timeout,3600.016
+MNIST_P30_N33,MarabouError(Return code: 1),1.3418
+MNIST_P32_N36,unsat,221.7576
+MNIST_P46_N2,outofmemory,118.887
+MNIST_P47_N2,outofmemory,114.836
+MNIST_P17_N22,MarabouError(Return code: 1),1.2682
+MNIST_P21_N40,unsat,41.8323
+MNIST_P12_N41,outofmemory,52.219
+MNIST_P66_N47,outofmemory,44.243
+MNIST_P81_N12,MarabouError(Return code: 1),1.4422
+MNIST_P82_N41,outofmemory,52.696
+MNIST_P18_N24,timeout,3600.007
+MNIST_P45_N26,timeout,3600.003
+MNIST_P49_N38,timeout,3600.03
+MNIST_P95_N49,outofmemory,35.12
+MNIST_P67_N15,timeout,3600.008
+MNIST_P10_N2,outofmemory,114.25
+MNIST_P70_N18,timeout,3600.01
+MNIST_P98_N19,MarabouError(Return code: 1),3.0734
+MNIST_P3_N31,unsat,214.5638
+MNIST_P74_N18,timeout,3600.006
+MNIST_P40_N7,timeout,3600.013
+MNIST_P47_N19,MarabouError(Return code: 1),2.9789
+MNIST_P38_N45,timeout,3600.017
+MNIST_P98_N36,unsat,216.0773
+MNIST_P50_N33,MarabouError(Return code: 1),1.3666
+MNIST_P94_N46,unsat,242.1055
+MNIST_P75_N7,timeout,3600.015
+MNIST_P78_N23,unsat,41.6151
+MNIST_P17_N34,timeout,3600.001
+MNIST_P68_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1301
+MNIST_P53_N5,timeout,3600.011
+MNIST_P95_N27,timeout,3600.018
+MNIST_P50_N41,outofmemory,51.309
+MNIST_P75_N25,unsat,213.1711
+MNIST_P2_N11,timeout,3600.011
+MNIST_P67_N4,MarabouError(Return code: 1),3.0308
+MNIST_P79_N18,timeout,3600.007
+MNIST_P35_N34,timeout,3600.007
+MNIST_P21_N25,unsat,221.5743
+MNIST_P44_N13,timeout,3600.012
+MNIST_P94_N41,outofmemory,51.291
+MNIST_P19_N2,outofmemory,122.336
+MNIST_P94_N12,MarabouError(Return code: 1),1.3186
+MNIST_P27_N17,unsat,53.6516
+MNIST_P56_N3,outofmemory,12.529
+MNIST_P35_N18,timeout,3600.018
+MNIST_P99_N3,outofmemory,12.114
+MNIST_P76_N1,unsat,32.7439
+MNIST_P1_N18,timeout,3600.014
+MNIST_P53_N35,timeout,3600.018
+MNIST_P85_N46,unsat,239.2119
+MNIST_P52_N29,unsat,40.2693
+MNIST_P37_N16,MarabouError(Return code: 1),1.1076
+MNIST_P83_N37,unsat,243.243
+MNIST_P18_N34,timeout,3600.019
+MNIST_P59_N9,unsat,233.829
+MNIST_P12_N22,MarabouError(Return code: 1),1.2917
+MNIST_P71_N37,unsat,248.6466
+MNIST_P41_N17,outofmemory,37.17
+MNIST_P22_N11,timeout,3600.021
+MNIST_P49_N21,MarabouError(Return code: 1),3.2342
+MNIST_P74_N22,MarabouError(Return code: 1),1.4549
+MNIST_P62_N40,unsat,41.8363
+MNIST_P0_N17,unsat,54.3056
+MNIST_P15_N36,unsat,221.2201
+MNIST_P25_N15,timeout,3600.002
+MNIST_P44_N49,outofmemory,36.557
+MNIST_P67_N20,outofmemory,16.483
+MNIST_P13_N31,unsat,221.9964
+MNIST_P74_N12,MarabouError(Return code: 1),1.3412
+MNIST_P21_N3,outofmemory,12.271
+MNIST_P38_N39,outofmemory,116.137
+MNIST_P58_N38,timeout,3600.022
+MNIST_P21_N34,timeout,3600.011
+MNIST_P67_N7,timeout,3600.019
+MNIST_P17_N26,timeout,3600.006
+MNIST_P60_N25,unsat,213.8634
+MNIST_P55_N16,MarabouError(Return code: 1),0.9512
+MNIST_P26_N34,timeout,3600.003
+MNIST_P7_N42,unsat,18.4332
+MNIST_P60_N2,outofmemory,127.61
+MNIST_P47_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.1947
+MNIST_P57_N12,MarabouError(Return code: 1),1.2817
+MNIST_P10_N13,timeout,3600.016
+MNIST_P89_N34,timeout,3600.004
+MNIST_P9_N38,timeout,3600.01
+MNIST_P88_N22,MarabouError(Return code: 1),1.3616
+MNIST_P21_N45,unsat,8.227
+MNIST_P74_N29,unsat,43.0938
+MNIST_P14_N38,timeout,3600.007
+MNIST_P22_N12,MarabouError(Return code: 1),1.3495
+MNIST_P58_N23,unsat,41.0402
+MNIST_P63_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2427
+MNIST_P66_N38,timeout,3600.004
+MNIST_P36_N19,MarabouError(Return code: 1),3.205
+MNIST_P32_N11,timeout,3600.021
+MNIST_P49_N42,unsat,18.4542
+MNIST_P89_N39,outofmemory,252.485
+MNIST_P43_N15,timeout,3600.009
+MNIST_P30_N18,timeout,3600.009
+MNIST_P57_N19,MarabouError(Return code: 1),3.4149
+MNIST_P62_N27,timeout,3600.022
+MNIST_P72_N1,timeout,3600.013
+MNIST_P79_N1,unsat,30.6531
+MNIST_P48_N49,outofmemory,34.404
+MNIST_P39_N45,timeout,3600.021
+MNIST_P97_N5,timeout,3600.01
+MNIST_P58_N20,outofmemory,17.105
+MNIST_P78_N21,MarabouError(Return code: 1),3.2694
+MNIST_P79_N48,outofmemory,36.699
+MNIST_P89_N49,outofmemory,35.812
+MNIST_P52_N19,MarabouError(Return code: 1),3.2426
+MNIST_P29_N4,MarabouError(Return code: 1),2.9407
+MNIST_P33_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.133
+MNIST_P47_N45,timeout,3600.022
+MNIST_P38_N29,unsat,40.984
+MNIST_P70_N27,timeout,3600.015
+MNIST_P67_N18,timeout,3600.016
+MNIST_P1_N13,timeout,3600.02
+MNIST_P27_N38,timeout,3600.001
+MNIST_P42_N21,MarabouError(Return code: 1),3.1101
+MNIST_P69_N23,unsat,41.2265
+MNIST_P93_N49,outofmemory,35.919
+MNIST_P22_N36,unsat,216.9881
+MNIST_P35_N44,timeout,3600.013
+MNIST_P51_N11,timeout,3600.021
+MNIST_P21_N15,timeout,3600.006
+MNIST_P9_N42,unsat,18.9506
+MNIST_P8_N44,timeout,3600.017
+MNIST_P54_N23,unsat,40.8156
+MNIST_P57_N14,outofmemory,35.489
+MNIST_P7_N44,timeout,3600.007
+MNIST_P21_N9,unsat,236.5372
+MNIST_P76_N27,timeout,3600.019
+MNIST_P90_N29,unsat,42.1994
+MNIST_P7_N45,timeout,3600.003
+MNIST_P14_N10,timeout,3600.017
+MNIST_P82_N27,timeout,3600.012
+MNIST_P98_N42,unsat,18.4071
+MNIST_P71_N2,outofmemory,126.845
+MNIST_P84_N48,outofmemory,35.315
+MNIST_P58_N27,timeout,3600.012
+MNIST_P1_N47,outofmemory,47.229
+MNIST_P20_N23,unsat,43.1992
+MNIST_P64_N11,timeout,3600.019
+MNIST_P14_N14,outofmemory,36.656
+MNIST_P70_N14,outofmemory,35.128
+MNIST_P69_N7,timeout,3600.001
+MNIST_P37_N9,unsat,234.7383
+MNIST_P90_N49,outofmemory,38.122
+MNIST_P19_N47,outofmemory,44.133
+MNIST_P47_N10,timeout,3600.008
+MNIST_P66_N40,unsat,41.2669
+MNIST_P4_N13,timeout,3600.011
+MNIST_P4_N14,outofmemory,35.416
+MNIST_P7_N46,unsat,238.1417
+MNIST_P9_N7,timeout,3600.016
+MNIST_P39_N46,unsat,232.8569
+MNIST_P53_N48,outofmemory,35.988
+MNIST_P96_N10,timeout,3600.003
+MNIST_P53_N12,MarabouError(Return code: 1),1.4068
+MNIST_P96_N24,timeout,3600.021
+MNIST_P5_N36,unsat,209.9637
+MNIST_P52_N20,outofmemory,16.332
+MNIST_P33_N35,timeout,3600.001
+MNIST_P44_N7,timeout,3600.014
+MNIST_P28_N33,MarabouError(Return code: 1),1.2803
+MNIST_P40_N49,outofmemory,34.326
+MNIST_P67_N41,outofmemory,51.702
+MNIST_P79_N10,timeout,3600.013
+MNIST_P57_N42,unsat,18.1865
+MNIST_P57_N9,unsat,244.8439
+MNIST_P66_N21,MarabouError(Return code: 1),3.0713
+MNIST_P67_N36,unsat,215.3163
+MNIST_P19_N45,timeout,3600.017
+MNIST_P76_N29,unsat,40.9053
+MNIST_P39_N41,outofmemory,51.63
+MNIST_P3_N7,timeout,3600.013
+MNIST_P91_N41,outofmemory,53.047
+MNIST_P94_N19,MarabouError(Return code: 1),2.9847
+MNIST_P93_N47,outofmemory,43.484
+MNIST_P12_N2,outofmemory,117.626
+MNIST_P51_N10,timeout,3600.019
+MNIST_P63_N22,MarabouError(Return code: 1),1.3619
+MNIST_P55_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.1991
+MNIST_P20_N49,outofmemory,33.875
+MNIST_P5_N16,MarabouError(Return code: 1),0.9821
+MNIST_P68_N26,unsat,10.4572
+MNIST_P93_N42,unsat,17.8781
+MNIST_P81_N42,unsat,19.0197
+MNIST_P98_N26,timeout,3600.016
+MNIST_P51_N9,unsat,238.0995
+MNIST_P91_N38,timeout,3600.02
+MNIST_P52_N11,timeout,3600.018
+MNIST_P66_N46,unsat,251.837
+MNIST_P93_N7,timeout,3600.018
+MNIST_P46_N46,unsat,241.4648
+MNIST_P61_N19,MarabouError(Return code: 1),3.1126
+MNIST_P30_N24,timeout,3600.017
+MNIST_P59_N14,outofmemory,35.236
+MNIST_P60_N26,unsat,10.71
+MNIST_P52_N23,unsat,43.2329
+MNIST_P11_N1,unsat,31.6099
+MNIST_P97_N21,MarabouError(Return code: 1),3.2838
+MNIST_P87_N22,MarabouError(Return code: 1),1.3177
+MNIST_P51_N13,timeout,3600.0
+MNIST_P11_N3,outofmemory,13.004
+MNIST_P45_N25,unsat,218.5045
+MNIST_P95_N38,timeout,3600.019
+MNIST_P60_N45,unsat,8.0808
+MNIST_P81_N46,unsat,243.6642
+MNIST_P96_N18,timeout,3600.022
+MNIST_P66_N42,unsat,18.6623
+MNIST_P56_N4,MarabouError(Return code: 1),3.2471
+MNIST_P46_N27,timeout,3600.011
+MNIST_P2_N19,MarabouError(Return code: 1),3.5787
+MNIST_P9_N18,timeout,3600.007
+MNIST_P81_N31,unsat,218.1517
+MNIST_P54_N21,MarabouError(Return code: 1),2.966
+MNIST_P10_N9,unsat,239.929
+MNIST_P14_N26,timeout,3600.021
+MNIST_P8_N46,unsat,235.5419
+MNIST_P31_N36,unsat,224.243
+MNIST_P20_N41,outofmemory,52.476
+MNIST_P23_N5,timeout,3600.019
+MNIST_P5_N21,MarabouError(Return code: 1),3.0612
+MNIST_P37_N47,outofmemory,43.61
+MNIST_P52_N41,outofmemory,50.665
+MNIST_P44_N47,outofmemory,46.037
+MNIST_P5_N12,MarabouError(Return code: 1),1.3165
+MNIST_P36_N7,timeout,3600.01
+MNIST_P55_N15,timeout,3600.02
+MNIST_P15_N20,outofmemory,17.256
+MNIST_P36_N11,timeout,3600.008
+MNIST_P67_N1,unsat,32.1987
+MNIST_P36_N42,unsat,18.487
+MNIST_P76_N31,unsat,217.8979
+MNIST_P33_N3,outofmemory,12.43
+MNIST_P56_N25,unsat,222.8361
+MNIST_P30_N40,unsat,43.2647
+MNIST_P64_N3,outofmemory,12.083
+MNIST_P81_N24,timeout,3600.008
+MNIST_P10_N19,MarabouError(Return code: 1),3.0996
+MNIST_P66_N18,timeout,3600.019
+MNIST_P96_N38,outofmemory,557.744
+MNIST_P27_N1,unsat,30.5658
+MNIST_P38_N18,timeout,3600.011
+MNIST_P75_N36,unsat,212.1247
+MNIST_P97_N29,unsat,41.2856
+MNIST_P70_N47,outofmemory,42.841
+MNIST_P14_N11,timeout,3600.019
+MNIST_P33_N11,outofmemory,109.415
+MNIST_P64_N31,unsat,216.6173
+MNIST_P71_N34,unsat,11.9272
+MNIST_P35_N11,timeout,3600.01
+MNIST_P31_N17,unsat,54.1519
+MNIST_P84_N19,MarabouError(Return code: 1),3.0273
+MNIST_P81_N36,unsat,231.5553
+MNIST_P35_N22,MarabouError(Return code: 1),1.2901
+MNIST_P39_N26,timeout,3600.019
+MNIST_P46_N23,unsat,41.9249
+MNIST_P90_N17,unsat,54.6892
+MNIST_P40_N44,timeout,3600.004
+MNIST_P48_N24,timeout,3600.014
+MNIST_P22_N35,timeout,3600.017
+MNIST_P93_N41,outofmemory,51.759
+MNIST_P7_N16,MarabouError(Return code: 1),1.076
+MNIST_P25_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.2667
+MNIST_P73_N19,MarabouError(Return code: 1),3.1686
+MNIST_P97_N16,MarabouError(Return code: 1),0.9192
+MNIST_P7_N7,timeout,3600.01
+MNIST_P49_N2,outofmemory,123.929
+MNIST_P40_N13,timeout,3600.015
+MNIST_P44_N10,timeout,3600.007
+MNIST_P69_N3,outofmemory,12.106
+MNIST_P71_N11,timeout,3600.017
+MNIST_P31_N2,outofmemory,112.18
+MNIST_P99_N31,unsat,229.83
+MNIST_P32_N23,unsat,40.721
+MNIST_P8_N1,timeout,3600.004
+MNIST_P96_N22,MarabouError(Return code: 1),1.3332
+MNIST_P96_N20,outofmemory,16.884
+MNIST_P39_N15,timeout,3600.002
+MNIST_P59_N15,timeout,3600.021
+MNIST_P70_N7,timeout,3600.011
+MNIST_P61_N41,outofmemory,52.295
+MNIST_P99_N23,unsat,40.7578
+MNIST_P99_N34,timeout,3600.021
+MNIST_P49_N25,unsat,214.2352
+MNIST_P91_N3,outofmemory,12.334
+MNIST_P87_N27,timeout,3600.007
+MNIST_P94_N36,unsat,218.1776
+MNIST_P84_N40,unsat,41.2265
+MNIST_P53_N18,timeout,3600.0
+MNIST_P34_N17,unsat,55.1134
+MNIST_P54_N44,timeout,3600.001
+MNIST_P28_N11,timeout,3600.021
+MNIST_P39_N16,MarabouError(Return code: 1),1.0829
+MNIST_P46_N9,unsat,238.7037
+MNIST_P19_N5,timeout,3600.006
+MNIST_P59_N10,timeout,3600.002
+MNIST_P86_N18,timeout,3600.016
+MNIST_P95_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1796
+MNIST_P31_N45,timeout,3600.002
+MNIST_P85_N9,unsat,240.6478
+MNIST_P84_N41,outofmemory,51.573
+MNIST_P61_N5,timeout,3600.007
+MNIST_P20_N9,unsat,234.8064
+MNIST_P36_N9,unsat,247.8036
+MNIST_P76_N4,MarabouError(Return code: 1),3.0676
+MNIST_P33_N39,outofmemory,88.554
+MNIST_P42_N7,timeout,3600.009
+MNIST_P53_N40,unsat,42.1772
+MNIST_P30_N14,outofmemory,36.208
+MNIST_P44_N33,MarabouError(Return code: 1),1.263
+MNIST_P37_N17,unsat,54.0412
+MNIST_P27_N47,outofmemory,42.837
+MNIST_P59_N37,unsat,241.2458
+MNIST_P70_N15,timeout,3600.008
+MNIST_P75_N39,timeout,3600.008
+MNIST_P37_N36,unsat,217.7826
+MNIST_P10_N33,MarabouError(Return code: 1),1.3401
+MNIST_P14_N18,timeout,3600.001
+MNIST_P22_N2,outofmemory,118.645
+MNIST_P55_N9,unsat,234.0243
+MNIST_P73_N18,timeout,3600.002
+MNIST_P89_N36,unsat,220.1616
+MNIST_P33_N21,MarabouError(Return code: 1),2.9907
+MNIST_P44_N9,unsat,232.3185
+MNIST_P69_N48,outofmemory,36.944
+MNIST_P1_N16,MarabouError(Return code: 1),1.0479
+MNIST_P82_N9,unsat,241.7542
+MNIST_P92_N9,unsat,236.7369
+MNIST_P79_N11,timeout,3600.004
+MNIST_P23_N22,MarabouError(Return code: 1),1.3657
+MNIST_P66_N3,outofmemory,12.236
+MNIST_P30_N38,timeout,3600.013
+MNIST_P74_N42,unsat,19.7732
+MNIST_P38_N1,timeout,3600.021
+MNIST_P35_N9,unsat,250.5233
+MNIST_P37_N41,outofmemory,51.313
+MNIST_P19_N3,outofmemory,12.133
+MNIST_P60_N41,outofmemory,50.781
+MNIST_P13_N19,MarabouError(Return code: 1),3.1249
+MNIST_P31_N10,timeout,3600.019
+MNIST_P67_N49,outofmemory,35.039
+MNIST_P78_N12,MarabouError(Return code: 1),1.468
+MNIST_P80_N11,timeout,3600.017
+MNIST_P96_N9,unsat,249.5459
+MNIST_P11_N49,outofmemory,36.06
+MNIST_P91_N17,unsat,54.2464
+MNIST_P4_N41,outofmemory,52.051
+MNIST_P74_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.2507
+MNIST_P66_N9,unsat,231.7148
+MNIST_P80_N14,outofmemory,34.678
+MNIST_P57_N1,unsat,31.217
+MNIST_P60_N20,outofmemory,17.946
+MNIST_P38_N34,timeout,3600.021
+MNIST_P18_N31,unsat,221.5283
+MNIST_P50_N25,unsat,212.3081
+MNIST_P29_N9,unsat,254.3807
+MNIST_P84_N37,unsat,236.2418
+MNIST_P11_N33,MarabouError(Return code: 1),1.2826
+MNIST_P25_N11,timeout,3600.005
+MNIST_P0_N19,MarabouError(Return code: 1),3.7019
+MNIST_P37_N21,MarabouError(Return code: 1),3.0755
+MNIST_P36_N21,MarabouError(Return code: 1),3.1588
+MNIST_P91_N39,timeout,3600.021
+MNIST_P88_N46,unsat,238.471
+MNIST_P37_N10,timeout,3600.005
+MNIST_P58_N12,MarabouError(Return code: 1),1.3657
+MNIST_P21_N27,timeout,3600.015
+MNIST_P68_N10,timeout,3600.018
+MNIST_P92_N23,unsat,40.839
+MNIST_P84_N1,timeout,3600.012
+MNIST_P77_N48,outofmemory,35.915
+MNIST_P8_N17,outofmemory,13.012
+MNIST_P52_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1764
+MNIST_P61_N7,outofmemory,239.018
+MNIST_P92_N42,unsat,19.5213
+MNIST_P84_N39,timeout,3600.01
+MNIST_P19_N34,timeout,3600.019
+MNIST_P30_N46,unsat,241.5638
+MNIST_P81_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1695
+MNIST_P76_N22,MarabouError(Return code: 1),1.4025
+MNIST_P99_N35,timeout,3600.018
+MNIST_P66_N31,unsat,223.9069
+MNIST_P74_N10,timeout,3600.017
+MNIST_P71_N16,MarabouError(Return code: 1),0.9424
+MNIST_P34_N38,timeout,3600.007
+MNIST_P95_N34,timeout,3600.005
+MNIST_P25_N19,MarabouError(Return code: 1),3.0216
+MNIST_P80_N40,unsat,41.6558
+MNIST_P71_N35,unsat,63.8938
+MNIST_P87_N33,MarabouError(Return code: 1),1.3774
+MNIST_P96_N12,MarabouError(Return code: 1),1.3266
+MNIST_P78_N1,timeout,3600.021
+MNIST_P34_N31,unsat,213.4917
+MNIST_P89_N22,MarabouError(Return code: 1),1.3047
+MNIST_P19_N17,unsat,54.2292
+MNIST_P73_N12,MarabouError(Return code: 1),1.316
+MNIST_P37_N12,MarabouError(Return code: 1),1.3567
+MNIST_P86_N17,unsat,55.1822
+MNIST_P2_N33,MarabouError(Return code: 1),1.3587
+MNIST_P97_N38,timeout,3600.012
+MNIST_P24_N42,unsat,18.0478
+MNIST_P6_N7,timeout,3600.017
+MNIST_P22_N16,MarabouError(Return code: 1),0.963
+MNIST_P36_N17,unsat,53.564
+MNIST_P88_N47,outofmemory,48.879
+MNIST_P1_N17,unsat,54.3806
+MNIST_P2_N17,unsat,54.029
+MNIST_P39_N49,outofmemory,38.187
+MNIST_P58_N16,MarabouError(Return code: 1),1.0095
+MNIST_P4_N19,MarabouError(Return code: 1),3.0354
+MNIST_P11_N26,timeout,3600.006
+MNIST_P80_N26,timeout,3600.001
+MNIST_P80_N33,MarabouError(Return code: 1),1.3398
+MNIST_P82_N17,unsat,53.58
+MNIST_P24_N22,MarabouError(Return code: 1),1.3131
+MNIST_P48_N11,timeout,3600.0
+MNIST_P50_N21,MarabouError(Return code: 1),3.1454
+MNIST_P10_N31,unsat,224.6591
+MNIST_P98_N23,unsat,41.4996
+MNIST_P21_N49,outofmemory,35.753
+MNIST_P45_N7,timeout,3600.017
+MNIST_P76_N44,timeout,3600.011
+MNIST_P36_N2,outofmemory,120.707
+MNIST_P12_N17,unsat,54.1716
+MNIST_P44_N16,MarabouError(Return code: 1),1.0373
+MNIST_P73_N25,unsat,215.0955
+MNIST_P84_N3,outofmemory,11.636
+MNIST_P3_N46,unsat,238.7253
+MNIST_P75_N29,unsat,41.6256
+MNIST_P83_N21,MarabouError(Return code: 1),3.18
+MNIST_P88_N9,unsat,237.2298
+MNIST_P39_N34,timeout,3600.016
+MNIST_P49_N39,timeout,3600.007
+MNIST_P64_N18,timeout,3600.017
+MNIST_P32_N48,outofmemory,34.439
+MNIST_P45_N35,timeout,3600.011
+MNIST_P32_N18,timeout,3600.0
+MNIST_P63_N10,timeout,3600.008
+MNIST_P10_N42,unsat,19.9955
+MNIST_P32_N38,timeout,3600.016
+MNIST_P44_N14,outofmemory,35.085
+MNIST_P49_N17,unsat,54.0721
+MNIST_P69_N18,timeout,3600.002
+MNIST_P69_N39,timeout,3600.022
+MNIST_P69_N33,MarabouError(Return code: 1),1.3776
+MNIST_P22_N5,timeout,3600.017
+MNIST_P32_N41,outofmemory,51.167
+MNIST_P52_N36,unsat,214.9035
+MNIST_P33_N14,outofmemory,34.119
+MNIST_P2_N40,unsat,42.321
+MNIST_P29_N21,MarabouError(Return code: 1),3.3034
+MNIST_P88_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1318
+MNIST_P52_N4,MarabouError(Return code: 1),3.3963
+MNIST_P76_N46,unsat,244.4237
+MNIST_P8_N10,timeout,3600.004
+MNIST_P26_N33,MarabouError(Return code: 1),1.2622
+MNIST_P33_N5,timeout,3600.008
+MNIST_P8_N31,unsat,218.5126
+MNIST_P39_N48,outofmemory,33.727
+MNIST_P43_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.1941
+MNIST_P50_N35,timeout,3600.011
+MNIST_P49_N14,outofmemory,35.741
+MNIST_P17_N37,unsat,236.6609
+MNIST_P73_N14,outofmemory,37.5
+MNIST_P20_N4,MarabouError(Return code: 1),3.1875
+MNIST_P50_N38,timeout,3600.007
+MNIST_P65_N25,unsat,212.9436
+MNIST_P8_N14,outofmemory,41.072
+MNIST_P24_N21,MarabouError(Return code: 1),3.1413
+MNIST_P33_N33,MarabouError(Return code: 1),1.4543
+MNIST_P92_N46,unsat,239.1356
+MNIST_P34_N49,outofmemory,39.813
+MNIST_P92_N40,unsat,43.2364
+MNIST_P69_N31,unsat,221.3193
+MNIST_P44_N21,MarabouError(Return code: 1),3.1721
+MNIST_P96_N21,MarabouError(Return code: 1),3.0989
+MNIST_P74_N35,timeout,3600.018
+MNIST_P4_N37,unsat,236.3496
+MNIST_P64_N19,MarabouError(Return code: 1),3.3763
+MNIST_P29_N18,timeout,3600.016
+MNIST_P44_N12,MarabouError(Return code: 1),1.2991
+MNIST_P16_N1,unsat,30.6113
+MNIST_P85_N26,timeout,3600.022
+MNIST_P76_N20,outofmemory,17.988
+MNIST_P66_N36,unsat,215.9943
+MNIST_P2_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.3018
+MNIST_P60_N13,timeout,3600.002
+MNIST_P20_N34,timeout,3600.002
+MNIST_P56_N1,unsat,31.1046
+MNIST_P31_N1,unsat,31.0541
+MNIST_P10_N21,MarabouError(Return code: 1),3.3871
+MNIST_P56_N12,MarabouError(Return code: 1),1.3306
+MNIST_P96_N2,outofmemory,123.912
+MNIST_P44_N22,MarabouError(Return code: 1),1.3061
+MNIST_P92_N36,unsat,224.0587
+MNIST_P20_N17,unsat,53.8481
+MNIST_P37_N49,outofmemory,34.584
+MNIST_P55_N40,unsat,41.5294
+MNIST_P21_N24,timeout,3600.017
+MNIST_P76_N45,timeout,3600.019
+MNIST_P83_N44,timeout,3600.014
+MNIST_P60_N38,timeout,3600.017
+MNIST_P49_N23,unsat,40.532
+MNIST_P61_N47,outofmemory,44.615
+MNIST_P79_N5,timeout,3600.022
+MNIST_P91_N18,timeout,3600.013
+MNIST_P59_N11,timeout,3600.001
+MNIST_P28_N16,MarabouError(Return code: 1),1.0491
+MNIST_P18_N2,outofmemory,122.346
+MNIST_P1_N22,MarabouError(Return code: 1),1.312
+MNIST_P41_N4,MarabouError(Return code: 1),3.288
+MNIST_P42_N26,timeout,3600.007
+MNIST_P90_N3,outofmemory,11.978
+MNIST_P84_N16,MarabouError(Return code: 1),1.0836
+MNIST_P57_N13,timeout,3600.009
+MNIST_P65_N34,timeout,3600.016
+MNIST_P18_N46,unsat,244.0467
+MNIST_P17_N33,MarabouError(Return code: 1),1.265
+MNIST_P59_N3,outofmemory,11.508
+MNIST_P66_N34,timeout,3600.007
+MNIST_P94_N5,timeout,3600.018
+MNIST_P76_N9,unsat,239.9351
+MNIST_P94_N10,timeout,3600.019
+MNIST_P26_N4,MarabouError(Return code: 1),3.0426
+MNIST_P34_N40,unsat,41.3245
+MNIST_P45_N16,MarabouError(Return code: 1),0.9778
+MNIST_P57_N38,outofmemory,424.038
+MNIST_P75_N27,timeout,3600.016
+MNIST_P81_N23,unsat,41.7201
+MNIST_P68_N12,MarabouError(Return code: 1),1.3842
+MNIST_P87_N18,timeout,3600.002
+MNIST_P77_N38,outofmemory,536.776
+MNIST_P43_N24,timeout,3600.017
+MNIST_P1_N12,MarabouError(Return code: 1),1.3592
+MNIST_P47_N44,timeout,3600.048
+MNIST_P66_N5,timeout,3600.019
+MNIST_P14_N49,outofmemory,37.215
+MNIST_P35_N2,outofmemory,112.508
+MNIST_P59_N25,unsat,211.7804
+MNIST_P9_N10,timeout,3600.002
+MNIST_P63_N13,timeout,3600.006
+MNIST_P17_N17,unsat,54.5778
+MNIST_P52_N39,timeout,3600.009
+MNIST_P94_N47,outofmemory,44.596
+MNIST_P55_N47,outofmemory,42.796
+MNIST_P3_N41,outofmemory,51.471
+MNIST_P15_N35,timeout,3600.001
+MNIST_P32_N47,outofmemory,44.17
+MNIST_P8_N38,outofmemory,390.989
+MNIST_P11_N17,unsat,55.2955
+MNIST_P5_N23,unsat,42.6889
+MNIST_P15_N2,outofmemory,116.466
+MNIST_P31_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.1947
+MNIST_P60_N18,timeout,3600.006
+MNIST_P4_N21,MarabouError(Return code: 1),3.0691
+MNIST_P34_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2598
+MNIST_P44_N23,unsat,41.3969
+MNIST_P46_N5,timeout,3600.006
+MNIST_P53_N20,outofmemory,18.251
+MNIST_P5_N34,timeout,3600.014
+MNIST_P41_N47,outofmemory,44.109
+MNIST_P85_N27,timeout,3600.01
+MNIST_P49_N19,MarabouError(Return code: 1),2.9984
+MNIST_P62_N29,unsat,42.1959
+MNIST_P61_N39,timeout,3600.008
+MNIST_P31_N39,outofmemory,287.455
+MNIST_P22_N17,outofmemory,43.522
+MNIST_P24_N35,timeout,3600.017
+MNIST_P65_N47,outofmemory,44.388
+MNIST_P35_N31,unsat,216.2088
+MNIST_P87_N45,unsat,8.2745
+MNIST_P98_N27,timeout,3600.018
+MNIST_P21_N31,unsat,222.2294
+MNIST_P53_N36,unsat,212.0138
+MNIST_P9_N14,outofmemory,34.832
+MNIST_P14_N39,timeout,3600.014
+MNIST_P95_N1,timeout,3600.004
+MNIST_P29_N22,MarabouError(Return code: 1),1.3294
+MNIST_P23_N21,MarabouError(Return code: 1),3.4727
+MNIST_P29_N47,outofmemory,44.961
+MNIST_P22_N31,unsat,217.892
+MNIST_P40_N17,unsat,53.9599
+MNIST_P6_N46,unsat,236.7054
+MNIST_P98_N49,outofmemory,34.977
+MNIST_P9_N4,MarabouError(Return code: 1),3.3399
+MNIST_P74_N39,timeout,3600.001
+MNIST_P81_N3,outofmemory,12.113
+MNIST_P47_N23,unsat,41.2998
+MNIST_P4_N33,MarabouError(Return code: 1),1.291
+MNIST_P86_N27,timeout,3600.02
+MNIST_P68_N5,timeout,3600.021
+MNIST_P16_N16,MarabouError(Return code: 1),1.0116
+MNIST_P24_N46,unsat,243.8174
+MNIST_P34_N26,timeout,3600.02
+MNIST_P67_N9,unsat,239.9623
+MNIST_P71_N40,unsat,40.7013
+MNIST_P41_N10,timeout,3600.006
+MNIST_P59_N46,unsat,240.1531
+MNIST_P13_N40,unsat,41.866
+MNIST_P26_N22,MarabouError(Return code: 1),1.3139
+MNIST_P41_N46,unsat,240.1471
+MNIST_P56_N9,unsat,233.1894
+MNIST_P20_N24,timeout,3600.01
+MNIST_P90_N1,unsat,31.6676
+MNIST_P87_N7,timeout,3600.017
+MNIST_P1_N45,timeout,3600.002
+MNIST_P12_N27,timeout,3600.012
+MNIST_P43_N49,outofmemory,37.143
+MNIST_P36_N49,outofmemory,34.455
+MNIST_P58_N44,timeout,3600.019
+MNIST_P22_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1358
+MNIST_P86_N9,unsat,234.5616
+MNIST_P25_N1,unsat,30.6025
+MNIST_P41_N18,timeout,3600.007
+MNIST_P30_N42,unsat,17.916
+MNIST_P48_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2438
+MNIST_P56_N33,MarabouError(Return code: 1),1.2807
+MNIST_P63_N46,unsat,245.4366
+MNIST_P64_N39,timeout,3600.021
+MNIST_P60_N21,MarabouError(Return code: 1),3.0327
+MNIST_P94_N49,outofmemory,33.952
+MNIST_P79_N20,outofmemory,16.826
+MNIST_P60_N17,unsat,54.8061
+MNIST_P21_N33,MarabouError(Return code: 1),1.5054
+MNIST_P18_N44,timeout,3600.015
+MNIST_P41_N15,timeout,3600.002
+MNIST_P57_N35,timeout,3600.001
+MNIST_P72_N45,timeout,3600.007
+MNIST_P2_N5,timeout,3600.017
+MNIST_P8_N33,MarabouError(Return code: 1),1.2931
+MNIST_P35_N3,outofmemory,11.705
+MNIST_P83_N17,unsat,55.68
+MNIST_P95_N5,timeout,3600.012
+MNIST_P92_N13,timeout,3600.009
+MNIST_P89_N24,timeout,3600.007
+MNIST_P9_N41,outofmemory,52.985
+MNIST_P86_N49,outofmemory,33.95
+MNIST_P9_N26,timeout,3600.022
+MNIST_P7_N41,outofmemory,52.966
+MNIST_P88_N1,unsat,31.0073
+MNIST_P61_N21,MarabouError(Return code: 1),3.0475
+MNIST_P24_N37,unsat,244.4847
+MNIST_P42_N1,unsat,31.7018
+MNIST_P79_N19,MarabouError(Return code: 1),3.1286
+MNIST_P35_N19,MarabouError(Return code: 1),3.6192
+MNIST_P38_N22,MarabouError(Return code: 1),1.3424
+MNIST_P78_N34,timeout,3600.016
+MNIST_P90_N24,timeout,3600.019
+MNIST_P87_N9,unsat,241.6209
+MNIST_P39_N3,outofmemory,11.779
+MNIST_P45_N42,unsat,18.369
+MNIST_P16_N23,unsat,42.6262
+MNIST_P62_N1,timeout,3600.019
+MNIST_P11_N25,unsat,216.542
+MNIST_P27_N21,MarabouError(Return code: 1),3.2822
+MNIST_P24_N10,timeout,3600.001
+MNIST_P40_N18,timeout,3600.004
+MNIST_P17_N2,outofmemory,118.612
+MNIST_P8_N25,unsat,213.3279
+MNIST_P91_N45,unsat,8.1234
+MNIST_P53_N37,unsat,240.3994
+MNIST_P92_N22,MarabouError(Return code: 1),1.4117
+MNIST_P45_N45,timeout,3600.008
+MNIST_P65_N20,outofmemory,17.089
+MNIST_P61_N40,unsat,41.3583
+MNIST_P32_N35,timeout,3600.017
+MNIST_P3_N45,unsat,8.5017
+MNIST_P78_N16,MarabouError(Return code: 1),1.0325
+MNIST_P1_N9,unsat,245.0297
+MNIST_P17_N3,outofmemory,12.261
+MNIST_P45_N23,unsat,42.3534
+MNIST_P98_N17,unsat,55.0072
+MNIST_P99_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1369
+MNIST_P79_N14,outofmemory,34.916
+MNIST_P26_N29,unsat,42.8352
+MNIST_P57_N46,unsat,245.9609
+MNIST_P76_N12,MarabouError(Return code: 1),1.3443
+MNIST_P64_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1536
+MNIST_P12_N36,unsat,226.3109
+MNIST_P15_N46,unsat,241.6767
+MNIST_P84_N33,MarabouError(Return code: 1),1.403
+MNIST_P45_N49,outofmemory,35.549
+MNIST_P9_N5,timeout,3600.019
+MNIST_P45_N13,timeout,3600.014
+MNIST_P33_N31,unsat,220.0529
+MNIST_P89_N4,MarabouError(Return code: 1),3.3236
+MNIST_P24_N40,unsat,42.9048
+MNIST_P43_N17,outofmemory,13.397
+MNIST_P12_N37,unsat,239.0235
+MNIST_P92_N10,timeout,3600.006
+MNIST_P6_N18,timeout,3600.021
+MNIST_P22_N41,outofmemory,52.175
+MNIST_P45_N48,outofmemory,34.581
+MNIST_P83_N2,outofmemory,115.26
+MNIST_P21_N20,outofmemory,16.542
+MNIST_P62_N45,timeout,3600.004
+MNIST_P69_N38,timeout,3600.016
+MNIST_P74_N34,timeout,3600.014
+MNIST_P98_N33,MarabouError(Return code: 1),1.258
+MNIST_P14_N5,timeout,3600.02
+MNIST_P42_N20,outofmemory,16.95
+MNIST_P73_N40,unsat,41.2946
+MNIST_P38_N38,outofmemory,181.079
+MNIST_P89_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.2563
+MNIST_P1_N31,unsat,216.2513
+MNIST_P48_N13,timeout,3600.007
+MNIST_P51_N17,unsat,54.2059
+MNIST_P11_N20,outofmemory,17.733
+MNIST_P86_N48,outofmemory,36.572
+MNIST_P53_N17,unsat,54.1872
+MNIST_P15_N45,timeout,3600.013
+MNIST_P86_N35,timeout,3600.006
+MNIST_P90_N20,outofmemory,17.109
+MNIST_P37_N46,unsat,245.7805
+MNIST_P34_N14,outofmemory,34.44
+MNIST_P36_N45,timeout,3600.007
+MNIST_P93_N22,MarabouError(Return code: 1),1.3036
+MNIST_P59_N40,unsat,41.3362
+MNIST_P54_N45,unsat,8.1462
+MNIST_P45_N9,unsat,243.1263
+MNIST_P66_N27,timeout,3600.006
+MNIST_P31_N47,outofmemory,43.235
+MNIST_P32_N31,unsat,218.9296
+MNIST_P50_N9,unsat,242.1645
+MNIST_P93_N33,MarabouError(Return code: 1),1.2901
+MNIST_P86_N45,unsat,8.3709
+MNIST_P82_N21,MarabouError(Return code: 1),3.2269
+MNIST_P60_N42,unsat,18.3823
+MNIST_P42_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2087
+MNIST_P97_N3,outofmemory,12.242
+MNIST_P29_N16,MarabouError(Return code: 1),1.0957
+MNIST_P4_N34,timeout,3600.002
+MNIST_P16_N24,timeout,3600.014
+MNIST_P73_N44,timeout,3600.021
+MNIST_P78_N47,outofmemory,43.406
+MNIST_P14_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.195
+MNIST_P60_N3,outofmemory,17.72
+MNIST_P78_N4,MarabouError(Return code: 1),3.3009
+MNIST_P94_N33,MarabouError(Return code: 1),1.3499
+MNIST_P27_N22,MarabouError(Return code: 1),1.3325
+MNIST_P77_N2,outofmemory,112.274
+MNIST_P70_N34,timeout,3600.012
+MNIST_P86_N20,outofmemory,16.99
+MNIST_P50_N15,timeout,3600.019
+MNIST_P43_N25,unsat,222.1673
+MNIST_P72_N39,timeout,3600.001
+MNIST_P43_N45,timeout,3600.011
+MNIST_P19_N18,timeout,3600.024
+MNIST_P46_N47,outofmemory,44.317
+MNIST_P58_N19,MarabouError(Return code: 1),3.2044
+MNIST_P84_N17,unsat,53.9867
+MNIST_P88_N19,MarabouError(Return code: 1),3.042
+MNIST_P24_N13,timeout,3600.014
+MNIST_P11_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1333
+MNIST_P22_N47,outofmemory,43.462
+MNIST_P45_N37,unsat,239.6504
+MNIST_P98_N35,timeout,3600.013
+MNIST_P41_N40,unsat,41.8223
+MNIST_P37_N5,timeout,3600.02
+MNIST_P81_N9,unsat,231.6261
+MNIST_P57_N15,timeout,3600.023
+MNIST_P28_N34,timeout,3600.019
+MNIST_P96_N5,timeout,3600.021
+MNIST_P3_N14,outofmemory,35.335
+MNIST_P54_N17,unsat,54.1319
+MNIST_P30_N25,unsat,217.4418
+MNIST_P12_N23,unsat,43.3098
+MNIST_P70_N37,unsat,239.4687
+MNIST_P11_N46,unsat,237.3719
+MNIST_P73_N13,timeout,3600.005
+MNIST_P98_N2,outofmemory,119.484
+MNIST_P23_N35,timeout,3600.008
+MNIST_P59_N26,timeout,3600.005
+MNIST_P9_N9,unsat,238.4852
+MNIST_P28_N22,MarabouError(Return code: 1),1.3577
+MNIST_P17_N36,unsat,219.6362
+MNIST_P99_N48,outofmemory,35.361
+MNIST_P31_N37,unsat,239.4155
+MNIST_P42_N10,timeout,3600.001
+MNIST_P95_N14,outofmemory,34.704
+MNIST_P54_N2,outofmemory,137.719
+MNIST_P8_N15,timeout,3600.016
+MNIST_P49_N24,timeout,3600.018
+MNIST_P34_N35,timeout,3600.0
+MNIST_P80_N42,unsat,17.8118
+MNIST_P87_N1,timeout,3600.005
+MNIST_P9_N49,outofmemory,36.31
+MNIST_P36_N15,timeout,3600.008
+MNIST_P85_N23,unsat,41.4701
+MNIST_P28_N47,outofmemory,42.093
+MNIST_P51_N3,outofmemory,12.154
+MNIST_P20_N39,timeout,3600.01
+MNIST_P41_N5,timeout,3600.015
+MNIST_P29_N37,unsat,240.6542
+MNIST_P1_N21,MarabouError(Return code: 1),3.0125
+MNIST_P47_N49,outofmemory,34.636
+MNIST_P91_N7,timeout,3600.012
+MNIST_P94_N14,outofmemory,35.114
+MNIST_P97_N12,MarabouError(Return code: 1),1.2631
+MNIST_P34_N25,unsat,214.2892
+MNIST_P61_N20,outofmemory,17.454
+MNIST_P50_N24,timeout,3600.018
+MNIST_P35_N49,outofmemory,34.849
+MNIST_P71_N49,outofmemory,36.043
+MNIST_P98_N1,timeout,3600.008
+MNIST_P82_N13,unsat,25.9609
+MNIST_P58_N25,unsat,219.7248
+MNIST_P64_N25,unsat,213.3356
+MNIST_P22_N45,unsat,8.2774
+MNIST_P77_N13,timeout,3600.021
+MNIST_P2_N10,timeout,3600.007
+MNIST_P29_N13,timeout,3600.015
+MNIST_P67_N5,timeout,3600.008
+MNIST_P12_N4,MarabouError(Return code: 1),3.3012
+MNIST_P78_N2,outofmemory,116.203
+MNIST_P78_N7,timeout,3600.013
+MNIST_P61_N9,unsat,241.4931
+MNIST_P19_N39,timeout,3600.005
+MNIST_P23_N3,outofmemory,12.349
+MNIST_P63_N35,timeout,3600.009
+MNIST_P74_N24,timeout,3600.004
+MNIST_P79_N42,unsat,18.3934
+MNIST_P89_N3,outofmemory,11.492
+MNIST_P41_N25,unsat,218.8803
+MNIST_P91_N40,unsat,41.516
+MNIST_P48_N20,outofmemory,16.981
+MNIST_P65_N29,unsat,41.3093
+MNIST_P10_N5,timeout,3600.021
+MNIST_P52_N7,timeout,3600.007
+MNIST_P61_N3,outofmemory,12.442
+MNIST_P70_N42,unsat,19.3217
+MNIST_P7_N15,timeout,3600.011
+MNIST_P99_N9,unsat,247.4139
+MNIST_P78_N15,timeout,3600.001
+MNIST_P77_N12,MarabouError(Return code: 1),1.3155
+MNIST_P75_N1,timeout,3600.02
+MNIST_P66_N24,timeout,3600.022
+MNIST_P76_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1341
+MNIST_P44_N4,MarabouError(Return code: 1),3.0086
+MNIST_P67_N3,outofmemory,11.817
+MNIST_P72_N35,timeout,3600.004
+MNIST_P28_N40,unsat,41.8577
+MNIST_P93_N21,MarabouError(Return code: 1),3.092
+MNIST_P97_N41,outofmemory,52.817
+MNIST_P43_N12,MarabouError(Return code: 1),1.2833
+MNIST_P1_N34,timeout,3600.02
+MNIST_P88_N31,unsat,228.1747
+MNIST_P68_N48,outofmemory,35.281
+MNIST_P81_N14,outofmemory,35.512
+MNIST_P29_N3,outofmemory,12.4
+MNIST_P66_N35,unsat,65.3064
+MNIST_P5_N18,timeout,3600.012
+MNIST_P73_N7,timeout,3600.004
+MNIST_P51_N40,unsat,41.2111
+MNIST_P90_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1957
+MNIST_P42_N40,unsat,41.5788
+MNIST_P47_N46,unsat,236.5085
+MNIST_P39_N42,unsat,18.042
+MNIST_P21_N36,unsat,218.8962
+MNIST_P39_N2,outofmemory,119.79
+MNIST_P78_N44,timeout,3600.009
+MNIST_P92_N47,outofmemory,47.359
+MNIST_P11_N19,MarabouError(Return code: 1),3.2526
+MNIST_P95_N29,unsat,41.256
+MNIST_P63_N41,outofmemory,53.273
+MNIST_P1_N38,timeout,3600.004
+MNIST_P62_N21,MarabouError(Return code: 1),2.9528
+MNIST_P82_N34,timeout,3600.004
+MNIST_P77_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.2293
+MNIST_P37_N39,timeout,3600.016
+MNIST_P51_N20,outofmemory,16.83
+MNIST_P42_N29,unsat,40.8291
+MNIST_P66_N10,timeout,3600.019
+MNIST_P10_N36,unsat,209.6459
+MNIST_P23_N49,outofmemory,37.561
+MNIST_P39_N40,unsat,44.2531
+MNIST_P9_N19,MarabouError(Return code: 1),3.0427
+MNIST_P12_N14,outofmemory,34.875
+MNIST_P72_N11,timeout,3600.008
+MNIST_P76_N36,unsat,218.4198
+MNIST_P70_N46,unsat,233.2142
+MNIST_P6_N2,outofmemory,119.71
+MNIST_P75_N35,timeout,3600.013
+MNIST_P26_N31,unsat,218.6357
+MNIST_P7_N36,unsat,221.8095
+MNIST_P42_N34,timeout,3600.001
+MNIST_P94_N29,unsat,42.6179
+MNIST_P10_N48,outofmemory,34.874
+MNIST_P31_N15,timeout,3600.011
+MNIST_P34_N3,outofmemory,12.444
+MNIST_P52_N18,timeout,3600.02
+MNIST_P83_N12,MarabouError(Return code: 1),1.3805
+MNIST_P27_N25,unsat,218.7144
+MNIST_P58_N36,unsat,220.9724
+MNIST_P59_N24,timeout,3600.02
+MNIST_P67_N47,outofmemory,45.449
+MNIST_P67_N31,unsat,216.9984
+MNIST_P83_N9,unsat,235.319
+MNIST_P67_N13,timeout,3600.022
+MNIST_P2_N4,MarabouError(Return code: 1),3.1554
+MNIST_P64_N48,outofmemory,34.477
+MNIST_P95_N11,timeout,3600.004
+MNIST_P97_N36,unsat,219.5603
+MNIST_P97_N39,timeout,3600.008
+MNIST_P63_N19,MarabouError(Return code: 1),3.3149
+MNIST_P87_N3,outofmemory,11.598
+MNIST_P65_N18,timeout,3600.0
+MNIST_P78_N18,timeout,3600.01
+MNIST_P32_N44,timeout,3600.001
+MNIST_P54_N5,timeout,3600.018
+MNIST_P84_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1514
+MNIST_P57_N18,timeout,3600.017
+MNIST_P19_N25,unsat,212.4663
+MNIST_P80_N45,timeout,3600.002
+MNIST_P80_N46,unsat,242.4589
+MNIST_P46_N14,outofmemory,35.633
+MNIST_P92_N3,outofmemory,11.936
+MNIST_P95_N37,unsat,243.5017
+MNIST_P65_N23,unsat,41.3449
+MNIST_P31_N35,timeout,3600.005
+MNIST_P72_N47,outofmemory,45.642
+MNIST_P55_N23,unsat,40.6453
+MNIST_P87_N34,timeout,3600.016
+MNIST_P95_N26,timeout,3600.042
+MNIST_P7_N10,timeout,3600.008
+MNIST_P10_N1,unsat,30.9194
+MNIST_P82_N2,outofmemory,139.828
+MNIST_P71_N41,outofmemory,52.612
+MNIST_P90_N37,unsat,242.5105
+MNIST_P15_N22,MarabouError(Return code: 1),1.4341
+MNIST_P17_N39,timeout,3600.014
+MNIST_P68_N35,unsat,65.05
+MNIST_P27_N49,outofmemory,37.769
+MNIST_P90_N15,timeout,3600.004
+MNIST_P81_N39,timeout,3600.012
+MNIST_P97_N14,outofmemory,35.248
+MNIST_P23_N31,unsat,221.5689
+MNIST_P25_N39,timeout,3600.008
+MNIST_P44_N26,timeout,3600.017
+MNIST_P74_N20,outofmemory,18.728
+MNIST_P98_N5,timeout,3600.009
+MNIST_P0_N13,timeout,3600.02
+MNIST_P44_N39,timeout,3600.014
+MNIST_P61_N42,unsat,18.9203
+MNIST_P28_N17,unsat,54.3069
+MNIST_P0_N14,outofmemory,34.508
+MNIST_P20_N37,unsat,245.4752
+MNIST_P47_N39,timeout,3600.002
+MNIST_P71_N7,timeout,3600.0
+MNIST_P87_N38,timeout,3600.012
+MNIST_P98_N9,unsat,241.3894
+MNIST_P3_N17,unsat,53.769
+MNIST_P18_N15,timeout,3600.004
+MNIST_P82_N23,unsat,43.3034
+MNIST_P98_N22,MarabouError(Return code: 1),1.3044
+MNIST_P34_N29,unsat,41.1228
+MNIST_P6_N41,outofmemory,51.667
+MNIST_P5_N27,timeout,3600.002
+MNIST_P5_N29,unsat,41.6387
+MNIST_P46_N48,outofmemory,35.299
+MNIST_P39_N29,unsat,42.8684
+MNIST_P60_N44,timeout,3600.019
+MNIST_P71_N13,timeout,3600.012
+MNIST_P8_N21,MarabouError(Return code: 1),3.2031
+MNIST_P31_N42,unsat,18.4264
+MNIST_P42_N25,unsat,219.3149
+MNIST_P83_N19,MarabouError(Return code: 1),3.0347
+MNIST_P11_N44,timeout,3600.012
+MNIST_P88_N5,timeout,3600.017
+MNIST_P23_N26,timeout,3600.018
+MNIST_P0_N18,timeout,3600.019
+MNIST_P64_N27,timeout,3600.0
+MNIST_P65_N44,timeout,3600.021
+MNIST_P6_N40,unsat,42.7997
+MNIST_P24_N34,timeout,3600.013
+MNIST_P27_N31,unsat,219.585
+MNIST_P43_N48,outofmemory,34.475
+MNIST_P64_N4,MarabouError(Return code: 1),3.0792
+MNIST_P68_N49,outofmemory,34.463
+MNIST_P75_N23,unsat,41.4858
+MNIST_P79_N25,unsat,221.1104
+MNIST_P82_N31,unsat,219.4665
+MNIST_P12_N47,outofmemory,48.902
+MNIST_P40_N22,MarabouError(Return code: 1),1.335
+MNIST_P62_N39,outofmemory,315.424
+MNIST_P71_N38,timeout,3600.005
+MNIST_P77_N16,MarabouError(Return code: 1),0.9724
+MNIST_P38_N44,timeout,3600.012
+MNIST_P85_N3,outofmemory,12.684
+MNIST_P92_N35,timeout,3600.021
+MNIST_P89_N44,timeout,3600.001
+MNIST_P90_N11,timeout,3600.021
+MNIST_P35_N5,timeout,3600.007
+MNIST_P81_N22,MarabouError(Return code: 1),1.3055
+MNIST_P11_N31,unsat,222.6762
+MNIST_P3_N33,MarabouError(Return code: 1),1.2891
+MNIST_P60_N37,unsat,253.1934
+MNIST_P3_N18,timeout,3600.017
+MNIST_P3_N25,unsat,221.9496
+MNIST_P23_N11,timeout,3600.008
+MNIST_P59_N20,outofmemory,17.049
+MNIST_P83_N11,timeout,3600.014
+MNIST_P4_N7,timeout,3600.003
+MNIST_P69_N47,outofmemory,52.3
+MNIST_P16_N11,timeout,3600.019
+MNIST_P87_N5,timeout,3600.002
+MNIST_P21_N29,unsat,41.8488
+MNIST_P12_N9,unsat,251.1573
+MNIST_P58_N45,timeout,3600.007
+MNIST_P33_N16,MarabouError(Return code: 1),0.9512
+MNIST_P96_N39,outofmemory,292.407
+MNIST_P53_N49,outofmemory,35.216
+MNIST_P17_N11,timeout,3600.0
+MNIST_P65_N19,MarabouError(Return code: 1),3.105
+MNIST_P97_N18,timeout,3600.014
+MNIST_P37_N42,unsat,19.2333
+MNIST_P0_N41,outofmemory,54.473
+MNIST_P6_N14,outofmemory,36.515
+MNIST_P91_N49,outofmemory,35.974
+MNIST_P96_N3,outofmemory,12.277
+MNIST_P8_N19,MarabouError(Return code: 1),3.0519
+MNIST_P42_N45,timeout,3600.014
+MNIST_P68_N11,timeout,3600.013
+MNIST_P70_N25,unsat,221.8757
+MNIST_P41_N24,timeout,3600.007
+MNIST_P71_N42,unsat,18.7103
+MNIST_P63_N3,outofmemory,11.936
+MNIST_P70_N36,unsat,213.8025
+MNIST_P2_N3,outofmemory,12.156
+MNIST_P63_N42,unsat,19.172
+MNIST_P65_N16,MarabouError(Return code: 1),1.04
+MNIST_P29_N40,unsat,42.0795
+MNIST_P51_N7,timeout,3600.019
+MNIST_P30_N49,outofmemory,35.25
+MNIST_P94_N26,timeout,3600.017
+MNIST_P21_N39,timeout,3600.009
+MNIST_P25_N33,MarabouError(Return code: 1),1.3189
+MNIST_P61_N22,MarabouError(Return code: 1),1.3395
+MNIST_P42_N11,timeout,3600.006
+MNIST_P16_N49,outofmemory,38.602
+MNIST_P78_N17,outofmemory,36.64
+MNIST_P7_N31,unsat,216.4051
+MNIST_P48_N15,timeout,3600.007
+MNIST_P91_N14,outofmemory,34.079
+MNIST_P91_N16,MarabouError(Return code: 1),1.031
+MNIST_P11_N36,unsat,209.9512
+MNIST_P80_N31,unsat,220.6155
+MNIST_P32_N10,timeout,3600.001
+MNIST_P30_N15,timeout,3600.015
+MNIST_P10_N29,unsat,41.8591
+MNIST_P60_N48,outofmemory,36.327
+MNIST_P65_N4,MarabouError(Return code: 1),3.2723
+MNIST_P32_N4,MarabouError(Return code: 1),3.5513
+MNIST_P1_N24,timeout,3600.012
+MNIST_P53_N7,timeout,3600.003
+MNIST_P43_N46,unsat,237.8689
+MNIST_P16_N48,outofmemory,37.225
+MNIST_P91_N36,unsat,214.6182
+MNIST_P52_N24,timeout,3600.009
+MNIST_P89_N15,timeout,3600.014
+MNIST_P30_N1,unsat,31.6849
+MNIST_P94_N40,unsat,40.725
+MNIST_P10_N27,timeout,3600.001
+MNIST_P81_N48,outofmemory,36.046
+MNIST_P60_N19,MarabouError(Return code: 1),3.1515
+MNIST_P96_N48,outofmemory,34.859
+MNIST_P68_N15,timeout,3600.015
+MNIST_P89_N38,timeout,3600.002
+MNIST_P4_N29,unsat,40.9098
+MNIST_P32_N27,timeout,3600.017
+MNIST_P19_N27,timeout,3600.02
+MNIST_P8_N42,unsat,18.5528
+MNIST_P32_N34,timeout,3600.008
+MNIST_P47_N21,MarabouError(Return code: 1),3.0863
+MNIST_P61_N31,unsat,223.4715
+MNIST_P38_N9,unsat,250.0154
+MNIST_P48_N18,timeout,3600.002
+MNIST_P96_N16,MarabouError(Return code: 1),0.9743
+MNIST_P23_N23,unsat,42.1563
+MNIST_P41_N14,outofmemory,35.197
+MNIST_P45_N22,MarabouError(Return code: 1),1.3676
+MNIST_P48_N2,outofmemory,111.228
+MNIST_P9_N20,outofmemory,16.848
+MNIST_P72_N14,outofmemory,34.118
+MNIST_P17_N48,outofmemory,35.514
+MNIST_P5_N42,unsat,18.9353
+MNIST_P27_N24,timeout,3600.006
+MNIST_P82_N29,unsat,41.9463
+MNIST_P18_N47,outofmemory,45.953
+MNIST_P58_N5,timeout,3600.011
+MNIST_P72_N3,outofmemory,12.219
+MNIST_P85_N2,outofmemory,124.614
+MNIST_P44_N37,unsat,235.6707
+MNIST_P8_N39,timeout,3600.007
+MNIST_P18_N21,MarabouError(Return code: 1),3.4273
+MNIST_P87_N10,timeout,3600.006
+MNIST_P38_N12,MarabouError(Return code: 1),1.2778
+MNIST_P39_N7,timeout,3600.002
+MNIST_P61_N13,unsat,26.9857
+MNIST_P19_N19,MarabouError(Return code: 1),3.2663
+MNIST_P3_N35,timeout,3600.017
+MNIST_P38_N23,unsat,42.8407
+MNIST_P40_N42,unsat,18.5786
+MNIST_P22_N23,unsat,43.9723
+MNIST_P11_N13,unsat,26.5219
+MNIST_P17_N40,unsat,42.3839
+MNIST_P20_N16,MarabouError(Return code: 1),0.9877
+MNIST_P85_N19,MarabouError(Return code: 1),3.2291
+MNIST_P93_N19,MarabouError(Return code: 1),3.2615
+MNIST_P11_N35,unsat,63.3997
+MNIST_P25_N17,unsat,54.7506
+MNIST_P65_N27,timeout,3600.014
+MNIST_P33_N47,outofmemory,44.702
+MNIST_P84_N2,outofmemory,115.427
+MNIST_P96_N36,unsat,218.225
+MNIST_P41_N1,unsat,30.9219
+MNIST_P53_N3,outofmemory,11.82
+MNIST_P77_N42,unsat,19.2898
+MNIST_P38_N2,outofmemory,149.816
+MNIST_P11_N2,outofmemory,112.704
+MNIST_P15_N1,timeout,3600.014
+MNIST_P68_N42,unsat,19.6292
+MNIST_P0_N12,MarabouError(Return code: 1),1.461
+MNIST_P44_N44,timeout,3600.009
+MNIST_P90_N22,MarabouError(Return code: 1),1.3354
+MNIST_P75_N38,timeout,3600.006
+MNIST_P84_N21,MarabouError(Return code: 1),3.3154
+MNIST_P6_N15,timeout,3600.005
+MNIST_P0_N15,timeout,3600.006
+MNIST_P78_N38,timeout,3600.0
+MNIST_P65_N48,outofmemory,35.458
+MNIST_P22_N7,timeout,3600.012
+MNIST_P25_N41,outofmemory,51.912
+MNIST_P40_N4,MarabouError(Return code: 1),3.0615
+MNIST_P47_N14,outofmemory,34.383
+MNIST_P72_N23,unsat,41.7536
+MNIST_P5_N10,timeout,3600.009
+MNIST_P14_N34,timeout,3600.02
+MNIST_P5_N41,outofmemory,51.474
+MNIST_P14_N46,unsat,244.6263
+MNIST_P32_N16,MarabouError(Return code: 1),0.9891
+MNIST_P89_N31,unsat,223.9125
+MNIST_P98_N24,timeout,3600.002
+MNIST_P33_N37,unsat,236.7123
+MNIST_P45_N38,outofmemory,278.434
+MNIST_P57_N45,timeout,3600.006
+MNIST_P90_N34,timeout,3600.02
+MNIST_P22_N9,unsat,243.8299
+MNIST_P56_N40,unsat,41.4691
+MNIST_P53_N16,MarabouError(Return code: 1),1.0425
+MNIST_P56_N17,unsat,54.6884
+MNIST_P57_N10,timeout,3600.012
+MNIST_P13_N13,timeout,3600.019
+MNIST_P61_N18,timeout,3600.0
+MNIST_P67_N35,timeout,3600.006
+MNIST_P19_N41,outofmemory,51.814
+MNIST_P89_N2,outofmemory,117.248
+MNIST_P46_N40,unsat,40.9086
+MNIST_P28_N3,outofmemory,11.662
+MNIST_P54_N33,MarabouError(Return code: 1),1.3426
+MNIST_P95_N23,unsat,41.9372
+MNIST_P16_N21,MarabouError(Return code: 1),3.2084
+MNIST_P51_N5,timeout,3600.006
+MNIST_P87_N13,timeout,3600.016
+MNIST_P74_N16,MarabouError(Return code: 1),0.9812
+MNIST_P90_N35,timeout,3600.007
+MNIST_P16_N19,MarabouError(Return code: 1),3.1143
+MNIST_P64_N21,MarabouError(Return code: 1),2.9345
+MNIST_P92_N26,timeout,3600.005
+MNIST_P0_N47,outofmemory,44.097
+MNIST_P6_N31,unsat,218.1783
+MNIST_P70_N17,unsat,54.1244
+MNIST_P75_N42,unsat,18.1379
+MNIST_P6_N21,MarabouError(Return code: 1),3.8997
+MNIST_P24_N2,outofmemory,130.434
+MNIST_P55_N46,unsat,244.6991
+MNIST_P5_N15,timeout,3600.004
+MNIST_P20_N10,timeout,3600.003
+MNIST_P79_N9,unsat,237.1176
+MNIST_P56_N46,unsat,243.147
+MNIST_P54_N9,unsat,249.8292
+MNIST_P68_N25,unsat,220.4943
+MNIST_P73_N4,MarabouError(Return code: 1),3.3118
+MNIST_P34_N37,unsat,241.4926
+MNIST_P84_N13,unsat,26.9303
+MNIST_P88_N13,unsat,26.5004
+MNIST_P90_N23,unsat,43.4588
+MNIST_P22_N44,timeout,3600.017
+MNIST_P4_N2,outofmemory,123.409
+MNIST_P78_N33,MarabouError(Return code: 1),1.3619
+MNIST_P29_N45,timeout,3600.016
+MNIST_P44_N29,unsat,41.1891
+MNIST_P62_N36,unsat,214.5332
+MNIST_P66_N14,outofmemory,35.758
+MNIST_P94_N13,unsat,26.8181
+MNIST_P30_N13,timeout,3600.013
+MNIST_P21_N41,outofmemory,54.531
+MNIST_P67_N14,outofmemory,35.687
+MNIST_P71_N33,MarabouError(Return code: 1),1.3219
+MNIST_P34_N2,outofmemory,115.576
+MNIST_P66_N39,timeout,3600.013
+MNIST_P15_N23,unsat,41.9342
+MNIST_P49_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2502
+MNIST_P35_N42,unsat,19.7022
+MNIST_P89_N21,MarabouError(Return code: 1),3.3376
+MNIST_P74_N33,MarabouError(Return code: 1),1.2758
+MNIST_P77_N7,timeout,3600.015
+MNIST_P16_N29,unsat,41.6354
+MNIST_P60_N10,timeout,3600.009
+MNIST_P76_N49,outofmemory,42.301
+MNIST_P54_N4,MarabouError(Return code: 1),2.975
+MNIST_P56_N26,timeout,3600.014
+MNIST_P34_N7,timeout,3600.019
+MNIST_P83_N45,timeout,3600.021
+MNIST_P85_N11,timeout,3600.007
+MNIST_P92_N15,timeout,3600.002
+MNIST_P17_N18,timeout,3600.006
+MNIST_P28_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.194
+MNIST_P63_N38,timeout,3600.017
+MNIST_P26_N36,unsat,220.2108
+MNIST_P0_N16,MarabouError(Return code: 1),0.9856
+MNIST_P62_N47,outofmemory,42.736
+MNIST_P71_N47,outofmemory,44.96
+MNIST_P33_N29,unsat,41.3829
+MNIST_P33_N24,timeout,3600.009
+MNIST_P62_N46,unsat,244.4281
+MNIST_P64_N16,MarabouError(Return code: 1),0.9499
+MNIST_P80_N10,timeout,3600.004
+MNIST_P20_N14,outofmemory,36.491
+MNIST_P57_N29,unsat,43.0911
+MNIST_P62_N35,timeout,3600.002
+MNIST_P82_N44,timeout,3600.007
+MNIST_P4_N10,timeout,3600.012
+MNIST_P56_N35,timeout,3600.005
+MNIST_P97_N25,unsat,214.7005
+MNIST_P45_N46,unsat,242.8338
+MNIST_P15_N49,outofmemory,34.964
+MNIST_P23_N46,unsat,241.4712
+MNIST_P48_N12,MarabouError(Return code: 1),1.3633
+MNIST_P41_N26,unsat,10.6524
+MNIST_P54_N48,outofmemory,35.913
+MNIST_P1_N39,timeout,3600.009
+MNIST_P32_N21,MarabouError(Return code: 1),3.4089
+MNIST_P64_N10,timeout,3600.013
+MNIST_P67_N2,outofmemory,126.242
+MNIST_P67_N38,timeout,3600.003
+MNIST_P55_N13,timeout,3600.006
+MNIST_P82_N33,MarabouError(Return code: 1),1.3376
+MNIST_P85_N14,outofmemory,36.894
+MNIST_P86_N26,timeout,3600.019
+MNIST_P92_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.132
+MNIST_P95_N10,timeout,3600.017
+MNIST_P11_N29,unsat,40.3994
+MNIST_P13_N39,timeout,3600.007
+MNIST_P92_N1,timeout,3600.02
+MNIST_P13_N14,outofmemory,34.901
+MNIST_P87_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1318
+MNIST_P63_N34,timeout,3600.003
+MNIST_P14_N48,outofmemory,34.663
+MNIST_P2_N12,MarabouError(Return code: 1),1.3218
+MNIST_P80_N2,outofmemory,117.702
+MNIST_P37_N22,MarabouError(Return code: 1),1.3674
+MNIST_P7_N39,timeout,3600.005
+MNIST_P20_N18,timeout,3600.01
+MNIST_P57_N25,unsat,212.2219
+MNIST_P77_N33,MarabouError(Return code: 1),1.3058
+MNIST_P12_N39,timeout,3600.016
+MNIST_P39_N31,unsat,211.7145
+MNIST_P82_N49,outofmemory,34.935
+MNIST_P65_N26,timeout,3600.011
+MNIST_P46_N42,unsat,17.9712
+MNIST_P67_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2086
+MNIST_P36_N10,timeout,3600.018
+MNIST_P7_N26,timeout,3600.002
+MNIST_P27_N19,MarabouError(Return code: 1),3.4253
+MNIST_P72_N49,outofmemory,34.117
+MNIST_P54_N47,outofmemory,44.869
+MNIST_P41_N38,timeout,3600.011
+MNIST_P65_N40,unsat,40.6729
+MNIST_P80_N35,timeout,3600.022
+MNIST_P37_N23,unsat,42.4837
+MNIST_P91_N26,timeout,3600.022
+MNIST_P77_N18,timeout,3600.003
+MNIST_P79_N27,timeout,3600.018
+MNIST_P54_N38,timeout,3600.001
+MNIST_P94_N45,timeout,3600.018
+MNIST_P91_N4,MarabouError(Return code: 1),3.0732
+MNIST_P5_N33,MarabouError(Return code: 1),1.3283
+MNIST_P40_N45,timeout,3600.018
+MNIST_P47_N17,unsat,54.3706
+MNIST_P81_N13,timeout,3600.006
+MNIST_P5_N9,unsat,250.5593
+MNIST_P27_N13,timeout,3600.01
+MNIST_P46_N18,timeout,3600.006
+MNIST_P76_N34,timeout,3600.011
+MNIST_P51_N37,unsat,244.0322
+MNIST_P86_N11,timeout,3600.021
+MNIST_P27_N37,unsat,249.1411
+MNIST_P80_N9,unsat,235.1192
+MNIST_P83_N41,outofmemory,52.213
+MNIST_P16_N31,unsat,217.8321
+MNIST_P29_N12,MarabouError(Return code: 1),1.3231
+MNIST_P57_N24,timeout,3600.021
+MNIST_P70_N3,outofmemory,12.873
+MNIST_P86_N37,unsat,249.9936
+MNIST_P10_N46,unsat,241.7304
+MNIST_P57_N39,timeout,3600.004
+MNIST_P99_N21,MarabouError(Return code: 1),3.3795
+MNIST_P87_N11,timeout,3600.0
+MNIST_P87_N24,timeout,3600.013
+MNIST_P14_N9,unsat,245.3767
+MNIST_P72_N42,unsat,18.5685
+MNIST_P4_N9,unsat,239.0849
+MNIST_P45_N18,timeout,3600.014
+MNIST_P2_N24,timeout,3600.002
+MNIST_P70_N39,timeout,3600.002
+MNIST_P62_N12,MarabouError(Return code: 1),1.4577
+MNIST_P98_N15,timeout,3600.02
+MNIST_P26_N11,timeout,3600.001
+MNIST_P81_N21,MarabouError(Return code: 1),3.1888
+MNIST_P16_N13,timeout,3600.019
+MNIST_P33_N9,unsat,233.2971
+MNIST_P59_N34,timeout,3600.003
+MNIST_P19_N31,unsat,216.2713
+MNIST_P31_N3,outofmemory,12.192
+MNIST_P95_N19,MarabouError(Return code: 1),3.294
+MNIST_P53_N26,timeout,3600.003
+MNIST_P51_N44,timeout,3600.015
+MNIST_P58_N1,unsat,31.1156
+MNIST_P16_N37,unsat,237.0608
+MNIST_P76_N40,unsat,41.489
+MNIST_P80_N18,timeout,3600.01
+MNIST_P99_N15,timeout,3600.011
+MNIST_P12_N1,unsat,34.3044
+MNIST_P26_N41,outofmemory,51.551
+MNIST_P62_N14,outofmemory,39.816
+MNIST_P39_N20,outofmemory,17.205
+MNIST_P19_N21,MarabouError(Return code: 1),3.1695
+MNIST_P19_N24,timeout,3600.021
+MNIST_P39_N36,unsat,215.0539
+MNIST_P49_N7,timeout,3600.003
+MNIST_P16_N5,timeout,3600.001
+MNIST_P36_N20,outofmemory,17.339
+MNIST_P23_N38,timeout,3600.018
+MNIST_P7_N40,unsat,40.6186
+MNIST_P55_N20,outofmemory,16.642
+MNIST_P79_N45,unsat,8.2594
+MNIST_P22_N29,unsat,41.1687
+MNIST_P18_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1312
+MNIST_P9_N31,unsat,219.3467
+MNIST_P11_N23,unsat,41.1412
+MNIST_P22_N19,MarabouError(Return code: 1),3.0446
+MNIST_P1_N40,unsat,41.014
+MNIST_P96_N41,outofmemory,53.408
+MNIST_P14_N16,MarabouError(Return code: 1),0.9766
+MNIST_P0_N36,unsat,215.762
+MNIST_P6_N22,MarabouError(Return code: 1),1.4406
+MNIST_P22_N10,timeout,3600.021
+MNIST_P50_N34,timeout,3600.013
+MNIST_P84_N26,timeout,3600.016
+MNIST_P91_N2,outofmemory,117.742
+MNIST_P56_N18,timeout,3600.007
+MNIST_P60_N46,unsat,236.5833
+MNIST_P0_N23,unsat,41.3547
+MNIST_P66_N45,timeout,3600.023
+MNIST_P27_N18,timeout,3600.015
+MNIST_P30_N31,unsat,222.9725
+MNIST_P23_N1,unsat,30.2685
+MNIST_P36_N41,outofmemory,51.326
+MNIST_P69_N36,unsat,216.0871
+MNIST_P94_N25,unsat,214.1094
+MNIST_P82_N7,timeout,3600.002
+MNIST_P37_N45,timeout,3600.003
+MNIST_P64_N13,unsat,26.1848
+MNIST_P38_N36,unsat,220.9338
+MNIST_P46_N1,timeout,3600.018
+MNIST_P5_N35,timeout,3600.019
+MNIST_P30_N17,unsat,54.5559
+MNIST_P44_N2,outofmemory,120.587
+MNIST_P21_N44,timeout,3600.008
+MNIST_P1_N3,outofmemory,17.75
+MNIST_P44_N17,unsat,53.793
+MNIST_P45_N5,timeout,3600.021
+MNIST_P33_N10,timeout,3600.021
+MNIST_P42_N39,timeout,3600.018
+MNIST_P92_N16,MarabouError(Return code: 1),1.0123
+MNIST_P5_N26,timeout,3600.021
+MNIST_P66_N15,timeout,3600.003
+MNIST_P16_N7,timeout,3600.012
+MNIST_P89_N14,outofmemory,35.077
+MNIST_P11_N47,outofmemory,42.791
+MNIST_P1_N36,unsat,222.5286
+MNIST_P9_N24,timeout,3600.005
+MNIST_P82_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.2168
+MNIST_P57_N23,unsat,41.4109
+MNIST_P27_N40,unsat,41.7946
+MNIST_P29_N5,timeout,3600.017
+MNIST_P51_N33,MarabouError(Return code: 1),1.2047
+MNIST_P73_N46,unsat,246.5643
+MNIST_P19_N35,timeout,3600.018
+MNIST_P35_N21,MarabouError(Return code: 1),3.1142
+MNIST_P14_N17,unsat,54.2336
+MNIST_P91_N21,MarabouError(Return code: 1),3.1579
+MNIST_P75_N22,MarabouError(Return code: 1),1.3558
+MNIST_P3_N48,outofmemory,34.877
+MNIST_P12_N42,unsat,18.8308
+MNIST_P25_N24,timeout,3600.022
+MNIST_P12_N24,timeout,3600.021
+MNIST_P58_N4,MarabouError(Return code: 1),3.2361
+MNIST_P22_N18,timeout,3600.005
+MNIST_P57_N26,timeout,3600.004
+MNIST_P47_N26,timeout,3600.003
+MNIST_P1_N5,timeout,3600.018
+MNIST_P22_N48,outofmemory,35.853
+MNIST_P57_N34,timeout,3600.004
+MNIST_P74_N9,unsat,240.6839
+MNIST_P20_N40,unsat,42.2904
+MNIST_P0_N48,outofmemory,36.985
+MNIST_P27_N7,timeout,3600.016
+MNIST_P54_N3,outofmemory,12.377
+MNIST_P70_N5,timeout,3600.01
+MNIST_P84_N27,timeout,3600.007
+MNIST_P81_N1,unsat,30.53
+MNIST_P34_N48,outofmemory,34.889
+MNIST_P72_N41,outofmemory,52.037
+MNIST_P26_N47,outofmemory,43.043
+MNIST_P85_N5,timeout,3600.02
+MNIST_P86_N16,MarabouError(Return code: 1),0.9666
+MNIST_P35_N40,unsat,42.9209
+MNIST_P97_N49,outofmemory,38.37
+MNIST_P16_N17,unsat,54.5487
+MNIST_P86_N34,timeout,3600.021
+MNIST_P63_N12,MarabouError(Return code: 1),1.3751
+MNIST_P43_N21,MarabouError(Return code: 1),3.2035
+MNIST_P82_N24,timeout,3600.003
+MNIST_P15_N15,timeout,3600.001
+MNIST_P31_N48,outofmemory,34.622
+MNIST_P92_N39,outofmemory,274.659
+MNIST_P65_N21,MarabouError(Return code: 1),3.1857
+MNIST_P3_N12,MarabouError(Return code: 1),1.3777
+MNIST_P24_N16,MarabouError(Return code: 1),1.2033
+MNIST_P90_N48,outofmemory,37.575
+MNIST_P85_N33,MarabouError(Return code: 1),1.3457
+MNIST_P47_N4,MarabouError(Return code: 1),3.3045
+MNIST_P26_N21,MarabouError(Return code: 1),3.1969
+MNIST_P10_N16,MarabouError(Return code: 1),1.0892
+MNIST_P70_N44,timeout,3600.021
+MNIST_P69_N24,timeout,3600.005
+MNIST_P28_N21,MarabouError(Return code: 1),3.3513
+MNIST_P9_N15,timeout,3600.012
+MNIST_P38_N47,outofmemory,52.97
+MNIST_P21_N26,timeout,3600.001
+MNIST_P0_N33,MarabouError(Return code: 1),1.32
+MNIST_P56_N37,unsat,239.3939
+MNIST_P57_N20,outofmemory,17.07
+MNIST_P67_N22,MarabouError(Return code: 1),1.3036
+MNIST_P22_N24,timeout,3600.003
+MNIST_P7_N1,timeout,3600.018
+MNIST_P31_N38,outofmemory,437.208
+MNIST_P67_N34,timeout,3600.014
+MNIST_P77_N11,timeout,3600.008
+MNIST_P28_N13,timeout,3600.001
+MNIST_P90_N18,timeout,3600.002
+MNIST_P62_N2,outofmemory,113.928
+MNIST_P53_N10,timeout,3600.004
+MNIST_P57_N37,unsat,238.1238
+MNIST_P1_N15,timeout,3600.003
+MNIST_P19_N42,unsat,18.1188
+MNIST_P52_N40,unsat,42.2448
+MNIST_P35_N33,MarabouError(Return code: 1),1.3847
+MNIST_P65_N45,timeout,3600.005
+MNIST_P71_N14,outofmemory,35.37
+MNIST_P43_N9,unsat,232.8405
+MNIST_P54_N15,timeout,3600.023
+MNIST_P90_N41,outofmemory,52.889
+MNIST_P1_N29,unsat,40.2714
+MNIST_P99_N47,outofmemory,43.737
+MNIST_P51_N47,outofmemory,44.16
+MNIST_P0_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1298
+MNIST_P22_N15,timeout,3600.019
+MNIST_P44_N20,outofmemory,18.535
+MNIST_P97_N13,timeout,3600.013
+MNIST_P34_N11,timeout,3600.015
+MNIST_P5_N14,outofmemory,35.699
+MNIST_P15_N4,MarabouError(Return code: 1),2.9067
+MNIST_P21_N12,MarabouError(Return code: 1),1.311
+MNIST_P47_N31,unsat,225.9874
+MNIST_P74_N17,unsat,54.6537
+MNIST_P0_N7,timeout,3600.0
+MNIST_P25_N44,timeout,3600.004
+MNIST_P76_N5,timeout,3600.019
+MNIST_P89_N10,timeout,3600.016
+MNIST_P94_N38,timeout,3600.01
+MNIST_P18_N45,timeout,3600.008
+MNIST_P52_N42,unsat,18.7475
+MNIST_P59_N2,outofmemory,120.292
+MNIST_P84_N11,timeout,3600.011
+MNIST_P12_N18,timeout,3600.005
+MNIST_P73_N26,timeout,3600.016
+MNIST_P34_N47,outofmemory,47.373
+MNIST_P51_N25,unsat,219.5701
+MNIST_P32_N12,MarabouError(Return code: 1),1.3701
+MNIST_P13_N1,unsat,31.33
+MNIST_P57_N16,MarabouError(Return code: 1),0.9943
+MNIST_P93_N25,unsat,216.808
+MNIST_P77_N19,MarabouError(Return code: 1),3.0002
+MNIST_P47_N3,outofmemory,11.66
+MNIST_P65_N3,outofmemory,11.593
+MNIST_P74_N38,timeout,3600.022
+MNIST_P63_N2,outofmemory,113.773
+MNIST_P83_N38,timeout,3600.013
+MNIST_P93_N14,outofmemory,35.446
+MNIST_P29_N35,unsat,63.4547
+MNIST_P51_N38,timeout,3600.0
+MNIST_P34_N5,timeout,3600.022
+MNIST_P54_N35,unsat,64.3602
+MNIST_P29_N1,unsat,30.157
+MNIST_P46_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.2533
+MNIST_P58_N13,timeout,3600.011
+MNIST_P64_N33,MarabouError(Return code: 1),1.3324
+MNIST_P41_N11,timeout,3600.013
+MNIST_P37_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.1969
+MNIST_P85_N31,unsat,214.2409
+MNIST_P18_N13,timeout,3600.005
+MNIST_P29_N23,unsat,41.1674
+MNIST_P36_N14,outofmemory,34.605
+MNIST_P27_N5,timeout,3600.006
+MNIST_P70_N10,timeout,3600.022
+MNIST_P8_N34,timeout,3600.006
+MNIST_P66_N19,MarabouError(Return code: 1),3.6194
+MNIST_P76_N10,timeout,3600.003
+MNIST_P88_N44,timeout,3600.022
+MNIST_P77_N1,timeout,3600.019
+MNIST_P73_N17,outofmemory,25.008
+MNIST_P14_N19,MarabouError(Return code: 1),2.9493
+MNIST_P10_N14,outofmemory,37.12
+MNIST_P16_N45,timeout,3600.01
+MNIST_P69_N19,MarabouError(Return code: 1),3.1162
+MNIST_P56_N10,timeout,3600.012
+MNIST_P67_N46,unsat,241.7159
+MNIST_P14_N20,outofmemory,16.758
+MNIST_P35_N45,timeout,3600.0
+MNIST_P40_N31,unsat,225.8591
+MNIST_P5_N2,outofmemory,124.765
+MNIST_P19_N40,unsat,42.2714
+MNIST_P15_N41,outofmemory,51.416
+MNIST_P22_N40,unsat,41.3117
+MNIST_P13_N25,unsat,224.1782
+MNIST_P39_N10,timeout,3600.02
+MNIST_P87_N12,MarabouError(Return code: 1),1.2513
+MNIST_P91_N33,MarabouError(Return code: 1),1.3046
+MNIST_P2_N45,timeout,3600.016
+MNIST_P18_N22,MarabouError(Return code: 1),1.3359
+MNIST_P13_N17,unsat,54.2607
+MNIST_P76_N26,timeout,3600.007
+MNIST_P29_N36,unsat,210.3148
+MNIST_P22_N20,outofmemory,17.059
+MNIST_P68_N37,unsat,243.8997
+MNIST_P62_N49,outofmemory,35.176
+MNIST_P53_N24,timeout,3600.022
+MNIST_P72_N12,MarabouError(Return code: 1),1.4799
+MNIST_P98_N45,timeout,3600.022
+MNIST_P41_N35,timeout,3600.02
+MNIST_P75_N13,timeout,3600.01
+MNIST_P37_N20,outofmemory,17.133
+MNIST_P23_N17,unsat,53.8511
+MNIST_P53_N22,MarabouError(Return code: 1),1.2863
+MNIST_P3_N37,unsat,247.4259
+MNIST_P26_N15,timeout,3600.009
+MNIST_P4_N15,timeout,3600.011
+MNIST_P15_N47,outofmemory,47.994
+MNIST_P31_N13,timeout,3600.008
+MNIST_P70_N20,outofmemory,17.527
+MNIST_P8_N26,timeout,3600.001
+MNIST_P44_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1347
+MNIST_P54_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2173
+MNIST_P45_N39,timeout,3600.019
+MNIST_P48_N16,MarabouError(Return code: 1),1.0083
+MNIST_P80_N49,outofmemory,35.096
+MNIST_P92_N7,outofmemory,312.289
+MNIST_P12_N29,unsat,41.2616
+MNIST_P72_N15,timeout,3600.005
+MNIST_P8_N20,outofmemory,17.778
+MNIST_P55_N49,outofmemory,40.693
+MNIST_P76_N2,outofmemory,143.408
+MNIST_P12_N10,timeout,3600.012
+MNIST_P78_N48,outofmemory,36.362
+MNIST_P88_N4,MarabouError(Return code: 1),3.0557
+MNIST_P41_N45,timeout,3600.02
+MNIST_P64_N34,timeout,3600.019
+MNIST_P58_N42,unsat,19.0803
+MNIST_P16_N25,unsat,210.1854
+MNIST_P62_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1691
+MNIST_P77_N46,unsat,248.9505
+MNIST_P78_N46,unsat,253.3428
+MNIST_P7_N18,timeout,3600.011
+MNIST_P2_N22,MarabouError(Return code: 1),1.4197
+MNIST_P54_N14,outofmemory,35.827
+MNIST_P71_N23,unsat,41.9023
+MNIST_P85_N49,outofmemory,37.944
+MNIST_P18_N7,timeout,3600.013
+MNIST_P45_N41,outofmemory,51.798
+MNIST_P46_N37,unsat,245.8624
+MNIST_P28_N35,timeout,3600.018
+MNIST_P65_N35,timeout,3600.005
+MNIST_P79_N24,timeout,3600.0
+MNIST_P81_N17,unsat,54.8373
+MNIST_P85_N39,timeout,3600.022
+MNIST_P31_N33,MarabouError(Return code: 1),1.3055
+MNIST_P15_N26,timeout,3600.023
+MNIST_P49_N37,unsat,236.762
+MNIST_P84_N49,outofmemory,36.03
+MNIST_P6_N3,outofmemory,11.631
+MNIST_P17_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1305
+MNIST_P30_N12,MarabouError(Return code: 1),1.2488
+MNIST_P80_N5,timeout,3600.008
+MNIST_P62_N7,timeout,3600.016
+MNIST_P63_N45,timeout,3600.002
+MNIST_P20_N46,unsat,241.0003
+MNIST_P79_N23,unsat,42.1581
+MNIST_P38_N46,unsat,235.5509
+MNIST_P66_N49,outofmemory,36.676
+MNIST_P5_N45,timeout,3600.004
+MNIST_P41_N39,timeout,3600.022
+MNIST_P68_N9,unsat,233.357
+MNIST_P67_N24,timeout,3600.004
+MNIST_P26_N45,timeout,3600.012
+MNIST_P91_N23,unsat,41.132
+MNIST_P5_N20,outofmemory,17.453
+MNIST_P38_N10,timeout,3600.004
+MNIST_P16_N14,outofmemory,34.935
+MNIST_P81_N45,timeout,3600.02
+MNIST_P4_N25,unsat,219.473
+MNIST_P66_N1,timeout,3600.008
+MNIST_P97_N33,MarabouError(Return code: 1),1.3367
+MNIST_P22_N22,MarabouError(Return code: 1),1.3784
+MNIST_P39_N25,unsat,222.8464
+MNIST_P49_N27,timeout,3600.02
+MNIST_P93_N35,timeout,3600.014
+MNIST_P77_N15,timeout,3600.001
+MNIST_P99_N39,timeout,3600.012
+MNIST_P17_N41,outofmemory,51.256
+MNIST_P18_N1,timeout,3600.006
+MNIST_P58_N2,outofmemory,118.501
+MNIST_P6_N34,timeout,3600.008
+MNIST_P52_N49,outofmemory,36.787
+MNIST_P3_N47,outofmemory,45.239
+MNIST_P61_N46,unsat,242.0953
+MNIST_P9_N47,outofmemory,46.0
+MNIST_P38_N31,unsat,217.4886
+MNIST_P67_N40,unsat,42.6543
+MNIST_P28_N23,unsat,42.985
+MNIST_P60_N34,timeout,3600.007
+MNIST_P97_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1761
+MNIST_P49_N44,timeout,3600.002
+MNIST_P98_N20,outofmemory,16.882
+MNIST_P79_N34,timeout,3600.001
+MNIST_P65_N33,MarabouError(Return code: 1),1.3626
+MNIST_P3_N10,timeout,3600.005
+MNIST_P99_N49,outofmemory,38.168
+MNIST_P87_N19,MarabouError(Return code: 1),3.4986
+MNIST_P20_N3,outofmemory,11.798
+MNIST_P52_N26,timeout,3600.002
+MNIST_P87_N49,outofmemory,34.89
+MNIST_P86_N3,outofmemory,11.848
+MNIST_P75_N26,timeout,3600.016
+MNIST_P98_N4,MarabouError(Return code: 1),3.1734
+MNIST_P31_N16,MarabouError(Return code: 1),0.9565
+MNIST_P80_N38,timeout,3600.007
+MNIST_P95_N42,unsat,19.0613
+MNIST_P5_N40,unsat,41.2111
+MNIST_P40_N29,unsat,41.642
+MNIST_P2_N38,outofmemory,293.741
+MNIST_P13_N4,MarabouError(Return code: 1),3.297
+MNIST_P49_N36,unsat,220.8424
+MNIST_P3_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.1912
+MNIST_P82_N37,unsat,233.9753
+MNIST_P97_N40,unsat,42.6293
+MNIST_P71_N4,MarabouError(Return code: 1),3.0645
+MNIST_P96_N23,unsat,41.4521
+MNIST_P42_N35,timeout,3600.013
+MNIST_P39_N18,timeout,3600.004
+MNIST_P50_N44,timeout,3600.003
+MNIST_P98_N37,unsat,237.7623
+MNIST_P16_N18,timeout,3600.014
+MNIST_P53_N13,timeout,3600.023
+MNIST_P55_N18,timeout,3600.018
+MNIST_P28_N36,unsat,216.1371
+MNIST_P71_N17,unsat,54.9461
+MNIST_P57_N3,outofmemory,11.959
+MNIST_P98_N38,timeout,3600.012
+MNIST_P13_N45,unsat,9.6776
+MNIST_P12_N11,timeout,3600.009
+MNIST_P64_N17,unsat,54.5757
+MNIST_P43_N39,timeout,3600.003
+MNIST_P80_N23,unsat,41.1923
+MNIST_P19_N10,timeout,3600.013
+MNIST_P5_N19,MarabouError(Return code: 1),3.0981
+MNIST_P25_N20,outofmemory,16.15
+MNIST_P17_N46,unsat,240.6112
+MNIST_P46_N17,unsat,54.0331
+MNIST_P7_N49,outofmemory,39.048
+MNIST_P68_N31,unsat,219.0117
+MNIST_P74_N26,timeout,3600.009
+MNIST_P99_N18,timeout,3600.02
+MNIST_P4_N12,MarabouError(Return code: 1),1.4259
+MNIST_P45_N33,MarabouError(Return code: 1),1.4168
+MNIST_P59_N35,timeout,3600.021
+MNIST_P48_N10,timeout,3600.023
+MNIST_P23_N15,timeout,3600.007
+MNIST_P40_N34,timeout,3600.016
+MNIST_P63_N40,unsat,41.4477
+MNIST_P86_N40,unsat,40.662
+MNIST_P49_N47,outofmemory,44.888
+MNIST_P28_N20,outofmemory,16.458
+MNIST_P40_N11,timeout,3600.006
+MNIST_P43_N16,MarabouError(Return code: 1),0.9443
+MNIST_P72_N17,unsat,53.5506
+MNIST_P94_N16,MarabouError(Return code: 1),0.9502
+MNIST_P19_N9,unsat,244.0213
+MNIST_P34_N45,timeout,3600.021
+MNIST_P87_N14,outofmemory,35.129
+MNIST_P59_N7,timeout,3600.017
+MNIST_P86_N1,unsat,30.8525
+MNIST_P4_N49,outofmemory,34.935
+MNIST_P17_N27,timeout,3600.014
+MNIST_P32_N9,unsat,239.4713
+MNIST_P38_N21,MarabouError(Return code: 1),2.9777
+MNIST_P45_N24,timeout,3600.007
+MNIST_P63_N1,timeout,3600.003
+MNIST_P98_N48,outofmemory,34.568
+MNIST_P34_N16,MarabouError(Return code: 1),0.9494
+MNIST_P67_N12,MarabouError(Return code: 1),1.3693
+MNIST_P80_N16,MarabouError(Return code: 1),1.0373
+MNIST_P86_N4,MarabouError(Return code: 1),3.2082
+MNIST_P25_N26,timeout,3600.018
+MNIST_P60_N29,unsat,40.7242
+MNIST_P90_N45,timeout,3600.017
+MNIST_P19_N15,timeout,3600.022
+MNIST_P90_N38,timeout,3600.016
+MNIST_P65_N17,outofmemory,27.309
+MNIST_P84_N36,unsat,210.521
+MNIST_P17_N15,timeout,3600.015
+MNIST_P69_N12,MarabouError(Return code: 1),1.3545
+MNIST_P71_N10,timeout,3600.003
+MNIST_P19_N13,timeout,3600.006
+MNIST_P12_N31,unsat,216.9179
+MNIST_P26_N5,timeout,3600.001
+MNIST_P63_N15,timeout,3600.009
+MNIST_P73_N49,outofmemory,36.539
+MNIST_P88_N3,outofmemory,12.221
+MNIST_P92_N38,outofmemory,658.081
+MNIST_P10_N47,outofmemory,50.693
+MNIST_P33_N40,unsat,42.438
+MNIST_P96_N44,timeout,3600.013
+MNIST_P34_N10,timeout,3600.008
+MNIST_P36_N3,outofmemory,12.405
+MNIST_P0_N35,timeout,3600.006
+MNIST_P9_N33,MarabouError(Return code: 1),1.286
+MNIST_P32_N22,MarabouError(Return code: 1),1.4358
+MNIST_P23_N42,unsat,18.9813
+MNIST_P61_N26,timeout,3600.015
+MNIST_P47_N13,unsat,25.6715
+MNIST_P39_N13,timeout,3600.004
+MNIST_P91_N13,timeout,3600.015
+MNIST_P72_N4,MarabouError(Return code: 1),3.193
+MNIST_P80_N22,MarabouError(Return code: 1),1.3237
+MNIST_P99_N12,MarabouError(Return code: 1),1.4492
+MNIST_P54_N11,timeout,3600.0
+MNIST_P25_N35,unsat,64.5255
+MNIST_P9_N21,MarabouError(Return code: 1),3.0867
+MNIST_P10_N25,unsat,212.5885
+MNIST_P57_N27,timeout,3600.017
+MNIST_P45_N3,outofmemory,11.901
+MNIST_P90_N42,unsat,18.0832
+MNIST_P17_N14,outofmemory,35.01
+MNIST_P88_N33,MarabouError(Return code: 1),1.2688
+MNIST_P70_N22,MarabouError(Return code: 1),1.3729
+MNIST_P67_N33,MarabouError(Return code: 1),1.351
+MNIST_P75_N4,MarabouError(Return code: 1),3.2073
+MNIST_P3_N9,unsat,248.88
+MNIST_P48_N34,timeout,3600.003
+MNIST_P33_N19,MarabouError(Return code: 1),3.0651
+MNIST_P51_N24,timeout,3600.007
+MNIST_P98_N46,unsat,236.978
+MNIST_P15_N13,timeout,3600.018
+MNIST_P90_N19,MarabouError(Return code: 1),3.124
+MNIST_P93_N17,unsat,54.0346
+MNIST_P80_N24,timeout,3600.015
+MNIST_P9_N3,outofmemory,12.206
+MNIST_P65_N24,timeout,3600.003
+MNIST_P93_N44,timeout,3600.019
+MNIST_P98_N40,unsat,42.4089
+MNIST_P63_N33,MarabouError(Return code: 1),1.3127
+MNIST_P13_N29,unsat,42.3428
+MNIST_P13_N36,unsat,215.3817
+MNIST_P61_N27,timeout,3600.007
+MNIST_P29_N14,outofmemory,36.233
+MNIST_P70_N26,unsat,10.7523
+MNIST_P87_N20,outofmemory,16.809
+MNIST_P58_N22,MarabouError(Return code: 1),1.4294
+MNIST_P53_N38,outofmemory,350.35
+MNIST_P61_N4,MarabouError(Return code: 1),3.1096
+MNIST_P77_N25,unsat,216.1533
+MNIST_P81_N29,unsat,41.7742
+MNIST_P64_N23,unsat,41.8057
+MNIST_P68_N22,MarabouError(Return code: 1),1.3079
+MNIST_P41_N34,timeout,3600.0
+MNIST_P17_N1,unsat,31.5439
+MNIST_P2_N34,timeout,3600.002
+MNIST_P46_N24,timeout,3600.019
+MNIST_P37_N35,unsat,63.7377
+MNIST_P90_N36,unsat,215.1812
+MNIST_P81_N49,outofmemory,36.224
+MNIST_P58_N31,unsat,221.1292
+MNIST_P96_N26,timeout,3600.01
+MNIST_P39_N33,MarabouError(Return code: 1),1.5524
+MNIST_P17_N16,MarabouError(Return code: 1),0.9705
+MNIST_P81_N34,timeout,3600.004
+MNIST_P52_N15,timeout,3600.008
+MNIST_P13_N12,MarabouError(Return code: 1),1.353
+MNIST_P7_N14,outofmemory,35.316
+MNIST_P75_N31,unsat,216.4548
+MNIST_P98_N44,timeout,3600.006
+MNIST_P41_N48,outofmemory,35.687
+MNIST_P31_N29,unsat,41.2144
+MNIST_P41_N16,MarabouError(Return code: 1),0.9264
+MNIST_P61_N34,timeout,3600.003
+MNIST_P43_N2,outofmemory,119.257
+MNIST_P85_N42,unsat,19.6453
+MNIST_P95_N46,unsat,238.5143
+MNIST_P16_N34,timeout,3600.02
+MNIST_P98_N10,timeout,3600.0
+MNIST_P0_N37,unsat,240.3889
+MNIST_P73_N11,timeout,3600.013
+MNIST_P27_N45,timeout,3600.043
+MNIST_P97_N47,outofmemory,43.797
+MNIST_P2_N21,MarabouError(Return code: 1),3.0158
+MNIST_P42_N38,timeout,3600.016
+MNIST_P27_N3,outofmemory,11.487
+MNIST_P1_N19,MarabouError(Return code: 1),3.2392
+MNIST_P51_N4,MarabouError(Return code: 1),3.3515
+MNIST_P46_N41,outofmemory,52.864
+MNIST_P76_N47,outofmemory,42.686
+MNIST_P25_N34,unsat,12.4113
+MNIST_P30_N22,MarabouError(Return code: 1),1.3209
+MNIST_P20_N20,outofmemory,17.986
+MNIST_P65_N2,outofmemory,118.273
+MNIST_P78_N36,unsat,212.6929
+MNIST_P13_N3,outofmemory,12.273
+MNIST_P84_N42,unsat,19.4062
+MNIST_P44_N31,unsat,226.7674
+MNIST_P47_N27,timeout,3600.014
+MNIST_P59_N31,unsat,219.6382
+MNIST_P31_N27,timeout,3600.009
+MNIST_P9_N48,outofmemory,34.026
+MNIST_P62_N3,outofmemory,11.783
+MNIST_P30_N5,timeout,3600.002
+MNIST_P85_N22,MarabouError(Return code: 1),1.3639
+MNIST_P56_N22,MarabouError(Return code: 1),1.3546
+MNIST_P69_N37,unsat,232.6755
+MNIST_P33_N44,timeout,3600.004
+MNIST_P10_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.1961
+MNIST_P48_N7,timeout,3600.02
+MNIST_P59_N49,outofmemory,34.052
+MNIST_P47_N29,unsat,41.7377
+MNIST_P25_N14,outofmemory,35.537
+MNIST_P41_N22,MarabouError(Return code: 1),1.2871
+MNIST_P86_N24,timeout,3600.01
+MNIST_P89_N18,timeout,3600.009
+MNIST_P27_N33,MarabouError(Return code: 1),1.3303
+MNIST_P50_N46,unsat,239.7311
+MNIST_P56_N44,timeout,3600.017
+MNIST_P91_N9,unsat,242.4615
+MNIST_P47_N18,timeout,3600.014
+MNIST_P87_N46,unsat,243.7204
+MNIST_P26_N46,unsat,238.9857
+MNIST_P23_N20,outofmemory,17.004
+MNIST_P57_N36,unsat,218.5698
+MNIST_P80_N47,outofmemory,42.392
+MNIST_P86_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1352
+MNIST_P70_N13,timeout,3600.001
+MNIST_P64_N47,outofmemory,43.542
+MNIST_P88_N39,timeout,3600.015
+MNIST_P92_N24,timeout,3600.001
+MNIST_P94_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.194
+MNIST_P77_N20,outofmemory,17.106
+MNIST_P97_N23,unsat,41.9805
+MNIST_P78_N9,unsat,234.9132
+MNIST_P2_N44,timeout,3600.005
+MNIST_P36_N34,timeout,3600.005
+MNIST_P2_N36,unsat,213.989
+MNIST_P25_N38,timeout,3600.014
+MNIST_P46_N19,MarabouError(Return code: 1),3.1702
+MNIST_P8_N16,MarabouError(Return code: 1),1.1185
+MNIST_P42_N2,outofmemory,116.103
+MNIST_P42_N49,outofmemory,35.786
+MNIST_P45_N12,MarabouError(Return code: 1),1.4019
+MNIST_P4_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1597
+MNIST_P37_N3,outofmemory,11.872
+MNIST_P67_N11,timeout,3600.012
+MNIST_P26_N39,timeout,3600.004
+MNIST_P70_N16,MarabouError(Return code: 1),0.9901
+MNIST_P58_N49,outofmemory,35.108
+MNIST_P61_N12,MarabouError(Return code: 1),1.339
+MNIST_P99_N2,outofmemory,126.461
+MNIST_P87_N26,timeout,3600.008
+MNIST_P27_N48,outofmemory,41.795
+MNIST_P46_N20,outofmemory,16.808
+MNIST_P1_N46,unsat,252.4502
+MNIST_P25_N12,MarabouError(Return code: 1),1.3499
+MNIST_P39_N9,unsat,237.8136
+MNIST_P43_N22,MarabouError(Return code: 1),1.3665
+MNIST_P73_N24,timeout,3600.013
+MNIST_P53_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1299
+MNIST_P57_N5,timeout,3600.014
+MNIST_P17_N7,timeout,3600.006
+MNIST_P98_N31,unsat,227.3906
+MNIST_P24_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1341
+MNIST_P30_N19,MarabouError(Return code: 1),3.1977
+MNIST_P6_N19,MarabouError(Return code: 1),3.1866
+MNIST_P94_N31,unsat,215.0853
+MNIST_P3_N22,MarabouError(Return code: 1),1.2983
+MNIST_P79_N29,unsat,40.0636
+MNIST_P11_N15,timeout,3600.017
+MNIST_P84_N14,outofmemory,34.874
+MNIST_P26_N17,unsat,54.209
+MNIST_P11_N37,unsat,240.4578
+MNIST_P68_N34,timeout,3600.013
+MNIST_P53_N45,timeout,3600.004
+MNIST_P2_N14,outofmemory,35.424
+MNIST_P36_N47,outofmemory,44.436
+MNIST_P59_N47,outofmemory,43.679
+MNIST_P1_N27,unsat,5.2512
+MNIST_P97_N9,unsat,239.0636
+MNIST_P86_N5,timeout,3600.003
+MNIST_P50_N10,timeout,3600.008
+MNIST_P48_N46,unsat,238.5786
+MNIST_P86_N46,unsat,246.7281
+MNIST_P1_N2,outofmemory,127.268
+MNIST_P5_N1,unsat,31.7027
+MNIST_P70_N40,unsat,41.8738
+MNIST_P93_N12,MarabouError(Return code: 1),1.4232
+MNIST_P93_N11,timeout,3600.021
+MNIST_P14_N21,MarabouError(Return code: 1),3.4283
+MNIST_P20_N25,unsat,219.1989
+MNIST_P97_N2,outofmemory,125.783
+MNIST_P9_N35,unsat,63.9046
+MNIST_P31_N4,MarabouError(Return code: 1),3.2471
+MNIST_P44_N19,MarabouError(Return code: 1),3.228
+MNIST_P96_N29,unsat,42.1269
+MNIST_P13_N5,timeout,3600.009
+MNIST_P69_N44,timeout,3600.011
+MNIST_P44_N34,timeout,3600.017
+MNIST_P48_N48,outofmemory,39.389
+MNIST_P93_N9,unsat,232.8923
+MNIST_P8_N40,unsat,40.8065
+MNIST_P10_N38,timeout,3600.021
+MNIST_P63_N49,outofmemory,35.307
+MNIST_P60_N36,unsat,211.7268
+MNIST_P70_N23,unsat,42.6388
+MNIST_P13_N44,timeout,3600.006
+MNIST_P14_N4,MarabouError(Return code: 1),3.142
+MNIST_P88_N18,timeout,3600.011
+MNIST_P49_N22,MarabouError(Return code: 1),1.3384
+MNIST_P30_N26,timeout,3600.007
+MNIST_P10_N3,outofmemory,12.405
+MNIST_P11_N11,timeout,3600.012
+MNIST_P44_N42,unsat,18.3189
+MNIST_P66_N16,MarabouError(Return code: 1),1.0554
+MNIST_P47_N47,outofmemory,44.55
+MNIST_P75_N17,unsat,53.7893
+MNIST_P79_N39,timeout,3600.014
+MNIST_P78_N42,unsat,18.825
+MNIST_P46_N34,timeout,3600.012
+MNIST_P88_N41,outofmemory,51.308
+MNIST_P3_N13,timeout,3600.018
+MNIST_P98_N14,outofmemory,35.193
+MNIST_P34_N34,timeout,3600.004
+MNIST_P27_N29,unsat,41.838
+MNIST_P17_N44,timeout,3600.002
+MNIST_P62_N42,unsat,18.604
+MNIST_P41_N31,unsat,219.1591
+MNIST_P82_N36,unsat,213.0099
+MNIST_P20_N26,timeout,3600.012
+MNIST_P60_N9,unsat,238.3007
+MNIST_P11_N4,MarabouError(Return code: 1),3.347
+MNIST_P35_N12,MarabouError(Return code: 1),1.279
+MNIST_P54_N13,unsat,25.9186
+MNIST_P67_N27,timeout,3600.004
+MNIST_P78_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.134
+MNIST_P82_N4,MarabouError(Return code: 1),3.0888
+MNIST_P95_N44,timeout,3600.009
+MNIST_P99_N37,unsat,243.8282
+MNIST_P61_N44,timeout,3600.017
+MNIST_P4_N11,timeout,3600.013
+MNIST_P30_N47,outofmemory,43.239
+MNIST_P35_N36,unsat,219.4448
+MNIST_P40_N5,timeout,3600.015
+MNIST_P9_N1,timeout,3600.004
+MNIST_P33_N22,MarabouError(Return code: 1),1.2542
+MNIST_P45_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1303
+MNIST_P51_N35,timeout,3600.004
+MNIST_P33_N46,unsat,236.4454
+MNIST_P0_N20,outofmemory,16.836
+MNIST_P61_N38,timeout,3600.019
+MNIST_P30_N44,timeout,3600.004
+MNIST_P74_N37,unsat,243.8022
+MNIST_P91_N48,outofmemory,35.931
+MNIST_P43_N27,timeout,3600.003
+MNIST_P93_N39,timeout,3600.014
+MNIST_P69_N5,timeout,3600.015
+MNIST_P99_N27,timeout,3600.003
+MNIST_P21_N13,timeout,3600.007
+MNIST_P21_N14,outofmemory,34.817
+MNIST_P75_N14,outofmemory,34.156
+MNIST_P20_N36,unsat,217.7592
+MNIST_P6_N16,MarabouError(Return code: 1),0.9815
+MNIST_P51_N1,unsat,30.4921
+MNIST_P57_N4,MarabouError(Return code: 1),2.9853
+MNIST_P21_N5,timeout,3600.009
+MNIST_P65_N10,timeout,3600.008
+MNIST_P12_N25,unsat,214.4268
+MNIST_P24_N31,unsat,224.0596
+MNIST_P52_N45,timeout,3600.001
+MNIST_P11_N18,timeout,3600.014
+MNIST_P12_N16,MarabouError(Return code: 1),0.9503
+MNIST_P86_N10,timeout,3600.009
+MNIST_P31_N25,unsat,219.8583
+MNIST_P87_N48,outofmemory,34.443
+MNIST_P35_N41,outofmemory,51.499
+MNIST_P93_N46,unsat,241.2777
+MNIST_P83_N26,unsat,10.4818
+MNIST_P99_N11,timeout,3600.005
+MNIST_P88_N27,timeout,3600.02
+MNIST_P79_N35,timeout,3600.004
+MNIST_P27_N39,timeout,3600.017
+MNIST_P64_N26,timeout,3600.017
+MNIST_P80_N37,unsat,234.5914
+MNIST_P35_N17,unsat,54.6504
+MNIST_P16_N22,MarabouError(Return code: 1),1.3586
+MNIST_P18_N35,timeout,3600.018
+MNIST_P24_N36,unsat,218.5167
+MNIST_P54_N24,timeout,3600.022
+MNIST_P75_N46,unsat,240.0062
+MNIST_P96_N1,timeout,3600.018
+MNIST_P41_N12,MarabouError(Return code: 1),1.3888
+MNIST_P99_N40,unsat,43.4226
+MNIST_P34_N42,unsat,18.6036
+MNIST_P18_N26,timeout,3600.019
+MNIST_P76_N37,unsat,236.9457
+MNIST_P19_N7,timeout,3600.002
+MNIST_P69_N4,MarabouError(Return code: 1),3.0846
+MNIST_P77_N10,timeout,3600.011
+MNIST_P61_N14,outofmemory,35.224
+MNIST_P98_N16,MarabouError(Return code: 1),1.025
+MNIST_P55_N22,MarabouError(Return code: 1),1.3575
+MNIST_P52_N1,unsat,30.7674
+MNIST_P65_N46,unsat,251.5499
+MNIST_P26_N49,outofmemory,34.389
+MNIST_P13_N37,unsat,239.7358
+MNIST_P27_N14,outofmemory,42.28
+MNIST_P59_N36,unsat,219.8982
+MNIST_P71_N26,timeout,3600.006
+MNIST_P18_N29,unsat,40.118
+MNIST_P25_N36,unsat,215.3581
+MNIST_P59_N17,unsat,54.0734
+MNIST_P13_N22,MarabouError(Return code: 1),1.3497
+MNIST_P63_N44,timeout,3600.017
+MNIST_P11_N7,timeout,3600.015
+MNIST_P64_N5,timeout,3600.0
+MNIST_P70_N33,MarabouError(Return code: 1),1.3586
+MNIST_P16_N47,outofmemory,50.51
+MNIST_P25_N23,unsat,44.0329
+MNIST_P38_N26,timeout,3600.018
+MNIST_P71_N29,unsat,40.5382
+MNIST_P86_N29,unsat,41.2396
+MNIST_P86_N41,outofmemory,53.341
+MNIST_P87_N39,timeout,3600.014
+MNIST_P0_N22,MarabouError(Return code: 1),1.3631
+MNIST_P29_N26,timeout,3600.013
+MNIST_P4_N46,unsat,235.8846
+MNIST_P17_N29,unsat,41.9605
+MNIST_P88_N34,timeout,3600.008
+MNIST_P53_N9,unsat,232.2587
+MNIST_P42_N31,unsat,220.0892
+MNIST_P42_N16,MarabouError(Return code: 1),1.0197
+MNIST_P0_N31,unsat,223.263
+MNIST_P10_N17,unsat,53.9815
+MNIST_P17_N12,MarabouError(Return code: 1),1.2656
+MNIST_P70_N2,outofmemory,121.901
+MNIST_P32_N15,timeout,3600.016
+MNIST_P83_N20,outofmemory,16.733
+MNIST_P91_N29,unsat,42.3925
+MNIST_P85_N4,MarabouError(Return code: 1),3.3384
+MNIST_P42_N9,unsat,237.9565
+MNIST_P86_N2,outofmemory,119.194
+MNIST_P83_N36,unsat,219.1983
+MNIST_P12_N44,timeout,3600.011
+MNIST_P59_N13,timeout,3600.005
+MNIST_P3_N21,MarabouError(Return code: 1),2.954
+MNIST_P74_N14,outofmemory,35.104
+MNIST_P43_N7,timeout,3600.019
+MNIST_P32_N13,timeout,3600.006
+MNIST_P50_N16,MarabouError(Return code: 1),0.9882
+MNIST_P76_N39,timeout,3600.022
+MNIST_P55_N36,unsat,219.6564
+MNIST_P4_N31,unsat,225.7208
+MNIST_P4_N5,timeout,3600.018
+MNIST_P18_N33,MarabouError(Return code: 1),1.3089
+MNIST_P51_N41,outofmemory,51.579
+MNIST_P32_N46,unsat,236.3725
+MNIST_P31_N22,MarabouError(Return code: 1),1.2914
+MNIST_P45_N27,timeout,3600.011
+MNIST_P53_N1,timeout,3600.012
+MNIST_P71_N46,unsat,240.9768
+MNIST_P90_N5,timeout,3600.008
+MNIST_P18_N39,timeout,3600.012
+MNIST_P59_N19,MarabouError(Return code: 1),3.1735
+MNIST_P70_N24,timeout,3600.005
+MNIST_P3_N20,outofmemory,17.547
+MNIST_P41_N2,outofmemory,114.477
+MNIST_P3_N42,unsat,18.251
+MNIST_P83_N39,timeout,3600.004
+MNIST_P54_N36,unsat,217.4188
+MNIST_P47_N16,MarabouError(Return code: 1),1.0117
+MNIST_P33_N25,unsat,227.0269
+MNIST_P22_N1,unsat,31.2283
+MNIST_P65_N39,outofmemory,311.767
+MNIST_P69_N17,unsat,54.868
+MNIST_P14_N42,unsat,18.5194
+MNIST_P69_N41,outofmemory,53.115
+MNIST_P77_N40,unsat,41.7804
+MNIST_P91_N44,timeout,3600.016
+MNIST_P81_N11,timeout,3600.012
+MNIST_P33_N23,unsat,40.7331
+MNIST_P75_N2,outofmemory,112.609
+MNIST_P23_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1535
+MNIST_P88_N14,outofmemory,34.129
+MNIST_P7_N35,timeout,3600.009
+MNIST_P6_N26,timeout,3600.017
+MNIST_P16_N26,timeout,3600.016
+MNIST_P66_N33,MarabouError(Return code: 1),1.2815
+MNIST_P92_N49,outofmemory,34.792
+MNIST_P55_N37,unsat,248.8494
+MNIST_P82_N45,unsat,8.1135
+MNIST_P47_N34,timeout,3600.003
+MNIST_P36_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1981
+MNIST_P80_N21,MarabouError(Return code: 1),3.3362
+MNIST_P61_N11,timeout,3600.017
+MNIST_P52_N48,outofmemory,35.771
+MNIST_P73_N27,timeout,3600.015
+MNIST_P6_N1,unsat,30.8691
+MNIST_P43_N14,outofmemory,34.846
+MNIST_P54_N10,timeout,3600.017
+MNIST_P77_N37,unsat,248.5736
+MNIST_P21_N48,outofmemory,35.67
+MNIST_P86_N38,timeout,3600.011
+MNIST_P78_N45,timeout,3600.003
+MNIST_P54_N25,unsat,215.8467
+MNIST_P32_N19,MarabouError(Return code: 1),3.1326
+MNIST_P2_N20,outofmemory,16.525
+MNIST_P64_N37,unsat,244.6115
+MNIST_P57_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.1954
+MNIST_P85_N25,unsat,220.0424
+MNIST_P30_N45,unsat,8.2334
+MNIST_P46_N4,MarabouError(Return code: 1),2.9802
+MNIST_P48_N27,timeout,3600.006
+MNIST_P70_N11,timeout,3600.019
+MNIST_P33_N45,timeout,3600.003
+MNIST_P63_N39,timeout,3600.011
+MNIST_P40_N19,MarabouError(Return code: 1),3.1553
+MNIST_P34_N19,MarabouError(Return code: 1),3.8864
+MNIST_P30_N36,unsat,216.5097
+MNIST_P74_N27,timeout,3600.016
+MNIST_P97_N44,timeout,3600.017
+MNIST_P36_N27,timeout,3600.006
+MNIST_P24_N26,timeout,3600.002
+MNIST_P48_N36,unsat,218.9644
+MNIST_P90_N39,timeout,3600.019
+MNIST_P15_N5,timeout,3600.021
+MNIST_P34_N12,MarabouError(Return code: 1),1.322
+MNIST_P10_N41,outofmemory,52.051
+MNIST_P52_N14,outofmemory,36.131
+MNIST_P16_N39,timeout,3600.013
+MNIST_P43_N26,timeout,3600.009
+MNIST_P60_N27,timeout,3600.011
+MNIST_P40_N25,unsat,223.4991
+MNIST_P53_N39,timeout,3600.021
+MNIST_P65_N7,outofmemory,737.738
+MNIST_P49_N45,timeout,3600.012
+MNIST_P73_N1,timeout,3600.01
+MNIST_P43_N13,timeout,3600.017
+MNIST_P90_N40,unsat,43.3575
+MNIST_P92_N34,timeout,3600.02
+MNIST_P88_N37,unsat,243.1227
+MNIST_P95_N35,unsat,66.0574
+MNIST_P98_N7,timeout,3600.021
+MNIST_P12_N49,outofmemory,38.662
+MNIST_P51_N12,MarabouError(Return code: 1),1.2725
+MNIST_P26_N12,MarabouError(Return code: 1),1.3038
+MNIST_P11_N12,MarabouError(Return code: 1),1.365
+MNIST_P14_N36,unsat,216.4045
+MNIST_P9_N23,unsat,41.1399
+MNIST_P20_N44,timeout,3600.02
+MNIST_P61_N45,timeout,3600.003
+MNIST_P56_N2,outofmemory,115.675
+MNIST_P85_N7,timeout,3600.005
+MNIST_P6_N20,outofmemory,17.749
+MNIST_P26_N16,MarabouError(Return code: 1),1.0171
+MNIST_P47_N40,unsat,41.2392
+MNIST_P95_N40,unsat,42.3054
+MNIST_P43_N41,outofmemory,51.837
+MNIST_P50_N49,outofmemory,34.973
+MNIST_P33_N42,unsat,18.6605
+MNIST_P30_N9,unsat,236.5403
+MNIST_P36_N40,unsat,41.7485
+MNIST_P62_N15,timeout,3600.013
+MNIST_P5_N13,timeout,3600.011
+MNIST_P71_N9,unsat,233.5411
+MNIST_P12_N12,MarabouError(Return code: 1),1.2996
+MNIST_P84_N23,unsat,42.2198
+MNIST_P56_N47,outofmemory,43.103
+MNIST_P12_N20,outofmemory,16.759
+MNIST_P86_N44,timeout,3600.011
+MNIST_P24_N29,unsat,41.8681
+MNIST_P68_N24,timeout,3600.004
+MNIST_P60_N35,timeout,3600.004
+MNIST_P42_N15,timeout,3600.01
+MNIST_P8_N23,unsat,42.2473
+MNIST_P42_N37,unsat,235.0174
+MNIST_P30_N34,timeout,3600.019
+MNIST_P46_N7,timeout,3600.016
+MNIST_P56_N16,MarabouError(Return code: 1),0.952
+MNIST_P68_N7,timeout,3600.015
+MNIST_P92_N27,timeout,3600.001
+MNIST_P49_N41,outofmemory,51.559
+MNIST_P53_N33,MarabouError(Return code: 1),1.3919
+MNIST_P71_N18,timeout,3600.005
+MNIST_P10_N22,MarabouError(Return code: 1),1.3935
+MNIST_P85_N45,unsat,7.9657
+MNIST_P51_N34,timeout,3600.018
+MNIST_P54_N39,timeout,3600.01
+MNIST_P43_N42,unsat,18.7303
+MNIST_P96_N40,unsat,41.9887
+MNIST_P29_N17,unsat,54.023
+MNIST_P19_N29,unsat,40.7202
+MNIST_P43_N33,MarabouError(Return code: 1),1.3505
+MNIST_P28_N26,timeout,3600.003
+MNIST_P1_N11,timeout,3600.004
+MNIST_P25_N9,unsat,239.9118
+MNIST_P29_N25,unsat,213.5583
+MNIST_P43_N23,unsat,41.3277
+MNIST_P45_N1,timeout,3600.005
+MNIST_P64_N1,timeout,3600.007
+MNIST_P97_N37,unsat,241.255
+MNIST_P71_N44,timeout,3600.005
+MNIST_P24_N48,outofmemory,38.213
+MNIST_P54_N18,timeout,3600.021
+MNIST_P68_N38,timeout,3600.009
+MNIST_P77_N14,outofmemory,36.203
+MNIST_P78_N24,timeout,3600.008
+MNIST_P38_N3,outofmemory,12.262
+MNIST_P39_N14,outofmemory,34.541
+MNIST_P97_N35,timeout,3600.018
+MNIST_P12_N15,timeout,3600.021
+MNIST_P75_N15,timeout,3600.003
+MNIST_P8_N29,unsat,40.4493
+MNIST_P99_N17,unsat,54.4292
+MNIST_P28_N7,timeout,3600.0
+MNIST_P6_N24,timeout,3600.008
+MNIST_P38_N27,unsat,5.4555
+MNIST_P13_N18,timeout,3600.006
+MNIST_P21_N21,MarabouError(Return code: 1),3.0296
+MNIST_P24_N39,timeout,3600.002
+MNIST_P51_N46,unsat,249.54
+MNIST_P56_N38,timeout,3600.014
+MNIST_P21_N18,timeout,3600.017
+MNIST_P83_N3,outofmemory,11.697
+MNIST_P63_N36,unsat,224.3911
+MNIST_P38_N13,timeout,3600.002
+MNIST_P84_N18,timeout,3600.02
+MNIST_P14_N22,MarabouError(Return code: 1),1.2588
+MNIST_P20_N15,timeout,3600.008
+MNIST_P50_N39,timeout,3600.014
+MNIST_P28_N4,MarabouError(Return code: 1),3.1385
+MNIST_P30_N35,timeout,3600.018
+MNIST_P33_N36,unsat,215.7043
+MNIST_P36_N46,unsat,245.3139
+MNIST_P50_N36,unsat,219.2268
+MNIST_P55_N33,MarabouError(Return code: 1),1.401
+MNIST_P97_N34,timeout,3600.01
+MNIST_P8_N27,timeout,3600.025
+MNIST_P57_N41,outofmemory,51.258
+MNIST_P97_N17,outofmemory,25.761
+MNIST_P42_N48,outofmemory,37.911
+MNIST_P37_N33,MarabouError(Return code: 1),1.3301
+MNIST_P94_N17,unsat,54.1091
+MNIST_P15_N27,timeout,3600.011
+MNIST_P80_N20,outofmemory,16.907
+MNIST_P25_N37,unsat,242.6126
+MNIST_P7_N25,unsat,215.7899
+MNIST_P58_N26,timeout,3600.003
+MNIST_P77_N5,timeout,3600.001
+MNIST_P3_N2,outofmemory,129.739
+MNIST_P55_N29,unsat,41.568
+MNIST_P74_N49,outofmemory,34.998
+MNIST_P20_N48,outofmemory,35.713
+MNIST_P86_N22,MarabouError(Return code: 1),1.3319
+MNIST_P35_N24,timeout,3600.005
+MNIST_P14_N35,timeout,3600.004
+MNIST_P20_N42,unsat,19.0954
+MNIST_P53_N2,outofmemory,115.217
+MNIST_P68_N23,unsat,41.0712
+MNIST_P73_N31,unsat,222.4865
+MNIST_P74_N5,timeout,3600.022
+MNIST_P53_N29,unsat,42.4196
+MNIST_P55_N11,timeout,3600.005
+MNIST_P37_N29,unsat,41.4616
+MNIST_P32_N3,outofmemory,17.409
+MNIST_P95_N24,timeout,3600.02
+MNIST_P16_N3,outofmemory,12.93
+MNIST_P15_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1758
+MNIST_P28_N24,timeout,3600.02
+MNIST_P48_N19,MarabouError(Return code: 1),3.1582
+MNIST_P92_N25,unsat,219.4233
+MNIST_P97_N15,timeout,3600.011
+MNIST_P82_N12,MarabouError(Return code: 1),1.2816
+MNIST_P11_N27,timeout,3600.018
+MNIST_P18_N40,unsat,40.7448
+MNIST_P67_N10,timeout,3600.017
+MNIST_P34_N21,MarabouError(Return code: 1),3.2014
+MNIST_P59_N48,outofmemory,34.053
+MNIST_P69_N26,timeout,3600.011
+MNIST_P63_N9,unsat,235.4602
+MNIST_P18_N41,outofmemory,52.357
+MNIST_P20_N38,timeout,3600.005
+MNIST_P63_N37,unsat,241.9858
+MNIST_P97_N24,timeout,3600.004
+MNIST_P75_N16,MarabouError(Return code: 1),1.0354
+MNIST_P37_N38,timeout,3600.004
+MNIST_P47_N22,MarabouError(Return code: 1),1.2638
+MNIST_P2_N35,timeout,3600.013
+MNIST_P87_N25,unsat,215.3182
+MNIST_P27_N35,timeout,3600.015
+MNIST_P24_N38,timeout,3600.02
+MNIST_P42_N12,MarabouError(Return code: 1),1.3473
+MNIST_P44_N15,timeout,3600.019
+MNIST_P60_N11,timeout,3600.019
+MNIST_P64_N36,unsat,218.419
+MNIST_P2_N25,unsat,218.3879
+MNIST_P43_N38,timeout,3600.022
+MNIST_P25_N5,timeout,3600.016
+MNIST_P66_N48,outofmemory,35.557
+MNIST_P7_N33,MarabouError(Return code: 1),1.3289
+MNIST_P83_N47,outofmemory,42.87
+MNIST_P44_N27,timeout,3600.015
+MNIST_P28_N38,timeout,3600.002
+MNIST_P57_N48,outofmemory,35.811
+MNIST_P23_N47,outofmemory,42.572
+MNIST_P47_N38,timeout,3600.003
+MNIST_P95_N25,unsat,215.3938
+MNIST_P43_N36,unsat,219.2322
+MNIST_P2_N15,timeout,3600.001
+MNIST_P96_N31,unsat,226.2347
+MNIST_P85_N34,timeout,3600.011
+MNIST_P18_N27,timeout,3600.009
+MNIST_P72_N33,MarabouError(Return code: 1),1.3794
+MNIST_P74_N44,timeout,3600.019
+MNIST_P43_N20,outofmemory,16.617
+MNIST_P8_N3,outofmemory,11.969
+MNIST_P7_N13,timeout,3600.017
+MNIST_P31_N20,outofmemory,18.017
+MNIST_P45_N44,timeout,3600.002
+MNIST_P53_N14,outofmemory,35.392
+MNIST_P55_N25,unsat,217.2279
+MNIST_P96_N46,unsat,235.8038
+MNIST_P33_N18,timeout,3600.008
+MNIST_P42_N5,timeout,3600.013
+MNIST_P2_N37,unsat,236.6247
+MNIST_P47_N48,outofmemory,35.333
+MNIST_P68_N45,unsat,8.0224
+MNIST_P81_N20,outofmemory,16.755
+MNIST_P24_N41,outofmemory,51.945
+MNIST_P25_N7,timeout,3600.014
+MNIST_P74_N45,timeout,3600.013
+MNIST_P93_N24,timeout,3600.005
+MNIST_P98_N11,timeout,3600.008
+MNIST_P9_N25,unsat,216.4182
+MNIST_P46_N13,timeout,3600.002
+MNIST_P17_N5,timeout,3600.008
+MNIST_P2_N13,timeout,3600.017
+MNIST_P61_N48,outofmemory,35.352
+MNIST_P25_N13,unsat,26.6387
+MNIST_P43_N31,unsat,219.2208
+MNIST_P0_N5,timeout,3600.017
+MNIST_P80_N3,outofmemory,11.726
+MNIST_P1_N14,outofmemory,36.193
+MNIST_P13_N11,timeout,3600.015
+MNIST_P93_N10,timeout,3600.017
+MNIST_P50_N18,timeout,3600.001
+MNIST_P10_N7,timeout,3600.015
+MNIST_P29_N44,timeout,3600.013
+MNIST_P84_N5,timeout,3600.013
+MNIST_P31_N11,timeout,3600.016
+MNIST_P36_N26,timeout,3600.006
+MNIST_P65_N31,unsat,219.748
+MNIST_P86_N31,unsat,218.5219
+MNIST_P18_N42,unsat,17.7702
+MNIST_P31_N31,unsat,229.4676
+MNIST_P78_N39,timeout,3600.012
+MNIST_P86_N39,timeout,3600.004
+MNIST_P11_N45,unsat,8.1803
+MNIST_P46_N25,unsat,225.9017
+MNIST_P48_N42,unsat,18.5885
+MNIST_P30_N48,outofmemory,35.069
+MNIST_P11_N41,outofmemory,52.089
+MNIST_P46_N3,outofmemory,11.792
+MNIST_P38_N15,timeout,3600.001
+MNIST_P36_N44,timeout,3600.02
+MNIST_P23_N36,unsat,216.7603
+MNIST_P53_N41,outofmemory,51.64
+MNIST_P57_N31,unsat,222.5185
+MNIST_P1_N4,MarabouError(Return code: 1),2.9541
+MNIST_P32_N26,unsat,10.9135
+MNIST_P46_N35,timeout,3600.017
+MNIST_P33_N27,timeout,3600.012
+MNIST_P81_N7,timeout,3600.011
+MNIST_P82_N48,outofmemory,36.799
+MNIST_P44_N38,timeout,3600.021
+MNIST_P8_N41,outofmemory,51.958
+MNIST_P76_N16,MarabouError(Return code: 1),1.161
+MNIST_P44_N1,timeout,3600.008
+MNIST_P79_N37,unsat,250.6226
+MNIST_P59_N4,MarabouError(Return code: 1),3.4435
+MNIST_P84_N35,unsat,64.0936
+MNIST_P88_N24,timeout,3600.013
+MNIST_P17_N21,MarabouError(Return code: 1),3.0364
+MNIST_P33_N7,outofmemory,413.213
+MNIST_P43_N34,timeout,3600.007
+MNIST_P45_N29,unsat,41.3881
+MNIST_P97_N19,MarabouError(Return code: 1),3.187
+MNIST_P80_N1,timeout,3600.007
+MNIST_P19_N22,MarabouError(Return code: 1),1.2742
+MNIST_P59_N45,timeout,3600.018
+MNIST_P33_N4,MarabouError(Return code: 1),3.1221
+MNIST_P35_N26,timeout,3600.017
+MNIST_P20_N22,MarabouError(Return code: 1),1.2954
+MNIST_P73_N33,MarabouError(Return code: 1),1.3632
+MNIST_P0_N46,unsat,236.0479
+MNIST_P22_N14,outofmemory,34.982
+MNIST_P15_N18,timeout,3600.02
+MNIST_P54_N22,MarabouError(Return code: 1),1.3776
+MNIST_P96_N33,MarabouError(Return code: 1),1.283
+MNIST_P54_N46,unsat,245.8624
+MNIST_P23_N12,MarabouError(Return code: 1),1.3154
+MNIST_P52_N17,unsat,55.1397
+MNIST_P53_N44,timeout,3600.001
+MNIST_P5_N46,unsat,246.9409
+MNIST_P79_N13,unsat,25.4386
+MNIST_P7_N12,MarabouError(Return code: 1),1.2528
+MNIST_P95_N3,outofmemory,11.784
+MNIST_P2_N49,outofmemory,34.262
+MNIST_P39_N37,unsat,233.8781
+MNIST_P72_N5,timeout,3600.001
+MNIST_P53_N27,timeout,3600.007
+MNIST_P42_N47,outofmemory,43.611
+MNIST_P28_N15,timeout,3600.015
+MNIST_P81_N25,unsat,212.1335
+MNIST_P37_N26,timeout,3600.013
+MNIST_P79_N16,MarabouError(Return code: 1),0.9489
+MNIST_P32_N2,outofmemory,120.651
+MNIST_P32_N17,unsat,53.8348
+MNIST_P66_N37,unsat,239.2257
+MNIST_P89_N19,MarabouError(Return code: 1),3.152
+MNIST_P38_N37,unsat,236.0917
+MNIST_P2_N18,timeout,3600.015
+MNIST_P7_N34,timeout,3600.0
+MNIST_P49_N1,unsat,30.7577
+MNIST_P90_N21,MarabouError(Return code: 1),3.5827
+MNIST_P13_N46,unsat,234.692
+MNIST_P68_N1,unsat,31.8962
+MNIST_P30_N20,outofmemory,16.906
+MNIST_P15_N33,MarabouError(Return code: 1),1.3411
+MNIST_P31_N44,timeout,3600.009
+MNIST_P11_N22,MarabouError(Return code: 1),1.3571
+MNIST_P63_N17,outofmemory,37.502
+MNIST_P58_N47,outofmemory,51.498
+MNIST_P35_N15,timeout,3600.004
+MNIST_P64_N49,outofmemory,34.801
+MNIST_P15_N34,timeout,3600.016
+MNIST_P21_N42,unsat,18.0796
+MNIST_P36_N36,unsat,217.2601
+MNIST_P20_N31,unsat,215.3564
+MNIST_P47_N11,timeout,3600.016
+MNIST_P52_N27,timeout,3600.017
+MNIST_P59_N33,MarabouError(Return code: 1),1.3254
+MNIST_P59_N39,timeout,3600.009
+MNIST_P57_N40,unsat,42.6789
+MNIST_P0_N2,outofmemory,119.783
+MNIST_P41_N3,outofmemory,11.881
+MNIST_P88_N17,unsat,55.6372
+MNIST_P70_N38,timeout,3600.02
+MNIST_P80_N13,timeout,3600.014
+MNIST_P6_N37,unsat,243.5192
+MNIST_P50_N4,MarabouError(Return code: 1),3.1656
+MNIST_P68_N3,outofmemory,18.117
+MNIST_P96_N25,unsat,215.3716
+MNIST_P18_N10,timeout,3600.018
+MNIST_P73_N45,timeout,3600.015
+MNIST_P62_N37,unsat,241.1903
+MNIST_P74_N36,unsat,223.3404
+MNIST_P81_N5,timeout,3600.002
+MNIST_P12_N26,timeout,3600.007
+MNIST_P79_N4,MarabouError(Return code: 1),3.0841
+MNIST_P45_N4,MarabouError(Return code: 1),3.3163
+MNIST_P42_N42,unsat,17.675
+MNIST_P6_N44,timeout,3600.017
+MNIST_P20_N35,timeout,3600.004
+MNIST_P41_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1302
+MNIST_P71_N31,unsat,221.345
+MNIST_P28_N1,unsat,31.1131
+MNIST_P21_N22,MarabouError(Return code: 1),1.3573
+MNIST_P20_N11,timeout,3600.019
+MNIST_P34_N24,timeout,3600.011
+MNIST_P22_N38,timeout,3600.014
+MNIST_P69_N14,outofmemory,34.832
+MNIST_P54_N42,unsat,18.101
+MNIST_P91_N10,timeout,3600.022
+MNIST_P93_N38,timeout,3600.015
+MNIST_P58_N48,outofmemory,36.403
+MNIST_P38_N42,unsat,17.738
+MNIST_P40_N46,unsat,246.497
+MNIST_P10_N10,timeout,3600.018
+MNIST_P33_N49,outofmemory,36.458
+MNIST_P1_N7,timeout,3600.001
+MNIST_P72_N44,timeout,3600.013
+MNIST_P67_N23,unsat,40.624
+MNIST_P60_N15,timeout,3600.019
+MNIST_P85_N1,unsat,31.1542
+MNIST_P66_N41,outofmemory,52.068
+MNIST_P87_N44,timeout,3600.009
+MNIST_P85_N29,unsat,40.6737
+MNIST_P16_N4,MarabouError(Return code: 1),3.4145
+MNIST_P43_N18,timeout,3600.013
+MNIST_P20_N29,unsat,40.365
+MNIST_P45_N21,MarabouError(Return code: 1),3.2472
+MNIST_P24_N18,timeout,3600.015
+MNIST_P64_N46,unsat,243.4987
+MNIST_P91_N12,MarabouError(Return code: 1),1.3828
+MNIST_P26_N40,unsat,42.0832
+MNIST_P33_N48,outofmemory,36.029
+MNIST_P76_N25,unsat,220.418
+MNIST_P29_N11,timeout,3600.018
+MNIST_P93_N37,unsat,248.5218
+MNIST_P82_N42,unsat,19.0778
+MNIST_P59_N29,unsat,43.1244
+MNIST_P29_N15,timeout,3600.012
+MNIST_P55_N38,timeout,3600.009
+MNIST_P52_N21,MarabouError(Return code: 1),3.289
+MNIST_P32_N20,outofmemory,16.465
+MNIST_P46_N44,timeout,3600.016
+MNIST_P7_N38,outofmemory,176.216
+MNIST_P48_N5,timeout,3600.009
+MNIST_P69_N15,timeout,3600.018
+MNIST_P73_N35,timeout,3600.003
+MNIST_P9_N22,MarabouError(Return code: 1),1.4442
+MNIST_P12_N34,timeout,3600.008
+MNIST_P6_N33,MarabouError(Return code: 1),1.4234
+MNIST_P62_N19,MarabouError(Return code: 1),3.2253
+MNIST_P8_N4,MarabouError(Return code: 1),3.2268
+MNIST_P88_N42,unsat,18.4858
+MNIST_P89_N46,unsat,240.3903
+MNIST_P77_N3,outofmemory,11.795
+MNIST_P8_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1566
+MNIST_P44_N46,unsat,239.3083
+MNIST_P60_N7,timeout,3600.01
+MNIST_P70_N1,unsat,30.4714
+MNIST_P9_N46,unsat,247.6349
+MNIST_P56_N5,timeout,3600.017
+MNIST_P71_N5,timeout,3600.002
+MNIST_P92_N2,outofmemory,116.457
+MNIST_P43_N4,MarabouError(Return code: 1),2.9712
+MNIST_P36_N25,unsat,214.9432
+MNIST_P67_N45,unsat,8.1976
+MNIST_P25_N16,MarabouError(Return code: 1),1.0478
+MNIST_P41_N19,MarabouError(Return code: 1),3.454
+MNIST_P17_N13,timeout,3600.002
+MNIST_P46_N49,outofmemory,34.417
+MNIST_P3_N39,timeout,3600.017
+MNIST_P14_N1,unsat,30.17
+MNIST_P75_N41,outofmemory,51.101
+MNIST_P95_N12,MarabouError(Return code: 1),1.2881
+MNIST_P10_N35,unsat,64.7654
+MNIST_P89_N9,unsat,241.1087
+MNIST_P64_N44,timeout,3600.003
+MNIST_P4_N23,unsat,40.7633
+MNIST_P46_N36,unsat,222.9614
+MNIST_P41_N27,timeout,3600.009
+MNIST_P26_N19,MarabouError(Return code: 1),3.1375
+MNIST_P28_N29,unsat,40.9162
+MNIST_P50_N42,unsat,18.238
+MNIST_P53_N23,unsat,41.0872
+MNIST_P1_N25,unsat,215.1608
+MNIST_P64_N24,timeout,3600.003
+MNIST_P71_N3,outofmemory,12.209
+MNIST_P74_N3,outofmemory,11.899
+MNIST_P31_N7,timeout,3600.006
+MNIST_P51_N15,timeout,3600.02
+MNIST_P35_N7,timeout,3600.004
+MNIST_P98_N39,timeout,3600.006
+MNIST_P55_N26,timeout,3600.018
+MNIST_P17_N10,timeout,3600.006
+MNIST_P30_N39,timeout,3600.021
+MNIST_P42_N46,unsat,239.727
+MNIST_P18_N20,outofmemory,17.327
+MNIST_P78_N10,timeout,3600.012
+MNIST_P6_N36,unsat,212.9256
+MNIST_P4_N3,outofmemory,12.254
+MNIST_P30_N3,outofmemory,11.998
+MNIST_P35_N29,unsat,42.3343
+MNIST_P73_N22,MarabouError(Return code: 1),1.3595
+MNIST_P29_N39,timeout,3600.013
+MNIST_P62_N41,outofmemory,52.646
+MNIST_P83_N35,timeout,3600.014
+MNIST_P6_N9,unsat,249.0231
+MNIST_P10_N12,MarabouError(Return code: 1),1.3148
+MNIST_P62_N31,unsat,219.1278
+MNIST_P37_N37,unsat,238.2472
+MNIST_P3_N40,unsat,42.0921
+MNIST_P57_N47,outofmemory,44.185
+MNIST_P91_N27,timeout,3600.006
+MNIST_P69_N21,MarabouError(Return code: 1),3.1125
+MNIST_P26_N7,timeout,3600.011
+MNIST_P44_N18,timeout,3600.009
+MNIST_P69_N46,unsat,253.6254
+MNIST_P77_N45,timeout,3600.007
+MNIST_P91_N34,timeout,3600.009
+MNIST_P93_N16,MarabouError(Return code: 1),1.0461
+MNIST_P94_N9,unsat,246.9539
+MNIST_P83_N4,MarabouError(Return code: 1),3.0278
+MNIST_P15_N42,unsat,18.2804
+MNIST_P59_N42,unsat,18.7371
+MNIST_P83_N16,MarabouError(Return code: 1),1.0389
+MNIST_P99_N29,unsat,42.0526
+MNIST_P51_N45,unsat,8.2135
+MNIST_P40_N14,outofmemory,34.299
+MNIST_P27_N27,timeout,3600.006
+MNIST_P19_N23,unsat,43.6622
+MNIST_P85_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1707
+MNIST_P23_N44,timeout,3600.009
+MNIST_P34_N1,unsat,32.0778
+MNIST_P99_N45,unsat,8.7177
+MNIST_P29_N2,outofmemory,125.133
+MNIST_P94_N3,outofmemory,11.739
+MNIST_P70_N12,MarabouError(Return code: 1),1.3479
+MNIST_P35_N35,timeout,3600.018
+MNIST_P46_N29,unsat,41.2283
+MNIST_P51_N18,timeout,3600.007
+MNIST_P72_N25,unsat,213.7707
+MNIST_P46_N33,MarabouError(Return code: 1),1.3634
+MNIST_P50_N17,unsat,54.1988
+MNIST_P60_N1,unsat,30.8712
+MNIST_P44_N40,unsat,42.7792
+MNIST_P20_N19,MarabouError(Return code: 1),3.2302
+MNIST_P42_N27,timeout,3600.001
+MNIST_P92_N17,outofmemory,13.545
+MNIST_P18_N23,unsat,40.9502
+MNIST_P70_N9,unsat,242.8469
+MNIST_P26_N23,unsat,41.066
+MNIST_P86_N13,timeout,3600.017
+MNIST_P88_N40,unsat,41.8656
+MNIST_P23_N4,MarabouError(Return code: 1),3.5404
+MNIST_P66_N11,timeout,3600.02
+MNIST_P19_N44,timeout,3600.013
+MNIST_P4_N17,unsat,54.718
+MNIST_P10_N34,timeout,3600.018
+MNIST_P87_N23,unsat,42.7174
+MNIST_P38_N41,outofmemory,52.866
+MNIST_P71_N21,MarabouError(Return code: 1),3.4239
+MNIST_P15_N39,timeout,3600.002
+MNIST_P6_N25,unsat,223.6846
+MNIST_P1_N42,unsat,18.6945
+MNIST_P70_N49,outofmemory,35.692
+MNIST_P0_N3,outofmemory,11.91
+MNIST_P19_N16,MarabouError(Return code: 1),0.9491
+MNIST_P1_N41,outofmemory,50.958
+MNIST_P9_N44,timeout,3600.006
+MNIST_P75_N18,timeout,3600.019
+MNIST_P99_N5,timeout,3600.016
+MNIST_P32_N37,unsat,240.2807
+MNIST_P95_N18,timeout,3600.007
+MNIST_P39_N21,MarabouError(Return code: 1),3.3448
+MNIST_P97_N46,unsat,243.5426
+MNIST_P72_N21,MarabouError(Return code: 1),3.3212
+MNIST_P87_N41,outofmemory,52.666
+MNIST_P29_N34,timeout,3600.003
+MNIST_P97_N27,timeout,3600.003
+MNIST_P13_N15,timeout,3600.004
+MNIST_P35_N1,unsat,31.5776
+MNIST_P64_N7,timeout,3600.005
+MNIST_P75_N44,timeout,3600.016
+MNIST_P32_N33,MarabouError(Return code: 1),1.3703
+MNIST_P27_N42,unsat,18.2023
+MNIST_P40_N9,unsat,235.5383
+MNIST_P94_N20,outofmemory,16.928
+MNIST_P33_N34,timeout,3600.02
+MNIST_P23_N34,timeout,3600.01
+MNIST_P28_N37,unsat,238.9548
+MNIST_P67_N44,timeout,3600.001
+MNIST_P72_N9,unsat,242.5427
+MNIST_P89_N33,MarabouError(Return code: 1),1.3925
+MNIST_P96_N45,timeout,3600.0
+MNIST_P33_N26,timeout,3600.014
+MNIST_P76_N21,MarabouError(Return code: 1),3.0844
+MNIST_P95_N9,unsat,244.9209
+MNIST_P95_N48,outofmemory,37.677
+MNIST_P18_N25,unsat,217.4227
+MNIST_P10_N39,timeout,3600.005
+MNIST_P53_N46,unsat,239.8799
+MNIST_P65_N22,MarabouError(Return code: 1),1.3469
+MNIST_P72_N16,MarabouError(Return code: 1),0.9824
+MNIST_P76_N3,outofmemory,11.971
+MNIST_P84_N22,MarabouError(Return code: 1),1.3635
+MNIST_P92_N37,unsat,243.1077
+MNIST_P90_N46,unsat,239.6251
+MNIST_P38_N4,MarabouError(Return code: 1),2.9924
+MNIST_P93_N13,timeout,3600.016
+MNIST_P37_N4,MarabouError(Return code: 1),3.0806
+MNIST_P52_N2,outofmemory,117.927
+MNIST_P64_N15,timeout,3600.022
+MNIST_P99_N24,timeout,3600.002
+MNIST_P19_N26,timeout,3600.007
+MNIST_P5_N38,timeout,3600.015
+MNIST_P28_N18,timeout,3600.013
+MNIST_P78_N22,MarabouError(Return code: 1),1.363
+MNIST_P27_N36,unsat,212.8345
+MNIST_P81_N2,outofmemory,118.059
+MNIST_P5_N22,MarabouError(Return code: 1),1.2879
+MNIST_P58_N39,timeout,3600.014
+MNIST_P15_N31,unsat,223.7696
+MNIST_P7_N2,outofmemory,140.924
+MNIST_P43_N29,unsat,40.8879
+MNIST_P4_N39,timeout,3600.016
+MNIST_P85_N15,timeout,3600.021
+MNIST_P9_N13,timeout,3600.015
+MNIST_P34_N36,unsat,217.7315
+MNIST_P93_N1,unsat,32.1463
+MNIST_P52_N10,timeout,3600.003
+MNIST_P59_N23,unsat,41.7771
+MNIST_P83_N49,outofmemory,40.217
+MNIST_P60_N24,timeout,3600.013
+MNIST_P5_N5,timeout,3600.005
+MNIST_P27_N9,unsat,233.3942
+MNIST_P78_N5,timeout,3600.01
+MNIST_P92_N44,timeout,3600.02
+MNIST_P85_N38,timeout,3600.015
+MNIST_P79_N38,timeout,3600.017
+MNIST_P39_N27,timeout,3600.018
+MNIST_P28_N27,timeout,3600.023
+MNIST_P83_N18,timeout,3600.0
+MNIST_P50_N48,outofmemory,36.283
+MNIST_P26_N35,timeout,3600.021
+MNIST_P49_N5,timeout,3600.01
+MNIST_P0_N29,unsat,40.8761
+MNIST_P72_N26,timeout,3600.013
+MNIST_P31_N18,timeout,3600.023
+MNIST_P68_N27,timeout,3600.002
+MNIST_P37_N24,timeout,3600.018
+MNIST_P74_N41,outofmemory,50.773
+MNIST_P73_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1347
+MNIST_P34_N20,outofmemory,17.106
+MNIST_P15_N24,timeout,3600.018
+MNIST_P88_N15,timeout,3600.011
+MNIST_P93_N34,timeout,3600.012
+MNIST_P59_N1,timeout,3600.004
+MNIST_P7_N17,outofmemory,14.066
+MNIST_P87_N16,MarabouError(Return code: 1),1.0248
+MNIST_P49_N31,unsat,221.1863
+MNIST_P93_N18,timeout,3600.005
+MNIST_P1_N33,MarabouError(Return code: 1),1.3063
+MNIST_P82_N22,MarabouError(Return code: 1),1.2967
+MNIST_P13_N7,timeout,3600.017
+MNIST_P84_N29,unsat,43.5165
+MNIST_P88_N45,unsat,8.1527
+MNIST_P23_N39,timeout,3600.011
+MNIST_P5_N47,outofmemory,43.214
+MNIST_P46_N26,timeout,3600.016
+MNIST_P66_N25,unsat,214.4769
+MNIST_P13_N24,timeout,3600.002
+MNIST_P35_N14,outofmemory,37.447
+MNIST_P54_N16,MarabouError(Return code: 1),0.9678
+MNIST_P12_N40,unsat,42.0103
+MNIST_P83_N14,outofmemory,36.433
+MNIST_P93_N20,outofmemory,16.98
+MNIST_P74_N19,MarabouError(Return code: 1),3.5367
+MNIST_P36_N31,unsat,219.9615
+MNIST_P0_N42,unsat,18.1781
+MNIST_P7_N5,timeout,3600.009
+MNIST_P41_N29,unsat,41.0738
+MNIST_P29_N48,outofmemory,33.784
+MNIST_P14_N31,unsat,215.8187
+MNIST_P46_N15,timeout,3600.005
+MNIST_P53_N21,MarabouError(Return code: 1),3.1437
+MNIST_P93_N15,timeout,3600.001
+MNIST_P13_N48,outofmemory,35.792
+MNIST_P64_N42,unsat,18.4177
+MNIST_P31_N26,timeout,3600.0
+MNIST_P99_N16,MarabouError(Return code: 1),1.0902
+MNIST_P68_N4,MarabouError(Return code: 1),3.1789
+MNIST_P60_N49,outofmemory,34.532
+MNIST_P4_N26,timeout,3600.019
+MNIST_P33_N41,outofmemory,51.42
+MNIST_P56_N41,outofmemory,57.363
+MNIST_P95_N22,MarabouError(Return code: 1),1.3102
+MNIST_P27_N20,outofmemory,16.9
+MNIST_P3_N34,timeout,3600.008
+MNIST_P34_N46,unsat,239.1795
+MNIST_P70_N48,outofmemory,34.988
+MNIST_P31_N19,MarabouError(Return code: 1),2.9127
+MNIST_P42_N14,outofmemory,34.574
+MNIST_P40_N39,outofmemory,155.094
+MNIST_P55_N7,timeout,3600.01
+MNIST_P69_N45,unsat,9.1413
+MNIST_P78_N19,MarabouError(Return code: 1),3.0641
+MNIST_P55_N34,timeout,3600.007
+MNIST_P75_N5,timeout,3600.0
+MNIST_P67_N26,timeout,3600.004
+MNIST_P64_N12,MarabouError(Return code: 1),1.3632
+MNIST_P25_N46,unsat,242.3055
+MNIST_P51_N49,outofmemory,38.149
+MNIST_P31_N40,unsat,40.9234
+MNIST_P57_N21,MarabouError(Return code: 1),2.9635
+MNIST_P11_N24,timeout,3600.012
+MNIST_P50_N45,unsat,8.1767
+MNIST_P73_N39,timeout,3600.012
+MNIST_P93_N2,outofmemory,115.408
+MNIST_P61_N25,unsat,212.4717
+MNIST_P48_N47,outofmemory,54.59
+MNIST_P36_N1,unsat,30.9253
+MNIST_P49_N40,unsat,41.3772
+MNIST_P11_N34,timeout,3600.01
+MNIST_P97_N31,unsat,233.9253
+MNIST_P76_N42,unsat,18.0648
+MNIST_P82_N40,unsat,42.5497
+MNIST_P3_N11,timeout,3600.005
+MNIST_P46_N11,timeout,3600.008
+MNIST_P74_N11,timeout,3600.001
+MNIST_P20_N13,timeout,3600.012
+MNIST_P16_N20,outofmemory,17.153
+MNIST_P9_N40,unsat,41.8967
+MNIST_P41_N23,unsat,41.5954
+MNIST_P50_N40,unsat,42.8872
+MNIST_P24_N33,MarabouError(Return code: 1),1.4304
+MNIST_P63_N25,unsat,217.5771
+MNIST_P47_N42,unsat,19.889
+MNIST_P13_N41,outofmemory,52.062
+MNIST_P48_N26,timeout,3600.02
+MNIST_P85_N18,timeout,3600.01
+MNIST_P25_N3,outofmemory,12.221
+MNIST_P79_N3,outofmemory,11.819
+MNIST_P32_N1,unsat,30.7653
+MNIST_P82_N47,outofmemory,47.574
+MNIST_P18_N17,outofmemory,25.464
+MNIST_P27_N44,timeout,3600.019
+MNIST_P1_N48,outofmemory,36.049
+MNIST_P52_N33,MarabouError(Return code: 1),1.3527
+MNIST_P38_N35,timeout,3600.017
+MNIST_P7_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1313
+MNIST_P57_N44,timeout,3600.022
+MNIST_P45_N11,timeout,3600.01
+MNIST_P77_N17,unsat,53.706
+MNIST_P13_N38,timeout,3600.022
+MNIST_P78_N35,timeout,3600.022
+MNIST_P30_N27,timeout,3600.005
+MNIST_P28_N49,outofmemory,35.653
+MNIST_P68_N13,timeout,3600.02
+MNIST_P74_N15,timeout,3600.005
+MNIST_P99_N14,outofmemory,37.139
+MNIST_P50_N1,unsat,31.451
+MNIST_P37_N13,timeout,3600.002
+MNIST_P14_N37,unsat,240.5091
+MNIST_P24_N14,outofmemory,36.307
+MNIST_P40_N27,timeout,3600.009
+MNIST_P84_N45,timeout,3600.018
+MNIST_P94_N2,outofmemory,116.922
+MNIST_P39_N1,unsat,31.5135
+MNIST_P99_N20,outofmemory,17.031
+MNIST_P55_N12,MarabouError(Return code: 1),1.3818
+MNIST_P88_N29,unsat,42.0112
+MNIST_P69_N34,timeout,3600.01
+MNIST_P40_N48,outofmemory,34.985
+MNIST_P29_N49,outofmemory,36.292
+MNIST_P43_N37,unsat,242.8044
+MNIST_P89_N5,timeout,3600.013
+MNIST_P77_N26,timeout,3600.022
+MNIST_P91_N46,unsat,241.9092
+MNIST_P9_N11,timeout,3600.006
+MNIST_P41_N33,MarabouError(Return code: 1),1.2908
+MNIST_P80_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1808
+MNIST_P35_N46,unsat,252.4663
+MNIST_P12_N35,unsat,63.6421
+MNIST_P93_N4,MarabouError(Return code: 1),3.0991
+MNIST_P23_N19,MarabouError(Return code: 1),3.3534
+MNIST_P56_N14,outofmemory,35.622
+MNIST_P52_N44,timeout,3600.017
+MNIST_P94_N21,MarabouError(Return code: 1),3.1627
+MNIST_P31_N21,MarabouError(Return code: 1),3.2878
+MNIST_P25_N22,MarabouError(Return code: 1),1.3676
+MNIST_P78_N11,timeout,3600.006
+MNIST_P94_N34,timeout,3600.001
+MNIST_P50_N29,unsat,43.7172
+MNIST_P71_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.2369
+MNIST_P13_N21,MarabouError(Return code: 1),3.2486
+MNIST_P83_N42,unsat,19.2159
+MNIST_P96_N11,outofmemory,130.342
+MNIST_P19_N14,outofmemory,36.993
+MNIST_P59_N22,MarabouError(Return code: 1),1.4651
+MNIST_P82_N20,outofmemory,18.373
+MNIST_P25_N42,unsat,20.9267
+MNIST_P49_N46,unsat,250.1688
+MNIST_P39_N17,unsat,60.9044
+MNIST_P89_N11,timeout,3600.012
+MNIST_P26_N38,timeout,3600.015
+MNIST_P5_N49,outofmemory,35.223
+MNIST_P43_N19,MarabouError(Return code: 1),3.1921
+MNIST_P84_N34,timeout,3600.02
+MNIST_P16_N41,outofmemory,51.452
+MNIST_P25_N18,timeout,3600.014
+MNIST_P49_N33,MarabouError(Return code: 1),1.3269
+MNIST_P84_N9,unsat,233.7886
+MNIST_P78_N14,outofmemory,35.567
+MNIST_P84_N46,unsat,241.7492
+MNIST_P85_N44,unsat,48.8427
+MNIST_P26_N37,unsat,241.689
+MNIST_P43_N47,outofmemory,46.396
+MNIST_P67_N39,timeout,3600.003
+MNIST_P7_N23,unsat,42.0396
+MNIST_P51_N36,unsat,220.7612
+MNIST_P77_N22,MarabouError(Return code: 1),1.2795
+MNIST_P79_N26,timeout,3600.007
+MNIST_P36_N16,MarabouError(Return code: 1),0.9687
+MNIST_P66_N17,outofmemory,36.812
+MNIST_P44_N3,outofmemory,12.033
+MNIST_P23_N25,unsat,212.809
+MNIST_P93_N36,unsat,222.7864
+MNIST_P83_N10,timeout,3600.019
+MNIST_P89_N35,timeout,3600.0
+MNIST_P68_N41,outofmemory,52.315
+MNIST_P75_N20,outofmemory,16.747
+MNIST_P43_N5,timeout,3600.007
+MNIST_P52_N16,MarabouError(Return code: 1),1.2744
+MNIST_P13_N2,outofmemory,117.626
+MNIST_P3_N4,MarabouError(Return code: 1),3.3084
+MNIST_P4_N42,unsat,21.126
+MNIST_P53_N25,unsat,220.0072
+MNIST_P75_N47,outofmemory,45.585
+MNIST_P40_N24,timeout,3600.005
+MNIST_P75_N48,outofmemory,36.188
+MNIST_P35_N23,unsat,41.2832
+MNIST_P7_N37,unsat,238.0971
+MNIST_P16_N33,MarabouError(Return code: 1),1.3767
+MNIST_P18_N38,timeout,3600.006
+MNIST_P31_N23,unsat,41.9996
+MNIST_P16_N27,timeout,3600.016
+MNIST_P14_N24,timeout,3600.006
+MNIST_P37_N19,MarabouError(Return code: 1),3.1878
+MNIST_P62_N24,timeout,3600.015
+MNIST_P90_N16,MarabouError(Return code: 1),0.949
+MNIST_P68_N44,timeout,3600.016
+MNIST_P29_N29,unsat,42.9652
+MNIST_P3_N26,timeout,3600.011
+MNIST_P97_N48,outofmemory,42.176
+MNIST_P62_N13,timeout,3600.01
+MNIST_P49_N48,outofmemory,35.137
+MNIST_P85_N20,outofmemory,18.202
+MNIST_P25_N27,timeout,3600.0
+MNIST_P25_N10,timeout,3600.019
+MNIST_P29_N10,timeout,3600.001
+MNIST_P77_N9,unsat,237.1007
+MNIST_P61_N37,unsat,234.9643
+MNIST_P5_N39,timeout,3600.013
+MNIST_P81_N27,timeout,3600.019
+MNIST_P6_N47,outofmemory,43.275
+MNIST_P30_N23,unsat,42.2942
+MNIST_P55_N17,unsat,54.8628
+MNIST_P40_N1,unsat,31.8866
+MNIST_P86_N12,MarabouError(Return code: 1),1.2964
+MNIST_P24_N25,unsat,216.6013
+MNIST_P53_N11,timeout,3600.003
+MNIST_P25_N29,unsat,40.6407
+MNIST_P92_N41,outofmemory,52.779
+MNIST_P50_N37,unsat,237.3882
+MNIST_P4_N22,MarabouError(Return code: 1),1.326
+MNIST_P94_N39,timeout,3600.021
+MNIST_P83_N25,unsat,216.6797
+MNIST_P4_N4,MarabouError(Return code: 1),3.6027
+MNIST_P75_N21,MarabouError(Return code: 1),3.1544
+MNIST_P7_N20,outofmemory,16.833
+MNIST_P95_N13,timeout,3600.003
+MNIST_P40_N40,unsat,40.6348
+MNIST_P55_N41,outofmemory,53.491
+MNIST_P24_N45,timeout,3600.012
+MNIST_P4_N1,unsat,30.8522
+MNIST_P88_N23,unsat,41.5487
+MNIST_P17_N45,timeout,3600.006
+MNIST_P53_N34,timeout,3600.009
+MNIST_P87_N15,timeout,3600.003
+MNIST_P21_N35,timeout,3600.014
+MNIST_P59_N41,outofmemory,53.531
+MNIST_P36_N29,unsat,41.548
+MNIST_P0_N25,unsat,221.0257
+MNIST_P9_N29,unsat,42.2498
+MNIST_P73_N47,outofmemory,44.402
+MNIST_P63_N27,timeout,3600.006
+MNIST_P79_N40,unsat,42.1138
+MNIST_P83_N34,timeout,3600.011
+MNIST_P68_N33,MarabouError(Return code: 1),1.3782
+MNIST_P60_N39,timeout,3600.008
+MNIST_P74_N47,outofmemory,44.118
+MNIST_P88_N35,unsat,63.462
+MNIST_P49_N26,timeout,3600.021
+MNIST_P0_N9,unsat,236.6422
+MNIST_P11_N16,MarabouError(Return code: 1),0.9405
+MNIST_P95_N39,timeout,3600.004
+MNIST_P55_N44,timeout,3600.021
+MNIST_P68_N19,MarabouError(Return code: 1),3.4928
+MNIST_P80_N44,timeout,3600.001
+MNIST_P65_N42,unsat,18.0781
+MNIST_P95_N36,unsat,218.5256
+MNIST_P38_N25,unsat,213.6691
+MNIST_P77_N36,unsat,223.7201
+MNIST_P13_N33,MarabouError(Return code: 1),1.3655
+MNIST_P36_N22,MarabouError(Return code: 1),1.3111
+MNIST_P26_N27,unsat,5.4546
+MNIST_P11_N40,unsat,41.2915
+MNIST_P6_N35,timeout,3600.015
+MNIST_P30_N41,outofmemory,52.179
+MNIST_P62_N34,timeout,3600.01
+MNIST_P2_N23,unsat,41.6826
+MNIST_P75_N24,timeout,3600.0
+MNIST_P52_N37,unsat,238.3786
+MNIST_P28_N19,MarabouError(Return code: 1),3.2582
+MNIST_P82_N1,unsat,32.0642
+MNIST_P27_N26,timeout,3600.02
+MNIST_P60_N22,MarabouError(Return code: 1),1.2669
+MNIST_P7_N19,MarabouError(Return code: 1),3.2232
+MNIST_P50_N22,MarabouError(Return code: 1),1.311
+MNIST_P57_N17,unsat,54.0439
+MNIST_P82_N46,unsat,241.6722
+MNIST_P87_N31,unsat,229.5073
+MNIST_P24_N7,timeout,3600.003
+MNIST_P26_N2,outofmemory,126.039
+MNIST_P6_N13,timeout,3600.013
+MNIST_P79_N44,timeout,3600.02
+MNIST_P91_N5,timeout,3600.005
+MNIST_P77_N47,outofmemory,43.521
+MNIST_P41_N49,outofmemory,35.288
+MNIST_P55_N3,outofmemory,12.351
+MNIST_P55_N48,outofmemory,34.287
+MNIST_P0_N44,timeout,3600.002
+MNIST_P92_N5,timeout,3600.019
+MNIST_P64_N35,timeout,3600.014
+MNIST_P98_N12,MarabouError(Return code: 1),1.3596
+MNIST_P33_N38,outofmemory,265.187
+MNIST_P63_N47,outofmemory,43.278
+MNIST_P2_N29,unsat,41.1752
+MNIST_P16_N10,timeout,3600.001
+MNIST_P61_N16,MarabouError(Return code: 1),0.9847
+MNIST_P94_N11,timeout,3600.009
+MNIST_P82_N10,timeout,3600.018
+MNIST_P57_N49,outofmemory,36.389
+MNIST_P15_N10,timeout,3600.001
+MNIST_P48_N41,outofmemory,51.919
+MNIST_P57_N2,outofmemory,136.286
+MNIST_P30_N10,timeout,3600.015
+MNIST_P19_N46,unsat,238.1756
+MNIST_P18_N5,timeout,3600.015
+MNIST_P48_N39,timeout,3600.004
+MNIST_P55_N24,timeout,3600.011
+MNIST_P18_N16,MarabouError(Return code: 1),0.9878
+MNIST_P70_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1463
+MNIST_P70_N29,unsat,40.3239
+MNIST_P78_N29,unsat,40.8005
+MNIST_P95_N47,outofmemory,43.242
+MNIST_P48_N9,unsat,243.1091
+MNIST_P0_N1,unsat,31.6526
+MNIST_P42_N41,outofmemory,52.135
+MNIST_P58_N29,unsat,41.3857
+MNIST_P50_N14,outofmemory,36.187
+MNIST_P0_N38,timeout,3600.002
+MNIST_P76_N13,timeout,3600.018
+MNIST_P48_N44,timeout,3600.012
+MNIST_P16_N36,unsat,218.0509
+MNIST_P3_N44,timeout,3600.012
+MNIST_P8_N45,timeout,3600.012
+MNIST_P17_N42,unsat,18.5353
+MNIST_P59_N5,timeout,3600.014
+MNIST_P60_N14,outofmemory,35.161
+MNIST_P91_N42,unsat,18.4633
+MNIST_P73_N21,MarabouError(Return code: 1),3.1572
+MNIST_P16_N35,unsat,64.0756
+MNIST_P36_N24,timeout,3600.017
+MNIST_P68_N40,unsat,41.2704
+MNIST_P14_N47,outofmemory,42.463
+MNIST_P54_N31,unsat,214.2348
+MNIST_P50_N2,outofmemory,136.672
+MNIST_P68_N17,unsat,54.8466
+MNIST_P77_N39,timeout,3600.01
+MNIST_P69_N10,timeout,3600.004
+MNIST_P34_N27,timeout,3600.009
+MNIST_P69_N42,unsat,18.6367
+MNIST_P39_N4,MarabouError(Return code: 1),3.2088
+MNIST_P83_N29,unsat,42.0363
+MNIST_P96_N14,outofmemory,34.378
+MNIST_P11_N10,timeout,3600.013
+MNIST_P8_N49,outofmemory,35.281
+MNIST_P73_N42,unsat,18.5991
+MNIST_P46_N31,unsat,218.8439
+MNIST_P39_N47,outofmemory,43.435
+MNIST_P41_N9,unsat,241.606
+MNIST_P65_N41,outofmemory,51.453
+MNIST_P74_N46,unsat,251.0938
+MNIST_P3_N23,unsat,41.5729
+MNIST_P19_N48,outofmemory,36.58
+MNIST_P99_N36,unsat,215.4015
+MNIST_P69_N22,MarabouError(Return code: 1),1.4092
+MNIST_P37_N2,outofmemory,115.658
+MNIST_P34_N15,timeout,3600.005
+MNIST_P89_N17,unsat,53.4552
+MNIST_P44_N36,unsat,218.2259
+MNIST_P5_N4,MarabouError(Return code: 1),3.3612
+MNIST_P14_N23,unsat,42.2113
+MNIST_P22_N4,MarabouError(Return code: 1),3.52
+MNIST_P48_N3,outofmemory,12.062
+MNIST_P76_N35,timeout,3600.013
+MNIST_P40_N20,outofmemory,16.819
+MNIST_P23_N7,timeout,3600.009
+MNIST_P56_N23,unsat,42.3064
+MNIST_P27_N16,MarabouError(Return code: 1),0.9639
+MNIST_P20_N2,outofmemory,114.472
+MNIST_P58_N35,timeout,3600.024
+MNIST_P8_N13,timeout,3600.016
+MNIST_P61_N36,unsat,221.2835
+MNIST_P25_N40,unsat,42.6141
+MNIST_P30_N2,outofmemory,137.108
+MNIST_P20_N47,outofmemory,44.786
+MNIST_P28_N2,outofmemory,115.265
+MNIST_P72_N22,MarabouError(Return code: 1),1.2572
+MNIST_P9_N12,MarabouError(Return code: 1),1.2653
+MNIST_P89_N26,timeout,3600.021
+MNIST_P45_N14,outofmemory,34.555
+MNIST_P17_N9,unsat,244.4273
+MNIST_P59_N18,timeout,3600.007
+MNIST_P13_N34,timeout,3600.002
+MNIST_P80_N25,unsat,234.9187
+MNIST_P78_N25,unsat,219.0376
+MNIST_P20_N27,timeout,3600.015
+MNIST_P37_N25,unsat,214.4634
+MNIST_P72_N37,unsat,240.9791
+MNIST_P83_N7,timeout,3600.004
+MNIST_P2_N48,outofmemory,35.0
+MNIST_P29_N46,unsat,235.6814
+MNIST_P49_N16,MarabouError(Return code: 1),1.0043
+MNIST_P76_N24,timeout,3600.005
+MNIST_P88_N7,timeout,3600.003
+MNIST_P34_N13,timeout,3600.022
+MNIST_P68_N47,outofmemory,47.84
+MNIST_P69_N11,timeout,3600.0
+MNIST_P94_N37,unsat,240.7027
+MNIST_P6_N5,timeout,3600.021
+MNIST_P45_N47,outofmemory,44.916
+MNIST_P64_N9,unsat,246.7835
+MNIST_P91_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1348
+MNIST_P10_N24,timeout,3600.003
+MNIST_P11_N42,unsat,18.5182
+MNIST_P15_N38,outofmemory,333.834
+MNIST_P45_N15,timeout,3600.006
+MNIST_P28_N48,outofmemory,35.629
+MNIST_P79_N33,MarabouError(Return code: 1),1.4466
+MNIST_P56_N45,unsat,8.3885
+MNIST_P88_N21,MarabouError(Return code: 1),3.2429
+MNIST_P90_N7,timeout,3600.014
+MNIST_P95_N4,MarabouError(Return code: 1),3.446
+MNIST_P24_N9,unsat,236.0243
+MNIST_P27_N34,timeout,3600.005
+MNIST_P7_N21,MarabouError(Return code: 1),2.9549
+MNIST_P9_N36,unsat,213.7291
+MNIST_P23_N33,MarabouError(Return code: 1),1.3468
+MNIST_P30_N11,timeout,3600.013
+MNIST_P66_N29,unsat,40.8871
+MNIST_P96_N37,unsat,243.9827
+MNIST_P29_N41,outofmemory,51.027
+MNIST_P61_N24,timeout,3600.001
+MNIST_P76_N14,outofmemory,35.798
+MNIST_P48_N23,unsat,40.9892
+MNIST_P67_N16,MarabouError(Return code: 1),0.9353
+MNIST_P13_N20,outofmemory,16.676
+MNIST_P85_N12,MarabouError(Return code: 1),1.4322
+MNIST_P73_N36,unsat,208.5272
+MNIST_P21_N7,timeout,3600.013
+MNIST_P0_N27,timeout,3600.004
+MNIST_P32_N45,unsat,8.188
+MNIST_P79_N17,unsat,54.5221
+MNIST_P40_N26,timeout,3600.019
+MNIST_P80_N4,MarabouError(Return code: 1),3.1904
+MNIST_P31_N12,MarabouError(Return code: 1),1.2924
+MNIST_P99_N7,timeout,3600.021
+MNIST_P19_N49,outofmemory,35.74
+MNIST_P42_N3,outofmemory,11.954
+MNIST_P59_N44,timeout,3600.01
+MNIST_P10_N15,timeout,3600.008
+MNIST_P75_N3,outofmemory,17.763
+MNIST_P49_N29,unsat,42.9475
+MNIST_P14_N40,unsat,41.4568
+MNIST_P95_N41,outofmemory,51.954
+MNIST_P99_N19,MarabouError(Return code: 1),3.2196
+MNIST_P72_N46,unsat,249.8628
+MNIST_P63_N18,timeout,3600.021
+MNIST_P6_N27,timeout,3600.008
+MNIST_P81_N19,MarabouError(Return code: 1),3.2218
+MNIST_P17_N23,unsat,43.5247
+MNIST_P56_N13,timeout,3600.021
+MNIST_P9_N16,MarabouError(Return code: 1),1.0101
+MNIST_P52_N3,outofmemory,11.763
+MNIST_P48_N40,unsat,42.5195
+MNIST_P88_N12,MarabouError(Return code: 1),1.3228
+MNIST_P30_N21,MarabouError(Return code: 1),3.0263
+MNIST_P16_N42,unsat,17.95
+MNIST_P78_N27,timeout,3600.002
+MNIST_P58_N7,timeout,3600.005
+MNIST_P71_N24,timeout,3600.002
+MNIST_P26_N9,unsat,243.4783
+MNIST_P85_N10,timeout,3600.006
+MNIST_P90_N2,outofmemory,117.457
+MNIST_P27_N10,timeout,3600.01
+MNIST_P56_N29,unsat,42.743
+MNIST_P62_N33,MarabouError(Return code: 1),1.3031
+MNIST_P39_N44,timeout,3600.005
+MNIST_P90_N25,unsat,214.4621
+MNIST_P18_N49,outofmemory,35.92
+MNIST_P3_N24,timeout,3600.008
+MNIST_P35_N27,timeout,3600.018
+MNIST_P2_N39,timeout,3600.014
+MNIST_P65_N37,unsat,255.5954
+MNIST_P54_N34,timeout,3600.02
+MNIST_P53_N4,MarabouError(Return code: 1),3.1333
+MNIST_P54_N37,unsat,241.4657
+MNIST_P65_N1,unsat,30.6648
+MNIST_P78_N40,unsat,41.7449
+MNIST_P30_N29,unsat,40.936
+MNIST_P63_N16,MarabouError(Return code: 1),0.9505
+MNIST_P80_N15,timeout,3600.008
+MNIST_P95_N45,timeout,3600.014
+MNIST_P94_N42,unsat,18.775
+MNIST_P46_N16,MarabouError(Return code: 1),0.9453
+MNIST_P58_N10,timeout,3600.018
+MNIST_P91_N19,MarabouError(Return code: 1),3.314
+MNIST_P91_N20,outofmemory,16.571
+MNIST_P83_N46,unsat,256.2018
+MNIST_P50_N23,unsat,40.9291
+MNIST_P92_N20,outofmemory,16.534
+MNIST_P34_N33,MarabouError(Return code: 1),1.3698
+MNIST_P35_N10,timeout,3600.019
+MNIST_P45_N34,timeout,3600.002
+MNIST_P62_N44,timeout,3600.015
+MNIST_P63_N26,timeout,3600.015
+MNIST_P14_N3,outofmemory,12.258
+MNIST_P48_N38,timeout,3600.01
+MNIST_P15_N40,unsat,41.1023
+MNIST_P84_N31,unsat,222.132
+MNIST_P6_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1349
+MNIST_P32_N24,timeout,3600.004
+MNIST_P52_N25,unsat,216.8823
+MNIST_P79_N22,MarabouError(Return code: 1),1.319
+MNIST_P3_N49,outofmemory,36.569
+MNIST_P64_N45,timeout,3600.004
+MNIST_P17_N25,unsat,217.2086
+MNIST_P15_N12,MarabouError(Return code: 1),1.273
+MNIST_P81_N33,MarabouError(Return code: 1),1.3308
+MNIST_P41_N13,timeout,3600.015
+MNIST_P58_N37,unsat,244.4712
+MNIST_P63_N7,timeout,3600.016
+MNIST_P69_N16,MarabouError(Return code: 1),0.9716
+MNIST_P21_N37,unsat,240.5925
+MNIST_P64_N40,unsat,41.4528
+MNIST_P82_N25,unsat,224.962
+MNIST_P58_N33,MarabouError(Return code: 1),1.3494
+MNIST_P50_N20,outofmemory,17.393
+MNIST_P30_N7,timeout,3600.007
+MNIST_P70_N45,unsat,8.2136
+MNIST_P39_N12,MarabouError(Return code: 1),1.3494
+MNIST_P30_N4,MarabouError(Return code: 1),3.1875
+MNIST_P40_N33,MarabouError(Return code: 1),1.4198
+MNIST_P54_N1,unsat,32.3639
+MNIST_P50_N27,timeout,3600.016
+MNIST_P58_N21,MarabouError(Return code: 1),3.2426
+MNIST_P97_N20,outofmemory,16.84
+MNIST_P76_N19,MarabouError(Return code: 1),3.0462
+MNIST_P28_N45,unsat,8.5247
+MNIST_P27_N4,MarabouError(Return code: 1),3.2373
+MNIST_P79_N15,timeout,3600.008
+MNIST_P3_N27,timeout,3600.015
+MNIST_P22_N46,unsat,234.4718
+MNIST_P72_N40,unsat,41.4706
+MNIST_P86_N15,timeout,3600.011
+MNIST_P12_N33,MarabouError(Return code: 1),1.3267
+MNIST_P84_N25,unsat,212.4086
+MNIST_P50_N5,timeout,3600.003
+MNIST_P60_N31,unsat,225.5033
+MNIST_P77_N27,unsat,5.3498
+MNIST_P94_N35,unsat,64.2816
+MNIST_P97_N26,timeout,3600.013
+MNIST_P49_N11,timeout,3600.018
+MNIST_P15_N29,unsat,41.3704
+MNIST_P56_N34,timeout,3600.02
+MNIST_P5_N44,timeout,3600.009
+MNIST_P38_N8,IOPolytopeReductionError(Invalid property: Comparing expressions with different shapes is not supported),0.1986
+MNIST_P37_N27,timeout,3600.009
+MNIST_P4_N44,timeout,3600.005
+MNIST_P82_N26,timeout,3600.017
+MNIST_P58_N46,unsat,236.5475
+MNIST_P21_N10,timeout,3600.018
+MNIST_P58_N17,unsat,53.681
+MNIST_P47_N20,outofmemory,16.586
+MNIST_P9_N2,outofmemory,115.286
+MNIST_P26_N13,timeout,3600.001
+MNIST_P17_N24,timeout,3600.006
+MNIST_P58_N18,timeout,3600.01
+MNIST_P85_N17,unsat,54.8981
+MNIST_P6_N23,unsat,41.8168
+MNIST_P53_N31,unsat,213.0056
+MNIST_P30_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.1788
+MNIST_P54_N7,timeout,3600.012
+MNIST_P55_N27,timeout,3600.012
+MNIST_P75_N12,MarabouError(Return code: 1),1.3543
+MNIST_P37_N18,timeout,3600.001
+MNIST_P74_N48,outofmemory,38.934
+MNIST_P99_N44,timeout,3600.016
+MNIST_P61_N1,timeout,3600.007
+MNIST_P48_N25,unsat,214.6004
+MNIST_P87_N29,unsat,42.0589
+MNIST_P48_N29,unsat,40.1114
+MNIST_P25_N48,outofmemory,36.626
+MNIST_P36_N18,timeout,3600.012
+MNIST_P80_N48,outofmemory,36.621
+MNIST_P13_N16,MarabouError(Return code: 1),0.9585
+MNIST_P58_N9,unsat,242.252
+MNIST_P0_N21,MarabouError(Return code: 1),3.2898
+MNIST_P72_N27,timeout,3600.005
+MNIST_P10_N37,unsat,243.5063
+MNIST_P49_N4,MarabouError(Return code: 1),3.463
+MNIST_P40_N12,MarabouError(Return code: 1),1.3292
+MNIST_P78_N49,outofmemory,36.303
+MNIST_P79_N7,timeout,3600.007
+MNIST_P40_N16,MarabouError(Return code: 1),0.9686
+MNIST_P21_N46,unsat,242.3131
+MNIST_P96_N47,outofmemory,44.562
+MNIST_P11_N21,MarabouError(Return code: 1),3.0013
+MNIST_P26_N48,outofmemory,34.19
+MNIST_P46_N38,outofmemory,555.687
+MNIST_P26_N18,timeout,3600.004
+MNIST_P93_N29,unsat,40.8328
+MNIST_P26_N25,unsat,226.4766
+MNIST_P19_N8,IOPolytopeReductionError(Unknown shape for variable x_),0.2469
+MNIST_P37_N11,timeout,3600.011
+MNIST_P95_N20,outofmemory,18.715

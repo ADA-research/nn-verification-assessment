@@ -1,0 +1,4401 @@
+ProblemId,Result,TotalTime
+MNIST_P54_N5,unsat,120.2805
+MNIST_P37_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7821
+MNIST_P74_N31,unsat,118.891
+MNIST_P99_N7,unsat,117.4657
+MNIST_P53_N40,unsat,116.4607
+MNIST_P1_N48,unsat,127.7586
+MNIST_P28_N44,unsat,117.3059
+MNIST_P68_N34,unsat,116.8009
+MNIST_P75_N33,unsat,127.7064
+MNIST_P13_N49,unsat,126.883
+MNIST_P81_N21,unsat,119.6821
+MNIST_P5_N46,unsat,119.8657
+MNIST_P96_N2,unsat,130.1733
+MNIST_P35_N11,unsat,116.7077
+MNIST_P62_N22,unsat,121.8895
+MNIST_P67_N35,unsat,116.5793
+MNIST_P80_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4275
+MNIST_P50_N2,unsat,130.5685
+MNIST_P18_N21,unsat,120.2322
+MNIST_P53_N14,unsat,126.8166
+MNIST_P98_N33,unsat,126.834
+MNIST_P6_N45,unsat,117.4933
+MNIST_P61_N18,unsat,119.5162
+MNIST_P22_N36,unsat,117.317
+MNIST_P24_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0816
+MNIST_P20_N13,unsat,87.6402
+MNIST_P66_N49,unsat,91.8577
+MNIST_P94_N21,unsat,111.745
+MNIST_P3_N21,unsat,110.6078
+MNIST_P35_N18,unsat,111.2634
+MNIST_P57_N22,unsat,115.1985
+MNIST_P45_N7,unsat,102.1528
+MNIST_P45_N12,unsat,116.6318
+MNIST_P10_N42,unsat,100.0748
+MNIST_P55_N27,sat,10.1997
+MNIST_P44_N49,unsat,115.0097
+MNIST_P80_N34,unsat,101.547
+MNIST_P86_N18,unsat,110.7845
+MNIST_P23_N2,unsat,119.9808
+MNIST_P48_N33,sat,78.9347
+MNIST_P97_N12,unsat,115.5809
+MNIST_P78_N23,unsat,107.8513
+MNIST_P73_N38,unsat,104.3393
+MNIST_P24_N38,timeout,3600.007
+MNIST_P15_N4,unsat,106.3346
+MNIST_P77_N40,unsat,104.5366
+MNIST_P45_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0957
+MNIST_P17_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.1445
+MNIST_P9_N33,unsat,110.2804
+MNIST_P76_N45,unsat,98.5247
+MNIST_P83_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6724
+MNIST_P93_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6091
+MNIST_P26_N1,unsat,68.3288
+MNIST_P58_N29,unsat,87.2168
+MNIST_P87_N7,unsat,88.9352
+MNIST_P89_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6464
+MNIST_P32_N14,unsat,105.164
+MNIST_P36_N41,unsat,167.9052
+MNIST_P3_N47,unsat,101.1441
+MNIST_P87_N24,sat,49.3278
+MNIST_P75_N44,unsat,99.2794
+MNIST_P24_N11,unsat,97.9146
+MNIST_P77_N16,VerinetTranslatorError(Div operations are not supported.),0.6517
+MNIST_P90_N40,unsat,100.101
+MNIST_P98_N18,unsat,106.1047
+MNIST_P1_N12,unsat,110.7724
+MNIST_P77_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7417
+MNIST_P64_N45,unsat,99.7945
+MNIST_P82_N11,unsat,100.7494
+MNIST_P47_N10,unsat,100.1537
+MNIST_P41_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5943
+MNIST_P24_N42,unsat,98.9795
+MNIST_P27_N21,unsat,104.2112
+MNIST_P4_N22,unsat,109.2776
+MNIST_P55_N25,unsat,100.4908
+MNIST_P83_N5,unsat,96.5274
+MNIST_P87_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5602
+MNIST_P41_N22,unsat,91.8022
+MNIST_P11_N38,unsat,74.9895
+MNIST_P53_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.7632
+MNIST_P47_N18,unsat,81.7482
+MNIST_P95_N38,unsat,89.6768
+MNIST_P6_N24,sat,16.1628
+MNIST_P26_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0479
+MNIST_P23_N41,unsat,162.2307
+MNIST_P49_N40,unsat,90.9788
+MNIST_P81_N22,unsat,108.3152
+MNIST_P45_N9,unsat,104.8594
+MNIST_P64_N15,unsat,101.794
+MNIST_P10_N36,unsat,102.538
+MNIST_P72_N27,sat,9.1674
+MNIST_P40_N14,unsat,110.3336
+MNIST_P11_N48,unsat,110.7496
+MNIST_P8_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.1059
+MNIST_P89_N1,unsat,96.111
+MNIST_P57_N15,unsat,100.5376
+MNIST_P15_N12,unsat,108.7905
+MNIST_P8_N19,unsat,103.9279
+MNIST_P43_N29,unsat,99.1983
+MNIST_P13_N2,unsat,115.4197
+MNIST_P14_N18,unsat,96.0841
+MNIST_P73_N34,sat,77.6952
+MNIST_P31_N10,unsat,80.3072
+MNIST_P53_N25,unsat,88.1068
+MNIST_P64_N44,unsat,79.3626
+MNIST_P68_N44,unsat,81.5568
+MNIST_P74_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1772
+MNIST_P70_N47,unsat,84.4901
+MNIST_P99_N49,unsat,102.4665
+MNIST_P16_N42,unsat,83.9773
+MNIST_P28_N35,unsat,83.4404
+MNIST_P96_N9,unsat,93.3553
+MNIST_P34_N48,unsat,104.9879
+MNIST_P90_N11,unsat,85.4069
+MNIST_P61_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4941
+MNIST_P41_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6146
+MNIST_P50_N23,unsat,86.2216
+MNIST_P69_N27,sat,11.0891
+MNIST_P14_N15,unsat,97.5124
+MNIST_P53_N48,unsat,101.291
+MNIST_P16_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.0812
+MNIST_P97_N31,unsat,92.5584
+MNIST_P89_N11,unsat,86.4062
+MNIST_P81_N7,unsat,88.3136
+MNIST_P97_N23,unsat,88.3267
+MNIST_P90_N29,unsat,85.4082
+MNIST_P17_N45,unsat,82.0996
+MNIST_P0_N12,unsat,104.5464
+MNIST_P60_N33,unsat,104.6172
+MNIST_P50_N34,unsat,87.7039
+MNIST_P65_N25,unsat,95.3762
+MNIST_P66_N11,unsat,89.509
+MNIST_P98_N9,unsat,94.5388
+MNIST_P20_N45,unsat,87.4492
+MNIST_P32_N35,unsat,85.2522
+MNIST_P45_N37,unsat,89.7327
+MNIST_P52_N2,unsat,107.3184
+MNIST_P58_N27,sat,29.4885
+MNIST_P70_N15,unsat,93.9085
+MNIST_P83_N12,unsat,101.6779
+MNIST_P91_N13,unsat,82.1279
+MNIST_P21_N45,unsat,81.3443
+MNIST_P92_N46,unsat,96.5028
+MNIST_P95_N40,unsat,87.3904
+MNIST_P6_N27,sat,21.1572
+MNIST_P75_N25,unsat,91.131
+MNIST_P24_N5,unsat,89.9128
+MNIST_P7_N27,sat,24.2874
+MNIST_P15_N19,unsat,90.2878
+MNIST_P22_N19,unsat,99.7385
+MNIST_P26_N29,unsat,93.6089
+MNIST_P54_N38,unsat,92.5446
+MNIST_P65_N15,timeout,3600.026
+MNIST_P82_N10,unsat,92.4929
+MNIST_P30_N31,unsat,99.4143
+MNIST_P42_N48,unsat,105.1084
+MNIST_P45_N13,unsat,91.7502
+MNIST_P52_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.7179
+MNIST_P6_N7,unsat,96.0139
+MNIST_P47_N34,unsat,89.5712
+MNIST_P34_N11,unsat,88.2328
+MNIST_P70_N10,unsat,82.2291
+MNIST_P59_N48,unsat,96.9202
+MNIST_P75_N38,unsat,80.9727
+MNIST_P63_N49,unsat,97.3087
+MNIST_P34_N24,unsat,80.9994
+MNIST_P72_N9,unsat,87.0244
+MNIST_P11_N23,unsat,84.694
+MNIST_P83_N19,unsat,90.4716
+MNIST_P66_N13,unsat,75.9826
+MNIST_P49_N45,unsat,77.6572
+MNIST_P7_N22,unsat,96.6763
+MNIST_P59_N10,unsat,77.2415
+MNIST_P2_N48,unsat,97.4754
+MNIST_P80_N49,unsat,96.376
+MNIST_P7_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7817
+MNIST_P76_N22,unsat,94.6546
+MNIST_P52_N25,unsat,86.5438
+MNIST_P67_N25,unsat,86.6128
+MNIST_P21_N18,unsat,84.9206
+MNIST_P30_N38,unsat,79.0193
+MNIST_P64_N24,unsat,76.3693
+MNIST_P28_N40,unsat,82.9584
+MNIST_P11_N44,unsat,84.3517
+MNIST_P90_N5,unsat,94.0301
+MNIST_P45_N11,unsat,86.1383
+MNIST_P84_N42,unsat,86.32
+MNIST_P86_N1,unsat,86.8143
+MNIST_P47_N7,unsat,88.2035
+MNIST_P53_N29,unsat,87.7751
+MNIST_P57_N37,unsat,91.2491
+MNIST_P12_N45,unsat,85.741
+MNIST_P72_N29,unsat,87.072
+MNIST_P58_N10,unsat,85.909
+MNIST_P76_N47,unsat,91.8899
+MNIST_P1_N7,unsat,87.4162
+MNIST_P49_N22,unsat,94.4843
+MNIST_P25_N35,unsat,80.6039
+MNIST_P18_N40,unsat,81.0669
+MNIST_P40_N5,unsat,88.1465
+MNIST_P38_N10,unsat,80.1944
+MNIST_P50_N10,unsat,79.896
+MNIST_P68_N10,unsat,80.3298
+MNIST_P51_N44,unsat,80.2583
+MNIST_P5_N33,unsat,94.0095
+MNIST_P59_N45,unsat,78.6154
+MNIST_P44_N8,VerificationRunnerError(IndexError),
+MNIST_P77_N25,unsat,85.0554
+MNIST_P96_N11,timeout,3600.002
+MNIST_P93_N46,unsat,86.6496
+MNIST_P25_N27,sat,10.6722
+MNIST_P84_N10,unsat,81.4802
+MNIST_P4_N1,unsat,81.755
+MNIST_P10_N46,unsat,86.9479
+MNIST_P31_N35,unsat,77.8335
+MNIST_P37_N9,unsat,83.2086
+MNIST_P39_N35,unsat,74.7856
+MNIST_P40_N33,unsat,91.4352
+MNIST_P95_N18,unsat,79.5348
+MNIST_P30_N9,unsat,76.9863
+MNIST_P27_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.411
+MNIST_P9_N42,unsat,86.8439
+MNIST_P39_N36,unsat,90.1556
+MNIST_P45_N1,unsat,81.7894
+MNIST_P7_N7,unsat,87.7391
+MNIST_P41_N7,unsat,86.8968
+MNIST_P0_N39,unsat,87.1909
+MNIST_P39_N11,unsat,85.4443
+MNIST_P39_N49,unsat,98.3278
+MNIST_P58_N42,unsat,83.6287
+MNIST_P5_N24,unsat,83.8179
+MNIST_P78_N37,unsat,91.3841
+MNIST_P79_N21,unsat,91.0555
+MNIST_P90_N13,unsat,82.8961
+MNIST_P95_N12,unsat,94.7905
+MNIST_P29_N40,unsat,83.0651
+MNIST_P78_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.1604
+MNIST_P21_N10,unsat,81.1208
+MNIST_P51_N9,unsat,86.694
+MNIST_P68_N2,unsat,91.124
+MNIST_P10_N31,unsat,72.5317
+MNIST_P35_N46,unsat,74.1151
+MNIST_P38_N15,unsat,73.0321
+MNIST_P56_N42,unsat,68.9539
+MNIST_P96_N45,unsat,67.586
+MNIST_P33_N7,timeout,3600.031
+MNIST_P38_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.6446
+MNIST_P64_N39,timeout,3600.019
+MNIST_P93_N8,VerificationRunnerError(IndexError),
+MNIST_P52_N40,unsat,72.7822
+MNIST_P55_N22,unsat,85.6859
+MNIST_P58_N37,unsat,77.132
+MNIST_P4_N47,timeout,3600.008
+MNIST_P59_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4849
+MNIST_P28_N49,unsat,86.2246
+MNIST_P65_N40,unsat,73.1225
+MNIST_P1_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1183
+MNIST_P69_N39,unsat,75.6022
+MNIST_P92_N29,unsat,74.8089
+MNIST_P52_N11,unsat,73.4576
+MNIST_P7_N1,unsat,70.5614
+MNIST_P52_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5762
+MNIST_P1_N40,unsat,70.77
+MNIST_P44_N2,unsat,87.6095
+MNIST_P59_N27,sat,32.781
+MNIST_P38_N25,unsat,70.6466
+MNIST_P80_N14,unsat,81.2001
+MNIST_P94_N34,unsat,66.3728
+MNIST_P66_N37,unsat,73.0837
+MNIST_P69_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5532
+MNIST_P72_N48,unsat,76.4676
+MNIST_P25_N38,unsat,62.02
+MNIST_P66_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.4739
+MNIST_P87_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.705
+MNIST_P70_N11,unsat,61.7473
+MNIST_P42_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6296
+MNIST_P76_N15,unsat,70.2009
+MNIST_P27_N23,unsat,64.5479
+MNIST_P29_N36,unsat,69.687
+MNIST_P67_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6727
+MNIST_P62_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6376
+MNIST_P75_N18,unsat,70.1733
+MNIST_P51_N25,unsat,72.4424
+MNIST_P78_N9,unsat,73.1473
+MNIST_P73_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5786
+MNIST_P45_N2,unsat,91.141
+MNIST_P5_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.8047
+MNIST_P11_N49,unsat,83.0749
+MNIST_P44_N29,unsat,71.7304
+MNIST_P82_N16,VerinetTranslatorError(Div operations are not supported.),0.455
+MNIST_P98_N39,unsat,69.8654
+MNIST_P33_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8425
+MNIST_P84_N39,unsat,71.8473
+MNIST_P86_N46,unsat,76.4439
+MNIST_P73_N23,sat,71.4851
+MNIST_P34_N10,unsat,69.1799
+MNIST_P43_N22,unsat,82.1086
+MNIST_P12_N40,unsat,68.1485
+MNIST_P70_N48,unsat,79.0255
+MNIST_P2_N29,unsat,68.0085
+MNIST_P73_N11,timeout,3600.021
+MNIST_P75_N36,unsat,68.1504
+MNIST_P29_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6472
+MNIST_P88_N7,unsat,60.7053
+MNIST_P98_N41,unsat,142.5057
+MNIST_P1_N2,unsat,81.0951
+MNIST_P81_N27,sat,6.8726
+MNIST_P15_N13,unsat,52.0399
+MNIST_P80_N27,sat,6.1117
+MNIST_P92_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5961
+MNIST_P11_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.4953
+MNIST_P24_N48,unsat,74.4348
+MNIST_P87_N41,unsat,142.5289
+MNIST_P97_N46,unsat,69.0107
+MNIST_P93_N19,unsat,68.2688
+MNIST_P65_N31,unsat,68.3211
+MNIST_P40_N40,unsat,64.2056
+MNIST_P96_N41,unsat,149.3243
+MNIST_P71_N11,unsat,63.8338
+MNIST_P54_N49,unsat,79.8408
+MNIST_P9_N13,unsat,62.819
+MNIST_P46_N18,unsat,73.6379
+MNIST_P42_N36,unsat,71.1873
+MNIST_P54_N36,unsat,67.7222
+MNIST_P79_N41,unsat,145.0696
+MNIST_P73_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7636
+MNIST_P62_N7,unsat,55.3751
+MNIST_P84_N35,unsat,57.6209
+MNIST_P93_N18,unsat,70.6581
+MNIST_P17_N47,unsat,65.9983
+MNIST_P78_N10,unsat,62.6664
+MNIST_P62_N18,unsat,70.6025
+MNIST_P23_N7,unsat,65.3157
+MNIST_P39_N10,unsat,62.186
+MNIST_P37_N27,sat,6.2907
+MNIST_P73_N22,unsat,75.177
+MNIST_P0_N35,unsat,65.3059
+MNIST_P51_N41,unsat,145.2995
+MNIST_P0_N38,unsat,64.8632
+MNIST_P69_N11,unsat,64.916
+MNIST_P41_N19,unsat,61.4362
+MNIST_P14_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5472
+MNIST_P77_N12,unsat,68.459
+MNIST_P65_N39,timeout,3600.005
+MNIST_P40_N47,timeout,3600.023
+MNIST_P85_N33,unsat,75.328
+MNIST_P3_N22,unsat,74.2644
+MNIST_P14_N25,unsat,65.0419
+MNIST_P31_N9,unsat,64.7051
+MNIST_P97_N37,unsat,64.0794
+MNIST_P15_N38,timeout,3600.012
+MNIST_P38_N48,unsat,76.5686
+MNIST_P23_N42,unsat,57.459
+MNIST_P39_N13,unsat,56.6141
+MNIST_P82_N14,unsat,71.6251
+MNIST_P97_N44,unsat,57.7141
+MNIST_P32_N24,unsat,55.0051
+MNIST_P86_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7108
+MNIST_P14_N46,unsat,58.3924
+MNIST_P92_N5,unsat,58.1997
+MNIST_P20_N34,sat,34.2859
+MNIST_P17_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4248
+MNIST_P70_N19,unsat,61.4227
+MNIST_P40_N36,unsat,61.0772
+MNIST_P29_N42,unsat,54.4795
+MNIST_P49_N5,unsat,63.1419
+MNIST_P98_N45,unsat,51.5163
+MNIST_P32_N46,unsat,61.9603
+MNIST_P24_N47,timeout,3600.01
+MNIST_P33_N45,sat,5.9581
+MNIST_P99_N10,unsat,54.6861
+MNIST_P21_N4,unsat,58.3338
+MNIST_P10_N19,unsat,57.8076
+MNIST_P78_N11,unsat,49.4963
+MNIST_P7_N29,unsat,50.9922
+MNIST_P50_N18,unsat,57.2592
+MNIST_P6_N38,timeout,3600.022
+MNIST_P97_N9,unsat,54.3729
+MNIST_P37_N42,unsat,48.2524
+MNIST_P53_N15,unsat,56.1078
+MNIST_P53_N47,timeout,3600.008
+MNIST_P62_N42,timeout,3600.012
+MNIST_P84_N45,unsat,47.1955
+MNIST_P71_N7,unsat,48.6901
+MNIST_P65_N37,unsat,52.711
+MNIST_P97_N39,unsat,47.1879
+MNIST_P61_N10,unsat,44.4003
+MNIST_P9_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5553
+MNIST_P4_N16,VerinetTranslatorError(Div operations are not supported.),0.5223
+MNIST_P51_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6339
+MNIST_P59_N12,unsat,62.3547
+MNIST_P18_N16,VerinetTranslatorError(Div operations are not supported.),0.516
+MNIST_P22_N46,unsat,56.762
+MNIST_P56_N39,unsat,47.7927
+MNIST_P67_N12,unsat,62.5613
+MNIST_P45_N4,unsat,55.5262
+MNIST_P81_N47,unsat,54.1187
+MNIST_P9_N37,unsat,57.2443
+MNIST_P56_N13,unsat,48.9406
+MNIST_P89_N15,unsat,55.507
+MNIST_P12_N47,unsat,51.8356
+MNIST_P18_N15,sat,48.9632
+MNIST_P58_N24,unsat,46.3598
+MNIST_P30_N42,unsat,46.7724
+MNIST_P20_N41,unsat,126.3527
+MNIST_P50_N15,unsat,55.9056
+MNIST_P63_N38,unsat,49.9332
+MNIST_P98_N36,unsat,54.4569
+MNIST_P90_N39,unsat,48.8385
+MNIST_P94_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5448
+MNIST_P37_N34,unsat,46.0065
+MNIST_P6_N10,unsat,44.5707
+MNIST_P33_N13,unsat,45.5464
+MNIST_P50_N47,timeout,3600.014
+MNIST_P67_N47,timeout,3600.044
+MNIST_P11_N27,sat,4.8867
+MNIST_P29_N37,unsat,51.72
+MNIST_P59_N22,unsat,60.9844
+MNIST_P19_N44,unsat,45.5077
+MNIST_P4_N9,unsat,51.3452
+MNIST_P17_N48,unsat,59.6828
+MNIST_P19_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6797
+MNIST_P39_N37,unsat,52.5128
+MNIST_P68_N38,unsat,45.499
+MNIST_P57_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1339
+MNIST_P5_N14,unsat,59.4198
+MNIST_P12_N22,unsat,60.0031
+MNIST_P14_N27,sat,4.9841
+MNIST_P34_N39,unsat,43.6671
+MNIST_P97_N24,sat,24.6391
+MNIST_P93_N45,unsat,43.0886
+MNIST_P36_N4,unsat,50.4091
+MNIST_P25_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1641
+MNIST_P0_N31,unsat,50.9558
+MNIST_P0_N48,unsat,58.9706
+MNIST_P15_N5,unsat,52.2235
+MNIST_P38_N47,sat,6.2266
+MNIST_P60_N13,unsat,44.4945
+MNIST_P42_N12,unsat,59.665
+MNIST_P20_N16,VerinetTranslatorError(Div operations are not supported.),0.5266
+MNIST_P60_N45,unsat,42.5047
+MNIST_P69_N9,unsat,52.8245
+MNIST_P93_N35,unsat,43.6741
+MNIST_P81_N34,unsat,42.0353
+MNIST_P99_N18,unsat,52.8498
+MNIST_P83_N49,unsat,61.9245
+MNIST_P11_N24,sat,10.2768
+MNIST_P21_N23,unsat,46.7021
+MNIST_P71_N34,unsat,43.0764
+MNIST_P88_N29,unsat,46.449
+MNIST_P62_N35,timeout,3600.009
+MNIST_P83_N15,unsat,49.1546
+MNIST_P96_N16,VerinetTranslatorError(Div operations are not supported.),0.6967
+MNIST_P77_N18,sat,10.317
+MNIST_P15_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.694
+MNIST_P63_N29,unsat,41.3124
+MNIST_P28_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.3688
+MNIST_P38_N45,unsat,39.3711
+MNIST_P27_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7965
+MNIST_P59_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6576
+MNIST_P85_N36,unsat,48.4092
+MNIST_P2_N16,VerinetTranslatorError(Div operations are not supported.),0.5584
+MNIST_P93_N11,unsat,44.1362
+MNIST_P57_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5874
+MNIST_P81_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8118
+MNIST_P71_N48,unsat,59.5138
+MNIST_P79_N14,unsat,61.1087
+MNIST_P46_N47,unsat,51.4131
+MNIST_P51_N23,unsat,45.5591
+MNIST_P60_N22,unsat,61.7515
+MNIST_P2_N13,unsat,43.1648
+MNIST_P44_N14,unsat,59.7031
+MNIST_P52_N46,unsat,51.9562
+MNIST_P71_N13,unsat,43.684
+MNIST_P57_N1,unsat,43.3422
+MNIST_P39_N1,unsat,42.0695
+MNIST_P94_N46,unsat,52.0047
+MNIST_P57_N41,unsat,121.8984
+MNIST_P90_N35,unsat,44.1625
+MNIST_P62_N5,unsat,52.2287
+MNIST_P91_N1,unsat,44.2077
+MNIST_P26_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5957
+MNIST_P76_N39,unsat,43.8845
+MNIST_P48_N18,unsat,51.212
+MNIST_P14_N22,unsat,57.2482
+MNIST_P56_N10,unsat,43.7889
+MNIST_P65_N5,unsat,50.3563
+MNIST_P75_N16,VerinetTranslatorError(Div operations are not supported.),0.5666
+MNIST_P91_N2,unsat,68.3245
+MNIST_P59_N39,timeout,3600.028
+MNIST_P13_N42,unsat,44.7394
+MNIST_P70_N29,unsat,46.7346
+MNIST_P81_N12,unsat,58.6618
+MNIST_P4_N25,unsat,49.0334
+MNIST_P42_N16,VerinetTranslatorError(Div operations are not supported.),0.6449
+MNIST_P13_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.6765
+MNIST_P12_N14,unsat,60.2444
+MNIST_P12_N25,unsat,48.4614
+MNIST_P91_N37,unsat,51.428
+MNIST_P74_N25,unsat,51.9449
+MNIST_P6_N37,unsat,51.2474
+MNIST_P26_N11,unsat,43.7042
+MNIST_P32_N13,unsat,41.9036
+MNIST_P48_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0374
+MNIST_P74_N7,unsat,43.6908
+MNIST_P94_N16,VerinetTranslatorError(Div operations are not supported.),0.5052
+MNIST_P50_N44,unsat,43.1925
+MNIST_P83_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8934
+MNIST_P43_N36,unsat,48.5636
+MNIST_P29_N13,unsat,43.4819
+MNIST_P25_N2,unsat,68.3291
+MNIST_P0_N47,unsat,50.5588
+MNIST_P41_N37,unsat,50.1641
+MNIST_P2_N40,unsat,44.9656
+MNIST_P2_N46,unsat,50.4614
+MNIST_P42_N35,unsat,44.2249
+MNIST_P69_N42,unsat,43.0955
+MNIST_P32_N33,unsat,60.2082
+MNIST_P58_N48,unsat,59.2775
+MNIST_P79_N11,unsat,45.2649
+MNIST_P41_N41,unsat,123.4862
+MNIST_P92_N2,sat,7.9755
+MNIST_P61_N38,unsat,45.9347
+MNIST_P98_N49,unsat,60.94
+MNIST_P28_N24,unsat,43.2955
+MNIST_P54_N40,unsat,45.6556
+MNIST_P47_N44,unsat,44.2406
+MNIST_P8_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0717
+MNIST_P34_N14,unsat,59.0813
+MNIST_P21_N19,unsat,51.1247
+MNIST_P97_N45,unsat,42.1958
+MNIST_P18_N14,unsat,59.4821
+MNIST_P68_N9,unsat,49.7662
+MNIST_P72_N23,unsat,45.088
+MNIST_P31_N4,unsat,52.5292
+MNIST_P1_N37,unsat,51.2845
+MNIST_P22_N49,unsat,58.4055
+MNIST_P31_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9331
+MNIST_P48_N2,unsat,68.2033
+MNIST_P82_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9507
+MNIST_P85_N23,unsat,44.491
+MNIST_P6_N18,unsat,48.8856
+MNIST_P80_N39,unsat,43.9443
+MNIST_P66_N41,unsat,124.6959
+MNIST_P90_N9,unsat,50.6202
+MNIST_P35_N45,unsat,43.0223
+MNIST_P39_N31,unsat,50.0991
+MNIST_P45_N41,unsat,125.2282
+MNIST_P51_N10,unsat,44.1748
+MNIST_P10_N22,unsat,60.6917
+MNIST_P42_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.713
+MNIST_P50_N31,unsat,50.0715
+MNIST_P24_N41,unsat,121.9208
+MNIST_P63_N46,unsat,51.7121
+MNIST_P33_N22,unsat,59.3477
+MNIST_P79_N23,unsat,45.7464
+MNIST_P96_N18,unsat,51.6274
+MNIST_P42_N39,unsat,46.1928
+MNIST_P19_N39,unsat,44.6576
+MNIST_P27_N27,sat,5.1657
+MNIST_P31_N5,unsat,49.0181
+MNIST_P79_N18,unsat,50.0322
+MNIST_P88_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7909
+MNIST_P6_N23,unsat,44.7743
+MNIST_P29_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5402
+MNIST_P8_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.4813
+MNIST_P25_N45,unsat,41.775
+MNIST_P36_N45,unsat,43.4819
+MNIST_P75_N47,unsat,50.194
+MNIST_P57_N7,unsat,45.2152
+MNIST_P85_N41,unsat,120.569
+MNIST_P8_N38,sat,5.9692
+MNIST_P24_N16,VerinetTranslatorError(Div operations are not supported.),0.5696
+MNIST_P86_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5506
+MNIST_P51_N42,unsat,44.5022
+MNIST_P20_N5,unsat,51.1312
+MNIST_P53_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0631
+MNIST_P42_N11,unsat,44.8586
+MNIST_P63_N7,timeout,3600.001
+MNIST_P92_N19,unsat,52.4619
+MNIST_P99_N2,unsat,69.2701
+MNIST_P44_N40,unsat,44.6205
+MNIST_P6_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6413
+MNIST_P11_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0282
+MNIST_P66_N12,unsat,56.9004
+MNIST_P94_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5119
+MNIST_P11_N45,unsat,42.7655
+MNIST_P22_N27,sat,5.2144
+MNIST_P52_N21,unsat,51.2454
+MNIST_P90_N45,unsat,42.8752
+MNIST_P20_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5441
+MNIST_P62_N15,unsat,50.8527
+MNIST_P66_N40,unsat,44.435
+MNIST_P30_N40,unsat,44.8305
+MNIST_P70_N23,unsat,45.1238
+MNIST_P79_N4,unsat,50.6921
+MNIST_P96_N13,timeout,3600.022
+MNIST_P72_N35,unsat,42.5033
+MNIST_P54_N33,unsat,58.8713
+MNIST_P47_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6081
+MNIST_P89_N27,sat,4.5026
+MNIST_P28_N15,unsat,51.2103
+MNIST_P82_N29,unsat,45.4645
+MNIST_P17_N9,unsat,48.928
+MNIST_P83_N33,sat,33.6094
+MNIST_P17_N22,unsat,57.0862
+MNIST_P99_N11,unsat,44.7983
+MNIST_P92_N14,unsat,59.9538
+MNIST_P54_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5578
+MNIST_P67_N34,unsat,43.5228
+MNIST_P19_N12,unsat,58.8708
+MNIST_P30_N39,unsat,44.2649
+MNIST_P41_N49,unsat,60.1062
+MNIST_P31_N31,unsat,48.7607
+MNIST_P77_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6632
+MNIST_P16_N24,timeout,3600.053
+MNIST_P47_N2,unsat,66.8078
+MNIST_P79_N15,unsat,51.1273
+MNIST_P86_N34,unsat,43.8032
+MNIST_P51_N18,unsat,50.8124
+MNIST_P73_N47,timeout,3600.023
+MNIST_P96_N12,unsat,58.3788
+MNIST_P15_N29,unsat,45.0243
+MNIST_P18_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5628
+MNIST_P10_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5388
+MNIST_P23_N48,unsat,58.0892
+MNIST_P63_N22,unsat,60.5512
+MNIST_P55_N38,unsat,46.5832
+MNIST_P25_N14,unsat,60.0498
+MNIST_P0_N4,unsat,52.0661
+MNIST_P43_N9,unsat,49.1719
+MNIST_P87_N35,unsat,44.4547
+MNIST_P31_N37,unsat,51.3284
+MNIST_P55_N46,unsat,51.8187
+MNIST_P34_N23,unsat,44.7305
+MNIST_P37_N21,unsat,50.7767
+MNIST_P54_N22,unsat,58.2182
+MNIST_P6_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9911
+MNIST_P88_N13,unsat,43.1219
+MNIST_P94_N5,unsat,50.6046
+MNIST_P54_N21,unsat,50.5876
+MNIST_P23_N21,unsat,51.286
+MNIST_P18_N47,unsat,50.4426
+MNIST_P73_N14,unsat,59.686
+MNIST_P94_N25,unsat,51.6919
+MNIST_P79_N10,unsat,44.7428
+MNIST_P92_N1,unsat,44.3097
+MNIST_P99_N19,unsat,52.3471
+MNIST_P53_N9,unsat,53.1355
+MNIST_P22_N48,unsat,61.2338
+MNIST_P70_N41,unsat,131.7434
+MNIST_P3_N33,unsat,62.4206
+MNIST_P33_N39,timeout,3600.025
+MNIST_P44_N18,unsat,52.2207
+MNIST_P69_N10,unsat,45.3611
+MNIST_P57_N35,unsat,44.498
+MNIST_P92_N9,unsat,52.0094
+MNIST_P31_N45,unsat,44.2047
+MNIST_P37_N47,unsat,51.1429
+MNIST_P68_N37,unsat,52.9969
+MNIST_P1_N5,unsat,52.2309
+MNIST_P30_N12,unsat,61.5352
+MNIST_P91_N21,unsat,50.8704
+MNIST_P84_N29,unsat,46.8651
+MNIST_P65_N10,timeout,3600.035
+MNIST_P41_N10,unsat,44.1946
+MNIST_P66_N2,unsat,68.6823
+MNIST_P78_N13,unsat,43.796
+MNIST_P98_N29,unsat,45.6415
+MNIST_P76_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.669
+MNIST_P62_N12,unsat,59.8776
+MNIST_P74_N16,VerinetTranslatorError(Div operations are not supported.),0.6605
+MNIST_P83_N44,unsat,43.2461
+MNIST_P61_N2,unsat,67.9528
+MNIST_P22_N44,unsat,43.4651
+MNIST_P39_N27,sat,4.6863
+MNIST_P45_N45,unsat,43.3585
+MNIST_P87_N46,unsat,53.3291
+MNIST_P76_N35,unsat,45.1616
+MNIST_P96_N23,unsat,46.3195
+MNIST_P52_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0765
+MNIST_P33_N49,sat,20.6309
+MNIST_P7_N23,unsat,46.4152
+MNIST_P98_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5652
+MNIST_P98_N27,sat,4.9827
+MNIST_P18_N12,unsat,61.066
+MNIST_P38_N1,unsat,43.3797
+MNIST_P46_N21,unsat,52.2919
+MNIST_P35_N23,unsat,48.0049
+MNIST_P12_N29,unsat,46.5117
+MNIST_P11_N41,unsat,130.8207
+MNIST_P63_N18,unsat,53.1149
+MNIST_P13_N24,unsat,44.3035
+MNIST_P21_N46,unsat,54.3274
+MNIST_P82_N46,unsat,55.4259
+MNIST_P5_N42,unsat,47.4515
+MNIST_P5_N44,unsat,46.4401
+MNIST_P5_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.125
+MNIST_P10_N33,unsat,62.6829
+MNIST_P89_N5,unsat,55.7574
+MNIST_P97_N22,unsat,63.724
+MNIST_P60_N44,unsat,47.4324
+MNIST_P39_N25,unsat,53.2634
+MNIST_P68_N12,unsat,61.3737
+MNIST_P60_N16,VerinetTranslatorError(Div operations are not supported.),0.7509
+MNIST_P31_N46,unsat,54.645
+MNIST_P58_N41,unsat,132.9475
+MNIST_P90_N1,unsat,46.1659
+MNIST_P40_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1623
+MNIST_P59_N5,unsat,54.061
+MNIST_P90_N25,unsat,54.7192
+MNIST_P61_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5554
+MNIST_P95_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.7678
+MNIST_P56_N9,unsat,57.9017
+MNIST_P63_N31,unsat,56.6436
+MNIST_P35_N44,unsat,51.3185
+MNIST_P3_N23,unsat,54.5452
+MNIST_P71_N47,unsat,61.1373
+MNIST_P20_N39,unsat,55.2911
+MNIST_P9_N36,unsat,58.5113
+MNIST_P88_N11,unsat,56.1184
+MNIST_P78_N47,sat,26.1076
+MNIST_P71_N45,unsat,47.3243
+MNIST_P1_N15,unsat,59.5683
+MNIST_P3_N40,unsat,56.8204
+MNIST_P19_N14,unsat,71.5896
+MNIST_P3_N34,unsat,52.3201
+MNIST_P13_N31,unsat,61.9917
+MNIST_P62_N48,unsat,72.294
+MNIST_P80_N35,unsat,54.454
+MNIST_P11_N47,unsat,61.3429
+MNIST_P58_N2,unsat,79.5238
+MNIST_P82_N21,unsat,62.9901
+MNIST_P19_N31,unsat,59.3878
+MNIST_P31_N11,timeout,3600.017
+MNIST_P37_N19,unsat,59.4581
+MNIST_P94_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8466
+MNIST_P11_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8605
+MNIST_P52_N34,unsat,49.7606
+MNIST_P66_N10,timeout,3600.011
+MNIST_P59_N13,unsat,51.8776
+MNIST_P56_N48,unsat,67.5586
+MNIST_P7_N42,unsat,51.8983
+MNIST_P36_N33,unsat,68.4678
+MNIST_P31_N24,unsat,49.9704
+MNIST_P2_N25,unsat,57.5523
+MNIST_P32_N15,unsat,59.8464
+MNIST_P40_N48,unsat,65.4181
+MNIST_P49_N38,unsat,52.3639
+MNIST_P23_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9804
+MNIST_P32_N41,unsat,132.5715
+MNIST_P42_N23,unsat,48.6704
+MNIST_P84_N4,unsat,54.8417
+MNIST_P15_N37,unsat,55.73
+MNIST_P8_N21,timeout,3600.015
+MNIST_P25_N1,unsat,47.9301
+MNIST_P89_N46,unsat,57.9793
+MNIST_P79_N22,unsat,68.216
+MNIST_P96_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7143
+MNIST_P50_N41,unsat,135.3309
+MNIST_P0_N11,unsat,51.1511
+MNIST_P47_N38,unsat,54.5818
+MNIST_P3_N46,unsat,60.8826
+MNIST_P24_N35,unsat,52.0825
+MNIST_P34_N34,unsat,51.209
+MNIST_P41_N35,unsat,51.6502
+MNIST_P24_N9,unsat,58.1776
+MNIST_P43_N44,timeout,3600.016
+MNIST_P49_N13,unsat,48.5766
+MNIST_P55_N13,unsat,48.9533
+MNIST_P79_N34,unsat,46.8981
+MNIST_P28_N27,sat,16.0158
+MNIST_P23_N47,unsat,56.0814
+MNIST_P31_N18,unsat,56.1702
+MNIST_P88_N4,unsat,58.3362
+MNIST_P49_N39,unsat,50.7032
+MNIST_P3_N25,unsat,56.5712
+MNIST_P2_N37,unsat,56.3617
+MNIST_P14_N1,unsat,50.2997
+MNIST_P95_N9,unsat,57.0507
+MNIST_P54_N31,unsat,57.2634
+MNIST_P77_N48,sat,67.2159
+MNIST_P60_N14,unsat,68.2135
+MNIST_P75_N35,unsat,51.3362
+MNIST_P38_N35,unsat,49.2292
+MNIST_P19_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0581
+MNIST_P70_N27,sat,31.6371
+MNIST_P50_N29,unsat,50.5428
+MNIST_P72_N38,unsat,50.9949
+MNIST_P24_N21,unsat,57.4954
+MNIST_P9_N14,unsat,67.4114
+MNIST_P46_N31,unsat,59.5513
+MNIST_P53_N13,unsat,50.3867
+MNIST_P84_N22,unsat,66.804
+MNIST_P35_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.76
+MNIST_P3_N24,unsat,50.1795
+MNIST_P58_N34,unsat,50.4557
+MNIST_P53_N35,unsat,52.4805
+MNIST_P19_N36,unsat,59.4963
+MNIST_P91_N25,unsat,56.2116
+MNIST_P39_N33,unsat,66.5437
+MNIST_P25_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.864
+MNIST_P26_N45,unsat,49.7595
+MNIST_P46_N2,unsat,79.5935
+MNIST_P2_N31,unsat,59.8745
+MNIST_P60_N35,unsat,51.6642
+MNIST_P81_N33,unsat,71.3527
+MNIST_P89_N7,unsat,53.3334
+MNIST_P37_N46,unsat,61.272
+MNIST_P51_N37,unsat,60.0015
+MNIST_P6_N42,unsat,53.1784
+MNIST_P82_N7,unsat,54.1573
+MNIST_P44_N33,sat,46.5484
+MNIST_P44_N37,unsat,57.5373
+MNIST_P31_N38,timeout,3600.0
+MNIST_P14_N7,unsat,48.195
+MNIST_P88_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6945
+MNIST_P86_N35,unsat,49.0049
+MNIST_P32_N11,unsat,49.7742
+MNIST_P1_N18,unsat,59.4153
+MNIST_P15_N9,unsat,57.9541
+MNIST_P42_N15,unsat,58.6984
+MNIST_P65_N45,unsat,49.629
+MNIST_P80_N23,unsat,54.9093
+MNIST_P53_N16,VerinetTranslatorError(Div operations are not supported.),0.5864
+MNIST_P64_N47,unsat,57.5812
+MNIST_P88_N34,unsat,50.1161
+MNIST_P31_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.7097
+MNIST_P68_N1,unsat,46.2532
+MNIST_P1_N47,unsat,54.7748
+MNIST_P58_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9653
+MNIST_P18_N42,unsat,48.9387
+MNIST_P61_N5,unsat,55.0871
+MNIST_P78_N27,sat,19.5926
+MNIST_P84_N15,unsat,55.5554
+MNIST_P24_N25,unsat,55.0056
+MNIST_P62_N11,timeout,3600.023
+MNIST_P1_N35,unsat,50.536
+MNIST_P67_N29,unsat,50.401
+MNIST_P61_N44,unsat,49.9959
+MNIST_P45_N46,unsat,59.4123
+MNIST_P85_N13,unsat,47.8234
+MNIST_P66_N48,unsat,63.135
+MNIST_P17_N11,unsat,48.7646
+MNIST_P87_N38,unsat,48.8171
+MNIST_P65_N41,unsat,129.2497
+MNIST_P21_N33,unsat,63.6394
+MNIST_P76_N36,unsat,53.7502
+MNIST_P4_N37,unsat,55.6292
+MNIST_P35_N41,unsat,138.3899
+MNIST_P44_N22,unsat,65.9305
+MNIST_P60_N41,unsat,133.55
+MNIST_P7_N16,VerinetTranslatorError(Div operations are not supported.),0.7953
+MNIST_P60_N38,unsat,49.7025
+MNIST_P48_N45,unsat,46.6889
+MNIST_P68_N49,unsat,65.4032
+MNIST_P73_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.7382
+MNIST_P76_N7,unsat,51.4189
+MNIST_P73_N5,unsat,57.214
+MNIST_P79_N44,unsat,51.4348
+MNIST_P80_N15,unsat,58.9546
+MNIST_P93_N22,unsat,65.5684
+MNIST_P95_N39,unsat,50.0897
+MNIST_P98_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.1065
+MNIST_P26_N18,unsat,56.9772
+MNIST_P95_N16,VerinetTranslatorError(Div operations are not supported.),0.773
+MNIST_P64_N1,unsat,46.2879
+MNIST_P64_N48,unsat,65.1958
+MNIST_P30_N45,unsat,47.1101
+MNIST_P59_N16,VerinetTranslatorError(Div operations are not supported.),0.649
+MNIST_P75_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5718
+MNIST_P88_N48,unsat,66.8775
+MNIST_P31_N13,unsat,49.6826
+MNIST_P13_N38,unsat,51.8837
+MNIST_P54_N35,unsat,51.9061
+MNIST_P70_N35,unsat,50.0813
+MNIST_P2_N44,unsat,48.575
+MNIST_P57_N16,VerinetTranslatorError(Div operations are not supported.),0.6993
+MNIST_P30_N46,unsat,57.4588
+MNIST_P21_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0897
+MNIST_P25_N48,unsat,64.7822
+MNIST_P47_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.1632
+MNIST_P48_N31,unsat,55.5617
+MNIST_P40_N27,sat,5.2172
+MNIST_P27_N31,unsat,56.5207
+MNIST_P16_N39,unsat,48.8881
+MNIST_P58_N45,unsat,48.9512
+MNIST_P77_N42,unsat,51.696
+MNIST_P0_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0829
+MNIST_P21_N22,unsat,67.3334
+MNIST_P1_N10,unsat,51.2203
+MNIST_P78_N18,unsat,59.261
+MNIST_P22_N45,unsat,50.2901
+MNIST_P70_N13,unsat,50.0865
+MNIST_P44_N45,unsat,49.3545
+MNIST_P5_N16,VerinetTranslatorError(Div operations are not supported.),0.5502
+MNIST_P80_N31,unsat,55.6087
+MNIST_P7_N31,unsat,56.3932
+MNIST_P0_N16,VerinetTranslatorError(Div operations are not supported.),0.7854
+MNIST_P56_N49,unsat,67.631
+MNIST_P70_N2,unsat,80.4996
+MNIST_P87_N49,unsat,68.6075
+MNIST_P99_N4,unsat,61.3535
+MNIST_P24_N44,unsat,52.047
+MNIST_P76_N37,unsat,61.0874
+MNIST_P43_N34,unsat,50.4414
+MNIST_P6_N31,unsat,60.7813
+MNIST_P72_N45,unsat,51.5104
+MNIST_P75_N14,unsat,67.0036
+MNIST_P85_N46,unsat,56.4522
+MNIST_P8_N35,sat,5.0085
+MNIST_P32_N36,unsat,56.3784
+MNIST_P39_N47,unsat,59.3144
+MNIST_P58_N7,unsat,53.785
+MNIST_P75_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6692
+MNIST_P75_N39,unsat,53.1939
+MNIST_P95_N4,unsat,60.4379
+MNIST_P10_N12,unsat,68.4882
+MNIST_P79_N7,unsat,54.8025
+MNIST_P71_N9,unsat,60.7942
+MNIST_P7_N44,unsat,54.6448
+MNIST_P20_N44,unsat,51.4203
+MNIST_P33_N35,unsat,47.8414
+MNIST_P29_N39,timeout,3600.002
+MNIST_P55_N44,unsat,45.8645
+MNIST_P13_N35,unsat,49.7463
+MNIST_P11_N37,unsat,58.1071
+MNIST_P25_N39,unsat,50.4481
+MNIST_P20_N19,unsat,59.4485
+MNIST_P97_N18,unsat,58.3494
+MNIST_P38_N44,unsat,51.1133
+MNIST_P82_N23,unsat,52.286
+MNIST_P77_N44,unsat,51.5297
+MNIST_P19_N4,unsat,57.2586
+MNIST_P28_N11,unsat,50.0667
+MNIST_P41_N46,unsat,54.1287
+MNIST_P67_N49,unsat,64.1655
+MNIST_P4_N41,unsat,134.9939
+MNIST_P58_N21,unsat,58.1851
+MNIST_P49_N23,unsat,49.5134
+MNIST_P55_N2,unsat,75.3437
+MNIST_P29_N34,unsat,48.2498
+MNIST_P3_N12,unsat,63.1895
+MNIST_P95_N36,unsat,57.66
+MNIST_P34_N18,unsat,55.9873
+MNIST_P1_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7651
+MNIST_P21_N41,unsat,136.2616
+MNIST_P66_N31,unsat,53.8763
+MNIST_P12_N41,unsat,135.2637
+MNIST_P63_N48,unsat,65.9456
+MNIST_P13_N10,unsat,48.4503
+MNIST_P52_N49,unsat,64.8249
+MNIST_P74_N40,unsat,51.2171
+MNIST_P39_N14,unsat,65.0098
+MNIST_P78_N34,unsat,48.0781
+MNIST_P88_N2,unsat,76.8068
+MNIST_P17_N15,unsat,55.3207
+MNIST_P73_N49,unsat,64.5402
+MNIST_P85_N15,unsat,57.2111
+MNIST_P22_N11,unsat,49.0487
+MNIST_P68_N41,unsat,132.6559
+MNIST_P32_N19,unsat,57.8444
+MNIST_P72_N25,unsat,55.3062
+MNIST_P59_N44,unsat,49.4145
+MNIST_P67_N41,unsat,134.1612
+MNIST_P24_N46,unsat,55.2883
+MNIST_P30_N44,unsat,46.9659
+MNIST_P77_N37,unsat,54.4702
+MNIST_P84_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.097
+MNIST_P86_N25,unsat,53.3993
+MNIST_P25_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9838
+MNIST_P34_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6891
+MNIST_P47_N9,unsat,56.2235
+MNIST_P77_N34,unsat,46.0174
+MNIST_P4_N48,unsat,64.5667
+MNIST_P31_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.693
+MNIST_P20_N36,unsat,55.0451
+MNIST_P78_N22,unsat,63.3926
+MNIST_P35_N21,unsat,56.6604
+MNIST_P95_N49,unsat,65.2821
+MNIST_P75_N7,unsat,50.3827
+MNIST_P77_N49,unsat,65.9894
+MNIST_P72_N34,unsat,47.5754
+MNIST_P92_N40,unsat,50.224
+MNIST_P46_N35,unsat,48.4658
+MNIST_P88_N42,unsat,49.2099
+MNIST_P60_N39,unsat,47.8027
+MNIST_P62_N23,unsat,50.144
+MNIST_P6_N35,unsat,47.2513
+MNIST_P41_N21,unsat,55.8027
+MNIST_P57_N11,timeout,3600.031
+MNIST_P73_N16,VerinetTranslatorError(Div operations are not supported.),0.8161
+MNIST_P33_N14,unsat,60.9102
+MNIST_P8_N24,sat,35.8213
+MNIST_P42_N40,unsat,49.8836
+MNIST_P24_N40,unsat,48.9378
+MNIST_P60_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7186
+MNIST_P3_N10,unsat,46.8372
+MNIST_P52_N5,unsat,57.0989
+MNIST_P80_N48,sat,14.6634
+MNIST_P14_N14,unsat,66.0025
+MNIST_P65_N22,unsat,67.565
+MNIST_P85_N44,unsat,48.8158
+MNIST_P24_N7,unsat,49.0244
+MNIST_P27_N45,unsat,46.7584
+MNIST_P36_N11,unsat,48.3329
+MNIST_P41_N4,unsat,56.4772
+MNIST_P43_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6341
+MNIST_P47_N35,unsat,48.8531
+MNIST_P8_N14,unsat,62.774
+MNIST_P87_N23,unsat,48.7069
+MNIST_P13_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0866
+MNIST_P51_N12,unsat,66.3441
+MNIST_P58_N40,unsat,49.7689
+MNIST_P43_N23,unsat,50.9515
+MNIST_P75_N37,unsat,55.8434
+MNIST_P86_N37,unsat,57.7124
+MNIST_P95_N11,unsat,49.8946
+MNIST_P81_N38,unsat,51.267
+MNIST_P33_N47,timeout,3600.018
+MNIST_P44_N34,unsat,47.1055
+MNIST_P67_N22,unsat,66.0308
+MNIST_P83_N22,unsat,66.6881
+MNIST_P22_N35,unsat,48.6192
+MNIST_P60_N46,unsat,59.2176
+MNIST_P49_N48,unsat,65.7776
+MNIST_P61_N13,unsat,50.6412
+MNIST_P91_N35,unsat,54.2294
+MNIST_P20_N9,unsat,57.5872
+MNIST_P81_N18,unsat,57.1611
+MNIST_P51_N11,unsat,52.1892
+MNIST_P5_N19,unsat,57.8461
+MNIST_P15_N49,unsat,63.2222
+MNIST_P50_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.053
+MNIST_P77_N4,unsat,55.1775
+MNIST_P91_N47,unsat,54.031
+MNIST_P53_N38,timeout,3600.015
+MNIST_P55_N15,unsat,56.1654
+MNIST_P59_N1,unsat,47.2663
+MNIST_P32_N1,unsat,47.9339
+MNIST_P96_N25,unsat,57.4786
+MNIST_P14_N31,unsat,56.6007
+MNIST_P21_N14,unsat,64.9603
+MNIST_P26_N42,unsat,47.7423
+MNIST_P35_N15,sat,35.8933
+MNIST_P11_N14,unsat,63.931
+MNIST_P70_N40,unsat,48.2795
+MNIST_P72_N2,unsat,74.7195
+MNIST_P15_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5105
+MNIST_P41_N2,unsat,74.1387
+MNIST_P45_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7725
+MNIST_P67_N31,unsat,55.4491
+MNIST_P35_N42,unsat,48.9129
+MNIST_P54_N7,unsat,48.5879
+MNIST_P4_N39,unsat,49.3875
+MNIST_P82_N18,unsat,57.3548
+MNIST_P71_N24,unsat,45.7947
+MNIST_P92_N24,sat,41.924
+MNIST_P93_N13,unsat,46.1658
+MNIST_P55_N34,unsat,45.7049
+MNIST_P96_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1098
+MNIST_P19_N35,unsat,48.1952
+MNIST_P19_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5473
+MNIST_P16_N18,unsat,57.1303
+MNIST_P46_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1032
+MNIST_P93_N9,unsat,56.6525
+MNIST_P14_N9,unsat,58.1861
+MNIST_P87_N47,unsat,56.4984
+MNIST_P24_N45,unsat,50.1687
+MNIST_P8_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5293
+MNIST_P40_N1,unsat,49.2209
+MNIST_P38_N46,unsat,57.6297
+MNIST_P49_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6141
+MNIST_P47_N5,unsat,55.2776
+MNIST_P22_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.9136
+MNIST_P84_N2,unsat,77.3744
+MNIST_P91_N40,unsat,50.2743
+MNIST_P51_N4,unsat,56.8957
+MNIST_P30_N8,VerificationRunnerError(IndexError),
+MNIST_P44_N23,unsat,52.5919
+MNIST_P33_N9,unsat,58.4452
+MNIST_P46_N25,unsat,56.7584
+MNIST_P84_N14,unsat,67.7894
+MNIST_P61_N47,unsat,57.0665
+MNIST_P73_N31,unsat,57.0733
+MNIST_P66_N33,unsat,65.4484
+MNIST_P2_N34,unsat,50.2795
+MNIST_P6_N34,unsat,49.0435
+MNIST_P63_N37,unsat,57.1665
+MNIST_P93_N2,unsat,74.9178
+MNIST_P4_N15,unsat,54.8252
+MNIST_P9_N4,unsat,56.1333
+MNIST_P11_N18,unsat,56.1578
+MNIST_P48_N16,VerinetTranslatorError(Div operations are not supported.),0.5481
+MNIST_P65_N23,unsat,50.0798
+MNIST_P2_N11,timeout,3600.001
+MNIST_P37_N36,unsat,55.523
+MNIST_P52_N48,unsat,64.1957
+MNIST_P54_N29,unsat,50.276
+MNIST_P70_N9,unsat,56.7787
+MNIST_P88_N19,unsat,57.8647
+MNIST_P90_N15,unsat,55.7759
+MNIST_P93_N4,unsat,56.3952
+MNIST_P18_N4,unsat,56.8048
+MNIST_P74_N47,unsat,53.8041
+MNIST_P68_N8,VerificationRunnerError(IndexError),
+MNIST_P80_N38,timeout,3600.0
+MNIST_P65_N48,unsat,60.8952
+MNIST_P26_N16,VerinetTranslatorError(Div operations are not supported.),0.6264
+MNIST_P42_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0693
+MNIST_P60_N2,unsat,71.905
+MNIST_P21_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9593
+MNIST_P92_N48,sat,41.4524
+MNIST_P7_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.453
+MNIST_P47_N27,sat,14.8333
+MNIST_P57_N13,unsat,43.0933
+MNIST_P39_N9,unsat,54.1063
+MNIST_P24_N14,unsat,61.9185
+MNIST_P39_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8099
+MNIST_P43_N10,unsat,46.0339
+MNIST_P3_N14,unsat,64.7997
+MNIST_P17_N31,unsat,54.6018
+MNIST_P62_N49,unsat,63.7662
+MNIST_P78_N33,unsat,64.5832
+MNIST_P98_N16,VerinetTranslatorError(Div operations are not supported.),0.6167
+MNIST_P33_N34,unsat,45.9192
+MNIST_P89_N2,unsat,72.5405
+MNIST_P32_N10,unsat,47.2756
+MNIST_P36_N47,unsat,53.2766
+MNIST_P64_N37,unsat,54.348
+MNIST_P82_N25,unsat,52.1443
+MNIST_P56_N16,VerinetTranslatorError(Div operations are not supported.),0.6327
+MNIST_P93_N42,unsat,44.3168
+MNIST_P66_N24,sat,5.417
+MNIST_P2_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6932
+MNIST_P86_N29,unsat,48.9585
+MNIST_P11_N1,unsat,47.1551
+MNIST_P63_N40,unsat,50.9944
+MNIST_P76_N19,unsat,59.174
+MNIST_P77_N31,unsat,57.0005
+MNIST_P52_N10,unsat,51.845
+MNIST_P38_N34,unsat,50.654
+MNIST_P63_N11,timeout,3600.038
+MNIST_P15_N25,unsat,58.1423
+MNIST_P37_N31,unsat,56.2081
+MNIST_P73_N36,unsat,54.1131
+MNIST_P27_N4,unsat,54.4708
+MNIST_P82_N47,unsat,54.8453
+MNIST_P18_N35,sat,31.5594
+MNIST_P36_N49,unsat,67.1462
+MNIST_P98_N2,unsat,76.1975
+MNIST_P26_N49,unsat,67.3556
+MNIST_P20_N15,unsat,55.9573
+MNIST_P74_N49,unsat,65.1558
+MNIST_P87_N42,unsat,47.9336
+MNIST_P91_N27,sat,5.6284
+MNIST_P26_N44,unsat,49.0021
+MNIST_P42_N1,unsat,47.6388
+MNIST_P97_N40,unsat,49.9569
+MNIST_P42_N34,unsat,45.9773
+MNIST_P65_N49,unsat,61.4229
+MNIST_P50_N27,sat,4.9399
+MNIST_P48_N4,unsat,54.8083
+MNIST_P74_N41,unsat,129.3891
+MNIST_P48_N7,unsat,48.794
+MNIST_P16_N41,unsat,134.1218
+MNIST_P57_N9,unsat,56.5531
+MNIST_P88_N37,unsat,54.806
+MNIST_P52_N29,unsat,48.6486
+MNIST_P96_N46,unsat,55.5474
+MNIST_P52_N16,VerinetTranslatorError(Div operations are not supported.),0.5022
+MNIST_P27_N5,unsat,55.0943
+MNIST_P36_N9,unsat,55.191
+MNIST_P2_N49,unsat,64.4521
+MNIST_P9_N25,unsat,55.0581
+MNIST_P26_N2,unsat,75.0183
+MNIST_P21_N35,unsat,47.7275
+MNIST_P59_N18,unsat,54.4108
+MNIST_P90_N16,VerinetTranslatorError(Div operations are not supported.),0.7514
+MNIST_P63_N33,sat,7.86
+MNIST_P23_N25,unsat,54.2811
+MNIST_P23_N45,unsat,45.6032
+MNIST_P79_N42,unsat,48.3817
+MNIST_P44_N48,unsat,65.2289
+MNIST_P61_N19,unsat,55.1054
+MNIST_P89_N33,unsat,66.0596
+MNIST_P60_N34,unsat,47.7493
+MNIST_P89_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.0663
+MNIST_P61_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0497
+MNIST_P69_N31,unsat,56.0636
+MNIST_P15_N18,unsat,56.8004
+MNIST_P20_N38,unsat,48.455
+MNIST_P82_N42,unsat,48.0421
+MNIST_P51_N7,unsat,49.7225
+MNIST_P37_N4,unsat,56.8285
+MNIST_P79_N9,unsat,54.6573
+MNIST_P12_N48,unsat,62.7721
+MNIST_P14_N12,unsat,61.8138
+MNIST_P45_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.0529
+MNIST_P58_N11,unsat,48.5214
+MNIST_P41_N1,unsat,45.7378
+MNIST_P79_N16,VerinetTranslatorError(Div operations are not supported.),0.7859
+MNIST_P43_N11,timeout,3600.027
+MNIST_P13_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6252
+MNIST_P81_N23,unsat,48.1111
+MNIST_P57_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.7801
+MNIST_P22_N31,unsat,54.7243
+MNIST_P25_N19,unsat,55.6571
+MNIST_P31_N12,unsat,64.8821
+MNIST_P48_N9,unsat,55.9809
+MNIST_P67_N13,unsat,47.3362
+MNIST_P17_N24,unsat,46.201
+MNIST_P74_N5,unsat,54.9671
+MNIST_P76_N12,unsat,61.6484
+MNIST_P7_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0598
+MNIST_P2_N24,unsat,44.5341
+MNIST_P14_N40,unsat,45.3632
+MNIST_P79_N1,unsat,43.901
+MNIST_P85_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5004
+MNIST_P57_N46,unsat,55.3905
+MNIST_P3_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5792
+MNIST_P9_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7568
+MNIST_P28_N22,unsat,64.2685
+MNIST_P95_N47,unsat,53.0987
+MNIST_P98_N34,unsat,45.497
+MNIST_P4_N14,unsat,64.8227
+MNIST_P99_N46,unsat,57.2035
+MNIST_P98_N5,unsat,57.1633
+MNIST_P88_N31,unsat,56.5275
+MNIST_P9_N22,unsat,63.8991
+MNIST_P26_N24,unsat,46.4566
+MNIST_P55_N31,unsat,54.0976
+MNIST_P17_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5874
+MNIST_P68_N48,unsat,66.4425
+MNIST_P2_N42,unsat,48.7063
+MNIST_P54_N14,unsat,64.9913
+MNIST_P20_N7,unsat,50.8791
+MNIST_P43_N21,unsat,59.2534
+MNIST_P66_N36,unsat,57.5053
+MNIST_P72_N24,unsat,49.3509
+MNIST_P70_N1,unsat,50.8779
+MNIST_P9_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9075
+MNIST_P47_N47,timeout,3600.025
+MNIST_P72_N12,unsat,66.2705
+MNIST_P93_N33,unsat,68.3867
+MNIST_P58_N31,unsat,56.1003
+MNIST_P44_N13,unsat,48.3028
+MNIST_P10_N25,unsat,57.3956
+MNIST_P32_N5,unsat,58.7945
+MNIST_P82_N33,unsat,67.41
+MNIST_P99_N27,sat,11.788
+MNIST_P34_N37,unsat,58.8212
+MNIST_P18_N19,unsat,61.4831
+MNIST_P19_N18,unsat,60.6437
+MNIST_P2_N2,unsat,77.6395
+MNIST_P11_N11,unsat,52.0332
+MNIST_P59_N31,unsat,60.0741
+MNIST_P30_N7,unsat,52.3034
+MNIST_P8_N23,unsat,52.0618
+MNIST_P9_N24,unsat,49.148
+MNIST_P57_N4,unsat,58.2105
+MNIST_P10_N24,unsat,50.1475
+MNIST_P35_N1,unsat,49.1015
+MNIST_P92_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.9254
+MNIST_P42_N33,sat,16.8439
+MNIST_P30_N24,unsat,50.4503
+MNIST_P9_N12,unsat,69.9489
+MNIST_P18_N27,sat,5.0679
+MNIST_P23_N10,unsat,50.5925
+MNIST_P69_N40,unsat,53.6508
+MNIST_P16_N36,unsat,61.8553
+MNIST_P82_N15,unsat,61.0792
+MNIST_P77_N15,sat,40.981
+MNIST_P34_N7,unsat,55.4561
+MNIST_P51_N5,unsat,64.059
+MNIST_P2_N21,unsat,62.274
+MNIST_P52_N41,unsat,139.8703
+MNIST_P79_N33,unsat,68.8053
+MNIST_P5_N45,unsat,52.0726
+MNIST_P74_N4,unsat,61.4315
+MNIST_P37_N18,unsat,60.8618
+MNIST_P63_N25,unsat,61.207
+MNIST_P11_N39,unsat,51.7321
+MNIST_P99_N14,unsat,69.9589
+MNIST_P40_N37,unsat,59.9581
+MNIST_P84_N5,unsat,59.3114
+MNIST_P63_N23,unsat,54.5895
+MNIST_P52_N27,sat,6.0351
+MNIST_P55_N35,unsat,50.9196
+MNIST_P63_N27,sat,6.4403
+MNIST_P6_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0717
+MNIST_P13_N47,unsat,55.0075
+MNIST_P81_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.489
+MNIST_P58_N49,unsat,68.1097
+MNIST_P78_N19,unsat,60.7573
+MNIST_P6_N47,unsat,59.7598
+MNIST_P16_N7,unsat,56.3266
+MNIST_P14_N23,unsat,54.8074
+MNIST_P1_N1,unsat,54.8504
+MNIST_P48_N34,unsat,54.9035
+MNIST_P70_N44,unsat,57.1657
+MNIST_P71_N42,unsat,55.34
+MNIST_P3_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.8275
+MNIST_P80_N45,unsat,52.6327
+MNIST_P13_N23,unsat,56.3602
+MNIST_P6_N21,unsat,58.5927
+MNIST_P82_N31,unsat,56.5974
+MNIST_P23_N38,unsat,55.9823
+MNIST_P36_N31,unsat,61.4744
+MNIST_P38_N24,unsat,53.4118
+MNIST_P9_N23,unsat,57.0576
+MNIST_P85_N31,unsat,61.9792
+MNIST_P83_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.8597
+MNIST_P24_N23,unsat,57.2655
+MNIST_P94_N19,unsat,63.3601
+MNIST_P48_N48,unsat,71.22
+MNIST_P72_N46,unsat,64.2544
+MNIST_P42_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6924
+MNIST_P36_N15,unsat,60.4203
+MNIST_P40_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.783
+MNIST_P23_N33,unsat,69.0827
+MNIST_P75_N49,unsat,70.2729
+MNIST_P1_N19,unsat,60.4667
+MNIST_P95_N48,unsat,71.3245
+MNIST_P76_N10,unsat,53.7751
+MNIST_P51_N2,unsat,77.4289
+MNIST_P57_N44,unsat,55.1392
+MNIST_P88_N1,unsat,53.3918
+MNIST_P22_N5,unsat,62.8737
+MNIST_P41_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0655
+MNIST_P23_N27,sat,6.9314
+MNIST_P89_N42,unsat,54.1985
+MNIST_P20_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8505
+MNIST_P20_N10,unsat,52.3092
+MNIST_P32_N9,unsat,60.6067
+MNIST_P66_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0507
+MNIST_P86_N11,unsat,54.8356
+MNIST_P21_N34,unsat,52.9339
+MNIST_P4_N29,unsat,55.9603
+MNIST_P49_N16,VerinetTranslatorError(Div operations are not supported.),0.7813
+MNIST_P47_N1,unsat,54.7813
+MNIST_P56_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6066
+MNIST_P88_N41,unsat,142.6078
+MNIST_P68_N42,unsat,55.5293
+MNIST_P69_N36,unsat,62.7144
+MNIST_P77_N45,unsat,54.5745
+MNIST_P68_N47,unsat,61.5594
+MNIST_P81_N36,unsat,62.873
+MNIST_P87_N25,unsat,63.5651
+MNIST_P33_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.743
+MNIST_P87_N48,unsat,72.2437
+MNIST_P27_N36,unsat,60.9015
+MNIST_P4_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6911
+MNIST_P56_N7,unsat,55.5318
+MNIST_P39_N21,unsat,64.2318
+MNIST_P18_N48,unsat,73.5616
+MNIST_P44_N38,unsat,58.0977
+MNIST_P29_N49,unsat,74.2176
+MNIST_P78_N36,unsat,61.9806
+MNIST_P82_N44,unsat,57.9137
+MNIST_P35_N5,unsat,64.5145
+MNIST_P22_N38,unsat,59.382
+MNIST_P23_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0985
+MNIST_P75_N9,unsat,62.7642
+MNIST_P2_N14,unsat,71.1144
+MNIST_P3_N35,unsat,52.7968
+MNIST_P30_N33,unsat,70.732
+MNIST_P22_N23,unsat,54.7263
+MNIST_P41_N39,unsat,53.2515
+MNIST_P45_N16,VerinetTranslatorError(Div operations are not supported.),0.7363
+MNIST_P38_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1548
+MNIST_P46_N5,unsat,60.0079
+MNIST_P2_N38,timeout,3600.006
+MNIST_P51_N33,unsat,69.4769
+MNIST_P95_N10,unsat,52.0489
+MNIST_P60_N36,unsat,62.004
+MNIST_P56_N19,unsat,60.2072
+MNIST_P13_N37,unsat,64.3234
+MNIST_P63_N36,unsat,61.7715
+MNIST_P0_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5908
+MNIST_P59_N36,unsat,59.381
+MNIST_P99_N44,unsat,53.2539
+MNIST_P17_N41,unsat,139.9944
+MNIST_P4_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6885
+MNIST_P16_N19,unsat,62.2426
+MNIST_P30_N25,unsat,57.0116
+MNIST_P16_N44,unsat,51.9719
+MNIST_P31_N29,unsat,54.5043
+MNIST_P59_N23,unsat,53.6152
+MNIST_P62_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.4803
+MNIST_P38_N39,timeout,3600.005
+MNIST_P13_N19,unsat,60.7715
+MNIST_P34_N41,unsat,137.4852
+MNIST_P34_N16,VerinetTranslatorError(Div operations are not supported.),0.5767
+MNIST_P38_N7,unsat,54.2784
+MNIST_P74_N21,unsat,60.3443
+MNIST_P67_N46,unsat,58.509
+MNIST_P57_N24,unsat,51.204
+MNIST_P46_N7,unsat,52.6002
+MNIST_P97_N14,unsat,65.8209
+MNIST_P21_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6208
+MNIST_P44_N27,sat,11.7125
+MNIST_P91_N29,unsat,50.6207
+MNIST_P98_N23,unsat,51.9508
+MNIST_P3_N42,unsat,50.1336
+MNIST_P49_N36,unsat,55.4099
+MNIST_P46_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9669
+MNIST_P53_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6484
+MNIST_P19_N16,VerinetTranslatorError(Div operations are not supported.),0.6485
+MNIST_P47_N41,unsat,135.039
+MNIST_P52_N45,unsat,48.8847
+MNIST_P23_N44,unsat,50.1032
+MNIST_P79_N19,unsat,58.9993
+MNIST_P91_N42,unsat,51.1829
+MNIST_P80_N11,unsat,51.8565
+MNIST_P7_N38,timeout,3600.045
+MNIST_P5_N4,unsat,55.8014
+MNIST_P71_N25,unsat,55.6439
+MNIST_P33_N27,sat,10.9663
+MNIST_P8_N13,unsat,48.7236
+MNIST_P38_N33,unsat,65.1966
+MNIST_P15_N7,unsat,50.8021
+MNIST_P13_N12,unsat,65.7629
+MNIST_P85_N4,unsat,56.2317
+MNIST_P3_N9,unsat,57.2003
+MNIST_P35_N37,unsat,59.1019
+MNIST_P21_N12,unsat,64.593
+MNIST_P93_N27,sat,11.6611
+MNIST_P87_N29,unsat,51.4035
+MNIST_P65_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.0992
+MNIST_P78_N21,unsat,59.5081
+MNIST_P63_N15,unsat,60.0742
+MNIST_P0_N2,unsat,77.6212
+MNIST_P54_N1,unsat,49.3199
+MNIST_P62_N37,unsat,60.1262
+MNIST_P7_N48,unsat,66.8756
+MNIST_P11_N12,unsat,71.0057
+MNIST_P75_N45,unsat,51.8972
+MNIST_P2_N19,unsat,62.9383
+MNIST_P60_N10,unsat,54.7435
+MNIST_P99_N15,unsat,61.6647
+MNIST_P3_N19,unsat,59.5466
+MNIST_P75_N15,unsat,58.3912
+MNIST_P89_N23,unsat,50.6406
+MNIST_P56_N45,unsat,47.3755
+MNIST_P43_N24,sat,6.3735
+MNIST_P9_N18,unsat,58.2475
+MNIST_P13_N21,unsat,57.521
+MNIST_P93_N41,unsat,137.9761
+MNIST_P3_N39,unsat,51.3961
+MNIST_P7_N19,unsat,59.0572
+MNIST_P3_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.8307
+MNIST_P89_N49,unsat,68.6596
+MNIST_P39_N15,unsat,59.5641
+MNIST_P48_N40,unsat,53.7287
+MNIST_P24_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5888
+MNIST_P68_N35,unsat,51.1254
+MNIST_P53_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8312
+MNIST_P80_N12,sat,30.6549
+MNIST_P55_N29,unsat,51.5205
+MNIST_P82_N48,unsat,67.7618
+MNIST_P70_N24,unsat,49.2513
+MNIST_P33_N44,unsat,50.8968
+MNIST_P19_N41,unsat,134.8117
+MNIST_P57_N33,unsat,67.3262
+MNIST_P90_N31,unsat,57.8413
+MNIST_P81_N5,unsat,57.802
+MNIST_P38_N37,unsat,59.4045
+MNIST_P95_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5782
+MNIST_P83_N46,unsat,59.9808
+MNIST_P65_N9,unsat,59.8635
+MNIST_P31_N16,VerinetTranslatorError(Div operations are not supported.),0.5717
+MNIST_P45_N23,unsat,50.0533
+MNIST_P79_N40,unsat,50.6863
+MNIST_P68_N19,unsat,56.9708
+MNIST_P29_N16,VerinetTranslatorError(Div operations are not supported.),0.6772
+MNIST_P26_N41,unsat,139.1419
+MNIST_P33_N36,unsat,56.4036
+MNIST_P34_N29,unsat,52.9208
+MNIST_P50_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6358
+MNIST_P20_N29,unsat,53.9827
+MNIST_P21_N11,unsat,52.6864
+MNIST_P57_N42,unsat,51.6498
+MNIST_P83_N23,unsat,52.7117
+MNIST_P60_N1,unsat,51.1771
+MNIST_P71_N12,unsat,68.0014
+MNIST_P74_N11,unsat,50.1681
+MNIST_P31_N22,unsat,64.2373
+MNIST_P92_N37,unsat,57.7707
+MNIST_P62_N38,timeout,3600.001
+MNIST_P80_N42,unsat,47.0059
+MNIST_P89_N41,unsat,135.0543
+MNIST_P97_N2,unsat,75.5637
+MNIST_P57_N47,unsat,56.2276
+MNIST_P26_N36,unsat,55.5873
+MNIST_P50_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7976
+MNIST_P13_N22,unsat,66.2738
+MNIST_P67_N5,unsat,57.5355
+MNIST_P44_N31,unsat,57.0455
+MNIST_P88_N18,unsat,57.9856
+MNIST_P44_N11,unsat,49.4673
+MNIST_P85_N48,unsat,66.1921
+MNIST_P19_N1,unsat,50.136
+MNIST_P92_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.0929
+MNIST_P63_N44,unsat,48.9907
+MNIST_P20_N31,unsat,54.6641
+MNIST_P69_N21,unsat,56.3377
+MNIST_P81_N35,unsat,48.5977
+MNIST_P88_N23,unsat,49.1129
+MNIST_P96_N7,timeout,3600.066
+MNIST_P88_N22,unsat,64.8388
+MNIST_P81_N46,unsat,55.8497
+MNIST_P15_N41,unsat,131.8729
+MNIST_P74_N22,unsat,65.005
+MNIST_P46_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.8038
+MNIST_P14_N33,unsat,67.1198
+MNIST_P48_N47,unsat,54.6732
+MNIST_P50_N12,unsat,66.0534
+MNIST_P60_N27,sat,16.2785
+MNIST_P11_N22,unsat,65.9321
+MNIST_P33_N16,VerinetTranslatorError(Div operations are not supported.),0.8131
+MNIST_P33_N18,sat,25.4412
+MNIST_P30_N4,unsat,56.4638
+MNIST_P25_N18,unsat,56.4713
+MNIST_P88_N33,unsat,66.4088
+MNIST_P40_N23,unsat,50.0893
+MNIST_P59_N24,sat,6.354
+MNIST_P39_N16,VerinetTranslatorError(Div operations are not supported.),0.5105
+MNIST_P91_N24,unsat,48.0136
+MNIST_P27_N46,unsat,58.7585
+MNIST_P73_N10,unsat,51.5453
+MNIST_P98_N37,unsat,59.2191
+MNIST_P31_N40,unsat,52.6322
+MNIST_P69_N35,unsat,50.0974
+MNIST_P10_N27,sat,5.753
+MNIST_P91_N41,unsat,136.3556
+MNIST_P11_N13,unsat,49.1916
+MNIST_P59_N19,unsat,57.5913
+MNIST_P26_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5961
+MNIST_P76_N9,unsat,58.7057
+MNIST_P27_N13,unsat,49.8389
+MNIST_P0_N1,unsat,50.8712
+MNIST_P19_N40,unsat,53.8425
+MNIST_P19_N9,unsat,61.4535
+MNIST_P74_N14,unsat,69.3746
+MNIST_P48_N44,unsat,52.9442
+MNIST_P86_N23,unsat,53.7756
+MNIST_P12_N19,unsat,60.5678
+MNIST_P73_N12,unsat,66.5559
+MNIST_P18_N18,unsat,56.8153
+MNIST_P51_N47,unsat,58.0376
+MNIST_P52_N1,unsat,48.4567
+MNIST_P12_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.7265
+MNIST_P92_N45,sat,10.8414
+MNIST_P61_N15,unsat,59.2545
+MNIST_P74_N29,unsat,52.568
+MNIST_P87_N10,unsat,53.0693
+MNIST_P10_N38,unsat,56.4167
+MNIST_P39_N38,unsat,55.2245
+MNIST_P91_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.7314
+MNIST_P77_N23,unsat,56.3788
+MNIST_P38_N31,unsat,60.7565
+MNIST_P44_N9,unsat,59.8341
+MNIST_P7_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.655
+MNIST_P26_N23,unsat,54.8067
+MNIST_P36_N2,unsat,79.6129
+MNIST_P28_N38,unsat,54.8762
+MNIST_P85_N40,unsat,53.7839
+MNIST_P17_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8228
+MNIST_P28_N5,unsat,59.718
+MNIST_P47_N22,unsat,71.1756
+MNIST_P4_N36,unsat,61.8023
+MNIST_P48_N11,unsat,54.4851
+MNIST_P74_N10,unsat,51.6771
+MNIST_P33_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0656
+MNIST_P67_N44,unsat,54.9986
+MNIST_P75_N5,unsat,62.5948
+MNIST_P88_N9,unsat,61.4814
+MNIST_P30_N14,unsat,70.3414
+MNIST_P42_N38,unsat,54.5659
+MNIST_P99_N1,unsat,52.5471
+MNIST_P61_N9,unsat,60.4673
+MNIST_P16_N16,VerinetTranslatorError(Div operations are not supported.),0.6633
+MNIST_P38_N12,unsat,65.5204
+MNIST_P71_N40,unsat,53.4777
+MNIST_P72_N49,unsat,68.5417
+MNIST_P35_N9,unsat,60.7511
+MNIST_P48_N35,unsat,51.2561
+MNIST_P51_N8,VerificationRunnerError(IndexError),
+MNIST_P54_N27,sat,6.7354
+MNIST_P7_N47,timeout,3600.014
+MNIST_P25_N15,unsat,61.4873
+MNIST_P95_N2,unsat,79.323
+MNIST_P11_N34,unsat,49.1648
+MNIST_P22_N16,VerinetTranslatorError(Div operations are not supported.),0.6494
+MNIST_P84_N21,unsat,61.0702
+MNIST_P16_N46,unsat,62.2237
+MNIST_P46_N15,sat,7.5817
+MNIST_P9_N5,unsat,60.3225
+MNIST_P54_N2,unsat,79.2111
+MNIST_P91_N44,unsat,51.49
+MNIST_P40_N46,unsat,60.5198
+MNIST_P46_N9,unsat,62.1412
+MNIST_P36_N10,unsat,51.3661
+MNIST_P87_N18,unsat,59.5796
+MNIST_P68_N23,unsat,55.3978
+MNIST_P22_N39,unsat,53.5673
+MNIST_P71_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.2411
+MNIST_P91_N38,unsat,52.1197
+MNIST_P63_N5,unsat,60.102
+MNIST_P88_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0937
+MNIST_P79_N5,unsat,59.091
+MNIST_P63_N1,unsat,50.8155
+MNIST_P3_N41,unsat,139.1087
+MNIST_P5_N49,unsat,68.1391
+MNIST_P6_N25,unsat,55.5498
+MNIST_P34_N42,unsat,49.3886
+MNIST_P21_N39,unsat,50.5659
+MNIST_P50_N5,unsat,58.8105
+MNIST_P62_N27,sat,11.506
+MNIST_P2_N39,timeout,3600.005
+MNIST_P39_N5,unsat,56.9837
+MNIST_P96_N35,unsat,50.207
+MNIST_P67_N48,unsat,66.8394
+MNIST_P12_N24,unsat,50.4924
+MNIST_P21_N38,unsat,51.6493
+MNIST_P37_N1,unsat,49.5047
+MNIST_P27_N2,unsat,73.3098
+MNIST_P30_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5066
+MNIST_P78_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.65
+MNIST_P8_N31,unsat,55.7792
+MNIST_P95_N44,unsat,49.6429
+MNIST_P11_N4,unsat,55.8304
+MNIST_P12_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9447
+MNIST_P12_N34,unsat,49.7365
+MNIST_P21_N44,unsat,49.8122
+MNIST_P87_N44,unsat,52.1341
+MNIST_P89_N38,timeout,3600.014
+MNIST_P94_N45,unsat,49.3861
+MNIST_P98_N7,unsat,52.5973
+MNIST_P59_N25,unsat,56.4035
+MNIST_P34_N2,unsat,76.3206
+MNIST_P0_N10,unsat,52.0827
+MNIST_P1_N9,unsat,55.4957
+MNIST_P19_N45,unsat,46.7377
+MNIST_P70_N16,VerinetTranslatorError(Div operations are not supported.),0.6584
+MNIST_P26_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6785
+MNIST_P70_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6912
+MNIST_P77_N19,unsat,55.6912
+MNIST_P91_N9,unsat,57.1322
+MNIST_P17_N21,unsat,56.6614
+MNIST_P51_N21,unsat,56.6868
+MNIST_P38_N21,timeout,3600.016
+MNIST_P76_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6077
+MNIST_P25_N22,unsat,66.6775
+MNIST_P68_N14,unsat,65.9883
+MNIST_P4_N21,unsat,58.9478
+MNIST_P99_N16,VerinetTranslatorError(Div operations are not supported.),0.6295
+MNIST_P45_N44,unsat,52.0278
+MNIST_P4_N40,unsat,52.5484
+MNIST_P28_N10,unsat,48.9605
+MNIST_P49_N27,sat,17.342
+MNIST_P54_N4,unsat,56.5941
+MNIST_P76_N2,unsat,73.7408
+MNIST_P94_N22,unsat,62.8286
+MNIST_P75_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9873
+MNIST_P5_N27,sat,5.6666
+MNIST_P50_N14,unsat,66.8642
+MNIST_P1_N27,unsat,45.6251
+MNIST_P21_N15,unsat,56.4932
+MNIST_P15_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5909
+MNIST_P32_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9742
+MNIST_P34_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8881
+MNIST_P14_N5,unsat,57.7132
+MNIST_P17_N23,unsat,52.43
+MNIST_P69_N29,unsat,51.1917
+MNIST_P82_N13,unsat,49.0706
+MNIST_P99_N45,unsat,48.9006
+MNIST_P30_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6463
+MNIST_P50_N48,unsat,65.6571
+MNIST_P28_N48,unsat,68.1126
+MNIST_P98_N24,sat,10.9977
+MNIST_P5_N34,unsat,48.1587
+MNIST_P18_N41,sat,122.3327
+MNIST_P47_N13,unsat,51.1392
+MNIST_P29_N7,unsat,51.6983
+MNIST_P75_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7446
+MNIST_P7_N40,unsat,55.5235
+MNIST_P56_N5,unsat,60.7985
+MNIST_P97_N34,unsat,52.837
+MNIST_P49_N14,unsat,72.376
+MNIST_P73_N24,unsat,52.2134
+MNIST_P75_N12,unsat,71.1227
+MNIST_P81_N9,unsat,61.5153
+MNIST_P91_N39,unsat,53.3952
+MNIST_P98_N1,unsat,50.0997
+MNIST_P9_N19,unsat,58.3077
+MNIST_P27_N38,unsat,52.6218
+MNIST_P21_N7,unsat,52.4408
+MNIST_P37_N44,unsat,51.782
+MNIST_P33_N1,unsat,53.1936
+MNIST_P99_N35,unsat,53.0441
+MNIST_P10_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8327
+MNIST_P70_N4,unsat,60.6742
+MNIST_P55_N45,unsat,51.2837
+MNIST_P58_N5,unsat,58.1364
+MNIST_P75_N27,sat,33.6165
+MNIST_P97_N5,unsat,60.3163
+MNIST_P89_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5293
+MNIST_P8_N2,unsat,77.126
+MNIST_P19_N15,unsat,57.6635
+MNIST_P46_N4,unsat,59.0386
+MNIST_P63_N41,unsat,133.3515
+MNIST_P10_N4,unsat,60.8249
+MNIST_P4_N42,unsat,50.2793
+MNIST_P30_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9809
+MNIST_P63_N2,unsat,75.047
+MNIST_P4_N33,unsat,68.0623
+MNIST_P50_N38,unsat,51.9604
+MNIST_P28_N18,unsat,59.7402
+MNIST_P56_N46,unsat,60.2298
+MNIST_P65_N16,VerinetTranslatorError(Div operations are not supported.),0.5847
+MNIST_P69_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7391
+MNIST_P83_N14,unsat,67.4465
+MNIST_P35_N27,sat,38.0575
+MNIST_P4_N35,unsat,50.262
+MNIST_P92_N31,unsat,58.2737
+MNIST_P81_N16,VerinetTranslatorError(Div operations are not supported.),0.6254
+MNIST_P50_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8318
+MNIST_P17_N38,unsat,51.3888
+MNIST_P23_N36,unsat,57.4384
+MNIST_P20_N42,unsat,50.4528
+MNIST_P37_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1357
+MNIST_P57_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.5787
+MNIST_P81_N19,unsat,58.7888
+MNIST_P53_N12,unsat,70.1251
+MNIST_P78_N46,unsat,63.4116
+MNIST_P17_N29,unsat,53.9508
+MNIST_P50_N33,unsat,68.7579
+MNIST_P42_N25,unsat,60.2821
+MNIST_P1_N21,unsat,62.2287
+MNIST_P74_N44,unsat,53.7269
+MNIST_P16_N35,unsat,53.7858
+MNIST_P45_N25,unsat,60.4595
+MNIST_P93_N15,unsat,59.9826
+MNIST_P72_N31,unsat,56.5034
+MNIST_P35_N47,unsat,56.4568
+MNIST_P73_N18,unsat,57.3735
+MNIST_P29_N18,unsat,58.7908
+MNIST_P92_N11,timeout,3600.004
+MNIST_P43_N4,unsat,58.1982
+MNIST_P81_N14,unsat,65.8689
+MNIST_P29_N12,unsat,65.5664
+MNIST_P12_N11,unsat,51.0189
+MNIST_P69_N24,unsat,51.043
+MNIST_P67_N42,unsat,51.6724
+MNIST_P93_N48,unsat,67.0302
+MNIST_P78_N16,VerinetTranslatorError(Div operations are not supported.),0.4989
+MNIST_P62_N34,timeout,3600.002
+MNIST_P78_N29,unsat,50.944
+MNIST_P36_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.562
+MNIST_P61_N39,unsat,50.1923
+MNIST_P50_N36,unsat,56.4282
+MNIST_P57_N12,unsat,66.9433
+MNIST_P62_N14,unsat,67.8655
+MNIST_P31_N19,unsat,58.091
+MNIST_P83_N31,unsat,59.3886
+MNIST_P27_N37,unsat,59.9422
+MNIST_P43_N37,unsat,60.3739
+MNIST_P55_N49,unsat,68.0987
+MNIST_P41_N29,unsat,54.1144
+MNIST_P73_N44,unsat,51.8184
+MNIST_P86_N9,unsat,58.3057
+MNIST_P0_N14,unsat,66.3845
+MNIST_P69_N23,unsat,50.9036
+MNIST_P84_N12,unsat,66.388
+MNIST_P8_N45,sat,10.3533
+MNIST_P93_N34,unsat,49.6135
+MNIST_P21_N21,unsat,59.1453
+MNIST_P86_N40,unsat,52.4033
+MNIST_P40_N22,unsat,66.0761
+MNIST_P57_N31,unsat,56.8952
+MNIST_P94_N41,unsat,134.0326
+MNIST_P51_N29,unsat,51.8407
+MNIST_P72_N7,unsat,49.9752
+MNIST_P35_N16,VerinetTranslatorError(Div operations are not supported.),0.4693
+MNIST_P0_N21,unsat,55.8876
+MNIST_P60_N48,unsat,67.5947
+MNIST_P17_N44,unsat,51.4281
+MNIST_P75_N23,unsat,53.2686
+MNIST_P83_N48,unsat,68.4248
+MNIST_P57_N2,unsat,78.0267
+MNIST_P86_N44,unsat,52.1597
+MNIST_P11_N40,unsat,54.7586
+MNIST_P36_N18,unsat,59.4588
+MNIST_P10_N45,unsat,51.9688
+MNIST_P96_N24,unsat,50.1158
+MNIST_P69_N41,unsat,138.1788
+MNIST_P96_N15,sat,6.5175
+MNIST_P80_N24,sat,46.7992
+MNIST_P0_N33,unsat,63.6151
+MNIST_P54_N24,sat,5.6229
+MNIST_P84_N16,VerinetTranslatorError(Div operations are not supported.),0.6066
+MNIST_P24_N18,unsat,59.6541
+MNIST_P0_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6147
+MNIST_P81_N25,unsat,58.4803
+MNIST_P89_N34,unsat,51.4338
+MNIST_P63_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7468
+MNIST_P93_N10,unsat,54.0176
+MNIST_P93_N49,unsat,72.3233
+MNIST_P61_N35,unsat,54.5966
+MNIST_P32_N47,unsat,60.7412
+MNIST_P40_N49,unsat,68.8159
+MNIST_P1_N13,unsat,51.9119
+MNIST_P50_N11,unsat,53.1238
+MNIST_P61_N46,unsat,62.3008
+MNIST_P90_N44,unsat,50.0233
+MNIST_P23_N4,unsat,59.9405
+MNIST_P15_N44,unsat,51.8116
+MNIST_P93_N47,unsat,58.8746
+MNIST_P70_N34,unsat,50.0437
+MNIST_P84_N36,unsat,58.6569
+MNIST_P97_N15,unsat,61.6558
+MNIST_P2_N4,unsat,60.1146
+MNIST_P34_N15,unsat,60.8954
+MNIST_P45_N48,unsat,68.5505
+MNIST_P43_N40,unsat,55.2479
+MNIST_P0_N49,unsat,70.1557
+MNIST_P56_N22,unsat,69.2968
+MNIST_P37_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5566
+MNIST_P30_N47,unsat,57.7375
+MNIST_P10_N21,unsat,58.4147
+MNIST_P18_N38,timeout,3600.03
+MNIST_P22_N33,unsat,66.9019
+MNIST_P24_N1,unsat,48.3826
+MNIST_P19_N10,unsat,49.7842
+MNIST_P52_N38,timeout,3600.015
+MNIST_P22_N40,unsat,51.0626
+MNIST_P0_N19,unsat,57.2166
+MNIST_P43_N18,unsat,55.8135
+MNIST_P45_N22,unsat,60.0561
+MNIST_P60_N40,unsat,48.5218
+MNIST_P10_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5694
+MNIST_P76_N14,unsat,64.2669
+MNIST_P83_N7,unsat,49.5591
+MNIST_P90_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5239
+MNIST_P39_N19,unsat,55.4615
+MNIST_P78_N40,unsat,49.4774
+MNIST_P21_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.9619
+MNIST_P79_N29,unsat,50.4138
+MNIST_P27_N49,unsat,66.3205
+MNIST_P2_N45,unsat,48.2465
+MNIST_P46_N12,unsat,64.5719
+MNIST_P23_N19,unsat,58.3225
+MNIST_P84_N34,unsat,48.4193
+MNIST_P7_N12,unsat,65.6349
+MNIST_P2_N35,unsat,48.4565
+MNIST_P54_N19,unsat,57.1059
+MNIST_P40_N10,unsat,48.5223
+MNIST_P89_N35,unsat,47.931
+MNIST_P99_N38,unsat,50.717
+MNIST_P54_N9,unsat,57.0064
+MNIST_P32_N45,unsat,47.3057
+MNIST_P70_N36,unsat,53.7976
+MNIST_P76_N1,unsat,47.8631
+MNIST_P62_N2,unsat,73.1776
+MNIST_P31_N27,sat,5.8597
+MNIST_P44_N16,VerinetTranslatorError(Div operations are not supported.),0.5003
+MNIST_P91_N5,unsat,57.8583
+MNIST_P11_N7,unsat,49.9516
+MNIST_P3_N11,unsat,50.9183
+MNIST_P22_N47,unsat,56.7938
+MNIST_P39_N45,unsat,49.6894
+MNIST_P54_N12,unsat,65.1145
+MNIST_P67_N7,unsat,50.7028
+MNIST_P63_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.9011
+MNIST_P55_N48,unsat,63.6994
+MNIST_P76_N4,unsat,54.4881
+MNIST_P80_N37,unsat,53.0823
+MNIST_P85_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7076
+MNIST_P61_N16,VerinetTranslatorError(Div operations are not supported.),0.6468
+MNIST_P92_N39,timeout,3600.011
+MNIST_P95_N34,unsat,44.5972
+MNIST_P11_N35,unsat,47.0259
+MNIST_P45_N34,unsat,46.212
+MNIST_P15_N48,unsat,64.9253
+MNIST_P6_N4,unsat,57.1506
+MNIST_P78_N25,unsat,54.6231
+MNIST_P34_N46,unsat,57.1293
+MNIST_P92_N21,unsat,57.2553
+MNIST_P55_N9,unsat,55.4661
+MNIST_P98_N42,unsat,46.4804
+MNIST_P82_N19,unsat,53.8557
+MNIST_P90_N2,unsat,71.2004
+MNIST_P26_N21,unsat,51.9143
+MNIST_P71_N35,unsat,45.9173
+MNIST_P18_N37,unsat,56.005
+MNIST_P70_N18,unsat,53.7188
+MNIST_P96_N29,unsat,48.1344
+MNIST_P0_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9698
+MNIST_P5_N41,unsat,126.8144
+MNIST_P10_N37,unsat,53.8527
+MNIST_P18_N46,unsat,53.9381
+MNIST_P20_N11,unsat,46.2953
+MNIST_P35_N34,unsat,45.1681
+MNIST_P34_N27,sat,21.2425
+MNIST_P2_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.992
+MNIST_P52_N47,unsat,53.8227
+MNIST_P39_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.492
+MNIST_P64_N31,unsat,55.5011
+MNIST_P64_N18,unsat,55.5782
+MNIST_P39_N46,unsat,57.6728
+MNIST_P67_N19,unsat,55.8201
+MNIST_P70_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0498
+MNIST_P73_N41,unsat,135.4788
+MNIST_P16_N31,unsat,56.7578
+MNIST_P8_N25,unsat,56.0056
+MNIST_P48_N1,unsat,47.3277
+MNIST_P2_N33,unsat,63.8886
+MNIST_P5_N36,unsat,54.4939
+MNIST_P14_N19,unsat,54.4375
+MNIST_P21_N16,VerinetTranslatorError(Div operations are not supported.),0.5374
+MNIST_P22_N13,unsat,47.826
+MNIST_P36_N22,unsat,66.9526
+MNIST_P69_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9128
+MNIST_P24_N19,unsat,58.1658
+MNIST_P22_N29,unsat,51.1905
+MNIST_P50_N46,unsat,57.9364
+MNIST_P34_N45,unsat,49.5283
+MNIST_P56_N23,unsat,52.0374
+MNIST_P57_N40,unsat,50.8906
+MNIST_P91_N18,unsat,58.4712
+MNIST_P17_N25,unsat,57.3722
+MNIST_P32_N44,unsat,49.6432
+MNIST_P44_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.82
+MNIST_P56_N29,unsat,50.9025
+MNIST_P66_N39,unsat,51.3491
+MNIST_P80_N19,unsat,60.1267
+MNIST_P86_N33,unsat,69.3136
+MNIST_P55_N24,unsat,51.0261
+MNIST_P70_N37,unsat,59.4334
+MNIST_P76_N48,unsat,66.5087
+MNIST_P91_N23,unsat,52.4855
+MNIST_P41_N24,unsat,49.8575
+MNIST_P7_N9,unsat,56.0699
+MNIST_P57_N38,timeout,3600.014
+MNIST_P26_N27,unsat,46.2706
+MNIST_P23_N39,unsat,48.3071
+MNIST_P98_N15,unsat,56.2834
+MNIST_P69_N48,unsat,64.6888
+MNIST_P97_N1,unsat,48.2251
+MNIST_P80_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5306
+MNIST_P90_N33,unsat,67.1943
+MNIST_P14_N29,unsat,51.7828
+MNIST_P10_N41,unsat,139.6697
+MNIST_P57_N25,unsat,56.3927
+MNIST_P8_N41,unsat,140.3135
+MNIST_P72_N4,unsat,56.9798
+MNIST_P20_N21,unsat,57.9418
+MNIST_P32_N34,unsat,49.3781
+MNIST_P80_N46,unsat,57.578
+MNIST_P64_N27,unsat,46.8373
+MNIST_P97_N11,unsat,47.9485
+MNIST_P70_N49,unsat,66.5736
+MNIST_P4_N46,unsat,59.237
+MNIST_P42_N18,unsat,57.86
+MNIST_P56_N15,unsat,58.1174
+MNIST_P44_N15,unsat,58.0148
+MNIST_P43_N5,unsat,56.8044
+MNIST_P75_N42,unsat,50.0128
+MNIST_P94_N9,unsat,56.9478
+MNIST_P36_N44,unsat,48.1562
+MNIST_P61_N4,unsat,58.2925
+MNIST_P4_N18,unsat,56.9706
+MNIST_P1_N16,VerinetTranslatorError(Div operations are not supported.),0.5306
+MNIST_P63_N42,unsat,49.6378
+MNIST_P28_N23,unsat,52.2403
+MNIST_P24_N2,unsat,75.773
+MNIST_P79_N36,unsat,57.6739
+MNIST_P6_N13,unsat,51.6868
+MNIST_P27_N1,unsat,51.4507
+MNIST_P64_N36,unsat,57.8239
+MNIST_P6_N14,unsat,67.9602
+MNIST_P19_N11,unsat,48.9747
+MNIST_P31_N34,unsat,47.5493
+MNIST_P23_N11,unsat,49.8061
+MNIST_P22_N24,sat,5.8551
+MNIST_P29_N2,unsat,74.4771
+MNIST_P99_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5051
+MNIST_P37_N11,unsat,47.8696
+MNIST_P5_N21,unsat,57.2029
+MNIST_P35_N2,unsat,76.1663
+MNIST_P86_N47,unsat,56.2313
+MNIST_P41_N45,unsat,48.2731
+MNIST_P67_N16,VerinetTranslatorError(Div operations are not supported.),0.6119
+MNIST_P5_N1,unsat,47.8942
+MNIST_P62_N40,unsat,50.6342
+MNIST_P87_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.8281
+MNIST_P91_N11,unsat,49.0053
+MNIST_P34_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0787
+MNIST_P19_N33,sat,14.8397
+MNIST_P39_N7,unsat,48.7665
+MNIST_P5_N13,unsat,46.9156
+MNIST_P47_N16,VerinetTranslatorError(Div operations are not supported.),0.4669
+MNIST_P25_N9,unsat,59.915
+MNIST_P10_N15,unsat,58.7639
+MNIST_P49_N21,unsat,61.7969
+MNIST_P56_N44,unsat,52.4423
+MNIST_P7_N15,unsat,61.6824
+MNIST_P55_N1,unsat,50.4349
+MNIST_P94_N12,unsat,68.8201
+MNIST_P18_N10,unsat,53.8586
+MNIST_P26_N10,unsat,53.7067
+MNIST_P14_N41,unsat,133.6087
+MNIST_P37_N48,unsat,63.7382
+MNIST_P81_N1,unsat,47.2036
+MNIST_P90_N18,unsat,56.3619
+MNIST_P48_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7368
+MNIST_P60_N12,unsat,66.1182
+MNIST_P67_N9,unsat,58.4712
+MNIST_P61_N37,unsat,59.2779
+MNIST_P33_N4,unsat,58.1554
+MNIST_P37_N38,timeout,3600.003
+MNIST_P11_N16,VerinetTranslatorError(Div operations are not supported.),0.694
+MNIST_P80_N33,sat,22.4752
+MNIST_P96_N33,sat,36.8311
+MNIST_P39_N39,unsat,49.8893
+MNIST_P20_N12,unsat,65.3128
+MNIST_P56_N14,unsat,64.9089
+MNIST_P28_N13,unsat,48.099
+MNIST_P64_N34,unsat,47.2009
+MNIST_P89_N39,timeout,3600.018
+MNIST_P75_N46,unsat,55.4436
+MNIST_P36_N36,unsat,55.5991
+MNIST_P37_N2,unsat,72.6616
+MNIST_P48_N41,unsat,131.8051
+MNIST_P52_N4,unsat,57.0863
+MNIST_P11_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7717
+MNIST_P42_N44,unsat,48.121
+MNIST_P73_N2,sat,75.3433
+MNIST_P95_N42,unsat,48.3934
+MNIST_P71_N19,unsat,53.9635
+MNIST_P11_N33,unsat,64.5171
+MNIST_P40_N39,timeout,3600.028
+MNIST_P32_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.731
+MNIST_P27_N42,unsat,48.9129
+MNIST_P71_N49,unsat,63.262
+MNIST_P89_N19,unsat,56.1132
+MNIST_P74_N24,unsat,48.0255
+MNIST_P18_N24,sat,16.4999
+MNIST_P62_N21,unsat,56.1448
+MNIST_P33_N21,unsat,55.5249
+MNIST_P92_N15,unsat,58.2412
+MNIST_P90_N10,unsat,48.9951
+MNIST_P15_N10,unsat,48.4567
+MNIST_P95_N29,unsat,51.3273
+MNIST_P46_N10,unsat,50.6946
+MNIST_P83_N29,unsat,52.0392
+MNIST_P59_N40,unsat,50.6304
+MNIST_P64_N9,unsat,56.7677
+MNIST_P90_N49,unsat,66.2098
+MNIST_P3_N5,unsat,55.3299
+MNIST_P9_N41,unsat,130.8692
+MNIST_P10_N13,unsat,45.9373
+MNIST_P65_N19,unsat,54.5806
+MNIST_P44_N35,unsat,47.3204
+MNIST_P15_N39,timeout,3600.03
+MNIST_P27_N47,unsat,54.1802
+MNIST_P50_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6383
+MNIST_P43_N16,VerinetTranslatorError(Div operations are not supported.),0.5563
+MNIST_P94_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6655
+MNIST_P15_N42,unsat,47.737
+MNIST_P17_N12,unsat,63.5037
+MNIST_P5_N48,unsat,64.0047
+MNIST_P49_N24,unsat,46.7355
+MNIST_P92_N12,timeout,3600.01
+MNIST_P86_N21,unsat,54.1097
+MNIST_P37_N24,unsat,46.61
+MNIST_P43_N31,unsat,52.6925
+MNIST_P55_N7,unsat,46.8239
+MNIST_P53_N42,unsat,44.8616
+MNIST_P95_N33,unsat,62.1393
+MNIST_P90_N24,unsat,45.5375
+MNIST_P5_N7,unsat,49.1251
+MNIST_P11_N2,unsat,70.3443
+MNIST_P20_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.7447
+MNIST_P42_N49,unsat,62.9114
+MNIST_P36_N40,unsat,47.2345
+MNIST_P94_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0903
+MNIST_P66_N5,unsat,53.6963
+MNIST_P49_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5294
+MNIST_P42_N9,unsat,51.9663
+MNIST_P75_N34,unsat,45.9319
+MNIST_P54_N25,unsat,53.5841
+MNIST_P27_N10,unsat,46.0134
+MNIST_P84_N48,unsat,63.396
+MNIST_P12_N33,unsat,62.4565
+MNIST_P13_N36,unsat,52.7082
+MNIST_P24_N15,unsat,53.9009
+MNIST_P5_N23,unsat,46.8181
+MNIST_P10_N1,unsat,44.4926
+MNIST_P51_N40,unsat,48.8726
+MNIST_P44_N41,unsat,131.5808
+MNIST_P71_N37,unsat,53.2329
+MNIST_P96_N1,unsat,46.8296
+MNIST_P68_N36,unsat,54.2119
+MNIST_P83_N42,unsat,47.8387
+MNIST_P14_N45,unsat,45.6071
+MNIST_P26_N33,unsat,64.213
+MNIST_P58_N9,unsat,54.7932
+MNIST_P51_N13,unsat,48.3031
+MNIST_P40_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5863
+MNIST_P44_N47,unsat,53.6229
+MNIST_P78_N44,unsat,47.3213
+MNIST_P16_N15,unsat,55.5646
+MNIST_P3_N13,unsat,47.3124
+MNIST_P20_N37,unsat,56.4931
+MNIST_P63_N4,unsat,54.3026
+MNIST_P29_N29,unsat,48.912
+MNIST_P98_N47,unsat,53.0484
+MNIST_P34_N36,unsat,52.2902
+MNIST_P60_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7211
+MNIST_P49_N37,unsat,54.7005
+MNIST_P63_N12,unsat,64.959
+MNIST_P5_N35,unsat,47.9828
+MNIST_P78_N42,unsat,48.5452
+MNIST_P88_N12,unsat,65.3059
+MNIST_P71_N38,unsat,51.5775
+MNIST_P21_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.7167
+MNIST_P51_N46,unsat,59.3175
+MNIST_P39_N24,unsat,49.9446
+MNIST_P89_N24,unsat,49.6289
+MNIST_P29_N48,unsat,65.7569
+MNIST_P37_N14,unsat,66.573
+MNIST_P44_N4,unsat,57.1712
+MNIST_P64_N4,unsat,58.9783
+MNIST_P39_N44,unsat,48.1524
+MNIST_P68_N21,unsat,56.1095
+MNIST_P85_N27,sat,5.5819
+MNIST_P23_N23,unsat,50.3015
+MNIST_P45_N36,unsat,57.5379
+MNIST_P94_N33,unsat,65.914
+MNIST_P6_N9,unsat,57.0165
+MNIST_P33_N12,unsat,66.7183
+MNIST_P12_N46,unsat,57.0678
+MNIST_P96_N31,unsat,57.1641
+MNIST_P12_N42,unsat,50.0657
+MNIST_P45_N29,unsat,52.2661
+MNIST_P78_N49,unsat,68.4119
+MNIST_P67_N23,unsat,53.1179
+MNIST_P88_N49,unsat,68.0511
+MNIST_P93_N37,unsat,58.5736
+MNIST_P6_N22,unsat,70.7926
+MNIST_P20_N1,unsat,49.6498
+MNIST_P74_N34,unsat,49.105
+MNIST_P73_N33,unsat,69.0972
+MNIST_P27_N15,unsat,59.4305
+MNIST_P87_N2,unsat,81.7156
+MNIST_P20_N14,unsat,67.7103
+MNIST_P53_N46,unsat,60.5482
+MNIST_P73_N9,unsat,58.6689
+MNIST_P16_N27,sat,10.9141
+MNIST_P95_N35,unsat,51.4794
+MNIST_P26_N15,unsat,57.3446
+MNIST_P12_N9,unsat,57.4137
+MNIST_P9_N39,unsat,49.3287
+MNIST_P83_N16,VerinetTranslatorError(Div operations are not supported.),0.763
+MNIST_P61_N49,unsat,65.3789
+MNIST_P35_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7235
+MNIST_P58_N39,unsat,49.2299
+MNIST_P64_N19,unsat,57.4025
+MNIST_P82_N24,unsat,48.9105
+MNIST_P88_N27,sat,5.0185
+MNIST_P11_N9,unsat,58.183
+MNIST_P5_N38,timeout,3600.005
+MNIST_P54_N16,VerinetTranslatorError(Div operations are not supported.),0.6643
+MNIST_P42_N19,unsat,57.4014
+MNIST_P13_N45,unsat,49.6749
+MNIST_P20_N49,unsat,66.0174
+MNIST_P49_N12,unsat,65.3758
+MNIST_P43_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6174
+MNIST_P13_N14,unsat,65.7191
+MNIST_P43_N35,unsat,50.6412
+MNIST_P58_N36,unsat,55.4321
+MNIST_P93_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7972
+MNIST_P39_N22,unsat,66.0258
+MNIST_P82_N2,unsat,73.9663
+MNIST_P45_N5,unsat,58.18
+MNIST_P26_N7,unsat,51.3451
+MNIST_P2_N36,unsat,57.5163
+MNIST_P29_N21,unsat,57.1438
+MNIST_P42_N22,unsat,67.8024
+MNIST_P1_N41,unsat,135.7326
+MNIST_P61_N24,sat,6.31
+MNIST_P26_N31,unsat,56.0431
+MNIST_P70_N25,unsat,53.469
+MNIST_P52_N23,unsat,49.7396
+MNIST_P24_N12,unsat,64.543
+MNIST_P49_N42,unsat,48.4863
+MNIST_P41_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9945
+MNIST_P3_N29,unsat,50.9886
+MNIST_P47_N14,unsat,65.6106
+MNIST_P2_N5,unsat,59.3618
+MNIST_P60_N25,unsat,57.7977
+MNIST_P16_N21,unsat,59.122
+MNIST_P65_N29,unsat,52.2724
+MNIST_P87_N14,unsat,67.6836
+MNIST_P92_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6883
+MNIST_P51_N35,unsat,48.8168
+MNIST_P19_N42,unsat,48.9056
+MNIST_P27_N11,unsat,50.6247
+MNIST_P55_N39,unsat,50.2706
+MNIST_P77_N5,unsat,58.9807
+MNIST_P19_N48,unsat,65.556
+MNIST_P39_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6742
+MNIST_P7_N21,unsat,61.5174
+MNIST_P59_N33,unsat,67.9751
+MNIST_P53_N36,unsat,57.5097
+MNIST_P37_N35,unsat,51.2075
+MNIST_P4_N44,unsat,49.7655
+MNIST_P14_N11,unsat,50.6927
+MNIST_P26_N35,unsat,51.5093
+MNIST_P35_N4,unsat,54.9613
+MNIST_P38_N29,unsat,50.4713
+MNIST_P53_N27,sat,6.2967
+MNIST_P62_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0745
+MNIST_P86_N27,sat,10.0774
+MNIST_P25_N16,VerinetTranslatorError(Div operations are not supported.),0.5478
+MNIST_P32_N39,unsat,49.247
+MNIST_P25_N13,unsat,47.9327
+MNIST_P46_N11,timeout,3600.018
+MNIST_P64_N14,unsat,65.3747
+MNIST_P89_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5304
+MNIST_P47_N42,unsat,47.7225
+MNIST_P3_N44,unsat,50.3881
+MNIST_P76_N41,unsat,131.7141
+MNIST_P86_N31,unsat,57.8728
+MNIST_P72_N18,unsat,58.8955
+MNIST_P36_N46,unsat,59.2465
+MNIST_P32_N25,unsat,56.4753
+MNIST_P45_N24,sat,43.5167
+MNIST_P18_N31,unsat,53.8678
+MNIST_P42_N37,unsat,55.9256
+MNIST_P60_N5,unsat,55.2824
+MNIST_P5_N47,unsat,54.3021
+MNIST_P58_N16,VerinetTranslatorError(Div operations are not supported.),0.7754
+MNIST_P73_N27,sat,5.2899
+MNIST_P66_N46,unsat,56.6595
+MNIST_P73_N45,unsat,45.9914
+MNIST_P55_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.9014
+MNIST_P95_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0745
+MNIST_P22_N22,unsat,68.0249
+MNIST_P34_N22,unsat,70.2654
+MNIST_P48_N23,unsat,51.2461
+MNIST_P50_N4,unsat,59.9532
+MNIST_P45_N33,unsat,69.7978
+MNIST_P36_N5,unsat,59.8302
+MNIST_P89_N9,unsat,59.14
+MNIST_P53_N19,unsat,59.1634
+MNIST_P55_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.4964
+MNIST_P74_N35,unsat,50.8744
+MNIST_P43_N15,unsat,58.0657
+MNIST_P46_N33,sat,52.3735
+MNIST_P48_N39,unsat,51.2024
+MNIST_P28_N31,unsat,56.4512
+MNIST_P60_N21,unsat,59.4981
+MNIST_P15_N14,unsat,67.324
+MNIST_P54_N46,unsat,59.2336
+MNIST_P72_N40,unsat,54.1321
+MNIST_P81_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7517
+MNIST_P73_N1,sat,6.1213
+MNIST_P88_N44,unsat,52.6151
+MNIST_P69_N7,unsat,52.6567
+MNIST_P34_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.8546
+MNIST_P38_N11,sat,6.1843
+MNIST_P15_N27,sat,5.9272
+MNIST_P16_N47,unsat,57.2112
+MNIST_P19_N29,unsat,53.3748
+MNIST_P13_N9,unsat,59.075
+MNIST_P96_N14,unsat,66.8116
+MNIST_P99_N23,unsat,53.6292
+MNIST_P45_N39,unsat,52.3244
+MNIST_P44_N25,unsat,58.7337
+MNIST_P86_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6171
+MNIST_P14_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9063
+MNIST_P9_N34,unsat,51.5966
+MNIST_P67_N38,unsat,55.088
+MNIST_P70_N14,unsat,66.6327
+MNIST_P66_N18,unsat,59.2041
+MNIST_P25_N33,unsat,68.8391
+MNIST_P84_N1,unsat,49.4807
+MNIST_P90_N21,unsat,61.0712
+MNIST_P92_N33,unsat,68.6616
+MNIST_P11_N31,unsat,57.0869
+MNIST_P45_N15,unsat,61.2078
+MNIST_P34_N40,unsat,53.5058
+MNIST_P61_N45,unsat,51.5854
+MNIST_P20_N48,unsat,67.643
+MNIST_P39_N29,unsat,52.8852
+MNIST_P53_N7,unsat,51.6532
+MNIST_P57_N5,unsat,59.5134
+MNIST_P34_N33,unsat,65.5081
+MNIST_P75_N10,unsat,51.2948
+MNIST_P73_N19,unsat,56.8793
+MNIST_P22_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8345
+MNIST_P64_N40,unsat,51.8716
+MNIST_P83_N9,unsat,55.8152
+MNIST_P71_N36,unsat,56.7892
+MNIST_P33_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5825
+MNIST_P73_N15,unsat,58.7227
+MNIST_P42_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.5947
+MNIST_P61_N41,unsat,135.0312
+MNIST_P22_N42,unsat,49.6607
+MNIST_P98_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7555
+MNIST_P63_N10,unsat,49.2125
+MNIST_P66_N16,VerinetTranslatorError(Div operations are not supported.),0.6967
+MNIST_P71_N18,unsat,58.4756
+MNIST_P87_N27,sat,6.475
+MNIST_P40_N29,unsat,51.709
+MNIST_P94_N4,unsat,61.6639
+MNIST_P49_N7,unsat,53.6468
+MNIST_P79_N12,unsat,67.7148
+MNIST_P85_N45,unsat,49.5116
+MNIST_P30_N23,unsat,53.4814
+MNIST_P17_N49,unsat,68.3859
+MNIST_P40_N9,unsat,60.6665
+MNIST_P41_N40,unsat,53.9026
+MNIST_P30_N16,VerinetTranslatorError(Div operations are not supported.),0.6905
+MNIST_P35_N12,unsat,65.1163
+MNIST_P60_N7,unsat,47.7926
+MNIST_P56_N18,unsat,55.4114
+MNIST_P65_N44,timeout,3600.02
+MNIST_P0_N34,unsat,47.3473
+MNIST_P98_N10,unsat,47.6224
+MNIST_P63_N8,VerificationRunnerError(IndexError),
+MNIST_P12_N44,unsat,49.9518
+MNIST_P17_N34,unsat,49.4745
+MNIST_P30_N27,sat,5.5061
+MNIST_P37_N12,unsat,67.6074
+MNIST_P92_N4,unsat,59.9905
+MNIST_P13_N25,unsat,60.5448
+MNIST_P46_N13,unsat,50.1198
+MNIST_P53_N2,unsat,76.5252
+MNIST_P84_N41,unsat,133.0788
+MNIST_P99_N34,unsat,50.0866
+MNIST_P87_N39,unsat,52.0568
+MNIST_P50_N39,unsat,52.0545
+MNIST_P17_N13,unsat,52.1892
+MNIST_P76_N27,sat,6.4575
+MNIST_P48_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.58
+MNIST_P48_N5,unsat,58.8816
+MNIST_P15_N11,unsat,51.2432
+MNIST_P54_N39,unsat,53.7459
+MNIST_P43_N7,unsat,54.806
+MNIST_P98_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4533
+MNIST_P48_N19,unsat,61.0389
+MNIST_P61_N14,unsat,69.8058
+MNIST_P65_N34,unsat,52.143
+MNIST_P54_N42,unsat,52.6007
+MNIST_P63_N9,unsat,58.6338
+MNIST_P66_N47,timeout,3600.028
+MNIST_P93_N1,unsat,49.9453
+MNIST_P35_N13,unsat,48.3745
+MNIST_P23_N14,unsat,63.739
+MNIST_P93_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6236
+MNIST_P95_N46,unsat,54.3331
+MNIST_P18_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6591
+MNIST_P30_N5,unsat,57.3551
+MNIST_P67_N15,unsat,56.9699
+MNIST_P49_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0814
+MNIST_P18_N34,unsat,49.0607
+MNIST_P85_N1,unsat,48.1427
+MNIST_P65_N21,timeout,3600.016
+MNIST_P86_N14,unsat,64.685
+MNIST_P64_N7,unsat,50.9846
+MNIST_P76_N16,VerinetTranslatorError(Div operations are not supported.),0.4641
+MNIST_P38_N4,unsat,57.573
+MNIST_P55_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0925
+MNIST_P28_N21,unsat,56.1111
+MNIST_P84_N11,unsat,48.6048
+MNIST_P85_N2,unsat,72.6741
+MNIST_P81_N4,unsat,53.284
+MNIST_P22_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5808
+MNIST_P19_N46,unsat,55.1632
+MNIST_P14_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1208
+MNIST_P13_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4723
+MNIST_P10_N40,unsat,49.4915
+MNIST_P23_N16,VerinetTranslatorError(Div operations are not supported.),0.5167
+MNIST_P47_N19,unsat,55.4543
+MNIST_P56_N21,unsat,55.7278
+MNIST_P58_N13,unsat,49.1422
+MNIST_P11_N46,unsat,58.7033
+MNIST_P44_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5777
+MNIST_P94_N47,unsat,59.7778
+MNIST_P18_N29,unsat,53.0941
+MNIST_P29_N11,unsat,51.7461
+MNIST_P1_N31,unsat,56.4109
+MNIST_P63_N21,unsat,57.1978
+MNIST_P78_N4,unsat,58.3422
+MNIST_P69_N46,unsat,59.1542
+MNIST_P71_N1,unsat,49.6642
+MNIST_P37_N7,unsat,54.3901
+MNIST_P76_N11,unsat,52.1547
+MNIST_P86_N45,unsat,51.8917
+MNIST_P18_N11,timeout,3600.0
+MNIST_P43_N25,unsat,58.1409
+MNIST_P71_N46,unsat,57.6988
+MNIST_P99_N22,unsat,64.6248
+MNIST_P16_N10,unsat,51.029
+MNIST_P66_N14,unsat,63.1343
+MNIST_P63_N47,unsat,53.8741
+MNIST_P70_N45,unsat,47.6114
+MNIST_P78_N5,unsat,53.6643
+MNIST_P81_N37,unsat,56.3906
+MNIST_P54_N11,unsat,47.9657
+MNIST_P2_N22,unsat,63.5612
+MNIST_P88_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.4886
+MNIST_P70_N5,unsat,54.9237
+MNIST_P85_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.789
+MNIST_P16_N48,unsat,64.4614
+MNIST_P58_N15,unsat,56.0526
+MNIST_P7_N49,unsat,63.4933
+MNIST_P30_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6619
+MNIST_P49_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.5993
+MNIST_P24_N4,unsat,57.3335
+MNIST_P2_N1,unsat,48.4527
+MNIST_P15_N16,VerinetTranslatorError(Div operations are not supported.),0.4684
+MNIST_P21_N40,unsat,50.1432
+MNIST_P33_N5,sat,48.0647
+MNIST_P43_N45,unsat,46.8956
+MNIST_P54_N44,unsat,47.3789
+MNIST_P89_N29,unsat,50.0357
+MNIST_P66_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.4212
+MNIST_P79_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9904
+MNIST_P34_N31,unsat,53.817
+MNIST_P43_N13,timeout,3600.021
+MNIST_P11_N42,unsat,47.3574
+MNIST_P44_N12,unsat,62.2039
+MNIST_P13_N4,unsat,54.438
+MNIST_P98_N35,unsat,47.7504
+MNIST_P10_N10,unsat,46.1613
+MNIST_P16_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.4846
+MNIST_P44_N24,sat,4.9036
+MNIST_P32_N22,unsat,60.2787
+MNIST_P53_N4,unsat,54.1431
+MNIST_P71_N2,unsat,72.5033
+MNIST_P88_N5,unsat,54.0033
+MNIST_P96_N10,timeout,3600.013
+MNIST_P4_N11,unsat,46.5654
+MNIST_P95_N37,unsat,56.0821
+MNIST_P98_N11,unsat,47.6178
+MNIST_P15_N1,unsat,46.6727
+MNIST_P12_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7556
+MNIST_P58_N35,unsat,47.2318
+MNIST_P24_N34,unsat,44.1883
+MNIST_P39_N4,unsat,54.175
+MNIST_P70_N31,unsat,52.2586
+MNIST_P35_N10,unsat,45.1294
+MNIST_P74_N19,unsat,54.9584
+MNIST_P44_N1,unsat,45.6583
+MNIST_P64_N2,unsat,72.3504
+MNIST_P61_N42,unsat,47.3444
+MNIST_P95_N24,sat,5.5243
+MNIST_P56_N47,unsat,53.5644
+MNIST_P78_N48,unsat,60.617
+MNIST_P69_N33,unsat,63.3472
+MNIST_P86_N22,unsat,62.7833
+MNIST_P80_N41,unsat,128.4779
+MNIST_P44_N44,unsat,46.9656
+MNIST_P22_N4,unsat,55.2585
+MNIST_P59_N11,unsat,47.8772
+MNIST_P4_N38,timeout,3600.01
+MNIST_P18_N25,unsat,53.3596
+MNIST_P71_N44,unsat,46.5219
+MNIST_P73_N37,unsat,53.8441
+MNIST_P22_N15,unsat,54.4616
+MNIST_P48_N15,unsat,54.0468
+MNIST_P9_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0705
+MNIST_P21_N24,unsat,46.1939
+MNIST_P67_N14,unsat,63.8061
+MNIST_P12_N4,unsat,54.8486
+MNIST_P16_N49,unsat,62.5732
+MNIST_P36_N7,unsat,46.5057
+MNIST_P68_N5,unsat,53.3296
+MNIST_P60_N15,unsat,52.9215
+MNIST_P74_N23,unsat,47.1314
+MNIST_P59_N46,unsat,55.0748
+MNIST_P37_N49,unsat,60.8759
+MNIST_P38_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.4717
+MNIST_P20_N47,sat,5.6413
+MNIST_P25_N12,unsat,61.7278
+MNIST_P73_N39,unsat,45.4043
+MNIST_P93_N21,unsat,53.0146
+MNIST_P84_N46,unsat,55.5382
+MNIST_P26_N4,unsat,54.1192
+MNIST_P97_N13,unsat,45.4164
+MNIST_P78_N41,unsat,122.0569
+MNIST_P57_N49,unsat,60.1667
+MNIST_P44_N42,unsat,45.2285
+MNIST_P52_N39,unsat,47.3892
+MNIST_P89_N37,unsat,52.5469
+MNIST_P65_N1,unsat,45.3852
+MNIST_P47_N36,unsat,53.9707
+MNIST_P96_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6395
+MNIST_P34_N44,unsat,46.4656
+MNIST_P72_N41,unsat,132.2899
+MNIST_P10_N18,unsat,53.8726
+MNIST_P56_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5877
+MNIST_P88_N39,unsat,47.7802
+MNIST_P18_N44,unsat,46.9818
+MNIST_P41_N34,unsat,45.2813
+MNIST_P66_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.1763
+MNIST_P36_N12,unsat,62.3105
+MNIST_P25_N47,unsat,52.2433
+MNIST_P33_N42,sat,15.5686
+MNIST_P34_N4,unsat,54.951
+MNIST_P65_N46,unsat,55.4872
+MNIST_P77_N36,unsat,53.7062
+MNIST_P2_N47,timeout,3600.013
+MNIST_P4_N31,unsat,52.419
+MNIST_P62_N19,unsat,54.5947
+MNIST_P87_N8,VerificationRunnerError(IndexError),
+MNIST_P37_N25,unsat,51.1587
+MNIST_P64_N12,unsat,62.9741
+MNIST_P85_N18,unsat,52.9915
+MNIST_P17_N4,unsat,54.1758
+MNIST_P28_N29,unsat,48.2646
+MNIST_P55_N41,unsat,127.122
+MNIST_P15_N45,unsat,44.5425
+MNIST_P50_N42,unsat,45.95
+MNIST_P66_N15,unsat,51.3442
+MNIST_P98_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7171
+MNIST_P57_N36,unsat,53.2739
+MNIST_P81_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6035
+MNIST_P50_N40,unsat,47.3338
+MNIST_P41_N47,unsat,52.982
+MNIST_P90_N34,unsat,46.2289
+MNIST_P92_N25,unsat,53.8574
+MNIST_P8_N18,sat,50.0914
+MNIST_P58_N4,unsat,55.2017
+MNIST_P4_N10,unsat,47.5093
+MNIST_P56_N38,unsat,47.6917
+MNIST_P77_N22,unsat,62.2776
+MNIST_P84_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4806
+MNIST_P30_N18,unsat,52.2999
+MNIST_P88_N21,unsat,53.3162
+MNIST_P50_N16,VerinetTranslatorError(Div operations are not supported.),0.5285
+MNIST_P55_N16,VerinetTranslatorError(Div operations are not supported.),0.4891
+MNIST_P97_N41,unsat,129.102
+MNIST_P97_N47,unsat,54.8381
+MNIST_P76_N40,unsat,48.5055
+MNIST_P95_N15,unsat,54.2555
+MNIST_P7_N11,timeout,3600.001
+MNIST_P80_N22,sat,28.9398
+MNIST_P3_N37,unsat,53.9433
+MNIST_P18_N39,timeout,3600.009
+MNIST_P23_N22,unsat,62.8355
+MNIST_P54_N45,unsat,45.629
+MNIST_P23_N1,unsat,46.9308
+MNIST_P73_N46,unsat,55.6972
+MNIST_P29_N44,unsat,46.3937
+MNIST_P67_N21,unsat,54.3143
+MNIST_P65_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.8455
+MNIST_P78_N12,unsat,61.6345
+MNIST_P85_N9,unsat,53.048
+MNIST_P57_N27,sat,5.5299
+MNIST_P56_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.0201
+MNIST_P57_N48,unsat,61.9359
+MNIST_P12_N23,unsat,47.9456
+MNIST_P41_N25,unsat,51.5712
+MNIST_P76_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5589
+MNIST_P79_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5266
+MNIST_P14_N21,unsat,55.4569
+MNIST_P60_N42,unsat,47.289
+MNIST_P13_N44,unsat,48.0984
+MNIST_P88_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6658
+MNIST_P32_N31,unsat,51.4467
+MNIST_P23_N13,unsat,45.6413
+MNIST_P5_N10,unsat,45.9941
+MNIST_P28_N41,unsat,139.4093
+MNIST_P62_N29,unsat,49.5963
+MNIST_P12_N15,unsat,55.6892
+MNIST_P36_N24,unsat,47.3297
+MNIST_P48_N10,unsat,48.5142
+MNIST_P91_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5884
+MNIST_P63_N24,sat,21.0771
+MNIST_P94_N48,unsat,64.8554
+MNIST_P53_N49,unsat,64.0955
+MNIST_P22_N14,unsat,65.4465
+MNIST_P57_N18,unsat,56.3321
+MNIST_P21_N48,unsat,64.8325
+MNIST_P14_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6177
+MNIST_P24_N22,unsat,64.6329
+MNIST_P20_N33,unsat,64.5679
+MNIST_P86_N7,unsat,50.1147
+MNIST_P72_N13,unsat,48.3202
+MNIST_P75_N22,unsat,64.779
+MNIST_P85_N21,unsat,56.5718
+MNIST_P62_N10,timeout,3600.006
+MNIST_P30_N19,unsat,54.5831
+MNIST_P96_N44,unsat,48.6029
+MNIST_P36_N1,unsat,46.5721
+MNIST_P39_N18,unsat,57.0855
+MNIST_P54_N13,unsat,46.8418
+MNIST_P30_N22,unsat,61.756
+MNIST_P3_N7,unsat,49.8858
+MNIST_P38_N14,unsat,62.5977
+MNIST_P59_N34,unsat,46.5413
+MNIST_P45_N18,unsat,55.7089
+MNIST_P7_N35,unsat,48.1214
+MNIST_P20_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0862
+MNIST_P14_N13,unsat,44.9569
+MNIST_P59_N7,unsat,46.9778
+MNIST_P11_N10,unsat,43.9868
+MNIST_P76_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5508
+MNIST_P1_N29,unsat,45.9344
+MNIST_P9_N46,unsat,53.4249
+MNIST_P48_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7928
+MNIST_P93_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5764
+MNIST_P9_N10,unsat,47.0528
+MNIST_P65_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.592
+MNIST_P63_N35,unsat,47.2387
+MNIST_P32_N48,unsat,62.3426
+MNIST_P8_N15,sat,12.0261
+MNIST_P55_N47,unsat,55.1198
+MNIST_P23_N37,unsat,55.9412
+MNIST_P57_N34,unsat,47.2378
+MNIST_P65_N36,unsat,54.7315
+MNIST_P88_N36,unsat,54.0141
+MNIST_P90_N41,unsat,124.7618
+MNIST_P96_N47,timeout,3600.008
+MNIST_P9_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6405
+MNIST_P71_N4,unsat,51.6597
+MNIST_P37_N39,unsat,45.2259
+MNIST_P39_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1802
+MNIST_P14_N49,unsat,60.8599
+MNIST_P87_N21,unsat,54.3297
+MNIST_P8_N11,timeout,3600.037
+MNIST_P59_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7537
+MNIST_P21_N2,unsat,71.3183
+MNIST_P15_N34,unsat,44.9501
+MNIST_P41_N11,unsat,46.9004
+MNIST_P43_N41,unsat,125.2974
+MNIST_P68_N15,unsat,51.6058
+MNIST_P68_N39,unsat,47.5727
+MNIST_P18_N13,unsat,45.8027
+MNIST_P86_N38,unsat,47.9765
+MNIST_P67_N11,unsat,46.2817
+MNIST_P94_N23,unsat,48.2425
+MNIST_P98_N13,unsat,47.1821
+MNIST_P18_N45,unsat,44.2821
+MNIST_P81_N42,unsat,43.6995
+MNIST_P17_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5916
+MNIST_P15_N36,unsat,52.3857
+MNIST_P61_N25,unsat,51.0327
+MNIST_P82_N9,unsat,52.1895
+MNIST_P36_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5099
+MNIST_P50_N1,unsat,44.3539
+MNIST_P69_N49,unsat,61.5523
+MNIST_P26_N22,unsat,60.7051
+MNIST_P2_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5897
+MNIST_P72_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1183
+MNIST_P25_N29,unsat,46.1351
+MNIST_P56_N34,unsat,42.4349
+MNIST_P59_N47,timeout,3600.009
+MNIST_P17_N42,unsat,44.3402
+MNIST_P36_N38,timeout,3600.002
+MNIST_P76_N5,unsat,50.8045
+MNIST_P79_N49,unsat,57.9894
+MNIST_P83_N47,unsat,49.5135
+MNIST_P84_N38,timeout,3600.003
+MNIST_P47_N48,unsat,58.2385
+MNIST_P38_N38,timeout,3600.044
+MNIST_P72_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6605
+MNIST_P52_N14,unsat,59.9298
+MNIST_P40_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6157
+MNIST_P95_N1,unsat,43.2607
+MNIST_P20_N25,unsat,50.5314
+MNIST_P78_N2,unsat,67.1799
+MNIST_P0_N41,unsat,122.5083
+MNIST_P91_N33,unsat,57.7908
+MNIST_P29_N45,unsat,44.1441
+MNIST_P53_N33,unsat,60.0522
+MNIST_P98_N40,unsat,44.9908
+MNIST_P2_N15,unsat,50.2881
+MNIST_P56_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5555
+MNIST_P86_N36,unsat,49.2526
+MNIST_P94_N10,unsat,43.437
+MNIST_P90_N22,unsat,60.0237
+MNIST_P6_N12,unsat,58.6878
+MNIST_P16_N9,unsat,51.2478
+MNIST_P40_N2,unsat,67.9967
+MNIST_P56_N25,unsat,49.5706
+MNIST_P35_N36,unsat,50.2707
+MNIST_P77_N21,unsat,51.2944
+MNIST_P40_N21,unsat,48.7924
+MNIST_P60_N29,unsat,45.359
+MNIST_P77_N11,unsat,42.299
+MNIST_P80_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8011
+MNIST_P41_N27,sat,9.6136
+MNIST_P47_N29,unsat,44.7751
+MNIST_P46_N40,unsat,43.1406
+MNIST_P72_N33,unsat,57.9547
+MNIST_P94_N38,timeout,3600.022
+MNIST_P1_N4,unsat,50.174
+MNIST_P34_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6904
+MNIST_P1_N11,unsat,42.5804
+MNIST_P3_N2,unsat,69.8727
+MNIST_P52_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7701
+MNIST_P90_N46,unsat,52.0932
+MNIST_P80_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0508
+MNIST_P17_N2,unsat,66.8901
+MNIST_P18_N1,unsat,43.1166
+MNIST_P32_N12,unsat,58.5855
+MNIST_P68_N24,sat,43.8569
+MNIST_P68_N29,unsat,45.5089
+MNIST_P7_N36,unsat,48.4546
+MNIST_P84_N23,unsat,44.4744
+MNIST_P81_N44,unsat,43.1736
+MNIST_P47_N11,unsat,44.267
+MNIST_P18_N5,unsat,49.0758
+MNIST_P96_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.6396
+MNIST_P38_N49,unsat,58.2477
+MNIST_P67_N4,unsat,49.47
+MNIST_P62_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7478
+MNIST_P89_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1112
+MNIST_P50_N22,unsat,57.8857
+MNIST_P51_N16,VerinetTranslatorError(Div operations are not supported.),0.6211
+MNIST_P39_N40,unsat,44.663
+MNIST_P62_N44,timeout,3600.035
+MNIST_P20_N24,unsat,43.1039
+MNIST_P76_N25,unsat,49.4522
+MNIST_P81_N11,unsat,43.611
+MNIST_P67_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7019
+MNIST_P7_N5,unsat,49.9153
+MNIST_P54_N47,unsat,50.8175
+MNIST_P45_N31,unsat,48.5295
+MNIST_P10_N39,unsat,43.8374
+MNIST_P94_N42,unsat,42.7105
+MNIST_P65_N27,sat,4.3623
+MNIST_P26_N14,unsat,59.6766
+MNIST_P72_N11,unsat,44.8391
+MNIST_P31_N47,timeout,3600.005
+MNIST_P94_N36,unsat,52.0379
+MNIST_P3_N18,unsat,50.8502
+MNIST_P4_N34,unsat,42.8739
+MNIST_P48_N49,unsat,60.4679
+MNIST_P87_N9,unsat,50.5904
+MNIST_P1_N39,unsat,43.8798
+MNIST_P1_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.6508
+MNIST_P47_N12,unsat,59.322
+MNIST_P94_N39,unsat,44.2436
+MNIST_P62_N24,sat,10.1849
+MNIST_P64_N38,unsat,45.8023
+MNIST_P6_N15,unsat,51.023
+MNIST_P23_N12,unsat,59.4955
+MNIST_P25_N40,unsat,45.1052
+MNIST_P6_N33,unsat,58.0994
+MNIST_P65_N47,timeout,3600.028
+MNIST_P65_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0679
+MNIST_P68_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5008
+MNIST_P99_N25,unsat,50.333
+MNIST_P68_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.6892
+MNIST_P13_N13,unsat,44.2101
+MNIST_P96_N40,unsat,46.3357
+MNIST_P33_N11,timeout,3600.032
+MNIST_P61_N31,unsat,49.3913
+MNIST_P7_N34,unsat,42.1802
+MNIST_P29_N24,unsat,42.4698
+MNIST_P58_N1,unsat,42.3193
+MNIST_P89_N16,VerinetTranslatorError(Div operations are not supported.),0.5897
+MNIST_P94_N18,unsat,50.5894
+MNIST_P71_N14,unsat,60.5181
+MNIST_P38_N19,unsat,52.7588
+MNIST_P68_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6049
+MNIST_P21_N9,unsat,52.0021
+MNIST_P72_N37,unsat,52.2865
+MNIST_P41_N16,VerinetTranslatorError(Div operations are not supported.),0.5948
+MNIST_P24_N36,unsat,48.7537
+MNIST_P78_N1,unsat,42.9238
+MNIST_P28_N7,unsat,44.3169
+MNIST_P28_N42,unsat,43.3985
+MNIST_P32_N49,unsat,58.6336
+MNIST_P99_N12,unsat,59.5807
+MNIST_P66_N7,unsat,45.0656
+MNIST_P77_N13,unsat,42.8903
+MNIST_P90_N27,sat,5.1314
+MNIST_P17_N14,unsat,60.6439
+MNIST_P44_N46,unsat,52.9134
+MNIST_P45_N49,unsat,59.6993
+MNIST_P54_N34,unsat,44.1017
+MNIST_P18_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6467
+MNIST_P45_N14,unsat,59.6641
+MNIST_P46_N45,unsat,42.9845
+MNIST_P10_N49,unsat,59.1965
+MNIST_P25_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5535
+MNIST_P27_N9,unsat,52.2049
+MNIST_P43_N1,unsat,43.6845
+MNIST_P47_N39,unsat,43.4106
+MNIST_P6_N1,unsat,43.2102
+MNIST_P28_N14,unsat,60.0282
+MNIST_P58_N19,unsat,52.995
+MNIST_P87_N5,unsat,51.2562
+MNIST_P95_N27,sat,9.7271
+MNIST_P8_N46,unsat,53.7868
+MNIST_P3_N49,unsat,63.2483
+MNIST_P51_N22,unsat,60.9618
+MNIST_P58_N33,unsat,61.9181
+MNIST_P37_N22,unsat,61.0751
+MNIST_P11_N29,unsat,44.77
+MNIST_P28_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.1916
+MNIST_P62_N13,unsat,43.9854
+MNIST_P71_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5512
+MNIST_P72_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9815
+MNIST_P68_N25,unsat,50.8215
+MNIST_P42_N24,unsat,44.447
+MNIST_P10_N34,unsat,44.8653
+MNIST_P69_N25,unsat,52.5357
+MNIST_P69_N22,sat,55.0659
+MNIST_P1_N38,unsat,46.7646
+MNIST_P13_N40,unsat,47.1299
+MNIST_P52_N31,unsat,51.2723
+MNIST_P13_N41,unsat,130.8192
+MNIST_P25_N23,unsat,45.4612
+MNIST_P90_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8212
+MNIST_P53_N41,unsat,133.0912
+MNIST_P43_N48,sat,41.5061
+MNIST_P14_N34,unsat,45.1736
+MNIST_P42_N21,unsat,53.9988
+MNIST_P17_N27,sat,15.6238
+MNIST_P47_N23,unsat,47.3011
+MNIST_P52_N15,unsat,53.5083
+MNIST_P9_N48,unsat,62.8201
+MNIST_P69_N37,unsat,54.5073
+MNIST_P76_N18,unsat,55.3473
+MNIST_P86_N12,unsat,61.4216
+MNIST_P25_N5,unsat,53.2973
+MNIST_P86_N10,unsat,44.3658
+MNIST_P81_N39,unsat,44.503
+MNIST_P73_N48,sat,20.3838
+MNIST_P42_N10,unsat,43.7101
+MNIST_P6_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5722
+MNIST_P48_N29,unsat,46.7297
+MNIST_P43_N47,timeout,3600.037
+MNIST_P15_N22,unsat,63.6361
+MNIST_P30_N48,unsat,61.5205
+MNIST_P25_N49,unsat,61.5909
+MNIST_P69_N13,unsat,43.7703
+MNIST_P89_N25,unsat,51.7134
+MNIST_P27_N34,unsat,43.7367
+MNIST_P44_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6809
+MNIST_P46_N48,unsat,59.9994
+MNIST_P82_N5,unsat,54.2443
+MNIST_P64_N21,unsat,55.3343
+MNIST_P28_N46,unsat,53.5253
+MNIST_P69_N4,unsat,53.1804
+MNIST_P12_N36,unsat,50.8413
+MNIST_P40_N44,unsat,46.4716
+MNIST_P3_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1512
+MNIST_P82_N34,unsat,43.1925
+MNIST_P87_N1,unsat,44.1913
+MNIST_P12_N2,unsat,70.8604
+MNIST_P12_N31,unsat,53.6653
+MNIST_P22_N1,unsat,44.888
+MNIST_P28_N47,unsat,54.4757
+MNIST_P29_N22,unsat,63.4462
+MNIST_P17_N35,unsat,46.6768
+MNIST_P31_N7,unsat,44.9792
+MNIST_P27_N35,unsat,43.776
+MNIST_P60_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8381
+MNIST_P92_N18,sat,41.8008
+MNIST_P73_N42,unsat,46.4941
+MNIST_P97_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.4699
+MNIST_P54_N48,unsat,62.76
+MNIST_P37_N37,unsat,54.5727
+MNIST_P39_N48,unsat,62.5421
+MNIST_P42_N42,unsat,44.767
+MNIST_P43_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6657
+MNIST_P81_N29,unsat,46.6593
+MNIST_P12_N16,VerinetTranslatorError(Div operations are not supported.),0.6678
+MNIST_P67_N2,unsat,69.8381
+MNIST_P51_N24,sat,5.2908
+MNIST_P77_N9,unsat,51.7917
+MNIST_P12_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.731
+MNIST_P28_N25,unsat,52.5393
+MNIST_P31_N25,unsat,52.6806
+MNIST_P16_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.1244
+MNIST_P22_N18,unsat,54.3189
+MNIST_P77_N33,unsat,63.3156
+MNIST_P2_N12,unsat,61.6822
+MNIST_P83_N38,unsat,47.1519
+MNIST_P83_N10,unsat,45.2086
+MNIST_P20_N22,unsat,61.3262
+MNIST_P27_N48,unsat,60.8299
+MNIST_P72_N47,unsat,53.373
+MNIST_P19_N7,unsat,46.8971
+MNIST_P59_N38,timeout,3600.026
+MNIST_P72_N14,unsat,62.6763
+MNIST_P90_N19,unsat,54.6572
+MNIST_P26_N34,unsat,46.2078
+MNIST_P33_N10,unsat,46.591
+MNIST_P64_N10,unsat,47.7792
+MNIST_P51_N31,unsat,55.1483
+MNIST_P2_N18,unsat,55.889
+MNIST_P61_N11,unsat,46.1153
+MNIST_P34_N47,unsat,53.39
+MNIST_P3_N1,unsat,46.0913
+MNIST_P19_N47,unsat,54.5901
+MNIST_P27_N16,VerinetTranslatorError(Div operations are not supported.),0.517
+MNIST_P33_N41,unsat,134.9362
+MNIST_P98_N12,unsat,63.9411
+MNIST_P76_N24,unsat,45.6817
+MNIST_P37_N10,unsat,46.7398
+MNIST_P9_N49,unsat,65.005
+MNIST_P56_N12,unsat,63.0179
+MNIST_P82_N38,unsat,48.8399
+MNIST_P8_N40,unsat,50.2987
+MNIST_P60_N18,unsat,57.3467
+MNIST_P97_N7,unsat,48.8538
+MNIST_P6_N41,unsat,131.6176
+MNIST_P88_N24,unsat,45.4895
+MNIST_P4_N45,unsat,45.4399
+MNIST_P83_N25,unsat,53.0864
+MNIST_P51_N34,unsat,45.8388
+MNIST_P24_N27,sat,19.2509
+MNIST_P56_N4,unsat,55.8292
+MNIST_P7_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4455
+MNIST_P8_N39,unsat,47.3784
+MNIST_P32_N4,unsat,54.4911
+MNIST_P33_N15,timeout,3600.016
+MNIST_P64_N23,unsat,46.8946
+MNIST_P7_N39,timeout,3600.015
+MNIST_P22_N10,unsat,45.2338
+MNIST_P89_N18,unsat,52.9829
+MNIST_P55_N42,unsat,44.9677
+MNIST_P67_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0559
+MNIST_P70_N33,unsat,61.4662
+MNIST_P9_N35,unsat,46.1081
+MNIST_P45_N35,unsat,45.9727
+MNIST_P25_N7,unsat,46.3948
+MNIST_P83_N27,sat,5.2323
+MNIST_P2_N23,unsat,47.1942
+MNIST_P65_N35,unsat,44.5594
+MNIST_P61_N21,timeout,3600.004
+MNIST_P22_N41,unsat,127.7792
+MNIST_P92_N13,timeout,3600.032
+MNIST_P8_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5691
+MNIST_P16_N34,unsat,42.5371
+MNIST_P39_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5623
+MNIST_P40_N11,timeout,3600.016
+MNIST_P82_N39,unsat,43.9198
+MNIST_P99_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6716
+MNIST_P95_N21,unsat,53.5482
+MNIST_P14_N48,unsat,61.1614
+MNIST_P80_N7,unsat,45.8609
+MNIST_P53_N18,unsat,50.8815
+MNIST_P84_N9,unsat,50.5357
+MNIST_P46_N23,unsat,46.6519
+MNIST_P87_N36,unsat,51.0668
+MNIST_P90_N4,unsat,52.1383
+MNIST_P61_N1,unsat,43.6015
+MNIST_P99_N33,unsat,60.072
+MNIST_P99_N37,unsat,53.5344
+MNIST_P14_N47,unsat,52.1717
+MNIST_P43_N19,unsat,53.223
+MNIST_P99_N48,unsat,63.0375
+MNIST_P43_N33,unsat,61.852
+MNIST_P45_N42,unsat,46.1148
+MNIST_P57_N14,unsat,60.532
+MNIST_P28_N4,unsat,53.2049
+MNIST_P37_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6214
+MNIST_P30_N37,unsat,51.7015
+MNIST_P42_N7,unsat,44.7864
+MNIST_P23_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4148
+MNIST_P29_N1,unsat,44.0328
+MNIST_P68_N11,unsat,46.2044
+MNIST_P43_N46,unsat,53.1018
+MNIST_P68_N45,unsat,43.147
+MNIST_P10_N16,VerinetTranslatorError(Div operations are not supported.),0.8533
+MNIST_P74_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7772
+MNIST_P93_N16,VerinetTranslatorError(Div operations are not supported.),0.4729
+MNIST_P96_N22,sat,54.5369
+MNIST_P3_N31,unsat,53.1457
+MNIST_P5_N15,unsat,52.1695
+MNIST_P65_N13,timeout,3600.015
+MNIST_P67_N37,unsat,52.1532
+MNIST_P89_N45,unsat,44.5478
+MNIST_P85_N22,unsat,62.517
+MNIST_P9_N2,unsat,69.7872
+MNIST_P25_N46,unsat,54.6225
+MNIST_P56_N41,unsat,131.1486
+MNIST_P98_N21,unsat,52.2831
+MNIST_P12_N27,sat,13.5827
+MNIST_P78_N15,unsat,51.8671
+MNIST_P59_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.7646
+MNIST_P82_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5405
+MNIST_P13_N1,unsat,46.0368
+MNIST_P3_N16,VerinetTranslatorError(Div operations are not supported.),0.7832
+MNIST_P17_N18,unsat,54.3066
+MNIST_P48_N37,unsat,54.473
+MNIST_P60_N31,unsat,53.9618
+MNIST_P38_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7582
+MNIST_P62_N4,unsat,57.256
+MNIST_P40_N31,unsat,56.7283
+MNIST_P3_N27,sat,5.3312
+MNIST_P26_N13,unsat,48.1402
+MNIST_P74_N2,unsat,72.1307
+MNIST_P40_N18,unsat,56.9996
+MNIST_P78_N24,unsat,45.8962
+MNIST_P69_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0866
+MNIST_P56_N36,unsat,52.8581
+MNIST_P12_N12,unsat,65.5117
+MNIST_P64_N33,unsat,67.4223
+MNIST_P13_N15,unsat,57.3907
+MNIST_P74_N15,unsat,55.8758
+MNIST_P16_N5,unsat,56.3167
+MNIST_P65_N14,unsat,67.8382
+MNIST_P29_N46,unsat,56.8265
+MNIST_P8_N48,unsat,67.1792
+MNIST_P38_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5805
+MNIST_P16_N25,unsat,53.9381
+MNIST_P60_N37,unsat,55.6431
+MNIST_P98_N4,unsat,54.8286
+MNIST_P97_N35,unsat,48.1779
+MNIST_P46_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6001
+MNIST_P49_N31,unsat,55.1033
+MNIST_P18_N36,unsat,55.6554
+MNIST_P28_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4942
+MNIST_P82_N40,unsat,51.7178
+MNIST_P61_N7,timeout,3600.01
+MNIST_P35_N24,unsat,46.7911
+MNIST_P66_N45,sat,31.1608
+MNIST_P83_N21,unsat,53.7377
+MNIST_P87_N33,sat,56.2541
+MNIST_P62_N47,timeout,3600.01
+MNIST_P27_N25,unsat,50.6759
+MNIST_P33_N24,unsat,44.5444
+MNIST_P62_N46,unsat,53.8989
+MNIST_P41_N5,unsat,52.8716
+MNIST_P16_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5439
+MNIST_P65_N33,sat,28.37
+MNIST_P23_N5,unsat,49.94
+MNIST_P39_N12,unsat,61.4132
+MNIST_P60_N24,sat,5.5064
+MNIST_P28_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1591
+MNIST_P59_N2,unsat,71.1902
+MNIST_P96_N21,unsat,51.0048
+MNIST_P40_N38,timeout,3600.002
+MNIST_P1_N14,unsat,61.5133
+MNIST_P85_N7,unsat,45.3322
+MNIST_P13_N16,VerinetTranslatorError(Div operations are not supported.),0.7777
+MNIST_P5_N12,unsat,60.8559
+MNIST_P51_N14,unsat,61.7009
+MNIST_P95_N41,unsat,136.0646
+MNIST_P38_N42,unsat,45.533
+MNIST_P45_N21,unsat,54.4229
+MNIST_P85_N34,unsat,43.648
+MNIST_P86_N5,unsat,54.3761
+MNIST_P66_N29,unsat,47.7348
+MNIST_P74_N48,unsat,63.1156
+MNIST_P53_N39,timeout,3600.008
+MNIST_P54_N41,unsat,131.3427
+MNIST_P64_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5287
+MNIST_P19_N27,sat,9.5325
+MNIST_P74_N38,timeout,3600.018
+MNIST_P44_N5,unsat,51.6745
+MNIST_P79_N47,unsat,50.1982
+MNIST_P9_N1,unsat,43.8552
+MNIST_P93_N40,unsat,46.59
+MNIST_P93_N44,unsat,45.253
+MNIST_P31_N39,timeout,3600.035
+MNIST_P1_N46,unsat,53.9643
+MNIST_P91_N7,unsat,45.0708
+MNIST_P31_N21,unsat,50.6488
+MNIST_P97_N10,unsat,44.0716
+MNIST_P84_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6263
+MNIST_P4_N23,unsat,45.6855
+MNIST_P85_N12,unsat,60.1034
+MNIST_P0_N42,unsat,44.7621
+MNIST_P77_N27,unsat,42.4779
+MNIST_P73_N7,unsat,45.7974
+MNIST_P0_N36,unsat,49.9258
+MNIST_P95_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9771
+MNIST_P84_N37,unsat,51.3974
+MNIST_P97_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.738
+MNIST_P4_N49,unsat,60.2969
+MNIST_P83_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0656
+MNIST_P28_N34,unsat,44.0681
+MNIST_P1_N34,unsat,43.8387
+MNIST_P76_N23,unsat,46.4069
+MNIST_P67_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.893
+MNIST_P80_N1,unsat,42.546
+MNIST_P16_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5724
+MNIST_P79_N31,unsat,50.7282
+MNIST_P39_N42,unsat,44.475
+MNIST_P62_N9,unsat,52.0607
+MNIST_P0_N27,sat,34.4616
+MNIST_P15_N15,unsat,54.21
+MNIST_P99_N31,unsat,50.5108
+MNIST_P28_N33,unsat,61.8523
+MNIST_P71_N39,unsat,45.0875
+MNIST_P39_N2,unsat,70.0392
+MNIST_P88_N10,unsat,44.1932
+MNIST_P40_N13,unsat,44.5664
+MNIST_P94_N49,unsat,62.0812
+MNIST_P63_N19,unsat,54.601
+MNIST_P49_N10,unsat,45.1999
+MNIST_P92_N41,unsat,130.0486
+MNIST_P60_N11,unsat,43.0301
+MNIST_P9_N29,unsat,46.2289
+MNIST_P2_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1075
+MNIST_P30_N41,unsat,131.3122
+MNIST_P0_N46,unsat,55.6286
+MNIST_P74_N12,unsat,63.6403
+MNIST_P78_N31,unsat,52.3094
+MNIST_P85_N47,unsat,52.6184
+MNIST_P13_N46,unsat,53.9755
+MNIST_P93_N25,unsat,51.3627
+MNIST_P59_N14,unsat,62.8742
+MNIST_P91_N31,unsat,52.5314
+MNIST_P97_N33,sat,21.5071
+MNIST_P13_N34,unsat,44.6901
+MNIST_P35_N7,unsat,47.5973
+MNIST_P29_N35,unsat,43.8883
+MNIST_P10_N2,unsat,71.6261
+MNIST_P13_N27,sat,5.1869
+MNIST_P40_N41,unsat,127.1163
+MNIST_P41_N9,unsat,54.5037
+MNIST_P62_N33,unsat,60.8363
+MNIST_P24_N29,unsat,48.7738
+MNIST_P47_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6685
+MNIST_P81_N40,unsat,47.5395
+MNIST_P99_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5746
+MNIST_P71_N23,unsat,46.1547
+MNIST_P47_N21,unsat,51.0861
+MNIST_P91_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.6078
+MNIST_P72_N36,unsat,53.8487
+MNIST_P0_N45,unsat,45.683
+MNIST_P36_N39,unsat,48.2088
+MNIST_P95_N7,unsat,48.9324
+MNIST_P29_N15,sat,38.2637
+MNIST_P69_N14,unsat,64.3996
+MNIST_P74_N13,unsat,47.4931
+MNIST_P73_N25,unsat,52.1832
+MNIST_P79_N48,unsat,61.2978
+MNIST_P91_N10,unsat,45.4493
+MNIST_P70_N39,unsat,45.5458
+MNIST_P48_N46,unsat,55.234
+MNIST_P98_N46,unsat,53.5417
+MNIST_P74_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.718
+MNIST_P71_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1717
+MNIST_P2_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7337
+MNIST_P79_N24,unsat,46.5859
+MNIST_P58_N18,unsat,54.3937
+MNIST_P66_N9,unsat,57.8402
+MNIST_P22_N37,unsat,56.8949
+MNIST_P6_N2,unsat,72.3639
+MNIST_P10_N29,unsat,49.0977
+MNIST_P69_N12,unsat,63.5455
+MNIST_P29_N19,unsat,55.8839
+MNIST_P82_N4,unsat,55.5272
+MNIST_P12_N35,unsat,46.819
+MNIST_P14_N37,unsat,55.5357
+MNIST_P90_N23,unsat,47.3434
+MNIST_P92_N38,timeout,3600.036
+MNIST_P77_N2,unsat,69.5931
+MNIST_P83_N34,unsat,44.9724
+MNIST_P91_N48,unsat,63.7264
+MNIST_P36_N27,sat,38.925
+MNIST_P95_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7252
+MNIST_P66_N44,unsat,44.9663
+MNIST_P61_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9481
+MNIST_P25_N10,unsat,44.4576
+MNIST_P56_N33,unsat,60.5906
+MNIST_P77_N38,timeout,3600.023
+MNIST_P81_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0576
+MNIST_P90_N14,unsat,60.9396
+MNIST_P0_N13,unsat,44.7514
+MNIST_P90_N47,unsat,50.669
+MNIST_P40_N34,unsat,44.3628
+MNIST_P38_N16,VerinetTranslatorError(Div operations are not supported.),0.5377
+MNIST_P65_N2,unsat,73.1872
+MNIST_P75_N4,unsat,51.8714
+MNIST_P54_N10,unsat,45.0112
+MNIST_P82_N12,unsat,61.3988
+MNIST_P73_N21,unsat,52.7229
+MNIST_P91_N14,unsat,63.3885
+MNIST_P81_N31,unsat,52.7741
+MNIST_P6_N29,unsat,47.8013
+MNIST_P29_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9356
+MNIST_P48_N21,unsat,51.0276
+MNIST_P74_N46,unsat,51.6544
+MNIST_P8_N27,sat,14.8099
+MNIST_P65_N12,unsat,59.8574
+MNIST_P31_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1478
+MNIST_P46_N38,timeout,3600.004
+MNIST_P9_N45,unsat,42.6465
+MNIST_P22_N21,unsat,51.9353
+MNIST_P92_N16,VerinetTranslatorError(Div operations are not supported.),0.6188
+MNIST_P49_N9,unsat,52.1572
+MNIST_P32_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7199
+MNIST_P53_N34,unsat,43.1392
+MNIST_P43_N42,unsat,44.7103
+MNIST_P55_N19,unsat,51.1243
+MNIST_P85_N25,unsat,49.3063
+MNIST_P72_N5,unsat,52.7159
+MNIST_P0_N9,unsat,53.0778
+MNIST_P1_N25,unsat,50.6689
+MNIST_P46_N34,unsat,43.3302
+MNIST_P86_N39,unsat,43.7916
+MNIST_P35_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1165
+MNIST_P22_N2,unsat,70.6503
+MNIST_P37_N33,unsat,60.9876
+MNIST_P97_N49,unsat,62.8315
+MNIST_P48_N25,unsat,49.6076
+MNIST_P62_N45,unsat,43.4988
+MNIST_P51_N49,unsat,59.8176
+MNIST_P71_N41,unsat,125.6069
+MNIST_P83_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7038
+MNIST_P53_N22,unsat,59.7472
+MNIST_P80_N40,unsat,47.8923
+MNIST_P60_N47,unsat,52.3814
+MNIST_P58_N23,unsat,46.6125
+MNIST_P62_N25,timeout,3600.016
+MNIST_P78_N14,unsat,61.4644
+MNIST_P79_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4577
+MNIST_P79_N27,sat,9.1064
+MNIST_P89_N14,unsat,60.3315
+MNIST_P79_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5268
+MNIST_P93_N39,unsat,43.6836
+MNIST_P21_N37,unsat,52.3138
+MNIST_P89_N31,unsat,50.2811
+MNIST_P75_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0728
+MNIST_P35_N14,unsat,58.7872
+MNIST_P12_N18,unsat,51.6459
+MNIST_P37_N40,unsat,46.5679
+MNIST_P17_N37,unsat,50.6057
+MNIST_P25_N37,unsat,52.3222
+MNIST_P36_N16,VerinetTranslatorError(Div operations are not supported.),0.6628
+MNIST_P57_N39,timeout,3600.024
+MNIST_P86_N48,unsat,60.1723
+MNIST_P60_N19,unsat,50.6892
+MNIST_P17_N16,VerinetTranslatorError(Div operations are not supported.),0.8183
+MNIST_P37_N45,unsat,42.9343
+MNIST_P79_N35,unsat,43.9978
+MNIST_P30_N29,unsat,44.8924
+MNIST_P94_N44,unsat,43.5313
+MNIST_P27_N44,unsat,43.8648
+MNIST_P71_N16,VerinetTranslatorError(Div operations are not supported.),0.4794
+MNIST_P15_N24,sat,13.967
+MNIST_P75_N48,unsat,60.2701
+MNIST_P12_N38,unsat,46.594
+MNIST_P33_N38,timeout,3600.013
+MNIST_P43_N27,sat,27.6277
+MNIST_P89_N21,unsat,50.5947
+MNIST_P33_N40,unsat,44.8206
+MNIST_P96_N5,unsat,51.5341
+MNIST_P58_N46,unsat,51.2863
+MNIST_P86_N2,unsat,68.8504
+MNIST_P45_N19,unsat,51.4486
+MNIST_P97_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6977
+MNIST_P50_N45,unsat,42.2404
+MNIST_P83_N36,unsat,49.3187
+MNIST_P86_N24,unsat,42.9178
+MNIST_P97_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6923
+MNIST_P85_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5749
+MNIST_P14_N24,unsat,41.4733
+MNIST_P39_N34,unsat,42.1244
+MNIST_P11_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7208
+MNIST_P41_N13,unsat,42.9292
+MNIST_P88_N35,unsat,43.4087
+MNIST_P82_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5923
+MNIST_P26_N46,unsat,52.9027
+MNIST_P42_N5,unsat,51.0054
+MNIST_P35_N19,unsat,52.3749
+MNIST_P16_N38,unsat,45.9416
+MNIST_P46_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.4933
+MNIST_P61_N12,unsat,59.9999
+MNIST_P66_N34,unsat,43.0065
+MNIST_P85_N29,unsat,46.3849
+MNIST_P95_N19,unsat,52.9024
+MNIST_P28_N19,unsat,54.1899
+MNIST_P19_N13,unsat,43.0947
+MNIST_P8_N9,unsat,50.676
+MNIST_P34_N5,unsat,52.0396
+MNIST_P94_N27,sat,5.1551
+MNIST_P36_N42,unsat,44.2547
+MNIST_P21_N5,unsat,50.2872
+MNIST_P72_N39,unsat,44.9658
+MNIST_P75_N19,unsat,49.8484
+MNIST_P27_N14,unsat,58.5719
+MNIST_P27_N12,unsat,60.5285
+MNIST_P78_N7,unsat,44.7272
+MNIST_P2_N10,unsat,45.1628
+MNIST_P27_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7318
+MNIST_P81_N48,unsat,60.2419
+MNIST_P74_N42,unsat,43.334
+MNIST_P30_N36,unsat,49.5
+MNIST_P92_N27,sat,8.9388
+MNIST_P57_N10,unsat,45.179
+MNIST_P97_N21,unsat,51.3405
+MNIST_P73_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0583
+MNIST_P54_N23,unsat,45.8558
+MNIST_P27_N29,unsat,47.4302
+MNIST_P0_N15,unsat,52.6908
+MNIST_P26_N25,unsat,52.2693
+MNIST_P16_N1,unsat,45.2114
+MNIST_P35_N48,unsat,60.1858
+MNIST_P43_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1715
+MNIST_P78_N38,timeout,3600.015
+MNIST_P82_N45,unsat,45.2287
+MNIST_P91_N36,unsat,54.3335
+MNIST_P81_N45,unsat,45.0473
+MNIST_P9_N21,unsat,56.0861
+MNIST_P86_N4,unsat,56.9809
+MNIST_P77_N35,unsat,48.4148
+MNIST_P59_N21,unsat,55.3346
+MNIST_P96_N36,unsat,55.0842
+MNIST_P40_N42,unsat,46.6035
+MNIST_P5_N39,unsat,46.6817
+MNIST_P96_N42,unsat,45.4529
+MNIST_P77_N29,unsat,48.9586
+MNIST_P35_N22,unsat,62.2044
+MNIST_P51_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7756
+MNIST_P0_N25,unsat,52.0967
+MNIST_P42_N45,unsat,47.1762
+MNIST_P51_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7002
+MNIST_P19_N19,unsat,54.257
+MNIST_P33_N23,unsat,48.0922
+MNIST_P32_N27,sat,5.4968
+MNIST_P22_N9,unsat,55.4148
+MNIST_P85_N49,unsat,61.4637
+MNIST_P87_N12,unsat,62.5752
+MNIST_P8_N42,sat,9.6689
+MNIST_P96_N37,unsat,55.0073
+MNIST_P59_N42,unsat,47.4159
+MNIST_P62_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8909
+MNIST_P69_N16,VerinetTranslatorError(Div operations are not supported.),0.5482
+MNIST_P41_N23,unsat,48.152
+MNIST_P89_N13,unsat,47.4428
+MNIST_P37_N16,VerinetTranslatorError(Div operations are not supported.),0.7892
+MNIST_P7_N14,unsat,63.1735
+MNIST_P17_N39,unsat,46.5255
+MNIST_P49_N1,unsat,44.0663
+MNIST_P5_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7085
+MNIST_P17_N33,unsat,62.4953
+MNIST_P59_N41,unsat,129.9577
+MNIST_P13_N18,unsat,54.5593
+MNIST_P76_N21,unsat,55.4112
+MNIST_P13_N5,unsat,55.5898
+MNIST_P76_N29,unsat,50.341
+MNIST_P12_N7,unsat,50.4608
+MNIST_P38_N23,unsat,49.7904
+MNIST_P51_N45,unsat,46.8185
+MNIST_P66_N21,unsat,54.6345
+MNIST_P66_N22,unsat,63.1426
+MNIST_P94_N14,unsat,60.3028
+MNIST_P61_N22,unsat,64.2652
+MNIST_P35_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6772
+MNIST_P37_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5649
+MNIST_P56_N40,unsat,48.6679
+MNIST_P99_N40,unsat,50.1781
+MNIST_P6_N40,unsat,49.8381
+MNIST_P9_N15,unsat,55.2782
+MNIST_P25_N25,unsat,55.1352
+MNIST_P86_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.4954
+MNIST_P30_N49,unsat,66.3058
+MNIST_P87_N15,unsat,59.1635
+MNIST_P50_N24,unsat,46.9028
+MNIST_P40_N45,unsat,47.1179
+MNIST_P72_N19,unsat,58.1546
+MNIST_P41_N48,unsat,66.9077
+MNIST_P5_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9958
+MNIST_P43_N2,unsat,77.3327
+MNIST_P8_N44,unsat,48.3538
+MNIST_P41_N38,unsat,49.9725
+MNIST_P1_N22,unsat,63.6553
+MNIST_P71_N27,sat,17.1726
+MNIST_P72_N10,unsat,49.1215
+MNIST_P27_N24,unsat,47.4629
+MNIST_P53_N21,unsat,56.5816
+MNIST_P28_N36,unsat,54.613
+MNIST_P84_N13,unsat,47.8433
+MNIST_P80_N2,sat,26.5592
+MNIST_P86_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0654
+MNIST_P87_N19,unsat,55.652
+MNIST_P76_N31,unsat,55.1786
+MNIST_P93_N5,unsat,56.5921
+MNIST_P30_N15,unsat,55.1835
+MNIST_P68_N4,unsat,55.9368
+MNIST_P84_N33,unsat,65.1401
+MNIST_P85_N39,unsat,49.7106
+MNIST_P53_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7487
+MNIST_P97_N36,unsat,55.1186
+MNIST_P25_N44,unsat,49.5978
+MNIST_P56_N2,unsat,73.7139
+MNIST_P92_N42,unsat,47.7359
+MNIST_P5_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6486
+MNIST_P22_N34,unsat,45.5185
+MNIST_P67_N24,unsat,47.6451
+MNIST_P32_N7,unsat,50.1692
+MNIST_P81_N15,unsat,57.2911
+MNIST_P72_N15,unsat,57.9895
+MNIST_P88_N15,unsat,57.8603
+MNIST_P96_N34,unsat,47.7007
+MNIST_P25_N36,unsat,56.4695
+MNIST_P31_N33,unsat,66.1227
+MNIST_P67_N36,unsat,54.8694
+MNIST_P99_N21,unsat,56.4976
+MNIST_P34_N19,unsat,56.7726
+MNIST_P0_N7,unsat,48.9919
+MNIST_P22_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0618
+MNIST_P79_N39,unsat,49.1308
+MNIST_P1_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5772
+MNIST_P89_N40,unsat,50.3714
+MNIST_P85_N16,VerinetTranslatorError(Div operations are not supported.),0.6434
+MNIST_P4_N13,unsat,49.4532
+MNIST_P24_N13,unsat,47.4004
+MNIST_P65_N7,timeout,3600.014
+MNIST_P10_N5,unsat,57.4163
+MNIST_P27_N19,unsat,57.302
+MNIST_P10_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1307
+MNIST_P91_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0569
+MNIST_P74_N9,unsat,55.902
+MNIST_P74_N27,sat,11.2642
+MNIST_P87_N40,unsat,51.3813
+MNIST_P21_N47,unsat,59.9226
+MNIST_P53_N5,unsat,61.0525
+MNIST_P46_N46,unsat,61.652
+MNIST_P50_N9,unsat,62.7337
+MNIST_P61_N33,unsat,66.8765
+MNIST_P51_N15,unsat,62.4191
+MNIST_P36_N34,unsat,51.3585
+MNIST_P49_N35,unsat,52.5738
+MNIST_P20_N27,sat,23.1165
+MNIST_P30_N1,unsat,51.452
+MNIST_P46_N36,unsat,58.2039
+MNIST_P49_N44,unsat,49.5918
+MNIST_P5_N11,unsat,50.9214
+MNIST_P69_N1,unsat,49.9884
+MNIST_P97_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.1017
+MNIST_P41_N33,unsat,64.6233
+MNIST_P70_N46,unsat,58.7152
+MNIST_P33_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7125
+MNIST_P68_N31,unsat,60.0437
+MNIST_P20_N40,unsat,54.6328
+MNIST_P90_N48,unsat,69.1872
+MNIST_P81_N41,unsat,137.0261
+MNIST_P16_N23,unsat,53.1328
+MNIST_P93_N14,unsat,67.115
+MNIST_P71_N22,unsat,68.9031
+MNIST_P89_N10,unsat,51.6331
+MNIST_P77_N39,timeout,3600.007
+MNIST_P23_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7265
+MNIST_P4_N24,unsat,52.2269
+MNIST_P82_N37,unsat,59.9369
+MNIST_P67_N45,unsat,51.2684
+MNIST_P51_N36,unsat,60.9179
+MNIST_P97_N48,unsat,70.1254
+MNIST_P51_N38,unsat,57.8402
+MNIST_P1_N45,unsat,53.3404
+MNIST_P85_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.1019
+MNIST_P85_N14,unsat,72.9747
+MNIST_P14_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7614
+MNIST_P29_N10,unsat,55.7794
+MNIST_P87_N16,VerinetTranslatorError(Div operations are not supported.),0.6425
+MNIST_P91_N45,unsat,53.5524
+MNIST_P19_N37,unsat,65.2272
+MNIST_P88_N45,unsat,54.3038
+MNIST_P99_N42,unsat,56.0475
+MNIST_P22_N25,unsat,62.6485
+MNIST_P89_N47,unsat,68.0583
+MNIST_P4_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0641
+MNIST_P23_N34,unsat,57.8872
+MNIST_P41_N15,unsat,69.0287
+MNIST_P67_N33,unsat,76.4913
+MNIST_P70_N42,unsat,59.002
+MNIST_P72_N21,unsat,67.7422
+MNIST_P1_N36,unsat,69.7093
+MNIST_P54_N37,unsat,66.4626
+MNIST_P91_N19,unsat,66.4483
+MNIST_P19_N34,unsat,55.7707
+MNIST_P55_N40,unsat,57.745
+MNIST_P64_N13,unsat,56.2393
+MNIST_P74_N37,unsat,62.9861
+MNIST_P16_N4,unsat,60.7385
+MNIST_P76_N42,unsat,55.6635
+MNIST_P84_N47,unsat,64.6541
+MNIST_P32_N29,unsat,59.507
+MNIST_P43_N38,timeout,3600.01
+MNIST_P94_N40,unsat,59.0307
+MNIST_P56_N11,unsat,57.983
+MNIST_P21_N36,unsat,62.0353
+MNIST_P61_N36,unsat,62.9685
+MNIST_P64_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8126
+MNIST_P87_N13,unsat,56.7092
+MNIST_P67_N18,unsat,65.0187
+MNIST_P5_N18,unsat,65.5176
+MNIST_P30_N11,unsat,56.4804
+MNIST_P64_N11,unsat,55.6378
+MNIST_P82_N1,unsat,54.017
+MNIST_P30_N34,unsat,51.237
+MNIST_P47_N15,unsat,60.4699
+MNIST_P49_N11,unsat,51.802
+MNIST_P24_N39,unsat,52.6681
+MNIST_P8_N16,VerinetTranslatorError(Div operations are not supported.),0.5178
+MNIST_P46_N39,timeout,3600.046
+MNIST_P78_N45,unsat,49.9544
+MNIST_P51_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9628
+MNIST_P87_N34,unsat,48.9926
+MNIST_P2_N41,unsat,130.5231
+MNIST_P3_N4,unsat,59.1814
+MNIST_P5_N25,unsat,56.3893
+MNIST_P31_N42,unsat,49.1924
+MNIST_P56_N31,unsat,58.0059
+MNIST_P98_N38,timeout,3600.004
+MNIST_P96_N38,sat,6.5019
+MNIST_P41_N31,unsat,57.3522
+MNIST_P46_N14,unsat,65.9462
+MNIST_P74_N45,unsat,48.7312
+MNIST_P75_N21,unsat,57.484
+MNIST_P45_N40,unsat,52.9377
+MNIST_P85_N24,unsat,49.0559
+MNIST_P73_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9793
+MNIST_P89_N12,unsat,64.7283
+MNIST_P1_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6003
+MNIST_P4_N27,sat,11.2625
+MNIST_P33_N25,unsat,55.0758
+MNIST_P36_N21,unsat,57.0371
+MNIST_P90_N12,unsat,63.5369
+MNIST_P47_N24,sat,10.3124
+MNIST_P57_N21,unsat,57.7083
+MNIST_P68_N22,unsat,69.3144
+MNIST_P51_N27,sat,5.4066
+MNIST_P52_N24,sat,5.8413
+MNIST_P18_N8,VerificationRunnerError(IndexError),
+MNIST_P76_N34,unsat,48.563
+MNIST_P66_N35,unsat,51.3397
+MNIST_P67_N10,unsat,50.5041
+MNIST_P98_N19,unsat,59.2549
+MNIST_P63_N34,unsat,49.1502
+MNIST_P80_N10,unsat,53.1078
+MNIST_P20_N46,unsat,58.2978
+MNIST_P76_N33,unsat,67.5028
+MNIST_P92_N44,unsat,51.4059
+MNIST_P62_N31,unsat,57.3723
+MNIST_P29_N9,unsat,55.3948
+MNIST_P67_N40,unsat,52.4262
+MNIST_P46_N44,unsat,50.2231
+MNIST_P97_N25,unsat,55.8164
+MNIST_P33_N2,sat,18.2213
+MNIST_P12_N49,unsat,65.3935
+MNIST_P6_N36,unsat,54.5565
+MNIST_P78_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6281
+MNIST_P88_N16,VerinetTranslatorError(Div operations are not supported.),0.647
+MNIST_P7_N25,unsat,56.3298
+MNIST_P13_N7,unsat,51.7456
+MNIST_P47_N49,unsat,68.9573
+MNIST_P84_N44,unsat,52.1057
+MNIST_P89_N44,unsat,51.6888
+MNIST_P84_N24,sat,50.6609
+MNIST_P9_N44,unsat,51.1583
+MNIST_P65_N4,unsat,59.0917
+MNIST_P75_N40,unsat,52.233
+MNIST_P71_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7521
+MNIST_P40_N25,unsat,55.7664
+MNIST_P83_N11,unsat,47.6855
+MNIST_P58_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4658
+MNIST_P56_N27,sat,5.244
+MNIST_P3_N45,unsat,47.6823
+MNIST_P88_N25,unsat,58.8021
+MNIST_P87_N31,unsat,58.4421
+MNIST_P66_N1,unsat,49.8666
+MNIST_P88_N46,unsat,61.2702
+MNIST_P49_N49,unsat,68.2152
+MNIST_P55_N12,unsat,69.5628
+MNIST_P47_N4,unsat,63.6896
+MNIST_P10_N11,unsat,52.2127
+MNIST_P55_N36,unsat,58.2501
+MNIST_P20_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.7381
+MNIST_P71_N10,unsat,49.2626
+MNIST_P82_N49,unsat,65.6187
+MNIST_P10_N7,unsat,50.7742
+MNIST_P72_N22,unsat,67.7737
+MNIST_P85_N35,unsat,48.4877
+MNIST_P70_N7,unsat,51.9885
+MNIST_P51_N1,unsat,52.192
+MNIST_P87_N22,unsat,69.2126
+MNIST_P93_N38,unsat,55.547
+MNIST_P47_N31,unsat,59.3614
+MNIST_P95_N25,unsat,57.8206
+MNIST_P65_N18,unsat,59.2005
+MNIST_P71_N5,unsat,55.5468
+MNIST_P77_N1,sat,15.442
+MNIST_P36_N13,unsat,47.5507
+MNIST_P72_N1,unsat,47.1278
+MNIST_P14_N10,unsat,46.8723
+MNIST_P19_N5,unsat,56.7981
+MNIST_P7_N41,unsat,131.236
+MNIST_P24_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.872
+MNIST_P6_N5,unsat,58.8597
+MNIST_P10_N9,unsat,58.5278
+MNIST_P27_N41,unsat,137.3289
+MNIST_P36_N23,unsat,52.5052
+MNIST_P77_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.8014
+MNIST_P44_N21,unsat,57.6531
+MNIST_P85_N42,unsat,49.1961
+MNIST_P98_N14,unsat,67.1272
+MNIST_P34_N25,unsat,56.948
+MNIST_P45_N27,sat,11.7409
+MNIST_P6_N49,unsat,67.7775
+MNIST_P38_N22,unsat,66.2927
+MNIST_P49_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5796
+MNIST_P35_N33,unsat,67.9292
+MNIST_P36_N14,unsat,67.395
+MNIST_P8_N34,sat,5.1527
+MNIST_P63_N13,unsat,49.3612
+MNIST_P42_N13,unsat,52.471
+MNIST_P12_N39,unsat,54.1042
+MNIST_P22_N7,unsat,54.606
+MNIST_P1_N24,unsat,51.0205
+MNIST_P83_N37,unsat,61.4474
+MNIST_P4_N4,unsat,62.2905
+MNIST_P49_N29,unsat,53.1573
+MNIST_P79_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0819
+MNIST_P89_N22,unsat,69.6119
+MNIST_P52_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6008
+MNIST_P68_N40,unsat,54.2946
+MNIST_P9_N27,sat,5.6899
+MNIST_P99_N36,unsat,63.2233
+MNIST_P55_N21,unsat,66.6584
+MNIST_P1_N44,unsat,56.774
+MNIST_P23_N40,unsat,58.3153
+MNIST_P86_N49,unsat,75.5526
+MNIST_P81_N10,unsat,56.8366
+MNIST_P83_N18,unsat,67.7448
+MNIST_P32_N21,unsat,64.5843
+MNIST_P9_N40,unsat,58.6072
+MNIST_P26_N37,unsat,62.1227
+MNIST_P57_N19,unsat,60.7708
+MNIST_P74_N1,unsat,52.4672
+MNIST_P29_N27,sat,6.3655
+MNIST_P40_N4,unsat,60.2599
+MNIST_P99_N47,unsat,58.7474
+MNIST_P8_N12,unsat,66.6491
+MNIST_P68_N7,unsat,52.8755
+MNIST_P31_N1,unsat,49.9131
+MNIST_P78_N39,timeout,3600.056
+MNIST_P20_N2,unsat,81.0427
+MNIST_P90_N37,unsat,61.3963
+MNIST_P73_N29,unsat,54.8083
+MNIST_P76_N46,unsat,59.2225
+MNIST_P0_N22,unsat,69.3584
+MNIST_P17_N7,unsat,52.8861
+MNIST_P29_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.9314
+MNIST_P90_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6811
+MNIST_P91_N4,unsat,59.8588
+MNIST_P33_N19,unsat,59.1358
+MNIST_P92_N47,timeout,3600.006
+MNIST_P80_N18,unsat,63.5842
+MNIST_P8_N47,unsat,62.9771
+MNIST_P14_N36,unsat,63.7347
+MNIST_P37_N29,unsat,54.7071
+MNIST_P47_N25,unsat,64.2562
+MNIST_P61_N48,unsat,70.4732
+MNIST_P98_N48,unsat,68.6463
+MNIST_P28_N1,unsat,53.0709
+MNIST_P25_N42,unsat,52.1297
+MNIST_P94_N31,unsat,58.6563
+MNIST_P16_N29,unsat,53.2615
+MNIST_P52_N7,unsat,52.7102
+MNIST_P88_N14,unsat,66.3336
+MNIST_P59_N29,unsat,52.4314
+MNIST_P32_N16,VerinetTranslatorError(Div operations are not supported.),0.4606
+MNIST_P19_N22,unsat,66.42
+MNIST_P13_N39,unsat,52.104
+MNIST_P56_N35,unsat,49.9958
+MNIST_P36_N19,unsat,59.8389
+MNIST_P48_N14,unsat,71.0234
+MNIST_P44_N19,unsat,58.7687
+MNIST_P28_N16,VerinetTranslatorError(Div operations are not supported.),0.6332
+MNIST_P17_N5,unsat,59.1753
+MNIST_P41_N36,unsat,58.3949
+MNIST_P55_N5,unsat,61.9369
+MNIST_P31_N48,unsat,68.5019
+MNIST_P5_N40,unsat,53.1963
+MNIST_P26_N9,unsat,60.374
+MNIST_P69_N5,unsat,61.1704
+MNIST_P48_N36,unsat,58.9468
+MNIST_P1_N49,unsat,69.7796
+MNIST_P83_N39,unsat,51.2277
+MNIST_P85_N19,unsat,61.5187
+MNIST_P18_N22,unsat,69.1923
+MNIST_P7_N4,unsat,61.6828
+MNIST_P5_N31,unsat,59.357
+MNIST_P41_N14,unsat,71.5114
+MNIST_P12_N21,unsat,60.6423
+MNIST_P8_N4,unsat,65.1226
+MNIST_P44_N36,unsat,60.6066
+MNIST_P32_N23,unsat,58.2769
+MNIST_P68_N18,unsat,62.2848
+MNIST_P93_N12,unsat,71.4835
+MNIST_P75_N31,unsat,61.2938
+MNIST_P53_N1,unsat,54.2712
+MNIST_P20_N18,unsat,61.3417
+MNIST_P48_N22,unsat,69.0722
+MNIST_P0_N24,unsat,52.2184
+MNIST_P38_N36,unsat,57.8362
+MNIST_P60_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0716
+MNIST_P64_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0486
+MNIST_P85_N38,unsat,53.7853
+MNIST_P61_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5389
+MNIST_P66_N23,unsat,56.4722
+MNIST_P17_N46,unsat,64.5319
+MNIST_P56_N37,unsat,65.2395
+MNIST_P77_N10,unsat,55.7539
+MNIST_P88_N40,unsat,57.8962
+MNIST_P26_N39,unsat,56.4341
+MNIST_P84_N7,unsat,57.3603
+MNIST_P50_N13,unsat,55.8159
+MNIST_P39_N41,unsat,136.5349
+MNIST_P27_N22,unsat,73.1677
+MNIST_P36_N25,unsat,60.7689
+MNIST_P94_N29,unsat,57.9371
+MNIST_P2_N7,unsat,58.1553
+MNIST_P0_N37,unsat,63.8581
+MNIST_P16_N40,unsat,58.6754
+MNIST_P26_N12,unsat,70.4323
+MNIST_P26_N48,unsat,72.3692
+MNIST_P55_N18,unsat,65.5704
+MNIST_P41_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.788
+MNIST_P43_N14,unsat,72.0764
+MNIST_P46_N24,unsat,57.1037
+MNIST_P17_N40,unsat,59.2879
+MNIST_P26_N40,unsat,59.3354
+MNIST_P58_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5098
+MNIST_P27_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.0081
+MNIST_P8_N29,unsat,55.8574
+MNIST_P22_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5015
+MNIST_P6_N44,unsat,54.5579
+MNIST_P25_N34,unsat,52.4082
+MNIST_P35_N38,unsat,58.9192
+MNIST_P50_N7,unsat,58.7001
+MNIST_P70_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5503
+MNIST_P99_N24,unsat,56.3076
+MNIST_P38_N41,unsat,139.8586
+MNIST_P74_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.726
+MNIST_P79_N46,unsat,67.2886
+MNIST_P57_N45,unsat,58.0944
+MNIST_P42_N14,unsat,74.6293
+MNIST_P84_N27,sat,6.9892
+MNIST_P98_N31,unsat,64.1361
+MNIST_P80_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6719
+MNIST_P95_N5,unsat,68.4321
+MNIST_P18_N33,sat,26.1624
+MNIST_P63_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.7695
+MNIST_P74_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5607
+MNIST_P32_N37,unsat,66.7832
+MNIST_P59_N35,unsat,56.6944
+MNIST_P70_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9993
+MNIST_P69_N15,unsat,64.5317
+MNIST_P82_N41,unsat,137.9268
+MNIST_P15_N47,timeout,3600.006
+MNIST_P94_N24,unsat,57.4893
+MNIST_P32_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6222
+MNIST_P66_N27,sat,7.0033
+MNIST_P65_N11,timeout,3600.016
+MNIST_P42_N31,unsat,60.8012
+MNIST_P64_N25,unsat,60.679
+MNIST_P72_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.715
+MNIST_P12_N10,unsat,52.5122
+MNIST_P93_N7,unsat,55.3116
+MNIST_P50_N37,unsat,61.399
+MNIST_P58_N44,unsat,53.4228
+MNIST_P10_N47,unsat,58.6541
+MNIST_P8_N5,unsat,58.5008
+MNIST_P65_N38,timeout,3600.042
+MNIST_P63_N16,VerinetTranslatorError(Div operations are not supported.),0.6458
+MNIST_P55_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7765
+MNIST_P90_N38,unsat,51.5146
+MNIST_P50_N49,unsat,63.8701
+MNIST_P46_N27,sat,5.2387
+MNIST_P92_N36,unsat,57.9164
+MNIST_P99_N13,unsat,49.8002
+MNIST_P23_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5597
+MNIST_P86_N15,unsat,59.2363
+MNIST_P92_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0803
+MNIST_P56_N24,unsat,50.8142
+MNIST_P40_N12,unsat,71.0378
+MNIST_P24_N33,sat,62.6635
+MNIST_P38_N18,unsat,61.077
+MNIST_P61_N29,unsat,53.7861
+MNIST_P12_N37,unsat,62.4823
+MNIST_P4_N5,unsat,62.5777
+MNIST_P15_N23,unsat,56.4755
+MNIST_P71_N29,unsat,52.5644
+MNIST_P96_N48,unsat,66.4652
+MNIST_P21_N42,unsat,50.1363
+MNIST_P97_N42,unsat,48.1577
+MNIST_P21_N27,sat,5.9491
+MNIST_P29_N41,unsat,131.3139
+MNIST_P75_N2,unsat,77.4036
+MNIST_P80_N25,unsat,57.2598
+MNIST_P97_N27,sat,20.2567
+MNIST_P37_N5,unsat,57.3862
+MNIST_P86_N13,unsat,50.7557
+MNIST_P36_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0552
+MNIST_P55_N11,unsat,53.4145
+MNIST_P84_N18,unsat,59.9432
+MNIST_P31_N2,unsat,75.5441
+MNIST_P54_N18,unsat,59.7398
+MNIST_P7_N10,unsat,52.5922
+MNIST_P90_N8,VerificationRunnerError(IndexError),
+MNIST_P96_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.746
+MNIST_P57_N23,unsat,53.4104
+MNIST_P25_N31,unsat,58.1655
+MNIST_P93_N36,unsat,57.6401
+MNIST_P32_N40,unsat,53.8991
+MNIST_P33_N33,sat,23.7631
+MNIST_P35_N35,unsat,53.5727
+MNIST_P23_N9,unsat,63.3725
+MNIST_P70_N21,unsat,62.9699
+MNIST_P58_N25,unsat,60.5362
+MNIST_P35_N31,unsat,60.9344
+MNIST_P71_N33,unsat,67.9724
+MNIST_P92_N23,unsat,54.0902
+MNIST_P33_N31,unsat,61.576
+MNIST_P63_N14,unsat,70.2147
+MNIST_P84_N40,unsat,53.3378
+MNIST_P23_N49,unsat,68.2202
+MNIST_P72_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6072
+MNIST_P87_N45,unsat,50.1686
+MNIST_P94_N37,unsat,59.2097
+MNIST_P29_N38,timeout,3600.026
+MNIST_P31_N14,unsat,67.3862
+MNIST_P31_N44,unsat,52.0188
+MNIST_P55_N4,unsat,60.3322
+MNIST_P7_N18,unsat,61.9261
+MNIST_P80_N13,unsat,49.4186
+MNIST_P73_N40,unsat,53.8849
+MNIST_P49_N18,unsat,61.271
+MNIST_P69_N44,unsat,53.8637
+MNIST_P68_N33,unsat,67.0447
+MNIST_P31_N15,sat,26.9707
+MNIST_P71_N15,unsat,56.5222
+MNIST_P84_N25,unsat,56.462
+MNIST_P11_N25,unsat,56.9162
+MNIST_P34_N1,unsat,49.2158
+MNIST_P77_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.7356
+MNIST_P21_N31,unsat,58.1345
+MNIST_P52_N42,unsat,49.4081
+MNIST_P60_N9,unsat,56.1668
+MNIST_P98_N22,unsat,67.4248
+MNIST_P17_N36,unsat,57.9994
+MNIST_P63_N39,timeout,3600.014
+MNIST_P61_N23,unsat,51.7313
+MNIST_P0_N29,unsat,51.3073
+MNIST_P67_N27,sat,10.4075
+MNIST_P52_N33,unsat,62.2946
+MNIST_P57_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6254
+MNIST_P62_N41,unsat,126.2059
+MNIST_P64_N16,VerinetTranslatorError(Div operations are not supported.),0.4873
+MNIST_P13_N11,unsat,48.5708
+MNIST_P47_N46,unsat,58.2167
+MNIST_P65_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.8997
+MNIST_P80_N16,VerinetTranslatorError(Div operations are not supported.),0.7689
+MNIST_P36_N29,unsat,50.6331
+MNIST_P45_N47,timeout,3600.016
+MNIST_P79_N25,unsat,55.3353
+MNIST_P85_N37,unsat,55.9803
+MNIST_P95_N14,unsat,65.0201
+MNIST_P90_N36,unsat,55.2152
+MNIST_P38_N27,unsat,46.2646
+MNIST_P92_N10,timeout,3600.005
+MNIST_P16_N11,unsat,46.2363
+MNIST_P29_N23,unsat,46.6995
+MNIST_P28_N2,unsat,74.581
+MNIST_P34_N49,unsat,63.3699
+MNIST_P15_N2,unsat,75.1943
+MNIST_P17_N10,unsat,45.8894
+MNIST_P58_N47,unsat,54.8751
+MNIST_P77_N14,unsat,65.8072
+MNIST_P83_N4,unsat,56.7155
+MNIST_P50_N25,unsat,53.4285
+MNIST_P55_N10,unsat,46.6734
+MNIST_P7_N24,unsat,45.7862
+MNIST_P82_N22,unsat,60.42
+MNIST_P4_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6643
+MNIST_P25_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.432
+MNIST_P77_N7,unsat,46.1467
+MNIST_P28_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.758
+MNIST_P82_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.8084
+MNIST_P15_N31,unsat,52.2227
+MNIST_P10_N48,unsat,64.5672
+MNIST_P38_N9,unsat,56.6171
+MNIST_P48_N38,unsat,50.1362
+MNIST_P74_N18,unsat,55.2473
+MNIST_P36_N35,unsat,49.3463
+MNIST_P14_N35,unsat,48.6202
+MNIST_P52_N22,unsat,64.2659
+MNIST_P64_N29,unsat,45.1914
+MNIST_P82_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.097
+MNIST_P21_N49,unsat,63.4795
+MNIST_P82_N36,unsat,53.8584
+MNIST_P93_N29,unsat,49.8919
+MNIST_P49_N33,sat,14.7472
+MNIST_P34_N35,unsat,48.683
+MNIST_P42_N47,unsat,55.3704
+MNIST_P43_N49,unsat,64.0138
+MNIST_P5_N37,unsat,56.8896
+MNIST_P16_N45,unsat,45.3091
+MNIST_P26_N38,unsat,49.8058
+MNIST_P99_N39,unsat,48.1018
+MNIST_P68_N46,unsat,56.4009
+MNIST_P33_N37,unsat,56.115
+MNIST_P95_N22,unsat,65.4969
+MNIST_P69_N34,unsat,46.1411
+MNIST_P34_N13,unsat,46.9893
+MNIST_P12_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0496
+MNIST_P20_N4,unsat,55.6869
+MNIST_P49_N34,unsat,47.5022
+MNIST_P49_N25,unsat,50.8669
+MNIST_P4_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8658
+MNIST_P83_N1,unsat,43.9404
+MNIST_P24_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6783
+MNIST_P31_N36,unsat,54.1759
+MNIST_P96_N39,timeout,3600.018
+MNIST_P69_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5001
+MNIST_P91_N16,VerinetTranslatorError(Div operations are not supported.),0.5149
+MNIST_P28_N45,unsat,45.0819
+MNIST_P23_N18,unsat,55.4522
+MNIST_P75_N11,unsat,48.0818
+MNIST_P57_N29,unsat,47.7522
+MNIST_P94_N11,unsat,47.6968
+MNIST_P36_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.815
+MNIST_P66_N42,unsat,45.5707
+MNIST_P81_N13,unsat,45.2581
+MNIST_P48_N27,sat,5.456
+MNIST_P42_N41,unsat,128.6709
+MNIST_P62_N16,VerinetTranslatorError(Div operations are not supported.),0.5565
+MNIST_P97_N19,unsat,52.5622
+MNIST_P71_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.8292
+MNIST_P33_N48,sat,20.1492
+MNIST_P4_N7,unsat,46.6932
+MNIST_P36_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5716
+MNIST_P45_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6923
+MNIST_P22_N12,unsat,64.1563
+MNIST_P80_N21,unsat,54.6504
+MNIST_P1_N23,unsat,47.5833
+MNIST_P52_N37,unsat,54.4968
+MNIST_P44_N10,unsat,47.212
+MNIST_P79_N37,unsat,53.8389
+MNIST_P26_N5,unsat,53.7593
+MNIST_P56_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0885
+MNIST_P5_N5,unsat,55.4182
+MNIST_P27_N40,unsat,47.2363
+MNIST_P7_N45,unsat,45.2705
+MNIST_P24_N10,unsat,45.0197
+MNIST_P34_N9,unsat,53.8925
+MNIST_P58_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0695
+MNIST_P13_N33,unsat,61.4822
+MNIST_P64_N22,unsat,60.8751
+MNIST_P28_N39,unsat,47.2148
+MNIST_P14_N38,unsat,47.086
+MNIST_P40_N15,sat,6.2396
+MNIST_P74_N39,unsat,46.8228
+MNIST_P15_N33,unsat,64.7874
+MNIST_P19_N2,unsat,73.7279
+MNIST_P29_N14,unsat,66.0392
+MNIST_P40_N24,unsat,46.1067
+MNIST_P23_N24,sat,41.4126
+MNIST_P23_N29,unsat,50.2017
+MNIST_P59_N49,unsat,62.3393
+MNIST_P88_N38,unsat,48.8382
+MNIST_P18_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7945
+MNIST_P23_N46,unsat,55.0722
+MNIST_P14_N42,unsat,45.8784
+MNIST_P27_N7,unsat,46.26
+MNIST_P68_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.5683
+MNIST_P91_N22,unsat,63.3466
+MNIST_P99_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9551
+MNIST_P49_N2,unsat,73.2981
+MNIST_P91_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6575
+MNIST_P76_N38,unsat,48.436
+MNIST_P91_N34,unsat,46.741
+MNIST_P24_N49,unsat,64.9037
+MNIST_P40_N7,unsat,50.3956
+MNIST_P47_N33,unsat,66.2617
+MNIST_P53_N10,unsat,48.9039
+MNIST_P65_N42,unsat,47.6654
+MNIST_P8_N22,unsat,65.5911
+MNIST_P41_N44,unsat,49.0963
+MNIST_P53_N31,unsat,55.1957
+MNIST_P11_N15,unsat,56.1851
+MNIST_P58_N14,unsat,65.3132
+MNIST_P5_N29,unsat,50.6871
+MNIST_P47_N45,unsat,47.5428
+MNIST_P19_N21,unsat,56.9636
+MNIST_P46_N19,unsat,56.1191
+MNIST_P64_N41,unsat,135.582
+MNIST_P85_N11,unsat,48.8271
+MNIST_P27_N39,unsat,48.4109
+MNIST_P6_N19,unsat,54.6066
+MNIST_P21_N13,unsat,47.5862
+MNIST_P54_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.0692
+MNIST_P86_N16,VerinetTranslatorError(Div operations are not supported.),0.5258
+MNIST_P77_N46,unsat,56.1865
+MNIST_P99_N9,unsat,55.6563
+MNIST_P19_N38,unsat,50.5701
+MNIST_P41_N42,unsat,49.1444
+MNIST_P8_N36,unsat,55.1109
+MNIST_P42_N46,unsat,58.3243
+MNIST_P66_N38,unsat,51.1543
+MNIST_P80_N44,unsat,48.7668
+MNIST_P95_N23,unsat,49.5666
+MNIST_P41_N12,unsat,67.9687
+MNIST_P61_N34,unsat,45.8583
+MNIST_P9_N31,unsat,56.0402
+MNIST_P11_N19,unsat,59.8595
+MNIST_P72_N44,unsat,52.0342
+MNIST_P4_N12,unsat,68.9686
+MNIST_P36_N48,unsat,65.9694
+MNIST_P60_N49,unsat,69.2163
+MNIST_P48_N42,unsat,51.851
+MNIST_P53_N37,unsat,60.13
+MNIST_P18_N2,sat,69.1744
+MNIST_P7_N33,unsat,66.1369
+MNIST_P16_N37,unsat,56.2013
+MNIST_P35_N39,unsat,50.1335
+MNIST_P18_N9,unsat,58.5165
+MNIST_P87_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7044
+MNIST_P92_N35,sat,16.6952
+MNIST_P94_N13,unsat,48.8659
+MNIST_P78_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.4662
+MNIST_P32_N2,unsat,79.0241
+MNIST_P53_N45,unsat,48.9731
+MNIST_P69_N2,unsat,77.9267
+MNIST_P97_N29,unsat,53.0161
+MNIST_P8_N1,unsat,51.9717
+MNIST_P29_N31,unsat,62.8605
+MNIST_P69_N18,unsat,62.3246
+MNIST_P99_N41,unsat,141.585
+MNIST_P21_N25,sat,60.4419
+MNIST_P89_N48,unsat,72.8758
+MNIST_P73_N13,unsat,54.9802
+MNIST_P46_N29,unsat,55.9207
+MNIST_P0_N5,unsat,60.6358
+MNIST_P42_N29,unsat,55.493
+MNIST_P48_N24,sat,24.8949
+MNIST_P64_N35,unsat,52.3331
+MNIST_P43_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.128
+MNIST_P7_N37,unsat,62.3076
+MNIST_P64_N42,unsat,55.3951
+MNIST_P7_N13,unsat,52.1883
+MNIST_P39_N23,unsat,55.6163
+MNIST_P8_N33,unsat,69.5297
+MNIST_P55_N23,unsat,57.9971
+MNIST_P8_N7,timeout,3600.018
+MNIST_P70_N22,unsat,68.058
+MNIST_P75_N13,unsat,54.3518
+MNIST_P0_N40,unsat,55.2499
+MNIST_P49_N47,sat,38.9231
+MNIST_P53_N24,sat,30.111
+MNIST_P9_N38,unsat,49.606
+MNIST_P69_N45,unsat,51.4202
+MNIST_P58_N12,unsat,69.3448
+MNIST_P94_N1,unsat,51.8504
+MNIST_P77_N47,unsat,60.8509
+MNIST_P91_N46,unsat,62.6392
+MNIST_P19_N49,unsat,69.1032
+MNIST_P77_N24,unsat,52.7189
+MNIST_P47_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.719
+MNIST_P50_N19,unsat,61.4407
+MNIST_P69_N47,unsat,62.0195
+MNIST_P99_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.1103
+MNIST_P11_N21,unsat,59.5129
+MNIST_P43_N39,timeout,3600.001
+MNIST_P35_N40,unsat,49.6479
+MNIST_P49_N19,unsat,55.3764
+MNIST_P76_N13,unsat,48.0685
+MNIST_P83_N45,unsat,48.9549
+MNIST_P94_N7,unsat,53.4156
+MNIST_P75_N1,unsat,50.7898
+MNIST_P53_N44,unsat,52.1041
+MNIST_P94_N15,sat,19.7959
+MNIST_P30_N10,unsat,50.988
+MNIST_P46_N1,unsat,49.8988
+MNIST_P1_N33,unsat,64.1633
+MNIST_P7_N2,unsat,73.9076
+MNIST_P0_N18,unsat,55.1415
+MNIST_P46_N37,unsat,56.5701
+MNIST_P44_N39,timeout,3600.017
+MNIST_P58_N22,unsat,61.8246
+MNIST_P70_N12,unsat,61.7225
+MNIST_P90_N42,unsat,48.1772
+MNIST_P95_N13,unsat,46.6565
+MNIST_P68_N16,VerinetTranslatorError(Div operations are not supported.),0.589
+MNIST_P31_N41,unsat,130.3693
+MNIST_P77_N41,unsat,135.6762
+MNIST_P15_N21,unsat,54.1298
+MNIST_P29_N33,unsat,65.6857
+MNIST_P11_N36,unsat,54.8228
+MNIST_P63_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.7877
+MNIST_P3_N38,unsat,49.8521
+MNIST_P6_N48,unsat,65.2979
+MNIST_P62_N1,sat,15.8169
+MNIST_P14_N2,unsat,72.9633
+MNIST_P3_N48,unsat,64.2508
+MNIST_P84_N49,unsat,65.1664
+MNIST_P86_N42,unsat,46.3693
+MNIST_P38_N40,unsat,48.6787
+MNIST_P24_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.619
+MNIST_P68_N13,unsat,45.9195
+MNIST_P93_N31,unsat,53.2299
+MNIST_P21_N1,unsat,45.3744
+MNIST_P90_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6371
+MNIST_P91_N49,unsat,62.5716
+MNIST_P6_N11,unsat,48.0413
+MNIST_P8_N49,unsat,62.3137
+MNIST_P10_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.4893
+MNIST_P66_N19,unsat,55.9493
+MNIST_P26_N19,unsat,55.1202
+MNIST_P1_N42,unsat,47.5367
+MNIST_P28_N12,unsat,62.9377
+MNIST_P60_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5489
+MNIST_P7_N46,unsat,57.6228
+MNIST_P14_N39,unsat,47.6751
+MNIST_P16_N13,unsat,43.8926
+MNIST_P65_N24,timeout,3600.001
+MNIST_P35_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5364
+MNIST_P33_N46,unsat,54.3003
+MNIST_P70_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.9006
+MNIST_P75_N29,unsat,46.8195
+MNIST_P32_N38,unsat,47.9686
+MNIST_P88_N47,unsat,52.5979
+MNIST_P52_N19,unsat,54.4075
+MNIST_P23_N31,unsat,54.0088
+MNIST_P8_N37,unsat,53.1587
+MNIST_P74_N33,unsat,62.3901
+MNIST_P13_N48,unsat,61.7835
+MNIST_P83_N41,unsat,122.7249
+MNIST_P68_N27,sat,14.8129
+MNIST_P0_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.4767
+MNIST_P12_N1,unsat,43.5072
+MNIST_P51_N19,unsat,52.109
+MNIST_P72_N16,VerinetTranslatorError(Div operations are not supported.),0.4705
+MNIST_P6_N46,unsat,54.5733
+MNIST_P25_N11,unsat,48.36
+MNIST_P85_N10,unsat,46.9491
+MNIST_P58_N38,unsat,49.7012
+MNIST_P84_N31,unsat,52.8421
+MNIST_P47_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1407
+MNIST_P19_N24,unsat,45.9951
+MNIST_P15_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.0699
+MNIST_P18_N7,timeout,3600.004
+MNIST_P13_N29,unsat,46.1396
+MNIST_P80_N47,unsat,52.4535
+MNIST_P12_N5,unsat,53.9656
+MNIST_P86_N41,unsat,124.7566
+MNIST_P87_N37,unsat,54.985
+MNIST_P9_N7,unsat,47.3954
+MNIST_P49_N46,unsat,54.9241
+MNIST_P58_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6394
+MNIST_P50_N21,unsat,53.9499
+MNIST_P50_N35,unsat,42.7206
+MNIST_P87_N4,unsat,52.8555
+MNIST_P34_N38,unsat,47.6833
+MNIST_P53_N11,unsat,46.8411
+MNIST_P15_N40,unsat,48.8146
+MNIST_P19_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6586
+MNIST_P20_N23,unsat,49.683
+MNIST_P35_N49,unsat,61.2346
+MNIST_P70_N38,unsat,47.3066
+MNIST_P30_N35,unsat,45.2367
+MNIST_P78_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.1107
+MNIST_P25_N24,unsat,44.1237
+MNIST_P52_N12,unsat,59.5841
+MNIST_P77_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1472
+MNIST_P66_N4,unsat,53.9091
+MNIST_P96_N27,sat,4.7624
+MNIST_P55_N37,unsat,55.5138
+MNIST_P66_N25,unsat,53.8007
+MNIST_P2_N27,sat,5.4944
+MNIST_P47_N40,unsat,49.6508
+MNIST_P51_N39,unsat,49.6277
+MNIST_P64_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6209
+MNIST_P93_N23,unsat,48.8517
+MNIST_P94_N35,unsat,48.7859
+MNIST_P52_N44,unsat,47.6469
+MNIST_P60_N23,unsat,46.6306
+MNIST_P43_N12,unsat,62.6782
+MNIST_P76_N8,VerificationRunnerError(IndexError),
+MNIST_P62_N39,timeout,3600.004
+MNIST_P23_N35,unsat,46.4331
+MNIST_P16_N12,unsat,59.703
+MNIST_P79_N38,unsat,47.0887
+MNIST_P18_N23,unsat,47.6592
+MNIST_P83_N13,unsat,45.0069
+MNIST_P6_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.4919
+MNIST_P42_N4,unsat,53.3448
+MNIST_P44_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6805
+MNIST_P37_N41,unsat,125.1621
+MNIST_P54_N15,unsat,52.5444
+MNIST_P24_N31,unsat,52.1771
+MNIST_P80_N36,unsat,54.004
+MNIST_P94_N2,unsat,72.6316
+MNIST_P96_N19,unsat,54.62
+MNIST_P41_N18,unsat,53.0778
+MNIST_P67_N1,unsat,45.6093
+MNIST_P75_N41,unsat,132.2453
+MNIST_P84_N20,VerinetTranslatorError(MaxPool operations are not supported.),1.1749
+MNIST_P46_N41,unsat,127.1168
+MNIST_P64_N46,unsat,54.6894
+MNIST_P92_N34,timeout,3600.021
+MNIST_P15_N35,unsat,45.1389
+MNIST_P46_N22,unsat,61.598
+MNIST_P9_N9,unsat,53.6925
+MNIST_P96_N4,unsat,53.8838
+MNIST_P25_N4,unsat,53.6256
+MNIST_P64_N5,unsat,52.2305
+MNIST_P10_N23,unsat,46.69
+MNIST_P25_N21,unsat,52.1682
+MNIST_P17_N1,unsat,43.5774
+MNIST_P16_N22,unsat,61.2256
+MNIST_P16_N14,unsat,60.8379
+MNIST_P80_N4,unsat,54.3903
+MNIST_P47_N37,unsat,52.8851
+MNIST_P82_N35,unsat,45.3599
+MNIST_P4_N19,unsat,53.5691
+MNIST_P24_N37,unsat,53.3735
+MNIST_P5_N9,unsat,52.8341
+MNIST_P52_N18,unsat,52.6633
+MNIST_P48_N12,sat,54.9854
+MNIST_P55_N14,unsat,60.4553
+MNIST_P96_N49,unsat,60.1558
+MNIST_P99_N5,unsat,54.7868
+MNIST_P26_N47,timeout,3600.011
+MNIST_P33_N29,unsat,45.9981
+MNIST_P51_N48,unsat,59.5316
+MNIST_P80_N9,unsat,52.3059
+MNIST_P86_N19,unsat,51.118
+MNIST_P40_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6499
+MNIST_P59_N9,unsat,50.9959
+MNIST_P81_N24,unsat,43.1141
+MNIST_P89_N4,unsat,52.3672
+MNIST_P97_N4,unsat,51.1592
+MNIST_P24_N24,sat,38.665
+MNIST_P80_N5,unsat,49.8045
+MNIST_P67_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.6138
+MNIST_P81_N2,unsat,69.3448
+MNIST_P12_N13,unsat,44.9501
+MNIST_P17_N19,unsat,52.775
+MNIST_P66_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.5637
+MNIST_P54_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6864
+MNIST_P34_N12,unsat,61.1416
+MNIST_P79_N45,unsat,44.552
+MNIST_P34_N21,unsat,54.4522
+MNIST_P64_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6546
+MNIST_P67_N39,unsat,46.3526
+MNIST_P28_N37,unsat,56.8361
+MNIST_P31_N23,unsat,49.0999
+MNIST_P71_N21,unsat,55.1593
+MNIST_P98_N25,unsat,55.4159
+MNIST_P30_N2,unsat,73.3925
+MNIST_P0_N23,unsat,47.794
+MNIST_P15_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0897
+MNIST_P29_N25,unsat,54.3549
+MNIST_P83_N24,unsat,45.8916
+MNIST_P29_N5,unsat,57.3893
+MNIST_P37_N15,unsat,54.7342
+MNIST_P52_N35,unsat,47.4632
+MNIST_P89_N36,unsat,54.8386
+MNIST_P3_N36,unsat,53.0926
+MNIST_P46_N16,VerinetTranslatorError(Div operations are not supported.),0.4654
+MNIST_P10_N14,unsat,65.0229
+MNIST_P42_N2,unsat,73.3641
+MNIST_P72_N42,unsat,48.6993
+MNIST_P35_N25,unsat,56.8624
+MNIST_P91_N12,unsat,65.5259
+MNIST_P99_N29,unsat,53.1105
+MNIST_P19_N25,unsat,56.9828
+MNIST_P6_N39,unsat,52.9678
+MNIST_P30_N13,unsat,49.1537
+MNIST_P49_N4,unsat,57.0385
+MNIST_P49_N15,unsat,56.8719
+MNIST_P38_N5,unsat,52.3451
+MNIST_P40_N35,unsat,45.9046
+MNIST_P59_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0371
+MNIST_P73_N35,unsat,46.4319
+MNIST_P79_N13,unsat,46.1289
+MNIST_P5_N22,unsat,61.4401
+MNIST_P3_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9516
+MNIST_P45_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5416
+MNIST_P29_N47,unsat,53.5716
+MNIST_P45_N38,timeout,3600.018
+MNIST_P59_N4,unsat,52.2952
+MNIST_P92_N22,unsat,62.5279
+MNIST_P75_N24,sat,10.8552
+MNIST_P92_N49,unsat,62.2125
+MNIST_P28_N9,unsat,53.3839
+MNIST_P40_N16,VerinetTranslatorError(Div operations are not supported.),0.3935
+MNIST_P59_N15,unsat,54.1729
+MNIST_P45_N10,unsat,46.8776
+MNIST_P60_N4,unsat,56.4228
+MNIST_P59_N37,unsat,55.039
+MNIST_P62_N36,unsat,53.3344
+MNIST_P29_N8,VerinetTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1743
+MNIST_P36_N37,unsat,54.1105
+MNIST_P0_N44,unsat,46.7353
+MNIST_P79_N2,unsat,70.6393
+MNIST_P63_N45,unsat,44.4632
+MNIST_P13_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.5225
+MNIST_P46_N42,unsat,45.2984
+MNIST_P40_N19,unsat,53.7845
+MNIST_P49_N41,unsat,129.995
+MNIST_P52_N9,unsat,56.7367
+MNIST_P20_N35,unsat,47.7413
+MNIST_P26_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.9681
+MNIST_P19_N23,unsat,48.521
+MNIST_P16_N33,unsat,64.181
+MNIST_P91_N15,unsat,55.8204
+MNIST_P31_N49,unsat,64.3523
+MNIST_P83_N40,unsat,50.7894
+MNIST_P93_N24,unsat,47.625
+MNIST_P9_N47,unsat,53.7568
+MNIST_P61_N40,unsat,47.8783
+MNIST_P61_N27,sat,5.3225
+MNIST_P56_N1,unsat,45.7246
+MNIST_P97_N38,timeout,3600.001
+MNIST_P76_N44,unsat,46.8756
+MNIST_P48_N13,unsat,46.7009
+MNIST_P69_N19,unsat,55.6423
+MNIST_P76_N49,unsat,64.0788
+MNIST_P14_N16,VerinetTranslatorError(Div operations are not supported.),0.6784
+MNIST_P32_N18,unsat,55.7373
+MNIST_P15_N46,unsat,57.2471
+MNIST_P14_N4,unsat,56.0125
+MNIST_P78_N35,unsat,49.2784
+MNIST_P46_N49,unsat,62.7703
+MNIST_P37_N13,unsat,47.3587
+MNIST_P53_N23,unsat,47.5353
+MNIST_P97_N16,VerinetTranslatorError(Div operations are not supported.),0.5723
+MNIST_P42_N27,sat,5.163
+MNIST_P90_N7,unsat,49.2408
+MNIST_P14_N44,unsat,49.564
+MNIST_P27_N18,unsat,59.0242
+MNIST_P52_N36,unsat,57.4935
+MNIST_P23_N15,unsat,59.4042
+MNIST_P54_N26,VerinetTranslatorError(MaxPool operations are not supported.),0.6054
+MNIST_P83_N35,unsat,53.1478
+MNIST_P95_N45,unsat,49.5488
+MNIST_P32_N8,VerificationRunnerError(IndexError),
+MNIST_P8_N10,timeout,3600.015
+MNIST_P18_N49,sat,44.5065
+MNIST_P27_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0846
+MNIST_P2_N9,unsat,52.7249
+MNIST_P5_N2,unsat,73.2767
+MNIST_P84_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6454
+MNIST_P9_N16,VerinetTranslatorError(Div operations are not supported.),0.6078
+MNIST_P55_N33,unsat,64.0968
+MNIST_P4_N2,unsat,72.9387
+MNIST_P48_N17,VerinetTranslatorError(MaxPool operations are not supported.),0.4272
+MNIST_P16_N2,unsat,73.2503
+MNIST_P30_N21,unsat,57.619
+MNIST_P37_N23,unsat,51.3915
+MNIST_P19_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.979
+MNIST_P25_N41,unsat,132.2423
+MNIST_P84_N19,unsat,58.7076
+MNIST_P74_N36,unsat,56.7539
+MNIST_P55_N20,VerinetTranslatorError(MaxPool operations are not supported.),0.8196
+MNIST_P80_N29,unsat,51.3824
+MNIST_P98_N44,unsat,48.5778
+MNIST_P95_N31,unsat,51.7744
+MNIST_P29_N4,unsat,54.1413
+MNIST_P85_N5,unsat,54.824
+MNIST_P38_N2,unsat,75.036
+MNIST_P6_N16,VerinetTranslatorError(Div operations are not supported.),0.6375
+MNIST_P11_N5,unsat,56.7881
+MNIST_P32_N42,unsat,47.1751
+MNIST_P3_N15,unsat,57.3289
+MNIST_P54_N8,VerinetTranslatorError(Unknown shape for variable x_0),0.0799
+MNIST_P83_N2,unsat,72.1541
+MNIST_P35_N29,unsat,52.2202
+MNIST_P27_N33,unsat,63.904
+MNIST_P9_N11,timeout,3600.009
+MNIST_P52_N13,unsat,47.7959
+MNIST_P10_N35,unsat,48.6278
+MNIST_P31_N3,VerinetTranslatorError(MaxPool operations are not supported.),0.6057
+MNIST_P71_N31,unsat,52.1514
+MNIST_P73_N4,unsat,53.9633
+MNIST_P44_N7,unsat,47.5996
+MNIST_P64_N49,unsat,56.0313
+MNIST_P82_N27,sat,6.4598
+MNIST_P38_N13,unsat,43.773
+MNIST_P92_N7,timeout,3600.007
+MNIST_P81_N49,unsat,41.1374
+MNIST_P87_N11,unsat,33.3235
+MNIST_P21_N29,unsat,32.4073
+MNIST_P10_N44,unsat,30.0004
+MNIST_P69_N38,unsat,27.6547

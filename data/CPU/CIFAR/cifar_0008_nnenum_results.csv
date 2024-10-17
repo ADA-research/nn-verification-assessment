@@ -1,0 +1,4201 @@
+ProblemId,Result,TotalTime
+CIFAR_P33_N43,NnenumError(Return code: 1),21.3779
+CIFAR_P9_N27,NnenumError(Return code: 1),20.8924
+CIFAR_P92_N26,NnenumError(Return code: 1),21.8855
+CIFAR_P55_N37,NnenumError(Return code: 1),21.4953
+CIFAR_P42_N15,outofmemory,151.136
+CIFAR_P18_N6,NnenumError(Return code: 1),21.4485
+CIFAR_P78_N20,NnenumError(Return code: 1),21.1224
+CIFAR_P50_N28,NnenumError(Return code: 1),21.3861
+CIFAR_P20_N30,NnenumError(Return code: 1),21.2863
+CIFAR_P25_N9,NnenumError(Return code: 1),22.2775
+CIFAR_P60_N44,NnenumError(Return code: 1),21.1003
+CIFAR_P45_N32,outofmemory,57.202
+CIFAR_P9_N32,outofmemory,57.405
+CIFAR_P28_N1,NnenumError(Return code: 1),21.1163
+CIFAR_P51_N24,NnenumError(Return code: 1),21.7083
+CIFAR_P11_N41,NnenumError(Return code: 1),21.5302
+CIFAR_P87_N8,NnenumError(Return code: 1),20.8702
+CIFAR_P10_N32,outofmemory,96.771
+CIFAR_P10_N38,NnenumError(Return code: 1),20.8782
+CIFAR_P18_N28,NnenumError(Return code: 1),21.8084
+CIFAR_P73_N9,NnenumError(Return code: 1),22.0833
+CIFAR_P89_N12,NnenumError(Return code: 1),21.0752
+CIFAR_P55_N28,NnenumError(Return code: 1),21.4434
+CIFAR_P3_N22,NnenumError(Return code: 1),21.0177
+CIFAR_P37_N8,NnenumError(Return code: 1),11.5117
+CIFAR_P76_N24,NnenumError(Return code: 1),13.2691
+CIFAR_P80_N19,NnenumError(Return code: 1),12.6978
+CIFAR_P48_N12,NnenumError(Return code: 1),12.0168
+CIFAR_P90_N33,NnenumError(Return code: 1),12.6671
+CIFAR_P99_N38,NnenumError(Return code: 1),12.5771
+CIFAR_P73_N34,outofmemory,64.511
+CIFAR_P68_N42,outofmemory,61.829
+CIFAR_P5_N28,NnenumError(Return code: 1),10.214
+CIFAR_P81_N14,NnenumError(Return code: 1),11.9243
+CIFAR_P40_N35,NnenumError(Return code: 1),11.9027
+CIFAR_P38_N31,NnenumError(Return code: 1),11.9632
+CIFAR_P60_N13,outofmemory,64.019
+CIFAR_P76_N4,outofmemory,104.827
+CIFAR_P60_N23,NnenumError(Return code: 1),12.0724
+CIFAR_P99_N37,NnenumError(Return code: 1),12.8505
+CIFAR_P37_N29,NnenumError(Return code: 1),11.404
+CIFAR_P64_N17,outofmemory,71.441
+CIFAR_P53_N30,NnenumError(Return code: 1),12.4202
+CIFAR_P61_N3,NnenumError(Return code: 1),12.0114
+CIFAR_P95_N33,NnenumError(Return code: 1),11.4646
+CIFAR_P69_N5,outofmemory,67.206
+CIFAR_P55_N27,NnenumError(Return code: 1),14.1685
+CIFAR_P90_N25,outofmemory,262.806
+CIFAR_P12_N12,NnenumError(Return code: 1),13.6211
+CIFAR_P68_N23,NnenumError(Return code: 1),14.4113
+CIFAR_P77_N29,NnenumError(Return code: 1),13.1517
+CIFAR_P61_N13,outofmemory,103.799
+CIFAR_P25_N3,NnenumError(Return code: 1),13.5601
+CIFAR_P52_N18,outofmemory,109.611
+CIFAR_P22_N8,NnenumError(Return code: 1),13.3532
+CIFAR_P96_N43,NnenumError(Return code: 1),12.4537
+CIFAR_P99_N33,NnenumError(Return code: 1),12.4963
+CIFAR_P69_N29,NnenumError(Return code: 1),13.6064
+CIFAR_P39_N21,NnenumError(Return code: 1),13.1727
+CIFAR_P28_N8,NnenumError(Return code: 1),12.3353
+CIFAR_P59_N1,NnenumError(Return code: 1),13.4025
+CIFAR_P15_N32,outofmemory,72.545
+CIFAR_P31_N42,outofmemory,70.125
+CIFAR_P24_N43,NnenumError(Return code: 1),11.5696
+CIFAR_P26_N33,NnenumError(Return code: 1),12.1503
+CIFAR_P51_N43,NnenumError(Return code: 1),11.3399
+CIFAR_P63_N12,NnenumError(Return code: 1),9.1394
+CIFAR_P90_N22,NnenumError(Return code: 1),9.3327
+CIFAR_P54_N27,NnenumError(Return code: 1),9.2486
+CIFAR_P27_N4,outofmemory,65.775
+CIFAR_P70_N38,NnenumError(Return code: 1),13.2642
+CIFAR_P8_N28,NnenumError(Return code: 1),12.9577
+CIFAR_P0_N5,outofmemory,156.718
+CIFAR_P63_N31,NnenumError(Return code: 1),12.4591
+CIFAR_P71_N43,NnenumError(Return code: 1),13.6454
+CIFAR_P74_N7,NnenumError(Return code: 1),12.6519
+CIFAR_P30_N7,NnenumError(Return code: 1),12.6793
+CIFAR_P12_N30,NnenumError(Return code: 1),11.5508
+CIFAR_P95_N4,unsat,169.1815
+CIFAR_P42_N45,NnenumError(Return code: 1),12.9829
+CIFAR_P56_N28,NnenumError(Return code: 1),13.8282
+CIFAR_P57_N23,NnenumError(Return code: 1),12.6376
+CIFAR_P88_N8,NnenumError(Return code: 1),13.2425
+CIFAR_P0_N16,NnenumError(Return code: 1),12.8659
+CIFAR_P81_N22,NnenumError(Return code: 1),11.7669
+CIFAR_P44_N19,NnenumError(Return code: 1),12.5214
+CIFAR_P84_N29,NnenumError(Return code: 1),11.989
+CIFAR_P89_N46,NnenumError(Return code: 1),13.5926
+CIFAR_P72_N16,NnenumError(Return code: 1),13.1232
+CIFAR_P75_N25,outofmemory,217.159
+CIFAR_P15_N26,NnenumError(Return code: 1),14.6058
+CIFAR_P13_N8,NnenumError(Return code: 1),11.4939
+CIFAR_P28_N3,NnenumError(Return code: 1),12.4657
+CIFAR_P40_N4,outofmemory,109.41
+CIFAR_P42_N32,outofmemory,107.798
+CIFAR_P58_N3,NnenumError(Return code: 1),13.7215
+CIFAR_P0_N30,NnenumError(Return code: 1),10.9747
+CIFAR_P78_N45,NnenumError(Return code: 1),12.7472
+CIFAR_P76_N29,NnenumError(Return code: 1),13.0562
+CIFAR_P8_N24,NnenumError(Return code: 1),13.9371
+CIFAR_P20_N23,NnenumError(Return code: 1),15.427
+CIFAR_P45_N46,NnenumError(Return code: 1),14.111
+CIFAR_P47_N18,outofmemory,131.848
+CIFAR_P15_N2,outofmemory,183.862
+CIFAR_P72_N17,outofmemory,102.004
+CIFAR_P67_N3,NnenumError(Return code: 1),9.5502
+CIFAR_P85_N12,NnenumError(Return code: 1),13.9582
+CIFAR_P51_N41,NnenumError(Return code: 1),11.7378
+CIFAR_P30_N20,NnenumError(Return code: 1),14.2016
+CIFAR_P30_N19,NnenumError(Return code: 1),9.9484
+CIFAR_P35_N14,NnenumError(Return code: 1),13.7976
+CIFAR_P28_N28,NnenumError(Return code: 1),14.6489
+CIFAR_P52_N32,outofmemory,120.157
+CIFAR_P73_N7,NnenumError(Return code: 1),8.9883
+CIFAR_P93_N13,outofmemory,91.952
+CIFAR_P22_N7,NnenumError(Return code: 1),9.2133
+CIFAR_P50_N24,NnenumError(Return code: 1),13.4653
+CIFAR_P22_N41,NnenumError(Return code: 1),9.5517
+CIFAR_P32_N22,NnenumError(Return code: 1),12.0584
+CIFAR_P57_N3,NnenumError(Return code: 1),11.1811
+CIFAR_P94_N45,NnenumError(Return code: 1),12.7496
+CIFAR_P27_N28,NnenumError(Return code: 1),14.1134
+CIFAR_P38_N14,NnenumError(Return code: 1),14.0109
+CIFAR_P23_N23,NnenumError(Return code: 1),13.3084
+CIFAR_P11_N20,NnenumError(Return code: 1),12.7751
+CIFAR_P13_N32,outofmemory,92.454
+CIFAR_P13_N35,NnenumError(Return code: 1),13.089
+CIFAR_P89_N44,NnenumError(Return code: 1),13.894
+CIFAR_P94_N26,NnenumError(Return code: 1),13.218
+CIFAR_P9_N44,NnenumError(Return code: 1),13.3991
+CIFAR_P5_N6,NnenumError(Return code: 1),13.9837
+CIFAR_P79_N1,NnenumError(Return code: 1),12.3273
+CIFAR_P4_N2,outofmemory,129.334
+CIFAR_P64_N9,NnenumError(Return code: 1),13.1558
+CIFAR_P33_N37,NnenumError(Return code: 1),9.2874
+CIFAR_P69_N46,NnenumError(Return code: 1),7.8213
+CIFAR_P52_N29,NnenumError(Return code: 1),8.1149
+CIFAR_P91_N2,outofmemory,107.529
+CIFAR_P97_N6,NnenumError(Return code: 1),6.8533
+CIFAR_P43_N41,NnenumError(Return code: 1),8.6036
+CIFAR_P9_N23,NnenumError(Return code: 1),16.4968
+CIFAR_P10_N35,NnenumError(Return code: 1),18.2436
+CIFAR_P6_N30,NnenumError(Return code: 1),16.6234
+CIFAR_P33_N4,unsat,203.5612
+CIFAR_P36_N37,NnenumError(Return code: 1),18.351
+CIFAR_P9_N45,NnenumError(Return code: 1),18.449
+CIFAR_P35_N46,NnenumError(Return code: 1),17.8604
+CIFAR_P43_N47,NnenumError(Return code: 1),22.3543
+CIFAR_P26_N25,outofmemory,178.06
+CIFAR_P49_N20,NnenumError(Return code: 1),15.9753
+CIFAR_P30_N46,NnenumError(Return code: 1),20.2935
+CIFAR_P66_N41,NnenumError(Return code: 1),18.2156
+CIFAR_P76_N38,NnenumError(Return code: 1),21.9909
+CIFAR_P34_N15,outofmemory,135.481
+CIFAR_P46_N38,NnenumError(Return code: 1),12.7638
+CIFAR_P26_N8,NnenumError(Return code: 1),12.4372
+CIFAR_P4_N37,NnenumError(Return code: 1),16.2696
+CIFAR_P15_N7,NnenumError(Return code: 1),14.0141
+CIFAR_P18_N5,outofmemory,278.208
+CIFAR_P57_N2,outofmemory,132.827
+CIFAR_P70_N31,NnenumError(Return code: 1),9.4819
+CIFAR_P91_N4,outofmemory,118.51
+CIFAR_P20_N20,NnenumError(Return code: 1),8.9851
+CIFAR_P39_N47,NnenumError(Return code: 1),9.0228
+CIFAR_P2_N37,NnenumError(Return code: 1),10.1823
+CIFAR_P56_N42,outofmemory,122.107
+CIFAR_P86_N4,outofmemory,153.483
+CIFAR_P40_N47,NnenumError(Return code: 1),8.8533
+CIFAR_P57_N42,outofmemory,107.263
+CIFAR_P67_N47,NnenumError(Return code: 1),11.4225
+CIFAR_P69_N17,outofmemory,103.959
+CIFAR_P6_N17,outofmemory,106.015
+CIFAR_P19_N26,NnenumError(Return code: 1),12.6914
+CIFAR_P80_N23,NnenumError(Return code: 1),11.5062
+CIFAR_P72_N27,NnenumError(Return code: 1),13.0155
+CIFAR_P40_N1,NnenumError(Return code: 1),14.7247
+CIFAR_P96_N6,NnenumError(Return code: 1),14.0593
+CIFAR_P46_N15,outofmemory,165.016
+CIFAR_P10_N26,NnenumError(Return code: 1),14.5275
+CIFAR_P30_N12,NnenumError(Return code: 1),12.2187
+CIFAR_P44_N46,NnenumError(Return code: 1),12.4957
+CIFAR_P97_N24,NnenumError(Return code: 1),10.1931
+CIFAR_P83_N1,NnenumError(Return code: 1),8.9128
+CIFAR_P56_N12,NnenumError(Return code: 1),7.719
+CIFAR_P76_N7,NnenumError(Return code: 1),8.9696
+CIFAR_P17_N16,NnenumError(Return code: 1),8.0565
+CIFAR_P77_N30,NnenumError(Return code: 1),10.4651
+CIFAR_P78_N25,outofmemory,208.369
+CIFAR_P84_N34,unsat,170.7695
+CIFAR_P60_N27,NnenumError(Return code: 1),11.8339
+CIFAR_P64_N33,NnenumError(Return code: 1),12.3525
+CIFAR_P56_N25,outofmemory,209.173
+CIFAR_P27_N24,NnenumError(Return code: 1),13.5722
+CIFAR_P61_N9,NnenumError(Return code: 1),16.8919
+CIFAR_P6_N28,NnenumError(Return code: 1),14.4154
+CIFAR_P72_N45,NnenumError(Return code: 1),13.3586
+CIFAR_P75_N28,NnenumError(Return code: 1),13.7907
+CIFAR_P35_N1,NnenumError(Return code: 1),14.3459
+CIFAR_P6_N2,outofmemory,148.784
+CIFAR_P19_N4,unsat,231.8592
+CIFAR_P27_N23,NnenumError(Return code: 1),13.1636
+CIFAR_P38_N23,NnenumError(Return code: 1),12.5614
+CIFAR_P54_N32,outofmemory,110.991
+CIFAR_P21_N5,outofmemory,274.03
+CIFAR_P71_N4,outofmemory,124.265
+CIFAR_P3_N12,NnenumError(Return code: 1),9.0084
+CIFAR_P62_N44,NnenumError(Return code: 1),9.8974
+CIFAR_P93_N29,NnenumError(Return code: 1),12.514
+CIFAR_P18_N29,NnenumError(Return code: 1),12.5084
+CIFAR_P10_N31,NnenumError(Return code: 1),12.4447
+CIFAR_P84_N14,NnenumError(Return code: 1),13.9875
+CIFAR_P21_N44,NnenumError(Return code: 1),12.2765
+CIFAR_P80_N5,outofmemory,341.25
+CIFAR_P81_N38,NnenumError(Return code: 1),14.6011
+CIFAR_P81_N27,NnenumError(Return code: 1),12.8234
+CIFAR_P12_N32,outofmemory,116.361
+CIFAR_P62_N32,outofmemory,115.439
+CIFAR_P31_N20,NnenumError(Return code: 1),13.9377
+CIFAR_P64_N8,NnenumError(Return code: 1),13.6814
+CIFAR_P78_N17,outofmemory,100.97
+CIFAR_P23_N29,NnenumError(Return code: 1),12.0055
+CIFAR_P89_N3,NnenumError(Return code: 1),9.9692
+CIFAR_P3_N13,outofmemory,103.772
+CIFAR_P32_N8,NnenumError(Return code: 1),9.2654
+CIFAR_P39_N25,outofmemory,163.726
+CIFAR_P80_N29,NnenumError(Return code: 1),10.103
+CIFAR_P11_N12,NnenumError(Return code: 1),9.8205
+CIFAR_P59_N17,outofmemory,104.336
+CIFAR_P86_N27,NnenumError(Return code: 1),10.3084
+CIFAR_P7_N5,outofmemory,162.516
+CIFAR_P62_N12,NnenumError(Return code: 1),10.227
+CIFAR_P69_N4,outofmemory,179.181
+CIFAR_P78_N6,NnenumError(Return code: 1),13.8305
+CIFAR_P70_N4,outofmemory,219.902
+CIFAR_P17_N13,outofmemory,143.537
+CIFAR_P53_N23,NnenumError(Return code: 1),14.2855
+CIFAR_P57_N28,NnenumError(Return code: 1),15.9339
+CIFAR_P72_N37,NnenumError(Return code: 1),16.5933
+CIFAR_P79_N25,outofmemory,325.252
+CIFAR_P63_N3,NnenumError(Return code: 1),15.3397
+CIFAR_P27_N25,outofmemory,517.169
+CIFAR_P4_N1,NnenumError(Return code: 1),13.5255
+CIFAR_P31_N14,NnenumError(Return code: 1),12.4571
+CIFAR_P62_N8,NnenumError(Return code: 1),10.9652
+CIFAR_P22_N4,outofmemory,132.882
+CIFAR_P46_N43,NnenumError(Return code: 1),10.6535
+CIFAR_P75_N17,unsat,144.587
+CIFAR_P88_N29,NnenumError(Return code: 1),9.8798
+CIFAR_P1_N12,NnenumError(Return code: 1),9.6593
+CIFAR_P86_N21,NnenumError(Return code: 1),11.9828
+CIFAR_P95_N46,NnenumError(Return code: 1),11.3909
+CIFAR_P32_N34,outofmemory,140.246
+CIFAR_P60_N30,NnenumError(Return code: 1),13.7713
+CIFAR_P66_N9,NnenumError(Return code: 1),16.9478
+CIFAR_P21_N16,NnenumError(Return code: 1),12.1009
+CIFAR_P34_N34,outofmemory,117.821
+CIFAR_P99_N16,NnenumError(Return code: 1),10.7025
+CIFAR_P31_N37,NnenumError(Return code: 1),11.4437
+CIFAR_P4_N43,NnenumError(Return code: 1),10.7765
+CIFAR_P2_N9,NnenumError(Return code: 1),15.5624
+CIFAR_P14_N46,NnenumError(Return code: 1),12.3742
+CIFAR_P13_N47,NnenumError(Return code: 1),11.1895
+CIFAR_P53_N4,outofmemory,129.464
+CIFAR_P18_N47,NnenumError(Return code: 1),11.9301
+CIFAR_P54_N22,NnenumError(Return code: 1),11.736
+CIFAR_P80_N34,outofmemory,109.98
+CIFAR_P12_N38,NnenumError(Return code: 1),10.1106
+CIFAR_P68_N45,NnenumError(Return code: 1),11.0416
+CIFAR_P7_N43,NnenumError(Return code: 1),10.35
+CIFAR_P33_N27,NnenumError(Return code: 1),9.8064
+CIFAR_P89_N32,outofmemory,109.343
+CIFAR_P48_N46,NnenumError(Return code: 1),12.1803
+CIFAR_P10_N23,NnenumError(Return code: 1),11.7399
+CIFAR_P42_N37,NnenumError(Return code: 1),11.861
+CIFAR_P9_N19,NnenumError(Return code: 1),11.1147
+CIFAR_P40_N3,NnenumError(Return code: 1),11.1339
+CIFAR_P70_N33,NnenumError(Return code: 1),11.8206
+CIFAR_P60_N34,outofmemory,116.378
+CIFAR_P44_N23,NnenumError(Return code: 1),11.819
+CIFAR_P78_N47,NnenumError(Return code: 1),11.4052
+CIFAR_P39_N37,NnenumError(Return code: 1),12.64
+CIFAR_P16_N15,outofmemory,172.739
+CIFAR_P29_N15,outofmemory,168.698
+CIFAR_P48_N15,outofmemory,162.076
+CIFAR_P27_N47,NnenumError(Return code: 1),10.4674
+CIFAR_P94_N35,NnenumError(Return code: 1),11.0334
+CIFAR_P52_N6,NnenumError(Return code: 1),12.5587
+CIFAR_P66_N33,NnenumError(Return code: 1),13.158
+CIFAR_P45_N25,outofmemory,161.809
+CIFAR_P56_N30,NnenumError(Return code: 1),13.6344
+CIFAR_P42_N23,NnenumError(Return code: 1),12.4827
+CIFAR_P72_N18,outofmemory,123.788
+CIFAR_P57_N25,outofmemory,165.33
+CIFAR_P80_N32,outofmemory,124.94
+CIFAR_P80_N33,NnenumError(Return code: 1),15.5624
+CIFAR_P40_N26,NnenumError(Return code: 1),14.7361
+CIFAR_P21_N37,NnenumError(Return code: 1),13.6601
+CIFAR_P19_N30,NnenumError(Return code: 1),10.9716
+CIFAR_P8_N41,NnenumError(Return code: 1),11.6417
+CIFAR_P15_N46,NnenumError(Return code: 1),12.3253
+CIFAR_P16_N30,NnenumError(Return code: 1),15.2281
+CIFAR_P26_N3,NnenumError(Return code: 1),14.0542
+CIFAR_P25_N25,unsat,618.814
+CIFAR_P46_N16,NnenumError(Return code: 1),13.1825
+CIFAR_P56_N35,NnenumError(Return code: 1),12.2212
+CIFAR_P57_N41,NnenumError(Return code: 1),10.7155
+CIFAR_P39_N9,NnenumError(Return code: 1),13.9496
+CIFAR_P69_N33,NnenumError(Return code: 1),10.5303
+CIFAR_P87_N43,NnenumError(Return code: 1),10.2982
+CIFAR_P76_N31,NnenumError(Return code: 1),10.0055
+CIFAR_P29_N8,NnenumError(Return code: 1),9.2247
+CIFAR_P20_N42,outofmemory,105.599
+CIFAR_P34_N2,outofmemory,222.039
+CIFAR_P52_N19,NnenumError(Return code: 1),9.1163
+CIFAR_P83_N6,NnenumError(Return code: 1),12.6161
+CIFAR_P10_N2,outofmemory,226.06
+CIFAR_P84_N19,NnenumError(Return code: 1),11.6948
+CIFAR_P87_N28,NnenumError(Return code: 1),13.3652
+CIFAR_P92_N18,outofmemory,115.04
+CIFAR_P76_N20,NnenumError(Return code: 1),13.9651
+CIFAR_P72_N15,outofmemory,140.373
+CIFAR_P7_N30,NnenumError(Return code: 1),14.2103
+CIFAR_P64_N21,NnenumError(Return code: 1),13.9229
+CIFAR_P49_N42,outofmemory,232.792
+CIFAR_P92_N35,NnenumError(Return code: 1),13.9534
+CIFAR_P43_N18,outofmemory,124.371
+CIFAR_P63_N44,NnenumError(Return code: 1),13.9002
+CIFAR_P32_N5,outofmemory,377.525
+CIFAR_P71_N34,outofmemory,159.733
+CIFAR_P74_N2,outofmemory,192.466
+CIFAR_P81_N7,NnenumError(Return code: 1),13.355
+CIFAR_P90_N5,outofmemory,511.346
+CIFAR_P48_N30,NnenumError(Return code: 1),14.7246
+CIFAR_P85_N31,NnenumError(Return code: 1),14.8402
+CIFAR_P58_N41,NnenumError(Return code: 1),15.647
+CIFAR_P95_N15,outofmemory,203.63
+CIFAR_P98_N17,outofmemory,162.779
+CIFAR_P53_N29,NnenumError(Return code: 1),13.5542
+CIFAR_P81_N45,NnenumError(Return code: 1),14.9813
+CIFAR_P19_N47,NnenumError(Return code: 1),14.6421
+CIFAR_P57_N4,outofmemory,165.26
+CIFAR_P85_N42,outofmemory,138.502
+CIFAR_P4_N32,outofmemory,149.446
+CIFAR_P19_N23,NnenumError(Return code: 1),15.7033
+CIFAR_P10_N30,NnenumError(Return code: 1),15.6129
+CIFAR_P90_N8,NnenumError(Return code: 1),12.3031
+CIFAR_P89_N37,NnenumError(Return code: 1),14.9886
+CIFAR_P53_N41,NnenumError(Return code: 1),13.6304
+CIFAR_P56_N44,NnenumError(Return code: 1),10.4468
+CIFAR_P10_N34,outofmemory,209.23
+CIFAR_P25_N12,NnenumError(Return code: 1),10.7988
+CIFAR_P60_N43,NnenumError(Return code: 1),11.9687
+CIFAR_P9_N16,NnenumError(Return code: 1),10.369
+CIFAR_P35_N41,NnenumError(Return code: 1),12.0665
+CIFAR_P49_N12,NnenumError(Return code: 1),10.4366
+CIFAR_P85_N19,NnenumError(Return code: 1),12.2679
+CIFAR_P35_N44,NnenumError(Return code: 1),13.5786
+CIFAR_P44_N25,outofmemory,176.242
+CIFAR_P99_N47,NnenumError(Return code: 1),12.1739
+CIFAR_P35_N47,NnenumError(Return code: 1),12.2385
+CIFAR_P71_N24,NnenumError(Return code: 1),13.5969
+CIFAR_P3_N35,NnenumError(Return code: 1),12.8596
+CIFAR_P11_N16,NnenumError(Return code: 1),9.5601
+CIFAR_P20_N24,NnenumError(Return code: 1),11.2524
+CIFAR_P36_N38,NnenumError(Return code: 1),13.4048
+CIFAR_P14_N17,outofmemory,135.208
+CIFAR_P33_N16,NnenumError(Return code: 1),11.854
+CIFAR_P2_N22,NnenumError(Return code: 1),11.8878
+CIFAR_P41_N35,NnenumError(Return code: 1),12.9018
+CIFAR_P67_N37,NnenumError(Return code: 1),12.3906
+CIFAR_P72_N35,NnenumError(Return code: 1),11.2345
+CIFAR_P95_N41,NnenumError(Return code: 1),12.1139
+CIFAR_P35_N15,unsat,351.1565
+CIFAR_P24_N6,NnenumError(Return code: 1),11.9323
+CIFAR_P30_N15,outofmemory,222.312
+CIFAR_P97_N26,NnenumError(Return code: 1),12.3476
+CIFAR_P97_N44,NnenumError(Return code: 1),13.4436
+CIFAR_P1_N1,NnenumError(Return code: 1),15.078
+CIFAR_P2_N23,NnenumError(Return code: 1),13.6488
+CIFAR_P52_N23,NnenumError(Return code: 1),14.4376
+CIFAR_P10_N33,NnenumError(Return code: 1),12.801
+CIFAR_P44_N7,NnenumError(Return code: 1),13.1147
+CIFAR_P29_N32,outofmemory,148.246
+CIFAR_P55_N24,NnenumError(Return code: 1),13.5146
+CIFAR_P9_N31,NnenumError(Return code: 1),14.1422
+CIFAR_P15_N9,NnenumError(Return code: 1),18.0356
+CIFAR_P60_N32,outofmemory,124.242
+CIFAR_P62_N37,NnenumError(Return code: 1),12.9856
+CIFAR_P86_N46,NnenumError(Return code: 1),13.8264
+CIFAR_P70_N25,outofmemory,404.69
+CIFAR_P1_N44,NnenumError(Return code: 1),14.4089
+CIFAR_P43_N14,NnenumError(Return code: 1),13.9387
+CIFAR_P87_N20,NnenumError(Return code: 1),13.8628
+CIFAR_P7_N35,NnenumError(Return code: 1),13.1416
+CIFAR_P3_N15,outofmemory,202.955
+CIFAR_P45_N42,outofmemory,125.918
+CIFAR_P69_N9,NnenumError(Return code: 1),18.6536
+CIFAR_P80_N25,outofmemory,350.319
+CIFAR_P26_N44,NnenumError(Return code: 1),12.3501
+CIFAR_P41_N43,NnenumError(Return code: 1),13.2562
+CIFAR_P43_N2,outofmemory,214.949
+CIFAR_P65_N5,outofmemory,603.988
+CIFAR_P86_N20,NnenumError(Return code: 1),14.7505
+CIFAR_P15_N22,NnenumError(Return code: 1),13.9696
+CIFAR_P72_N38,NnenumError(Return code: 1),13.5003
+CIFAR_P84_N44,NnenumError(Return code: 1),14.6591
+CIFAR_P54_N24,NnenumError(Return code: 1),15.3877
+CIFAR_P0_N4,outofmemory,232.829
+CIFAR_P16_N31,NnenumError(Return code: 1),15.5901
+CIFAR_P42_N14,NnenumError(Return code: 1),15.1991
+CIFAR_P81_N17,outofmemory,136.664
+CIFAR_P53_N21,NnenumError(Return code: 1),15.3794
+CIFAR_P31_N9,NnenumError(Return code: 1),18.4424
+CIFAR_P67_N30,NnenumError(Return code: 1),14.2825
+CIFAR_P14_N12,NnenumError(Return code: 1),12.1739
+CIFAR_P95_N17,outofmemory,161.896
+CIFAR_P66_N46,NnenumError(Return code: 1),14.3046
+CIFAR_P15_N6,NnenumError(Return code: 1),15.3661
+CIFAR_P31_N4,outofmemory,325.838
+CIFAR_P82_N31,NnenumError(Return code: 1),13.8502
+CIFAR_P55_N38,NnenumError(Return code: 1),15.674
+CIFAR_P16_N24,NnenumError(Return code: 1),15.0382
+CIFAR_P5_N15,outofmemory,390.155
+CIFAR_P78_N21,NnenumError(Return code: 1),12.8916
+CIFAR_P80_N2,outofmemory,213.435
+CIFAR_P26_N23,NnenumError(Return code: 1),14.8205
+CIFAR_P82_N42,outofmemory,141.177
+CIFAR_P14_N38,NnenumError(Return code: 1),14.987
+CIFAR_P15_N23,NnenumError(Return code: 1),14.8784
+CIFAR_P62_N31,NnenumError(Return code: 1),15.4266
+CIFAR_P11_N42,outofmemory,138.151
+CIFAR_P3_N9,NnenumError(Return code: 1),20.2874
+CIFAR_P7_N41,NnenumError(Return code: 1),15.2474
+CIFAR_P45_N35,NnenumError(Return code: 1),12.8217
+CIFAR_P74_N5,outofmemory,283.997
+CIFAR_P38_N15,outofmemory,212.201
+CIFAR_P40_N14,NnenumError(Return code: 1),15.4025
+CIFAR_P96_N4,outofmemory,509.25
+CIFAR_P32_N23,NnenumError(Return code: 1),14.2111
+CIFAR_P43_N33,NnenumError(Return code: 1),14.1695
+CIFAR_P30_N33,NnenumError(Return code: 1),15.3444
+CIFAR_P70_N43,NnenumError(Return code: 1),14.9236
+CIFAR_P26_N46,NnenumError(Return code: 1),20.1544
+CIFAR_P22_N21,NnenumError(Return code: 1),19.6881
+CIFAR_P39_N35,NnenumError(Return code: 1),17.7298
+CIFAR_P83_N14,NnenumError(Return code: 1),14.4038
+CIFAR_P74_N1,NnenumError(Return code: 1),14.5342
+CIFAR_P23_N30,NnenumError(Return code: 1),14.6126
+CIFAR_P22_N12,NnenumError(Return code: 1),14.2375
+CIFAR_P17_N5,outofmemory,209.451
+CIFAR_P85_N6,NnenumError(Return code: 1),14.9124
+CIFAR_P42_N4,outofmemory,169.233
+CIFAR_P40_N20,NnenumError(Return code: 1),14.534
+CIFAR_P52_N15,outofmemory,345.102
+CIFAR_P46_N2,outofmemory,294.491
+CIFAR_P32_N19,NnenumError(Return code: 1),13.3893
+CIFAR_P71_N2,outofmemory,458.229
+CIFAR_P4_N4,outofmemory,221.25
+CIFAR_P13_N12,NnenumError(Return code: 1),14.4101
+CIFAR_P27_N8,NnenumError(Return code: 1),13.7573
+CIFAR_P15_N4,outofmemory,207.666
+CIFAR_P15_N18,outofmemory,158.806
+CIFAR_P3_N38,NnenumError(Return code: 1),15.1098
+CIFAR_P79_N8,NnenumError(Return code: 1),14.4169
+CIFAR_P87_N23,NnenumError(Return code: 1),16.3893
+CIFAR_P36_N15,outofmemory,312.308
+CIFAR_P63_N8,NnenumError(Return code: 1),14.0533
+CIFAR_P19_N41,NnenumError(Return code: 1),16.0338
+CIFAR_P21_N24,NnenumError(Return code: 1),19.017
+CIFAR_P24_N1,NnenumError(Return code: 1),17.1607
+CIFAR_P71_N44,NnenumError(Return code: 1),18.5676
+CIFAR_P11_N43,NnenumError(Return code: 1),13.675
+CIFAR_P36_N23,NnenumError(Return code: 1),15.1829
+CIFAR_P34_N9,NnenumError(Return code: 1),18.324
+CIFAR_P90_N20,NnenumError(Return code: 1),15.6401
+CIFAR_P21_N35,NnenumError(Return code: 1),13.3268
+CIFAR_P82_N32,outofmemory,150.448
+CIFAR_P30_N5,outofmemory,207.996
+CIFAR_P17_N6,NnenumError(Return code: 1),14.4318
+CIFAR_P56_N23,NnenumError(Return code: 1),14.9231
+CIFAR_P74_N32,outofmemory,152.213
+CIFAR_P90_N46,NnenumError(Return code: 1),14.0484
+CIFAR_P55_N15,outofmemory,214.38
+CIFAR_P77_N31,NnenumError(Return code: 1),15.299
+CIFAR_P12_N47,NnenumError(Return code: 1),13.2777
+CIFAR_P16_N44,NnenumError(Return code: 1),15.619
+CIFAR_P27_N29,NnenumError(Return code: 1),13.6639
+CIFAR_P29_N29,NnenumError(Return code: 1),13.143
+CIFAR_P36_N7,NnenumError(Return code: 1),14.9623
+CIFAR_P79_N46,NnenumError(Return code: 1),14.2917
+CIFAR_P4_N24,NnenumError(Return code: 1),13.4874
+CIFAR_P82_N41,NnenumError(Return code: 1),13.9744
+CIFAR_P93_N18,outofmemory,196.372
+CIFAR_P21_N20,NnenumError(Return code: 1),15.1883
+CIFAR_P53_N2,outofmemory,244.877
+CIFAR_P46_N21,NnenumError(Return code: 1),14.3437
+CIFAR_P24_N45,NnenumError(Return code: 1),12.4876
+CIFAR_P55_N14,NnenumError(Return code: 1),12.6245
+CIFAR_P90_N18,outofmemory,186.259
+CIFAR_P18_N1,NnenumError(Return code: 1),13.3533
+CIFAR_P91_N38,NnenumError(Return code: 1),13.5877
+CIFAR_P5_N17,outofmemory,153.435
+CIFAR_P65_N21,NnenumError(Return code: 1),14.5623
+CIFAR_P73_N43,NnenumError(Return code: 1),15.4443
+CIFAR_P34_N8,NnenumError(Return code: 1),12.7708
+CIFAR_P11_N3,NnenumError(Return code: 1),13.1466
+CIFAR_P78_N3,NnenumError(Return code: 1),13.5084
+CIFAR_P90_N42,outofmemory,133.18
+CIFAR_P25_N19,NnenumError(Return code: 1),14.458
+CIFAR_P93_N4,outofmemory,184.102
+CIFAR_P10_N14,NnenumError(Return code: 1),16.0
+CIFAR_P62_N17,outofmemory,170.516
+CIFAR_P76_N35,NnenumError(Return code: 1),13.9248
+CIFAR_P23_N42,outofmemory,132.452
+CIFAR_P81_N16,NnenumError(Return code: 1),14.1895
+CIFAR_P93_N31,NnenumError(Return code: 1),13.5291
+CIFAR_P9_N7,NnenumError(Return code: 1),13.0938
+CIFAR_P14_N34,outofmemory,141.719
+CIFAR_P16_N28,NnenumError(Return code: 1),14.0647
+CIFAR_P79_N7,NnenumError(Return code: 1),12.9326
+CIFAR_P35_N20,NnenumError(Return code: 1),12.2539
+CIFAR_P9_N20,NnenumError(Return code: 1),13.0765
+CIFAR_P52_N24,NnenumError(Return code: 1),13.6015
+CIFAR_P36_N30,NnenumError(Return code: 1),13.877
+CIFAR_P21_N23,NnenumError(Return code: 1),13.8782
+CIFAR_P12_N18,outofmemory,141.589
+CIFAR_P36_N17,outofmemory,168.329
+CIFAR_P40_N22,NnenumError(Return code: 1),11.6862
+CIFAR_P77_N47,NnenumError(Return code: 1),13.0087
+CIFAR_P22_N33,NnenumError(Return code: 1),14.4644
+CIFAR_P62_N14,NnenumError(Return code: 1),14.8051
+CIFAR_P77_N16,NnenumError(Return code: 1),12.5091
+CIFAR_P99_N22,NnenumError(Return code: 1),11.8107
+CIFAR_P46_N25,outofmemory,259.474
+CIFAR_P75_N3,NnenumError(Return code: 1),11.6423
+CIFAR_P27_N27,NnenumError(Return code: 1),12.5637
+CIFAR_P33_N2,outofmemory,289.683
+CIFAR_P93_N2,outofmemory,291.131
+CIFAR_P89_N2,outofmemory,195.996
+CIFAR_P5_N31,NnenumError(Return code: 1),15.3568
+CIFAR_P16_N23,NnenumError(Return code: 1),14.0447
+CIFAR_P25_N22,NnenumError(Return code: 1),12.2791
+CIFAR_P47_N29,NnenumError(Return code: 1),11.4124
+CIFAR_P78_N42,outofmemory,130.979
+CIFAR_P40_N6,NnenumError(Return code: 1),15.539
+CIFAR_P91_N3,NnenumError(Return code: 1),14.2597
+CIFAR_P34_N26,NnenumError(Return code: 1),15.9329
+CIFAR_P55_N44,NnenumError(Return code: 1),15.6322
+CIFAR_P73_N1,NnenumError(Return code: 1),15.7573
+CIFAR_P34_N42,outofmemory,141.881
+CIFAR_P65_N17,unsat,186.8781
+CIFAR_P42_N19,NnenumError(Return code: 1),16.0287
+CIFAR_P25_N43,NnenumError(Return code: 1),16.7347
+CIFAR_P19_N25,outofmemory,285.059
+CIFAR_P20_N43,NnenumError(Return code: 1),15.4648
+CIFAR_P48_N5,outofmemory,203.133
+CIFAR_P22_N18,outofmemory,268.484
+CIFAR_P69_N21,NnenumError(Return code: 1),15.0509
+CIFAR_P96_N18,outofmemory,158.947
+CIFAR_P0_N22,NnenumError(Return code: 1),14.7091
+CIFAR_P65_N45,NnenumError(Return code: 1),15.4152
+CIFAR_P27_N46,NnenumError(Return code: 1),14.7666
+CIFAR_P19_N16,NnenumError(Return code: 1),13.2284
+CIFAR_P53_N35,NnenumError(Return code: 1),14.2686
+CIFAR_P96_N42,outofmemory,185.19
+CIFAR_P76_N22,NnenumError(Return code: 1),12.4826
+CIFAR_P99_N30,NnenumError(Return code: 1),16.6475
+CIFAR_P81_N20,NnenumError(Return code: 1),17.5004
+CIFAR_P18_N23,NnenumError(Return code: 1),16.2293
+CIFAR_P69_N25,outofmemory,192.383
+CIFAR_P74_N43,NnenumError(Return code: 1),14.9632
+CIFAR_P62_N13,outofmemory,183.675
+CIFAR_P94_N27,NnenumError(Return code: 1),12.4132
+CIFAR_P64_N26,NnenumError(Return code: 1),12.499
+CIFAR_P90_N43,NnenumError(Return code: 1),12.1061
+CIFAR_P86_N19,NnenumError(Return code: 1),11.9075
+CIFAR_P54_N45,NnenumError(Return code: 1),12.7847
+CIFAR_P55_N45,NnenumError(Return code: 1),13.4746
+CIFAR_P59_N28,NnenumError(Return code: 1),12.7604
+CIFAR_P79_N34,outofmemory,145.926
+CIFAR_P74_N20,NnenumError(Return code: 1),13.6097
+CIFAR_P64_N15,outofmemory,406.274
+CIFAR_P55_N4,outofmemory,147.563
+CIFAR_P14_N2,outofmemory,202.953
+CIFAR_P53_N47,NnenumError(Return code: 1),14.4374
+CIFAR_P25_N6,NnenumError(Return code: 1),14.684
+CIFAR_P32_N31,NnenumError(Return code: 1),13.3628
+CIFAR_P41_N34,outofmemory,200.945
+CIFAR_P62_N5,outofmemory,190.011
+CIFAR_P78_N38,NnenumError(Return code: 1),12.3062
+CIFAR_P98_N8,NnenumError(Return code: 1),13.5168
+CIFAR_P40_N37,NnenumError(Return code: 1),15.8149
+CIFAR_P60_N29,NnenumError(Return code: 1),13.1192
+CIFAR_P11_N29,NnenumError(Return code: 1),13.217
+CIFAR_P28_N26,NnenumError(Return code: 1),13.3614
+CIFAR_P80_N35,NnenumError(Return code: 1),12.5216
+CIFAR_P29_N38,NnenumError(Return code: 1),14.5409
+CIFAR_P68_N15,outofmemory,208.416
+CIFAR_P23_N43,NnenumError(Return code: 1),12.9699
+CIFAR_P84_N17,unsat,177.4949
+CIFAR_P92_N44,NnenumError(Return code: 1),15.0486
+CIFAR_P18_N18,outofmemory,138.466
+CIFAR_P80_N8,NnenumError(Return code: 1),11.0575
+CIFAR_P83_N19,NnenumError(Return code: 1),11.5261
+CIFAR_P23_N34,outofmemory,149.599
+CIFAR_P28_N44,NnenumError(Return code: 1),13.3463
+CIFAR_P6_N29,NnenumError(Return code: 1),13.9026
+CIFAR_P13_N15,outofmemory,251.206
+CIFAR_P2_N35,NnenumError(Return code: 1),13.9878
+CIFAR_P60_N33,NnenumError(Return code: 1),15.1651
+CIFAR_P63_N13,outofmemory,236.757
+CIFAR_P77_N3,NnenumError(Return code: 1),13.7302
+CIFAR_P17_N25,outofmemory,198.505
+CIFAR_P89_N23,NnenumError(Return code: 1),14.8544
+CIFAR_P19_N9,NnenumError(Return code: 1),19.3306
+CIFAR_P31_N2,outofmemory,205.31
+CIFAR_P35_N30,NnenumError(Return code: 1),12.7303
+CIFAR_P9_N22,NnenumError(Return code: 1),12.0342
+CIFAR_P74_N33,NnenumError(Return code: 1),15.1996
+CIFAR_P37_N3,NnenumError(Return code: 1),12.8921
+CIFAR_P99_N24,NnenumError(Return code: 1),12.3782
+CIFAR_P31_N5,outofmemory,183.122
+CIFAR_P26_N21,NnenumError(Return code: 1),11.4343
+CIFAR_P83_N32,outofmemory,126.93
+CIFAR_P15_N44,NnenumError(Return code: 1),12.141
+CIFAR_P87_N26,NnenumError(Return code: 1),11.4868
+CIFAR_P40_N42,outofmemory,233.943
+CIFAR_P98_N22,NnenumError(Return code: 1),10.6012
+CIFAR_P87_N27,NnenumError(Return code: 1),11.8879
+CIFAR_P31_N17,outofmemory,148.032
+CIFAR_P7_N29,NnenumError(Return code: 1),11.2216
+CIFAR_P64_N19,NnenumError(Return code: 1),11.2746
+CIFAR_P68_N19,NnenumError(Return code: 1),11.5638
+CIFAR_P82_N26,NnenumError(Return code: 1),11.6278
+CIFAR_P93_N15,outofmemory,216.065
+CIFAR_P21_N7,NnenumError(Return code: 1),11.7278
+CIFAR_P84_N42,unsat,152.8161
+CIFAR_P87_N14,NnenumError(Return code: 1),13.1055
+CIFAR_P0_N33,NnenumError(Return code: 1),12.7501
+CIFAR_P50_N46,NnenumError(Return code: 1),13.6211
+CIFAR_P40_N30,NnenumError(Return code: 1),13.361
+CIFAR_P26_N16,NnenumError(Return code: 1),9.8275
+CIFAR_P40_N27,NnenumError(Return code: 1),10.5068
+CIFAR_P32_N16,NnenumError(Return code: 1),9.9719
+CIFAR_P67_N7,NnenumError(Return code: 1),11.5607
+CIFAR_P10_N24,NnenumError(Return code: 1),10.7336
+CIFAR_P71_N26,NnenumError(Return code: 1),12.002
+CIFAR_P42_N43,NnenumError(Return code: 1),12.1162
+CIFAR_P31_N34,outofmemory,163.118
+CIFAR_P99_N19,NnenumError(Return code: 1),10.7182
+CIFAR_P5_N25,outofmemory,229.075
+CIFAR_P24_N42,outofmemory,131.183
+CIFAR_P1_N21,NnenumError(Return code: 1),12.3459
+CIFAR_P81_N21,NnenumError(Return code: 1),11.7007
+CIFAR_P91_N26,NnenumError(Return code: 1),11.8529
+CIFAR_P55_N6,NnenumError(Return code: 1),12.0707
+CIFAR_P25_N45,NnenumError(Return code: 1),12.2951
+CIFAR_P30_N35,NnenumError(Return code: 1),11.6768
+CIFAR_P29_N31,NnenumError(Return code: 1),11.3273
+CIFAR_P74_N3,NnenumError(Return code: 1),9.8819
+CIFAR_P88_N38,NnenumError(Return code: 1),11.1504
+CIFAR_P56_N17,outofmemory,101.956
+CIFAR_P73_N27,NnenumError(Return code: 1),9.9253
+CIFAR_P25_N5,unsat,578.3936
+CIFAR_P32_N32,outofmemory,246.342
+CIFAR_P85_N37,NnenumError(Return code: 1),11.6499
+CIFAR_P1_N30,NnenumError(Return code: 1),10.5148
+CIFAR_P97_N25,unsat,561.0081
+CIFAR_P36_N22,NnenumError(Return code: 1),11.0427
+CIFAR_P46_N30,NnenumError(Return code: 1),11.4834
+CIFAR_P72_N12,NnenumError(Return code: 1),11.1016
+CIFAR_P36_N46,NnenumError(Return code: 1),12.3574
+CIFAR_P65_N44,NnenumError(Return code: 1),11.8956
+CIFAR_P17_N33,NnenumError(Return code: 1),12.0413
+CIFAR_P19_N7,NnenumError(Return code: 1),11.4531
+CIFAR_P30_N27,NnenumError(Return code: 1),10.3708
+CIFAR_P85_N35,NnenumError(Return code: 1),10.5078
+CIFAR_P73_N47,NnenumError(Return code: 1),10.5917
+CIFAR_P91_N5,outofmemory,367.041
+CIFAR_P78_N14,NnenumError(Return code: 1),12.7361
+CIFAR_P36_N2,outofmemory,225.582
+CIFAR_P24_N37,NnenumError(Return code: 1),13.04
+CIFAR_P64_N4,outofmemory,140.526
+CIFAR_P24_N2,outofmemory,280.163
+CIFAR_P84_N16,NnenumError(Return code: 1),10.7851
+CIFAR_P50_N5,outofmemory,161.415
+CIFAR_P50_N47,NnenumError(Return code: 1),10.3151
+CIFAR_P49_N46,NnenumError(Return code: 1),12.1863
+CIFAR_P19_N44,NnenumError(Return code: 1),11.1293
+CIFAR_P59_N8,NnenumError(Return code: 1),9.2392
+CIFAR_P81_N15,outofmemory,140.313
+CIFAR_P55_N19,NnenumError(Return code: 1),10.5917
+CIFAR_P28_N24,NnenumError(Return code: 1),10.8924
+CIFAR_P70_N16,NnenumError(Return code: 1),9.2902
+CIFAR_P34_N32,outofmemory,110.088
+CIFAR_P39_N22,NnenumError(Return code: 1),10.3014
+CIFAR_P96_N3,NnenumError(Return code: 1),9.8314
+CIFAR_P94_N42,outofmemory,145.189
+CIFAR_P6_N8,NnenumError(Return code: 1),10.0629
+CIFAR_P3_N24,NnenumError(Return code: 1),10.7945
+CIFAR_P74_N35,NnenumError(Return code: 1),10.225
+CIFAR_P68_N46,NnenumError(Return code: 1),11.1348
+CIFAR_P84_N7,NnenumError(Return code: 1),10.6479
+CIFAR_P89_N30,NnenumError(Return code: 1),11.0176
+CIFAR_P69_N47,NnenumError(Return code: 1),8.9006
+CIFAR_P11_N25,outofmemory,153.638
+CIFAR_P2_N4,outofmemory,200.286
+CIFAR_P47_N34,outofmemory,118.639
+CIFAR_P77_N4,outofmemory,273.926
+CIFAR_P40_N32,outofmemory,131.141
+CIFAR_P6_N41,NnenumError(Return code: 1),11.1506
+CIFAR_P27_N43,NnenumError(Return code: 1),11.386
+CIFAR_P40_N16,NnenumError(Return code: 1),9.7886
+CIFAR_P97_N20,NnenumError(Return code: 1),11.1477
+CIFAR_P10_N21,NnenumError(Return code: 1),11.1725
+CIFAR_P42_N44,NnenumError(Return code: 1),11.6989
+CIFAR_P58_N26,NnenumError(Return code: 1),11.074
+CIFAR_P48_N20,NnenumError(Return code: 1),11.7956
+CIFAR_P64_N30,NnenumError(Return code: 1),11.8151
+CIFAR_P2_N5,outofmemory,151.54
+CIFAR_P48_N33,NnenumError(Return code: 1),11.5656
+CIFAR_P34_N13,outofmemory,115.324
+CIFAR_P85_N21,NnenumError(Return code: 1),14.7909
+CIFAR_P21_N18,unsat,131.3697
+CIFAR_P59_N25,outofmemory,66.73
+CIFAR_P44_N20,NnenumError(Return code: 1),15.8154
+CIFAR_P27_N20,NnenumError(Return code: 1),15.2697
+CIFAR_P42_N34,outofmemory,72.92
+CIFAR_P46_N26,NnenumError(Return code: 1),15.3259
+CIFAR_P91_N45,NnenumError(Return code: 1),16.0035
+CIFAR_P51_N21,NnenumError(Return code: 1),16.1281
+CIFAR_P81_N34,outofmemory,56.399
+CIFAR_P38_N9,NnenumError(Return code: 1),15.7885
+CIFAR_P14_N4,outofmemory,72.559
+CIFAR_P56_N41,NnenumError(Return code: 1),15.2397
+CIFAR_P50_N33,NnenumError(Return code: 1),14.6456
+CIFAR_P86_N32,unsat,123.4235
+CIFAR_P84_N25,outofmemory,165.754
+CIFAR_P22_N9,NnenumError(Return code: 1),17.5937
+CIFAR_P83_N17,outofmemory,52.721
+CIFAR_P15_N37,NnenumError(Return code: 1),15.0986
+CIFAR_P23_N38,NnenumError(Return code: 1),15.8341
+CIFAR_P41_N46,NnenumError(Return code: 1),16.0564
+CIFAR_P94_N4,outofmemory,56.79
+CIFAR_P66_N27,NnenumError(Return code: 1),14.6356
+CIFAR_P88_N44,NnenumError(Return code: 1),15.05
+CIFAR_P44_N2,outofmemory,158.492
+CIFAR_P28_N27,NnenumError(Return code: 1),9.9074
+CIFAR_P48_N24,NnenumError(Return code: 1),7.4111
+CIFAR_P97_N14,NnenumError(Return code: 1),12.2009
+CIFAR_P17_N14,NnenumError(Return code: 1),9.4968
+CIFAR_P53_N22,NnenumError(Return code: 1),11.3654
+CIFAR_P75_N13,unsat,121.7768
+CIFAR_P80_N30,NnenumError(Return code: 1),12.6768
+CIFAR_P56_N21,NnenumError(Return code: 1),12.0231
+CIFAR_P2_N28,NnenumError(Return code: 1),11.9297
+CIFAR_P43_N1,NnenumError(Return code: 1),11.5196
+CIFAR_P1_N37,NnenumError(Return code: 1),11.3887
+CIFAR_P45_N20,NnenumError(Return code: 1),10.9989
+CIFAR_P40_N43,NnenumError(Return code: 1),11.9703
+CIFAR_P93_N21,NnenumError(Return code: 1),11.1074
+CIFAR_P0_N3,NnenumError(Return code: 1),10.7872
+CIFAR_P4_N19,NnenumError(Return code: 1),10.8013
+CIFAR_P37_N5,outofmemory,87.0
+CIFAR_P20_N22,NnenumError(Return code: 1),10.9292
+CIFAR_P74_N21,NnenumError(Return code: 1),12.4378
+CIFAR_P17_N42,outofmemory,64.06
+CIFAR_P67_N42,unsat,111.3455
+CIFAR_P82_N20,NnenumError(Return code: 1),8.1701
+CIFAR_P81_N19,NnenumError(Return code: 1),10.5103
+CIFAR_P14_N33,NnenumError(Return code: 1),9.7913
+CIFAR_P61_N21,NnenumError(Return code: 1),10.2042
+CIFAR_P65_N34,unsat,130.6527
+CIFAR_P43_N38,NnenumError(Return code: 1),11.2013
+CIFAR_P15_N27,NnenumError(Return code: 1),10.2864
+CIFAR_P23_N35,NnenumError(Return code: 1),10.8326
+CIFAR_P0_N24,NnenumError(Return code: 1),7.6674
+CIFAR_P87_N46,NnenumError(Return code: 1),11.4595
+CIFAR_P43_N5,outofmemory,94.841
+CIFAR_P41_N3,NnenumError(Return code: 1),10.8422
+CIFAR_P93_N43,NnenumError(Return code: 1),11.4817
+CIFAR_P29_N5,outofmemory,161.894
+CIFAR_P17_N19,NnenumError(Return code: 1),10.0717
+CIFAR_P11_N47,NnenumError(Return code: 1),10.6077
+CIFAR_P0_N7,NnenumError(Return code: 1),13.4068
+CIFAR_P32_N9,NnenumError(Return code: 1),15.3554
+CIFAR_P43_N31,NnenumError(Return code: 1),11.9814
+CIFAR_P18_N13,outofmemory,81.252
+CIFAR_P17_N17,outofmemory,64.605
+CIFAR_P62_N15,outofmemory,209.99
+CIFAR_P89_N38,NnenumError(Return code: 1),8.8181
+CIFAR_P59_N18,outofmemory,93.714
+CIFAR_P99_N31,NnenumError(Return code: 1),12.2644
+CIFAR_P93_N37,NnenumError(Return code: 1),10.6281
+CIFAR_P7_N9,NnenumError(Return code: 1),14.7793
+CIFAR_P66_N26,NnenumError(Return code: 1),12.6903
+CIFAR_P43_N19,NnenumError(Return code: 1),11.3219
+CIFAR_P51_N13,outofmemory,90.218
+CIFAR_P31_N29,NnenumError(Return code: 1),10.612
+CIFAR_P40_N15,outofmemory,163.459
+CIFAR_P56_N38,NnenumError(Return code: 1),12.3975
+CIFAR_P47_N3,NnenumError(Return code: 1),9.649
+CIFAR_P74_N42,outofmemory,86.696
+CIFAR_P98_N12,NnenumError(Return code: 1),10.1401
+CIFAR_P93_N8,NnenumError(Return code: 1),10.2305
+CIFAR_P38_N43,NnenumError(Return code: 1),10.785
+CIFAR_P56_N13,outofmemory,86.829
+CIFAR_P89_N4,unsat,172.0576
+CIFAR_P23_N19,NnenumError(Return code: 1),12.6661
+CIFAR_P92_N7,NnenumError(Return code: 1),11.2059
+CIFAR_P96_N34,outofmemory,92.856
+CIFAR_P54_N8,NnenumError(Return code: 1),9.1493
+CIFAR_P64_N3,NnenumError(Return code: 1),8.7744
+CIFAR_P18_N25,outofmemory,114.884
+CIFAR_P32_N28,NnenumError(Return code: 1),9.2246
+CIFAR_P9_N47,NnenumError(Return code: 1),7.5226
+CIFAR_P83_N25,outofmemory,123.072
+CIFAR_P85_N45,NnenumError(Return code: 1),8.8728
+CIFAR_P59_N38,NnenumError(Return code: 1),9.3256
+CIFAR_P15_N35,NnenumError(Return code: 1),8.4873
+CIFAR_P17_N46,NnenumError(Return code: 1),11.6724
+CIFAR_P61_N19,NnenumError(Return code: 1),9.0832
+CIFAR_P33_N19,NnenumError(Return code: 1),11.6329
+CIFAR_P73_N35,NnenumError(Return code: 1),12.7654
+CIFAR_P44_N37,NnenumError(Return code: 1),11.632
+CIFAR_P59_N22,NnenumError(Return code: 1),13.4718
+CIFAR_P77_N27,NnenumError(Return code: 1),14.1845
+CIFAR_P26_N31,NnenumError(Return code: 1),14.0149
+CIFAR_P26_N34,outofmemory,88.833
+CIFAR_P42_N28,NnenumError(Return code: 1),12.9523
+CIFAR_P57_N45,NnenumError(Return code: 1),12.8685
+CIFAR_P61_N20,NnenumError(Return code: 1),6.6096
+CIFAR_P10_N4,outofmemory,99.535
+CIFAR_P33_N45,NnenumError(Return code: 1),6.9823
+CIFAR_P68_N29,NnenumError(Return code: 1),7.939
+CIFAR_P50_N22,NnenumError(Return code: 1),6.8844
+CIFAR_P3_N32,outofmemory,107.309
+CIFAR_P64_N34,outofmemory,91.326
+CIFAR_P4_N14,NnenumError(Return code: 1),9.1348
+CIFAR_P80_N13,outofmemory,82.787
+CIFAR_P38_N8,NnenumError(Return code: 1),9.2285
+CIFAR_P94_N13,unsat,138.5155
+CIFAR_P50_N12,NnenumError(Return code: 1),9.435
+CIFAR_P71_N21,NnenumError(Return code: 1),10.9868
+CIFAR_P28_N35,NnenumError(Return code: 1),10.5284
+CIFAR_P63_N34,outofmemory,77.565
+CIFAR_P39_N28,NnenumError(Return code: 1),12.5408
+CIFAR_P97_N23,NnenumError(Return code: 1),12.8941
+CIFAR_P9_N6,NnenumError(Return code: 1),12.7298
+CIFAR_P53_N20,NnenumError(Return code: 1),13.293
+CIFAR_P72_N42,outofmemory,70.86
+CIFAR_P70_N21,NnenumError(Return code: 1),13.2521
+CIFAR_P20_N5,outofmemory,98.053
+CIFAR_P47_N41,NnenumError(Return code: 1),13.4841
+CIFAR_P26_N28,NnenumError(Return code: 1),6.8834
+CIFAR_P20_N25,outofmemory,174.256
+CIFAR_P62_N30,NnenumError(Return code: 1),7.4668
+CIFAR_P25_N4,unsat,182.017
+CIFAR_P95_N34,outofmemory,89.126
+CIFAR_P22_N44,NnenumError(Return code: 1),7.1634
+CIFAR_P84_N4,outofmemory,98.165
+CIFAR_P75_N6,NnenumError(Return code: 1),11.8834
+CIFAR_P84_N21,NnenumError(Return code: 1),10.1093
+CIFAR_P84_N18,unsat,154.2548
+CIFAR_P47_N27,NnenumError(Return code: 1),10.9249
+CIFAR_P37_N7,NnenumError(Return code: 1),12.247
+CIFAR_P36_N28,NnenumError(Return code: 1),11.4895
+CIFAR_P92_N21,NnenumError(Return code: 1),11.4921
+CIFAR_P34_N3,NnenumError(Return code: 1),11.6595
+CIFAR_P77_N23,NnenumError(Return code: 1),12.5125
+CIFAR_P57_N7,NnenumError(Return code: 1),12.2975
+CIFAR_P79_N20,NnenumError(Return code: 1),13.5574
+CIFAR_P29_N2,outofmemory,284.447
+CIFAR_P48_N21,NnenumError(Return code: 1),12.6766
+CIFAR_P5_N19,NnenumError(Return code: 1),12.1485
+CIFAR_P21_N12,NnenumError(Return code: 1),11.7117
+CIFAR_P59_N34,outofmemory,110.851
+CIFAR_P76_N37,NnenumError(Return code: 1),8.7443
+CIFAR_P1_N3,NnenumError(Return code: 1),6.7873
+CIFAR_P92_N15,outofmemory,152.964
+CIFAR_P95_N9,NnenumError(Return code: 1),13.8287
+CIFAR_P19_N37,NnenumError(Return code: 1),10.3623
+CIFAR_P96_N1,NnenumError(Return code: 1),9.8636
+CIFAR_P13_N13,outofmemory,120.571
+CIFAR_P51_N32,outofmemory,104.949
+CIFAR_P60_N41,NnenumError(Return code: 1),10.139
+CIFAR_P80_N28,NnenumError(Return code: 1),10.7975
+CIFAR_P4_N21,NnenumError(Return code: 1),11.7787
+CIFAR_P5_N35,NnenumError(Return code: 1),11.016
+CIFAR_P34_N21,NnenumError(Return code: 1),11.2853
+CIFAR_P48_N6,NnenumError(Return code: 1),14.3392
+CIFAR_P82_N6,NnenumError(Return code: 1),12.9327
+CIFAR_P11_N24,NnenumError(Return code: 1),12.4741
+CIFAR_P40_N9,NnenumError(Return code: 1),15.8823
+CIFAR_P78_N43,NnenumError(Return code: 1),12.8502
+CIFAR_P98_N28,NnenumError(Return code: 1),12.3765
+CIFAR_P88_N30,NnenumError(Return code: 1),13.1338
+CIFAR_P35_N42,unsat,117.7798
+CIFAR_P14_N25,outofmemory,125.942
+CIFAR_P37_N27,NnenumError(Return code: 1),8.6127
+CIFAR_P7_N4,outofmemory,167.955
+CIFAR_P53_N33,NnenumError(Return code: 1),9.0725
+CIFAR_P83_N46,NnenumError(Return code: 1),8.7133
+CIFAR_P1_N31,NnenumError(Return code: 1),9.6271
+CIFAR_P42_N47,NnenumError(Return code: 1),7.9182
+CIFAR_P18_N30,NnenumError(Return code: 1),8.9146
+CIFAR_P89_N34,outofmemory,109.31
+CIFAR_P4_N38,NnenumError(Return code: 1),11.709
+CIFAR_P14_N29,NnenumError(Return code: 1),11.8656
+CIFAR_P57_N9,NnenumError(Return code: 1),14.294
+CIFAR_P60_N14,NnenumError(Return code: 1),12.2028
+CIFAR_P58_N14,NnenumError(Return code: 1),12.2984
+CIFAR_P26_N42,outofmemory,204.283
+CIFAR_P51_N23,NnenumError(Return code: 1),12.7874
+CIFAR_P83_N34,outofmemory,93.064
+CIFAR_P34_N6,NnenumError(Return code: 1),12.261
+CIFAR_P37_N9,NnenumError(Return code: 1),15.0128
+CIFAR_P98_N20,NnenumError(Return code: 1),13.0203
+CIFAR_P39_N12,NnenumError(Return code: 1),10.1523
+CIFAR_P37_N14,NnenumError(Return code: 1),9.6708
+CIFAR_P97_N2,outofmemory,355.72
+CIFAR_P97_N17,outofmemory,160.7
+CIFAR_P32_N6,NnenumError(Return code: 1),8.6831
+CIFAR_P60_N9,NnenumError(Return code: 1),11.7432
+CIFAR_P6_N24,NnenumError(Return code: 1),8.2922
+CIFAR_P47_N31,NnenumError(Return code: 1),8.9493
+CIFAR_P51_N8,NnenumError(Return code: 1),9.207
+CIFAR_P97_N43,NnenumError(Return code: 1),10.5008
+CIFAR_P5_N44,NnenumError(Return code: 1),11.1158
+CIFAR_P36_N24,NnenumError(Return code: 1),10.5331
+CIFAR_P52_N13,outofmemory,165.486
+CIFAR_P78_N19,NnenumError(Return code: 1),9.8912
+CIFAR_P26_N7,NnenumError(Return code: 1),10.2797
+CIFAR_P63_N14,NnenumError(Return code: 1),9.4805
+CIFAR_P53_N42,outofmemory,119.956
+CIFAR_P56_N27,NnenumError(Return code: 1),11.953
+CIFAR_P88_N19,NnenumError(Return code: 1),11.7863
+CIFAR_P86_N9,NnenumError(Return code: 1),14.2001
+CIFAR_P92_N3,NnenumError(Return code: 1),10.7916
+CIFAR_P94_N18,outofmemory,163.806
+CIFAR_P58_N46,NnenumError(Return code: 1),11.494
+CIFAR_P16_N14,NnenumError(Return code: 1),9.9119
+CIFAR_P73_N4,unsat,227.2841
+CIFAR_P96_N45,NnenumError(Return code: 1),10.462
+CIFAR_P20_N45,NnenumError(Return code: 1),10.1938
+CIFAR_P1_N41,NnenumError(Return code: 1),11.3302
+CIFAR_P12_N15,outofmemory,221.244
+CIFAR_P54_N33,NnenumError(Return code: 1),10.5644
+CIFAR_P3_N17,outofmemory,98.501
+CIFAR_P52_N27,NnenumError(Return code: 1),9.3393
+CIFAR_P58_N34,outofmemory,214.585
+CIFAR_P53_N19,NnenumError(Return code: 1),10.088
+CIFAR_P44_N8,NnenumError(Return code: 1),10.0481
+CIFAR_P69_N32,outofmemory,106.313
+CIFAR_P79_N32,outofmemory,106.019
+CIFAR_P20_N26,NnenumError(Return code: 1),11.5888
+CIFAR_P23_N6,NnenumError(Return code: 1),11.7908
+CIFAR_P13_N21,NnenumError(Return code: 1),12.7049
+CIFAR_P28_N7,NnenumError(Return code: 1),12.0722
+CIFAR_P92_N16,NnenumError(Return code: 1),9.2986
+CIFAR_P16_N37,NnenumError(Return code: 1),10.9108
+CIFAR_P20_N41,NnenumError(Return code: 1),13.2475
+CIFAR_P8_N2,outofmemory,169.161
+CIFAR_P47_N2,outofmemory,166.113
+CIFAR_P16_N33,NnenumError(Return code: 1),11.6239
+CIFAR_P60_N8,NnenumError(Return code: 1),9.9075
+CIFAR_P37_N12,NnenumError(Return code: 1),11.1518
+CIFAR_P58_N23,NnenumError(Return code: 1),12.2396
+CIFAR_P19_N46,NnenumError(Return code: 1),12.2817
+CIFAR_P73_N6,NnenumError(Return code: 1),12.9166
+CIFAR_P15_N17,outofmemory,108.311
+CIFAR_P42_N21,NnenumError(Return code: 1),12.1986
+CIFAR_P93_N45,NnenumError(Return code: 1),13.893
+CIFAR_P14_N41,NnenumError(Return code: 1),14.5028
+CIFAR_P0_N12,NnenumError(Return code: 1),12.7803
+CIFAR_P43_N46,NnenumError(Return code: 1),13.9609
+CIFAR_P2_N29,NnenumError(Return code: 1),11.107
+CIFAR_P11_N21,NnenumError(Return code: 1),14.0285
+CIFAR_P64_N5,outofmemory,209.961
+CIFAR_P45_N33,NnenumError(Return code: 1),14.2165
+CIFAR_P96_N20,NnenumError(Return code: 1),12.5928
+CIFAR_P28_N42,outofmemory,127.737
+CIFAR_P24_N8,NnenumError(Return code: 1),10.6742
+CIFAR_P21_N2,unsat,254.9303
+CIFAR_P73_N19,NnenumError(Return code: 1),9.8733
+CIFAR_P82_N22,NnenumError(Return code: 1),9.2289
+CIFAR_P99_N21,NnenumError(Return code: 1),10.8573
+CIFAR_P82_N1,NnenumError(Return code: 1),10.2988
+CIFAR_P12_N44,NnenumError(Return code: 1),10.9139
+CIFAR_P54_N21,NnenumError(Return code: 1),9.7743
+CIFAR_P68_N33,NnenumError(Return code: 1),9.9883
+CIFAR_P83_N27,NnenumError(Return code: 1),8.6502
+CIFAR_P29_N4,outofmemory,198.281
+CIFAR_P73_N31,NnenumError(Return code: 1),9.9461
+CIFAR_P92_N12,NnenumError(Return code: 1),9.1426
+CIFAR_P18_N14,NnenumError(Return code: 1),11.0521
+CIFAR_P86_N41,NnenumError(Return code: 1),11.046
+CIFAR_P73_N46,NnenumError(Return code: 1),11.9414
+CIFAR_P76_N23,NnenumError(Return code: 1),11.3592
+CIFAR_P37_N45,NnenumError(Return code: 1),11.8479
+CIFAR_P81_N24,NnenumError(Return code: 1),13.055
+CIFAR_P22_N1,NnenumError(Return code: 1),13.6367
+CIFAR_P45_N31,NnenumError(Return code: 1),13.6559
+CIFAR_P67_N4,unsat,217.8007
+CIFAR_P71_N9,NnenumError(Return code: 1),13.5783
+CIFAR_P9_N14,NnenumError(Return code: 1),10.0722
+CIFAR_P5_N16,NnenumError(Return code: 1),9.2061
+CIFAR_P8_N46,NnenumError(Return code: 1),10.5633
+CIFAR_P12_N13,outofmemory,101.573
+CIFAR_P50_N1,NnenumError(Return code: 1),10.0635
+CIFAR_P97_N22,NnenumError(Return code: 1),10.6894
+CIFAR_P51_N35,NnenumError(Return code: 1),10.4363
+CIFAR_P4_N30,NnenumError(Return code: 1),12.1807
+CIFAR_P31_N22,NnenumError(Return code: 1),11.2346
+CIFAR_P30_N3,NnenumError(Return code: 1),10.1739
+CIFAR_P9_N9,NnenumError(Return code: 1),13.796
+CIFAR_P70_N42,unsat,144.3122
+CIFAR_P94_N43,NnenumError(Return code: 1),11.4861
+CIFAR_P20_N3,NnenumError(Return code: 1),10.6688
+CIFAR_P99_N29,NnenumError(Return code: 1),10.7301
+CIFAR_P66_N24,NnenumError(Return code: 1),11.8293
+CIFAR_P2_N3,NnenumError(Return code: 1),11.2205
+CIFAR_P62_N20,NnenumError(Return code: 1),11.8226
+CIFAR_P41_N27,NnenumError(Return code: 1),12.8663
+CIFAR_P76_N44,NnenumError(Return code: 1),13.6969
+CIFAR_P43_N30,NnenumError(Return code: 1),10.9338
+CIFAR_P54_N42,outofmemory,118.049
+CIFAR_P69_N43,NnenumError(Return code: 1),11.0472
+CIFAR_P18_N32,outofmemory,109.52
+CIFAR_P25_N30,NnenumError(Return code: 1),11.5806
+CIFAR_P26_N26,NnenumError(Return code: 1),12.2366
+CIFAR_P71_N1,NnenumError(Return code: 1),11.9375
+CIFAR_P6_N9,NnenumError(Return code: 1),15.3378
+CIFAR_P83_N33,NnenumError(Return code: 1),9.5614
+CIFAR_P81_N12,NnenumError(Return code: 1),9.7798
+CIFAR_P25_N32,unsat,178.2949
+CIFAR_P95_N8,NnenumError(Return code: 1),10.4294
+CIFAR_P4_N26,NnenumError(Return code: 1),11.4528
+CIFAR_P39_N42,outofmemory,145.766
+CIFAR_P47_N28,NnenumError(Return code: 1),13.9834
+CIFAR_P21_N13,outofmemory,160.005
+CIFAR_P16_N41,NnenumError(Return code: 1),12.7509
+CIFAR_P27_N12,NnenumError(Return code: 1),11.9667
+CIFAR_P8_N8,NnenumError(Return code: 1),12.4611
+CIFAR_P93_N25,outofmemory,149.986
+CIFAR_P32_N44,NnenumError(Return code: 1),13.0663
+CIFAR_P34_N20,NnenumError(Return code: 1),12.1039
+CIFAR_P60_N47,NnenumError(Return code: 1),10.5476
+CIFAR_P54_N14,NnenumError(Return code: 1),12.104
+CIFAR_P33_N20,NnenumError(Return code: 1),11.866
+CIFAR_P41_N19,NnenumError(Return code: 1),11.4633
+CIFAR_P43_N43,NnenumError(Return code: 1),12.6138
+CIFAR_P32_N21,NnenumError(Return code: 1),12.7197
+CIFAR_P64_N25,outofmemory,151.061
+CIFAR_P19_N15,outofmemory,173.642
+CIFAR_P81_N29,NnenumError(Return code: 1),9.6063
+CIFAR_P53_N5,outofmemory,458.459
+CIFAR_P4_N41,NnenumError(Return code: 1),12.2733
+CIFAR_P92_N43,NnenumError(Return code: 1),11.981
+CIFAR_P5_N47,NnenumError(Return code: 1),10.4567
+CIFAR_P11_N44,NnenumError(Return code: 1),12.5837
+CIFAR_P19_N34,outofmemory,170.443
+CIFAR_P25_N17,unsat,170.6761
+CIFAR_P45_N2,outofmemory,183.279
+CIFAR_P91_N35,NnenumError(Return code: 1),12.9568
+CIFAR_P45_N5,outofmemory,176.728
+CIFAR_P71_N25,outofmemory,251.734
+CIFAR_P58_N31,NnenumError(Return code: 1),14.0645
+CIFAR_P79_N28,NnenumError(Return code: 1),14.2354
+CIFAR_P34_N37,NnenumError(Return code: 1),14.1361
+CIFAR_P28_N41,NnenumError(Return code: 1),14.4338
+CIFAR_P25_N23,NnenumError(Return code: 1),14.0228
+CIFAR_P42_N5,outofmemory,398.272
+CIFAR_P55_N23,NnenumError(Return code: 1),14.1103
+CIFAR_P9_N18,outofmemory,140.907
+CIFAR_P43_N15,outofmemory,204.27
+CIFAR_P46_N47,NnenumError(Return code: 1),13.6111
+CIFAR_P28_N12,NnenumError(Return code: 1),12.3468
+CIFAR_P70_N15,unsat,352.2343
+CIFAR_P1_N2,outofmemory,207.675
+CIFAR_P3_N27,NnenumError(Return code: 1),12.9679
+CIFAR_P88_N27,NnenumError(Return code: 1),11.0017
+CIFAR_P75_N41,NnenumError(Return code: 1),13.9701
+CIFAR_P16_N34,outofmemory,195.659
+CIFAR_P22_N29,NnenumError(Return code: 1),11.0254
+CIFAR_P41_N33,NnenumError(Return code: 1),14.8034
+CIFAR_P71_N32,outofmemory,219.93
+CIFAR_P88_N45,NnenumError(Return code: 1),15.4473
+CIFAR_P63_N6,NnenumError(Return code: 1),15.5161
+CIFAR_P4_N29,NnenumError(Return code: 1),13.7486
+CIFAR_P91_N34,outofmemory,146.902
+CIFAR_P61_N22,NnenumError(Return code: 1),14.2417
+CIFAR_P41_N42,outofmemory,155.88
+CIFAR_P44_N17,outofmemory,189.417
+CIFAR_P32_N30,NnenumError(Return code: 1),14.0207
+CIFAR_P78_N22,NnenumError(Return code: 1),12.3991
+CIFAR_P54_N6,NnenumError(Return code: 1),13.0088
+CIFAR_P91_N46,NnenumError(Return code: 1),12.6944
+CIFAR_P94_N24,NnenumError(Return code: 1),14.8869
+CIFAR_P86_N42,unsat,167.3056
+CIFAR_P96_N26,NnenumError(Return code: 1),11.4477
+CIFAR_P87_N4,outofmemory,140.105
+CIFAR_P58_N38,NnenumError(Return code: 1),12.3859
+CIFAR_P21_N41,NnenumError(Return code: 1),13.5608
+CIFAR_P58_N16,NnenumError(Return code: 1),12.1233
+CIFAR_P50_N8,NnenumError(Return code: 1),12.8596
+CIFAR_P33_N31,NnenumError(Return code: 1),12.8985
+CIFAR_P2_N19,NnenumError(Return code: 1),11.5793
+CIFAR_P91_N13,outofmemory,178.09
+CIFAR_P25_N14,NnenumError(Return code: 1),14.4376
+CIFAR_P10_N42,outofmemory,127.329
+CIFAR_P66_N30,NnenumError(Return code: 1),14.137
+CIFAR_P64_N14,NnenumError(Return code: 1),13.3069
+CIFAR_P49_N6,NnenumError(Return code: 1),12.237
+CIFAR_P45_N9,NnenumError(Return code: 1),15.4166
+CIFAR_P48_N18,outofmemory,141.369
+CIFAR_P95_N21,NnenumError(Return code: 1),14.8219
+CIFAR_P28_N34,outofmemory,137.182
+CIFAR_P94_N15,outofmemory,439.974
+CIFAR_P57_N12,NnenumError(Return code: 1),11.6347
+CIFAR_P66_N14,NnenumError(Return code: 1),13.3122
+CIFAR_P85_N2,outofmemory,208.037
+CIFAR_P18_N2,outofmemory,208.615
+CIFAR_P42_N41,NnenumError(Return code: 1),13.2915
+CIFAR_P75_N19,NnenumError(Return code: 1),12.7856
+CIFAR_P10_N20,NnenumError(Return code: 1),14.2402
+CIFAR_P5_N23,NnenumError(Return code: 1),13.796
+CIFAR_P11_N45,NnenumError(Return code: 1),15.2868
+CIFAR_P64_N42,outofmemory,146.109
+CIFAR_P33_N23,NnenumError(Return code: 1),15.7693
+CIFAR_P18_N21,NnenumError(Return code: 1),15.335
+CIFAR_P90_N26,NnenumError(Return code: 1),13.9771
+CIFAR_P92_N42,outofmemory,131.31
+CIFAR_P95_N42,outofmemory,179.876
+CIFAR_P78_N5,outofmemory,268.693
+CIFAR_P20_N9,NnenumError(Return code: 1),19.6601
+CIFAR_P9_N17,outofmemory,130.4
+CIFAR_P30_N42,outofmemory,172.011
+CIFAR_P43_N42,outofmemory,134.807
+CIFAR_P9_N41,NnenumError(Return code: 1),14.339
+CIFAR_P57_N16,NnenumError(Return code: 1),12.4535
+CIFAR_P5_N41,NnenumError(Return code: 1),13.9664
+CIFAR_P67_N45,NnenumError(Return code: 1),14.1957
+CIFAR_P61_N28,NnenumError(Return code: 1),14.4857
+CIFAR_P56_N18,outofmemory,154.58
+CIFAR_P85_N25,outofmemory,203.575
+CIFAR_P84_N22,NnenumError(Return code: 1),13.6461
+CIFAR_P5_N30,NnenumError(Return code: 1),14.3625
+CIFAR_P61_N2,outofmemory,205.553
+CIFAR_P78_N44,NnenumError(Return code: 1),14.3744
+CIFAR_P79_N23,NnenumError(Return code: 1),14.522
+CIFAR_P1_N22,NnenumError(Return code: 1),12.6033
+CIFAR_P17_N27,NnenumError(Return code: 1),12.7339
+CIFAR_P13_N18,outofmemory,146.665
+CIFAR_P29_N20,NnenumError(Return code: 1),14.5128
+CIFAR_P32_N42,outofmemory,258.255
+CIFAR_P1_N25,outofmemory,200.467
+CIFAR_P68_N14,NnenumError(Return code: 1),15.6447
+CIFAR_P38_N16,NnenumError(Return code: 1),12.2404
+CIFAR_P37_N21,NnenumError(Return code: 1),13.1061
+CIFAR_P65_N18,unsat,225.9294
+CIFAR_P50_N21,NnenumError(Return code: 1),15.3939
+CIFAR_P25_N33,NnenumError(Return code: 1),16.2062
+CIFAR_P96_N17,outofmemory,154.806
+CIFAR_P41_N41,NnenumError(Return code: 1),15.9211
+CIFAR_P36_N47,NnenumError(Return code: 1),14.0662
+CIFAR_P13_N27,NnenumError(Return code: 1),14.0548
+CIFAR_P88_N15,outofmemory,211.166
+CIFAR_P60_N38,NnenumError(Return code: 1),15.8802
+CIFAR_P29_N16,NnenumError(Return code: 1),13.7123
+CIFAR_P29_N27,NnenumError(Return code: 1),13.8057
+CIFAR_P24_N24,NnenumError(Return code: 1),16.1357
+CIFAR_P24_N27,NnenumError(Return code: 1),13.3115
+CIFAR_P57_N17,outofmemory,179.084
+CIFAR_P91_N15,outofmemory,216.297
+CIFAR_P8_N44,NnenumError(Return code: 1),14.1328
+CIFAR_P5_N38,NnenumError(Return code: 1),14.9329
+CIFAR_P44_N45,NnenumError(Return code: 1),14.8768
+CIFAR_P51_N25,outofmemory,200.882
+CIFAR_P28_N46,NnenumError(Return code: 1),15.4984
+CIFAR_P21_N47,NnenumError(Return code: 1),13.9115
+CIFAR_P20_N7,NnenumError(Return code: 1),14.3963
+CIFAR_P51_N18,outofmemory,205.038
+CIFAR_P84_N2,unsat,390.9768
+CIFAR_P83_N45,NnenumError(Return code: 1),15.997
+CIFAR_P33_N14,NnenumError(Return code: 1),15.613
+CIFAR_P48_N38,NnenumError(Return code: 1),14.382
+CIFAR_P90_N9,NnenumError(Return code: 1),20.1107
+CIFAR_P11_N8,NnenumError(Return code: 1),14.6814
+CIFAR_P57_N26,NnenumError(Return code: 1),15.6644
+CIFAR_P55_N42,outofmemory,142.128
+CIFAR_P58_N7,NnenumError(Return code: 1),16.4215
+CIFAR_P73_N17,outofmemory,141.581
+CIFAR_P39_N23,NnenumError(Return code: 1),17.068
+CIFAR_P30_N44,NnenumError(Return code: 1),15.2708
+CIFAR_P29_N47,NnenumError(Return code: 1),12.8114
+CIFAR_P82_N27,NnenumError(Return code: 1),12.3625
+CIFAR_P24_N23,NnenumError(Return code: 1),13.3669
+CIFAR_P58_N1,NnenumError(Return code: 1),13.311
+CIFAR_P61_N43,NnenumError(Return code: 1),13.587
+CIFAR_P66_N42,outofmemory,140.918
+CIFAR_P3_N41,NnenumError(Return code: 1),14.4951
+CIFAR_P43_N27,NnenumError(Return code: 1),13.5749
+CIFAR_P49_N2,outofmemory,353.72
+CIFAR_P61_N18,outofmemory,230.307
+CIFAR_P18_N15,outofmemory,260.647
+CIFAR_P15_N30,NnenumError(Return code: 1),14.637
+CIFAR_P52_N33,NnenumError(Return code: 1),14.3493
+CIFAR_P32_N35,NnenumError(Return code: 1),13.5628
+CIFAR_P23_N32,outofmemory,150.491
+CIFAR_P43_N8,NnenumError(Return code: 1),13.1418
+CIFAR_P79_N44,NnenumError(Return code: 1),14.5911
+CIFAR_P67_N13,unsat,233.8957
+CIFAR_P2_N47,NnenumError(Return code: 1),15.4365
+CIFAR_P86_N22,NnenumError(Return code: 1),15.5872
+CIFAR_P64_N24,NnenumError(Return code: 1),17.8414
+CIFAR_P37_N16,NnenumError(Return code: 1),14.5971
+CIFAR_P29_N35,NnenumError(Return code: 1),15.1855
+CIFAR_P55_N17,outofmemory,146.974
+CIFAR_P50_N45,NnenumError(Return code: 1),16.7159
+CIFAR_P29_N30,NnenumError(Return code: 1),17.6465
+CIFAR_P61_N31,NnenumError(Return code: 1),17.9209
+CIFAR_P45_N12,NnenumError(Return code: 1),16.1807
+CIFAR_P15_N31,NnenumError(Return code: 1),16.0033
+CIFAR_P31_N13,outofmemory,153.632
+CIFAR_P74_N25,outofmemory,366.752
+CIFAR_P6_N45,NnenumError(Return code: 1),14.6052
+CIFAR_P10_N3,NnenumError(Return code: 1),14.0262
+CIFAR_P10_N12,NnenumError(Return code: 1),14.6799
+CIFAR_P13_N29,NnenumError(Return code: 1),14.7244
+CIFAR_P22_N16,NnenumError(Return code: 1),15.1929
+CIFAR_P81_N5,outofmemory,217.96
+CIFAR_P71_N28,NnenumError(Return code: 1),16.5167
+CIFAR_P25_N41,NnenumError(Return code: 1),17.1251
+CIFAR_P45_N21,NnenumError(Return code: 1),16.2712
+CIFAR_P5_N46,NnenumError(Return code: 1),16.9576
+CIFAR_P70_N44,NnenumError(Return code: 1),16.1507
+CIFAR_P58_N47,NnenumError(Return code: 1),12.9221
+CIFAR_P70_N27,NnenumError(Return code: 1),15.0358
+CIFAR_P71_N30,NnenumError(Return code: 1),18.1164
+CIFAR_P87_N34,outofmemory,156.71
+CIFAR_P72_N26,NnenumError(Return code: 1),16.2786
+CIFAR_P90_N6,NnenumError(Return code: 1),16.2956
+CIFAR_P67_N6,NnenumError(Return code: 1),13.9902
+CIFAR_P0_N2,outofmemory,266.711
+CIFAR_P38_N29,NnenumError(Return code: 1),11.6528
+CIFAR_P29_N33,NnenumError(Return code: 1),13.4625
+CIFAR_P22_N38,NnenumError(Return code: 1),14.0933
+CIFAR_P23_N17,outofmemory,139.328
+CIFAR_P13_N17,outofmemory,144.048
+CIFAR_P14_N22,NnenumError(Return code: 1),13.5483
+CIFAR_P85_N28,NnenumError(Return code: 1),14.3403
+CIFAR_P37_N25,outofmemory,209.979
+CIFAR_P9_N24,NnenumError(Return code: 1),15.8836
+CIFAR_P35_N34,unsat,249.6946
+CIFAR_P42_N9,NnenumError(Return code: 1),20.5449
+CIFAR_P46_N45,NnenumError(Return code: 1),16.3716
+CIFAR_P81_N9,NnenumError(Return code: 1),19.836
+CIFAR_P53_N7,NnenumError(Return code: 1),15.1593
+CIFAR_P60_N18,outofmemory,154.881
+CIFAR_P86_N29,NnenumError(Return code: 1),14.267
+CIFAR_P1_N4,outofmemory,163.557
+CIFAR_P21_N26,NnenumError(Return code: 1),16.2617
+CIFAR_P66_N28,NnenumError(Return code: 1),15.7341
+CIFAR_P31_N25,outofmemory,202.951
+CIFAR_P6_N26,NnenumError(Return code: 1),14.1072
+CIFAR_P1_N15,outofmemory,226.917
+CIFAR_P87_N22,NnenumError(Return code: 1),13.8202
+CIFAR_P75_N15,unsat,381.8239
+CIFAR_P83_N22,NnenumError(Return code: 1),14.2173
+CIFAR_P66_N20,NnenumError(Return code: 1),15.3715
+CIFAR_P11_N17,outofmemory,145.447
+CIFAR_P24_N20,NnenumError(Return code: 1),14.9593
+CIFAR_P54_N5,outofmemory,293.758
+CIFAR_P68_N4,outofmemory,179.611
+CIFAR_P77_N35,NnenumError(Return code: 1),14.3845
+CIFAR_P14_N18,outofmemory,164.325
+CIFAR_P53_N9,NnenumError(Return code: 1),22.0566
+CIFAR_P79_N30,NnenumError(Return code: 1),18.3655
+CIFAR_P50_N13,outofmemory,185.327
+CIFAR_P18_N35,NnenumError(Return code: 1),13.4387
+CIFAR_P20_N6,NnenumError(Return code: 1),23.5519
+CIFAR_P2_N27,NnenumError(Return code: 1),22.7206
+CIFAR_P41_N37,NnenumError(Return code: 1),16.6005
+CIFAR_P79_N33,NnenumError(Return code: 1),16.5338
+CIFAR_P43_N25,outofmemory,209.106
+CIFAR_P53_N45,NnenumError(Return code: 1),16.2325
+CIFAR_P11_N7,NnenumError(Return code: 1),14.9644
+CIFAR_P35_N16,NnenumError(Return code: 1),14.2546
+CIFAR_P38_N47,NnenumError(Return code: 1),12.8813
+CIFAR_P7_N27,NnenumError(Return code: 1),13.1019
+CIFAR_P80_N12,NnenumError(Return code: 1),13.1719
+CIFAR_P99_N8,NnenumError(Return code: 1),12.2553
+CIFAR_P5_N1,NnenumError(Return code: 1),12.4716
+CIFAR_P2_N25,outofmemory,218.182
+CIFAR_P61_N35,NnenumError(Return code: 1),14.6464
+CIFAR_P44_N43,NnenumError(Return code: 1),14.4307
+CIFAR_P65_N3,NnenumError(Return code: 1),13.4443
+CIFAR_P78_N33,NnenumError(Return code: 1),14.066
+CIFAR_P0_N43,NnenumError(Return code: 1),14.2686
+CIFAR_P33_N30,NnenumError(Return code: 1),14.7975
+CIFAR_P1_N45,NnenumError(Return code: 1),15.0806
+CIFAR_P87_N24,NnenumError(Return code: 1),14.3524
+CIFAR_P68_N35,NnenumError(Return code: 1),13.4789
+CIFAR_P62_N25,outofmemory,270.554
+CIFAR_P34_N17,outofmemory,129.92
+CIFAR_P80_N45,NnenumError(Return code: 1),13.9881
+CIFAR_P57_N18,outofmemory,178.82
+CIFAR_P81_N47,NnenumError(Return code: 1),13.1078
+CIFAR_P83_N9,NnenumError(Return code: 1),18.7639
+CIFAR_P13_N31,NnenumError(Return code: 1),15.136
+CIFAR_P77_N9,NnenumError(Return code: 1),20.0485
+CIFAR_P2_N2,outofmemory,217.77
+CIFAR_P85_N27,NnenumError(Return code: 1),13.6867
+CIFAR_P9_N13,outofmemory,150.476
+CIFAR_P59_N14,NnenumError(Return code: 1),16.1606
+CIFAR_P64_N41,NnenumError(Return code: 1),15.7268
+CIFAR_P24_N3,NnenumError(Return code: 1),14.7679
+CIFAR_P79_N47,NnenumError(Return code: 1),12.935
+CIFAR_P86_N15,unsat,377.8138
+CIFAR_P26_N15,outofmemory,261.797
+CIFAR_P31_N27,NnenumError(Return code: 1),13.1123
+CIFAR_P95_N29,NnenumError(Return code: 1),13.2298
+CIFAR_P8_N26,NnenumError(Return code: 1),16.03
+CIFAR_P67_N24,NnenumError(Return code: 1),15.3281
+CIFAR_P70_N7,NnenumError(Return code: 1),13.8971
+CIFAR_P68_N30,NnenumError(Return code: 1),13.0322
+CIFAR_P89_N9,NnenumError(Return code: 1),19.1942
+CIFAR_P87_N42,outofmemory,162.394
+CIFAR_P12_N8,NnenumError(Return code: 1),13.2502
+CIFAR_P25_N34,unsat,223.4489
+CIFAR_P74_N17,outofmemory,174.972
+CIFAR_P81_N41,NnenumError(Return code: 1),15.8981
+CIFAR_P33_N1,NnenumError(Return code: 1),14.2334
+CIFAR_P83_N31,NnenumError(Return code: 1),15.5654
+CIFAR_P36_N6,NnenumError(Return code: 1),15.7549
+CIFAR_P98_N32,outofmemory,262.224
+CIFAR_P58_N6,NnenumError(Return code: 1),14.2302
+CIFAR_P87_N31,NnenumError(Return code: 1),14.4883
+CIFAR_P30_N30,NnenumError(Return code: 1),15.4759
+CIFAR_P8_N16,NnenumError(Return code: 1),13.9907
+CIFAR_P94_N37,NnenumError(Return code: 1),13.4282
+CIFAR_P12_N14,NnenumError(Return code: 1),13.8346
+CIFAR_P19_N20,NnenumError(Return code: 1),13.4024
+CIFAR_P33_N38,NnenumError(Return code: 1),12.4772
+CIFAR_P76_N30,NnenumError(Return code: 1),13.7956
+CIFAR_P59_N42,outofmemory,148.849
+CIFAR_P89_N35,NnenumError(Return code: 1),12.6453
+CIFAR_P43_N26,NnenumError(Return code: 1),13.3849
+CIFAR_P10_N19,NnenumError(Return code: 1),12.2424
+CIFAR_P3_N23,NnenumError(Return code: 1),13.2227
+CIFAR_P59_N19,NnenumError(Return code: 1),11.4432
+CIFAR_P4_N35,NnenumError(Return code: 1),11.871
+CIFAR_P60_N22,NnenumError(Return code: 1),11.6693
+CIFAR_P8_N34,outofmemory,77.31
+CIFAR_P11_N4,unsat,153.1666
+CIFAR_P30_N28,NnenumError(Return code: 1),13.2955
+CIFAR_P65_N26,NnenumError(Return code: 1),15.2991
+CIFAR_P95_N44,NnenumError(Return code: 1),13.1452
+CIFAR_P97_N7,NnenumError(Return code: 1),15.2142
+CIFAR_P98_N24,NnenumError(Return code: 1),14.3152
+CIFAR_P7_N24,NnenumError(Return code: 1),15.4862
+CIFAR_P49_N4,outofmemory,58.188
+CIFAR_P11_N27,NnenumError(Return code: 1),12.9195
+CIFAR_P31_N19,NnenumError(Return code: 1),14.1393
+CIFAR_P5_N34,outofmemory,58.094
+CIFAR_P31_N46,NnenumError(Return code: 1),15.6792
+CIFAR_P39_N32,outofmemory,76.557
+CIFAR_P48_N42,outofmemory,51.86
+CIFAR_P63_N5,outofmemory,233.988
+CIFAR_P87_N30,NnenumError(Return code: 1),14.3224
+CIFAR_P55_N2,outofmemory,75.045
+CIFAR_P28_N38,NnenumError(Return code: 1),14.1287
+CIFAR_P53_N24,NnenumError(Return code: 1),15.7191
+CIFAR_P23_N14,NnenumError(Return code: 1),15.5593
+CIFAR_P89_N42,outofmemory,71.916
+CIFAR_P72_N32,outofmemory,75.761
+CIFAR_P76_N45,NnenumError(Return code: 1),15.5217
+CIFAR_P45_N26,NnenumError(Return code: 1),6.4714
+CIFAR_P50_N23,NnenumError(Return code: 1),6.5679
+CIFAR_P60_N45,NnenumError(Return code: 1),6.4817
+CIFAR_P97_N38,NnenumError(Return code: 1),7.0803
+CIFAR_P72_N47,NnenumError(Return code: 1),12.1361
+CIFAR_P20_N29,NnenumError(Return code: 1),12.0537
+CIFAR_P43_N22,NnenumError(Return code: 1),12.0625
+CIFAR_P57_N29,NnenumError(Return code: 1),11.8703
+CIFAR_P77_N2,outofmemory,115.565
+CIFAR_P38_N38,NnenumError(Return code: 1),13.0072
+CIFAR_P41_N21,NnenumError(Return code: 1),12.7176
+CIFAR_P66_N25,outofmemory,108.102
+CIFAR_P22_N47,NnenumError(Return code: 1),12.7468
+CIFAR_P78_N9,NnenumError(Return code: 1),15.2677
+CIFAR_P10_N47,NnenumError(Return code: 1),12.3131
+CIFAR_P78_N37,NnenumError(Return code: 1),12.7336
+CIFAR_P20_N34,outofmemory,77.368
+CIFAR_P1_N26,NnenumError(Return code: 1),14.4215
+CIFAR_P91_N31,NnenumError(Return code: 1),13.0976
+CIFAR_P99_N25,outofmemory,95.908
+CIFAR_P6_N19,NnenumError(Return code: 1),12.8568
+CIFAR_P47_N37,NnenumError(Return code: 1),13.6826
+CIFAR_P90_N35,NnenumError(Return code: 1),6.719
+CIFAR_P33_N29,NnenumError(Return code: 1),6.4297
+CIFAR_P60_N35,NnenumError(Return code: 1),7.2157
+CIFAR_P80_N42,outofmemory,107.32
+CIFAR_P22_N30,NnenumError(Return code: 1),13.0996
+CIFAR_P26_N13,outofmemory,135.455
+CIFAR_P2_N31,NnenumError(Return code: 1),12.6492
+CIFAR_P76_N34,outofmemory,85.358
+CIFAR_P97_N41,NnenumError(Return code: 1),13.4263
+CIFAR_P59_N27,NnenumError(Return code: 1),11.83
+CIFAR_P65_N4,outofmemory,123.178
+CIFAR_P23_N37,NnenumError(Return code: 1),12.6659
+CIFAR_P81_N1,NnenumError(Return code: 1),12.467
+CIFAR_P94_N28,NnenumError(Return code: 1),11.3123
+CIFAR_P70_N37,NnenumError(Return code: 1),12.4094
+CIFAR_P17_N34,outofmemory,75.805
+CIFAR_P51_N31,NnenumError(Return code: 1),12.2469
+CIFAR_P63_N47,NnenumError(Return code: 1),11.4626
+CIFAR_P31_N35,NnenumError(Return code: 1),11.4063
+CIFAR_P83_N43,NnenumError(Return code: 1),12.5082
+CIFAR_P9_N38,NnenumError(Return code: 1),11.5703
+CIFAR_P61_N34,outofmemory,84.452
+CIFAR_P32_N41,NnenumError(Return code: 1),8.0876
+CIFAR_P18_N43,NnenumError(Return code: 1),7.9978
+CIFAR_P66_N15,outofmemory,104.703
+CIFAR_P90_N13,outofmemory,78.106
+CIFAR_P62_N24,NnenumError(Return code: 1),11.2314
+CIFAR_P29_N25,outofmemory,178.536
+CIFAR_P84_N31,NnenumError(Return code: 1),10.9452
+CIFAR_P12_N22,NnenumError(Return code: 1),9.7562
+CIFAR_P38_N44,NnenumError(Return code: 1),11.5963
+CIFAR_P75_N37,NnenumError(Return code: 1),11.6844
+CIFAR_P26_N1,NnenumError(Return code: 1),10.8978
+CIFAR_P0_N34,outofmemory,94.018
+CIFAR_P34_N33,NnenumError(Return code: 1),10.5145
+CIFAR_P36_N9,NnenumError(Return code: 1),13.1033
+CIFAR_P46_N28,NnenumError(Return code: 1),11.1897
+CIFAR_P99_N15,outofmemory,157.019
+CIFAR_P37_N23,NnenumError(Return code: 1),10.4402
+CIFAR_P78_N35,NnenumError(Return code: 1),11.0046
+CIFAR_P21_N9,NnenumError(Return code: 1),13.8884
+CIFAR_P1_N9,NnenumError(Return code: 1),15.1138
+CIFAR_P81_N30,NnenumError(Return code: 1),13.4355
+CIFAR_P89_N43,NnenumError(Return code: 1),12.7202
+CIFAR_P92_N22,NnenumError(Return code: 1),12.39
+CIFAR_P64_N16,NnenumError(Return code: 1),9.7898
+CIFAR_P55_N41,NnenumError(Return code: 1),8.3782
+CIFAR_P74_N22,NnenumError(Return code: 1),7.3402
+CIFAR_P8_N22,NnenumError(Return code: 1),6.6774
+CIFAR_P26_N4,outofmemory,81.616
+CIFAR_P23_N47,NnenumError(Return code: 1),6.7779
+CIFAR_P70_N6,NnenumError(Return code: 1),7.3355
+CIFAR_P80_N20,NnenumError(Return code: 1),8.701
+CIFAR_P97_N27,NnenumError(Return code: 1),6.7282
+CIFAR_P24_N29,NnenumError(Return code: 1),8.4448
+CIFAR_P17_N35,NnenumError(Return code: 1),8.767
+CIFAR_P94_N6,NnenumError(Return code: 1),9.1884
+CIFAR_P3_N44,NnenumError(Return code: 1),9.1817
+CIFAR_P25_N26,NnenumError(Return code: 1),9.5927
+CIFAR_P23_N21,NnenumError(Return code: 1),11.083
+CIFAR_P28_N31,NnenumError(Return code: 1),8.5724
+CIFAR_P30_N9,NnenumError(Return code: 1),12.8781
+CIFAR_P13_N9,NnenumError(Return code: 1),15.274
+CIFAR_P16_N17,outofmemory,97.399
+CIFAR_P48_N17,outofmemory,74.796
+CIFAR_P40_N2,outofmemory,328.295
+CIFAR_P73_N26,NnenumError(Return code: 1),12.0871
+CIFAR_P7_N13,outofmemory,117.595
+CIFAR_P30_N22,NnenumError(Return code: 1),10.3108
+CIFAR_P49_N23,NnenumError(Return code: 1),10.9222
+CIFAR_P75_N7,NnenumError(Return code: 1),10.1524
+CIFAR_P87_N32,outofmemory,87.056
+CIFAR_P59_N47,NnenumError(Return code: 1),6.5655
+CIFAR_P49_N34,outofmemory,96.598
+CIFAR_P98_N19,NnenumError(Return code: 1),7.4827
+CIFAR_P74_N13,outofmemory,84.372
+CIFAR_P25_N35,NnenumError(Return code: 1),8.9688
+CIFAR_P42_N1,NnenumError(Return code: 1),9.1953
+CIFAR_P90_N29,NnenumError(Return code: 1),8.3765
+CIFAR_P43_N9,NnenumError(Return code: 1),13.6226
+CIFAR_P13_N19,NnenumError(Return code: 1),8.9386
+CIFAR_P31_N3,NnenumError(Return code: 1),9.34
+CIFAR_P23_N33,NnenumError(Return code: 1),12.1391
+CIFAR_P46_N17,outofmemory,94.381
+CIFAR_P69_N6,NnenumError(Return code: 1),11.5467
+CIFAR_P18_N37,NnenumError(Return code: 1),11.4501
+CIFAR_P15_N45,NnenumError(Return code: 1),13.142
+CIFAR_P44_N35,NnenumError(Return code: 1),12.4867
+CIFAR_P85_N18,outofmemory,108.436
+CIFAR_P90_N41,NnenumError(Return code: 1),13.7112
+CIFAR_P29_N22,NnenumError(Return code: 1),12.1776
+CIFAR_P47_N4,outofmemory,93.458
+CIFAR_P48_N43,NnenumError(Return code: 1),13.8381
+CIFAR_P98_N2,unsat,255.3029
+CIFAR_P18_N22,NnenumError(Return code: 1),7.7276
+CIFAR_P88_N37,NnenumError(Return code: 1),9.2186
+CIFAR_P6_N37,NnenumError(Return code: 1),9.4437
+CIFAR_P16_N18,outofmemory,122.336
+CIFAR_P33_N18,outofmemory,159.82
+CIFAR_P69_N24,NnenumError(Return code: 1),9.3054
+CIFAR_P35_N38,NnenumError(Return code: 1),9.2401
+CIFAR_P38_N7,NnenumError(Return code: 1),8.3032
+CIFAR_P49_N47,NnenumError(Return code: 1),8.151
+CIFAR_P11_N37,NnenumError(Return code: 1),9.8286
+CIFAR_P48_N47,NnenumError(Return code: 1),10.9631
+CIFAR_P54_N41,NnenumError(Return code: 1),13.7503
+CIFAR_P84_N46,NnenumError(Return code: 1),13.1078
+CIFAR_P40_N17,outofmemory,192.012
+CIFAR_P41_N8,NnenumError(Return code: 1),12.6301
+CIFAR_P39_N6,NnenumError(Return code: 1),14.1258
+CIFAR_P21_N43,NnenumError(Return code: 1),13.748
+CIFAR_P88_N41,NnenumError(Return code: 1),13.9284
+CIFAR_P88_N46,NnenumError(Return code: 1),13.8339
+CIFAR_P22_N2,outofmemory,141.58
+CIFAR_P40_N18,outofmemory,96.865
+CIFAR_P52_N25,outofmemory,185.699
+CIFAR_P33_N26,NnenumError(Return code: 1),10.6183
+CIFAR_P91_N6,NnenumError(Return code: 1),11.9693
+CIFAR_P68_N43,NnenumError(Return code: 1),11.6618
+CIFAR_P48_N3,NnenumError(Return code: 1),11.4057
+CIFAR_P39_N38,NnenumError(Return code: 1),10.498
+CIFAR_P33_N46,NnenumError(Return code: 1),11.1675
+CIFAR_P95_N47,NnenumError(Return code: 1),9.271
+CIFAR_P34_N45,NnenumError(Return code: 1),10.6064
+CIFAR_P8_N27,NnenumError(Return code: 1),12.813
+CIFAR_P77_N15,outofmemory,179.717
+CIFAR_P95_N13,outofmemory,115.074
+CIFAR_P31_N30,NnenumError(Return code: 1),13.6881
+CIFAR_P43_N29,NnenumError(Return code: 1),11.5707
+CIFAR_P36_N33,NnenumError(Return code: 1),12.9208
+CIFAR_P4_N16,NnenumError(Return code: 1),11.546
+CIFAR_P18_N27,NnenumError(Return code: 1),12.4206
+CIFAR_P36_N31,NnenumError(Return code: 1),11.3688
+CIFAR_P94_N5,outofmemory,289.695
+CIFAR_P92_N23,NnenumError(Return code: 1),10.0724
+CIFAR_P10_N1,NnenumError(Return code: 1),8.3536
+CIFAR_P29_N46,NnenumError(Return code: 1),9.2756
+CIFAR_P1_N14,NnenumError(Return code: 1),11.482
+CIFAR_P36_N45,NnenumError(Return code: 1),9.7418
+CIFAR_P8_N30,NnenumError(Return code: 1),10.2684
+CIFAR_P56_N6,NnenumError(Return code: 1),9.4118
+CIFAR_P97_N15,outofmemory,421.16
+CIFAR_P35_N27,NnenumError(Return code: 1),9.5154
+CIFAR_P55_N33,NnenumError(Return code: 1),11.3885
+CIFAR_P65_N43,NnenumError(Return code: 1),11.2984
+CIFAR_P98_N38,NnenumError(Return code: 1),11.7926
+CIFAR_P67_N12,NnenumError(Return code: 1),10.1218
+CIFAR_P85_N13,outofmemory,105.418
+CIFAR_P32_N12,NnenumError(Return code: 1),10.5435
+CIFAR_P33_N13,outofmemory,126.76
+CIFAR_P36_N14,NnenumError(Return code: 1),12.267
+CIFAR_P67_N5,outofmemory,322.34
+CIFAR_P24_N9,NnenumError(Return code: 1),14.8013
+CIFAR_P65_N12,NnenumError(Return code: 1),11.1287
+CIFAR_P43_N20,NnenumError(Return code: 1),10.5615
+CIFAR_P58_N43,NnenumError(Return code: 1),11.2082
+CIFAR_P99_N35,NnenumError(Return code: 1),10.8063
+CIFAR_P52_N38,NnenumError(Return code: 1),8.9962
+CIFAR_P39_N14,NnenumError(Return code: 1),9.9852
+CIFAR_P77_N26,NnenumError(Return code: 1),9.7343
+CIFAR_P57_N43,NnenumError(Return code: 1),8.6556
+CIFAR_P2_N34,outofmemory,105.39
+CIFAR_P48_N4,outofmemory,115.899
+CIFAR_P31_N12,NnenumError(Return code: 1),8.2178
+CIFAR_P29_N18,outofmemory,116.601
+CIFAR_P93_N6,NnenumError(Return code: 1),11.437
+CIFAR_P7_N34,outofmemory,110.691
+CIFAR_P70_N13,unsat,172.2538
+CIFAR_P75_N44,NnenumError(Return code: 1),11.7378
+CIFAR_P72_N30,NnenumError(Return code: 1),12.3324
+CIFAR_P84_N15,unsat,301.9714
+CIFAR_P10_N7,NnenumError(Return code: 1),11.738
+CIFAR_P91_N9,NnenumError(Return code: 1),15.3371
+CIFAR_P96_N31,NnenumError(Return code: 1),13.4583
+CIFAR_P32_N27,NnenumError(Return code: 1),11.6397
+CIFAR_P38_N25,outofmemory,151.202
+CIFAR_P96_N46,NnenumError(Return code: 1),12.485
+CIFAR_P11_N19,NnenumError(Return code: 1),10.5964
+CIFAR_P68_N8,NnenumError(Return code: 1),10.1984
+CIFAR_P16_N6,NnenumError(Return code: 1),11.2355
+CIFAR_P69_N2,outofmemory,232.667
+CIFAR_P51_N44,NnenumError(Return code: 1),11.152
+CIFAR_P74_N19,NnenumError(Return code: 1),9.907
+CIFAR_P26_N19,NnenumError(Return code: 1),10.5355
+CIFAR_P39_N26,NnenumError(Return code: 1),10.2988
+CIFAR_P58_N28,NnenumError(Return code: 1),11.2258
+CIFAR_P95_N1,NnenumError(Return code: 1),10.3842
+CIFAR_P19_N2,outofmemory,248.11
+CIFAR_P12_N25,outofmemory,236.405
+CIFAR_P89_N15,outofmemory,182.591
+CIFAR_P94_N1,NnenumError(Return code: 1),11.8529
+CIFAR_P20_N19,NnenumError(Return code: 1),12.0194
+CIFAR_P45_N38,NnenumError(Return code: 1),12.9246
+CIFAR_P64_N27,NnenumError(Return code: 1),12.9339
+CIFAR_P64_N37,NnenumError(Return code: 1),13.7283
+CIFAR_P40_N31,NnenumError(Return code: 1),13.959
+CIFAR_P67_N46,NnenumError(Return code: 1),13.371
+CIFAR_P45_N13,outofmemory,119.916
+CIFAR_P69_N19,NnenumError(Return code: 1),11.2606
+CIFAR_P70_N2,unsat,280.2191
+CIFAR_P71_N13,outofmemory,124.624
+CIFAR_P95_N45,NnenumError(Return code: 1),14.5129
+CIFAR_P68_N24,NnenumError(Return code: 1),12.2696
+CIFAR_P1_N6,NnenumError(Return code: 1),12.4729
+CIFAR_P3_N47,NnenumError(Return code: 1),10.5367
+CIFAR_P42_N31,NnenumError(Return code: 1),12.8
+CIFAR_P80_N37,NnenumError(Return code: 1),13.2362
+CIFAR_P97_N29,NnenumError(Return code: 1),10.5045
+CIFAR_P23_N45,NnenumError(Return code: 1),11.5259
+CIFAR_P34_N14,NnenumError(Return code: 1),11.131
+CIFAR_P82_N12,NnenumError(Return code: 1),10.8648
+CIFAR_P96_N35,NnenumError(Return code: 1),10.6951
+CIFAR_P56_N46,NnenumError(Return code: 1),11.4969
+CIFAR_P79_N21,NnenumError(Return code: 1),10.7858
+CIFAR_P96_N38,NnenumError(Return code: 1),11.4232
+CIFAR_P2_N12,NnenumError(Return code: 1),10.5927
+CIFAR_P46_N24,NnenumError(Return code: 1),10.2506
+CIFAR_P64_N22,NnenumError(Return code: 1),7.0364
+CIFAR_P2_N17,outofmemory,100.044
+CIFAR_P6_N31,NnenumError(Return code: 1),10.0639
+CIFAR_P41_N14,NnenumError(Return code: 1),11.3794
+CIFAR_P24_N15,outofmemory,149.952
+CIFAR_P14_N43,NnenumError(Return code: 1),9.9163
+CIFAR_P14_N26,NnenumError(Return code: 1),10.1761
+CIFAR_P27_N37,NnenumError(Return code: 1),10.831
+CIFAR_P13_N37,NnenumError(Return code: 1),10.082
+CIFAR_P51_N19,NnenumError(Return code: 1),10.0928
+CIFAR_P35_N17,unsat,146.3791
+CIFAR_P78_N29,NnenumError(Return code: 1),11.0513
+CIFAR_P17_N7,NnenumError(Return code: 1),11.6851
+CIFAR_P30_N31,NnenumError(Return code: 1),10.5153
+CIFAR_P91_N30,NnenumError(Return code: 1),11.5153
+CIFAR_P12_N43,NnenumError(Return code: 1),11.2126
+CIFAR_P55_N5,outofmemory,142.148
+CIFAR_P92_N47,NnenumError(Return code: 1),8.9763
+CIFAR_P47_N22,NnenumError(Return code: 1),9.1824
+CIFAR_P37_N42,outofmemory,92.699
+CIFAR_P52_N44,NnenumError(Return code: 1),11.9801
+CIFAR_P61_N15,outofmemory,184.514
+CIFAR_P2_N1,NnenumError(Return code: 1),11.397
+CIFAR_P84_N35,NnenumError(Return code: 1),10.0246
+CIFAR_P45_N22,NnenumError(Return code: 1),9.4117
+CIFAR_P70_N23,NnenumError(Return code: 1),10.1163
+CIFAR_P45_N15,outofmemory,161.265
+CIFAR_P71_N7,NnenumError(Return code: 1),10.0028
+CIFAR_P75_N43,NnenumError(Return code: 1),10.2576
+CIFAR_P61_N14,NnenumError(Return code: 1),11.3267
+CIFAR_P93_N5,outofmemory,152.461
+CIFAR_P89_N22,NnenumError(Return code: 1),10.0757
+CIFAR_P59_N15,outofmemory,193.626
+CIFAR_P76_N21,NnenumError(Return code: 1),12.6036
+CIFAR_P86_N24,NnenumError(Return code: 1),12.9395
+CIFAR_P39_N30,NnenumError(Return code: 1),13.2048
+CIFAR_P64_N28,NnenumError(Return code: 1),14.0964
+CIFAR_P36_N12,NnenumError(Return code: 1),10.772
+CIFAR_P7_N28,NnenumError(Return code: 1),12.5199
+CIFAR_P82_N38,NnenumError(Return code: 1),13.1408
+CIFAR_P95_N20,NnenumError(Return code: 1),12.9486
+CIFAR_P31_N26,NnenumError(Return code: 1),11.8408
+CIFAR_P22_N13,unsat,164.81
+CIFAR_P62_N23,NnenumError(Return code: 1),10.175
+CIFAR_P52_N22,NnenumError(Return code: 1),9.044
+CIFAR_P63_N16,NnenumError(Return code: 1),8.6952
+CIFAR_P71_N17,outofmemory,101.668
+CIFAR_P90_N4,outofmemory,121.147
+CIFAR_P91_N21,NnenumError(Return code: 1),9.7814
+CIFAR_P78_N34,outofmemory,157.024
+CIFAR_P18_N24,NnenumError(Return code: 1),10.741
+CIFAR_P78_N1,NnenumError(Return code: 1),11.3439
+CIFAR_P67_N29,NnenumError(Return code: 1),9.3734
+CIFAR_P3_N31,NnenumError(Return code: 1),11.2237
+CIFAR_P39_N46,NnenumError(Return code: 1),12.1451
+CIFAR_P39_N2,outofmemory,209.245
+CIFAR_P88_N33,NnenumError(Return code: 1),10.5575
+CIFAR_P54_N25,outofmemory,229.343
+CIFAR_P28_N17,outofmemory,121.73
+CIFAR_P14_N35,NnenumError(Return code: 1),12.0871
+CIFAR_P65_N32,unsat,178.1821
+CIFAR_P42_N17,outofmemory,120.921
+CIFAR_P41_N32,outofmemory,113.741
+CIFAR_P65_N8,NnenumError(Return code: 1),10.4542
+CIFAR_P9_N15,outofmemory,172.855
+CIFAR_P58_N21,NnenumError(Return code: 1),12.9425
+CIFAR_P62_N34,outofmemory,166.214
+CIFAR_P50_N2,outofmemory,179.941
+CIFAR_P69_N41,NnenumError(Return code: 1),13.7341
+CIFAR_P41_N1,NnenumError(Return code: 1),12.8864
+CIFAR_P12_N33,NnenumError(Return code: 1),12.8213
+CIFAR_P95_N16,NnenumError(Return code: 1),10.6503
+CIFAR_P79_N27,NnenumError(Return code: 1),11.4797
+CIFAR_P65_N13,unsat,169.183
+CIFAR_P90_N12,NnenumError(Return code: 1),12.4234
+CIFAR_P34_N18,outofmemory,156.158
+CIFAR_P52_N35,NnenumError(Return code: 1),14.3421
+CIFAR_P12_N21,NnenumError(Return code: 1),14.9514
+CIFAR_P51_N33,NnenumError(Return code: 1),12.681
+CIFAR_P38_N17,outofmemory,120.709
+CIFAR_P42_N46,NnenumError(Return code: 1),13.1341
+CIFAR_P7_N19,NnenumError(Return code: 1),11.8259
+CIFAR_P49_N28,NnenumError(Return code: 1),10.5278
+CIFAR_P56_N14,NnenumError(Return code: 1),11.6874
+CIFAR_P92_N46,NnenumError(Return code: 1),10.3751
+CIFAR_P97_N9,NnenumError(Return code: 1),14.1344
+CIFAR_P75_N42,unsat,137.88
+CIFAR_P7_N18,outofmemory,114.479
+CIFAR_P6_N16,NnenumError(Return code: 1),9.9709
+CIFAR_P3_N4,unsat,244.5105
+CIFAR_P82_N21,NnenumError(Return code: 1),10.3282
+CIFAR_P76_N46,NnenumError(Return code: 1),11.1981
+CIFAR_P78_N16,NnenumError(Return code: 1),10.4066
+CIFAR_P66_N21,NnenumError(Return code: 1),12.3384
+CIFAR_P65_N25,outofmemory,396.808
+CIFAR_P36_N21,NnenumError(Return code: 1),11.2684
+CIFAR_P69_N8,NnenumError(Return code: 1),10.5628
+CIFAR_P29_N24,NnenumError(Return code: 1),11.8612
+CIFAR_P82_N25,outofmemory,154.833
+CIFAR_P87_N38,NnenumError(Return code: 1),10.5262
+CIFAR_P71_N46,NnenumError(Return code: 1),12.2661
+CIFAR_P13_N22,NnenumError(Return code: 1),10.9655
+CIFAR_P27_N38,NnenumError(Return code: 1),12.3575
+CIFAR_P47_N43,NnenumError(Return code: 1),12.6179
+CIFAR_P98_N44,NnenumError(Return code: 1),11.7154
+CIFAR_P18_N44,NnenumError(Return code: 1),11.5439
+CIFAR_P18_N9,NnenumError(Return code: 1),15.9396
+CIFAR_P4_N3,NnenumError(Return code: 1),11.0044
+CIFAR_P45_N47,NnenumError(Return code: 1),9.7427
+CIFAR_P46_N1,NnenumError(Return code: 1),11.1001
+CIFAR_P60_N25,outofmemory,164.132
+CIFAR_P42_N25,outofmemory,230.152
+CIFAR_P88_N23,NnenumError(Return code: 1),12.3837
+CIFAR_P8_N32,outofmemory,115.598
+CIFAR_P27_N42,outofmemory,125.485
+CIFAR_P66_N16,NnenumError(Return code: 1),11.0825
+CIFAR_P1_N8,NnenumError(Return code: 1),10.9698
+CIFAR_P81_N4,unsat,258.0298
+CIFAR_P4_N20,NnenumError(Return code: 1),12.0501
+CIFAR_P4_N42,outofmemory,113.331
+CIFAR_P37_N41,NnenumError(Return code: 1),14.7059
+CIFAR_P28_N45,NnenumError(Return code: 1),14.1597
+CIFAR_P48_N22,NnenumError(Return code: 1),8.3654
+CIFAR_P74_N4,outofmemory,137.703
+CIFAR_P93_N41,NnenumError(Return code: 1),10.6475
+CIFAR_P14_N3,NnenumError(Return code: 1),10.1766
+CIFAR_P77_N19,NnenumError(Return code: 1),11.841
+CIFAR_P30_N24,NnenumError(Return code: 1),15.0252
+CIFAR_P33_N7,NnenumError(Return code: 1),12.0456
+CIFAR_P13_N6,NnenumError(Return code: 1),12.0909
+CIFAR_P50_N44,NnenumError(Return code: 1),12.1327
+CIFAR_P74_N27,NnenumError(Return code: 1),11.3839
+CIFAR_P6_N23,NnenumError(Return code: 1),10.5012
+CIFAR_P16_N5,outofmemory,290.297
+CIFAR_P65_N14,NnenumError(Return code: 1),11.9819
+CIFAR_P15_N16,NnenumError(Return code: 1),11.1515
+CIFAR_P82_N29,NnenumError(Return code: 1),10.452
+CIFAR_P77_N43,NnenumError(Return code: 1),11.0977
+CIFAR_P9_N34,outofmemory,131.685
+CIFAR_P9_N33,NnenumError(Return code: 1),12.9794
+CIFAR_P77_N12,NnenumError(Return code: 1),11.3305
+CIFAR_P22_N19,NnenumError(Return code: 1),11.8569
+CIFAR_P56_N2,outofmemory,181.119
+CIFAR_P98_N14,NnenumError(Return code: 1),13.6917
+CIFAR_P11_N35,NnenumError(Return code: 1),11.9533
+CIFAR_P83_N37,NnenumError(Return code: 1),13.0894
+CIFAR_P51_N12,NnenumError(Return code: 1),12.0722
+CIFAR_P5_N21,NnenumError(Return code: 1),12.6867
+CIFAR_P12_N17,outofmemory,112.137
+CIFAR_P63_N22,NnenumError(Return code: 1),11.4136
+CIFAR_P69_N45,NnenumError(Return code: 1),13.0441
+CIFAR_P91_N37,NnenumError(Return code: 1),13.2197
+CIFAR_P89_N1,NnenumError(Return code: 1),12.3926
+CIFAR_P52_N16,NnenumError(Return code: 1),11.9369
+CIFAR_P85_N7,NnenumError(Return code: 1),12.7083
+CIFAR_P8_N21,NnenumError(Return code: 1),12.7459
+CIFAR_P2_N16,NnenumError(Return code: 1),10.8806
+CIFAR_P3_N3,NnenumError(Return code: 1),11.5626
+CIFAR_P43_N4,outofmemory,137.328
+CIFAR_P48_N31,NnenumError(Return code: 1),11.6596
+CIFAR_P77_N8,NnenumError(Return code: 1),9.7861
+CIFAR_P85_N5,outofmemory,233.074
+CIFAR_P82_N28,NnenumError(Return code: 1),12.8871
+CIFAR_P2_N38,NnenumError(Return code: 1),12.784
+CIFAR_P77_N28,NnenumError(Return code: 1),12.3988
+CIFAR_P97_N32,outofmemory,140.912
+CIFAR_P57_N13,outofmemory,122.771
+CIFAR_P60_N17,outofmemory,112.624
+CIFAR_P99_N41,NnenumError(Return code: 1),11.5882
+CIFAR_P38_N46,NnenumError(Return code: 1),12.1966
+CIFAR_P33_N24,NnenumError(Return code: 1),11.9841
+CIFAR_P89_N7,NnenumError(Return code: 1),12.3043
+CIFAR_P94_N32,unsat,184.6279
+CIFAR_P81_N28,NnenumError(Return code: 1),12.1373
+CIFAR_P61_N6,NnenumError(Return code: 1),12.2182
+CIFAR_P24_N32,outofmemory,121.938
+CIFAR_P75_N29,NnenumError(Return code: 1),12.5887
+CIFAR_P3_N16,NnenumError(Return code: 1),12.0173
+CIFAR_P13_N2,outofmemory,176.221
+CIFAR_P1_N33,NnenumError(Return code: 1),12.391
+CIFAR_P47_N26,NnenumError(Return code: 1),13.4326
+CIFAR_P38_N19,NnenumError(Return code: 1),11.7514
+CIFAR_P16_N45,NnenumError(Return code: 1),13.358
+CIFAR_P36_N1,NnenumError(Return code: 1),14.5211
+CIFAR_P29_N34,outofmemory,259.821
+CIFAR_P92_N27,NnenumError(Return code: 1),13.357
+CIFAR_P5_N26,NnenumError(Return code: 1),13.4555
+CIFAR_P75_N24,NnenumError(Return code: 1),12.2705
+CIFAR_P70_N14,NnenumError(Return code: 1),13.4655
+CIFAR_P90_N7,NnenumError(Return code: 1),13.1122
+CIFAR_P52_N12,NnenumError(Return code: 1),12.0848
+CIFAR_P71_N41,NnenumError(Return code: 1),13.4804
+CIFAR_P73_N29,NnenumError(Return code: 1),12.3984
+CIFAR_P64_N23,NnenumError(Return code: 1),13.8229
+CIFAR_P18_N17,outofmemory,117.803
+CIFAR_P6_N6,NnenumError(Return code: 1),12.4614
+CIFAR_P0_N45,NnenumError(Return code: 1),15.4571
+CIFAR_P37_N38,NnenumError(Return code: 1),13.6351
+CIFAR_P49_N15,outofmemory,367.922
+CIFAR_P64_N13,outofmemory,148.978
+CIFAR_P70_N20,NnenumError(Return code: 1),12.457
+CIFAR_P83_N20,NnenumError(Return code: 1),12.5523
+CIFAR_P96_N9,NnenumError(Return code: 1),16.3623
+CIFAR_P38_N22,NnenumError(Return code: 1),11.0387
+CIFAR_P66_N34,outofmemory,132.605
+CIFAR_P35_N32,unsat,185.2662
+CIFAR_P27_N26,NnenumError(Return code: 1),13.4047
+CIFAR_P74_N24,NnenumError(Return code: 1),13.6533
+CIFAR_P45_N7,NnenumError(Return code: 1),13.4425
+CIFAR_P19_N12,NnenumError(Return code: 1),11.6833
+CIFAR_P52_N43,NnenumError(Return code: 1),13.068
+CIFAR_P62_N19,NnenumError(Return code: 1),13.3993
+CIFAR_P57_N44,NnenumError(Return code: 1),14.1377
+CIFAR_P63_N1,NnenumError(Return code: 1),13.5878
+CIFAR_P17_N8,NnenumError(Return code: 1),12.1751
+CIFAR_P44_N14,NnenumError(Return code: 1),14.387
+CIFAR_P64_N46,NnenumError(Return code: 1),14.407
+CIFAR_P91_N17,outofmemory,123.31
+CIFAR_P75_N30,NnenumError(Return code: 1),13.5786
+CIFAR_P79_N43,NnenumError(Return code: 1),13.7577
+CIFAR_P41_N24,NnenumError(Return code: 1),12.2161
+CIFAR_P44_N1,NnenumError(Return code: 1),12.1158
+CIFAR_P11_N23,NnenumError(Return code: 1),11.5415
+CIFAR_P12_N1,NnenumError(Return code: 1),11.6003
+CIFAR_P98_N21,NnenumError(Return code: 1),11.9895
+CIFAR_P44_N21,NnenumError(Return code: 1),13.0817
+CIFAR_P33_N8,NnenumError(Return code: 1),10.9066
+CIFAR_P33_N32,outofmemory,125.198
+CIFAR_P38_N5,outofmemory,178.528
+CIFAR_P84_N37,NnenumError(Return code: 1),14.116
+CIFAR_P20_N31,NnenumError(Return code: 1),12.4175
+CIFAR_P21_N38,NnenumError(Return code: 1),12.255
+CIFAR_P27_N18,outofmemory,167.528
+CIFAR_P74_N29,NnenumError(Return code: 1),11.8112
+CIFAR_P47_N45,NnenumError(Return code: 1),14.0452
+CIFAR_P82_N33,NnenumError(Return code: 1),13.2761
+CIFAR_P35_N37,NnenumError(Return code: 1),14.1471
+CIFAR_P45_N29,NnenumError(Return code: 1),11.8624
+CIFAR_P54_N4,unsat,298.67
+CIFAR_P85_N23,NnenumError(Return code: 1),17.8947
+CIFAR_P89_N45,NnenumError(Return code: 1),17.767
+CIFAR_P54_N30,NnenumError(Return code: 1),15.6243
+CIFAR_P99_N2,outofmemory,202.972
+CIFAR_P52_N8,NnenumError(Return code: 1),13.6821
+CIFAR_P76_N28,NnenumError(Return code: 1),15.2703
+CIFAR_P25_N38,NnenumError(Return code: 1),14.619
+CIFAR_P38_N26,NnenumError(Return code: 1),15.5835
+CIFAR_P92_N32,outofmemory,165.912
+CIFAR_P89_N33,NnenumError(Return code: 1),14.4113
+CIFAR_P70_N32,unsat,209.5793
+CIFAR_P26_N29,NnenumError(Return code: 1),12.2171
+CIFAR_P88_N34,outofmemory,140.09
+CIFAR_P26_N20,NnenumError(Return code: 1),13.7121
+CIFAR_P51_N7,NnenumError(Return code: 1),14.9144
+CIFAR_P43_N45,NnenumError(Return code: 1),15.1139
+CIFAR_P69_N31,NnenumError(Return code: 1),14.7295
+CIFAR_P84_N27,NnenumError(Return code: 1),13.8019
+CIFAR_P75_N20,NnenumError(Return code: 1),16.0005
+CIFAR_P98_N13,outofmemory,342.906
+CIFAR_P72_N24,NnenumError(Return code: 1),16.9295
+CIFAR_P25_N47,NnenumError(Return code: 1),14.4852
+CIFAR_P42_N3,NnenumError(Return code: 1),15.101
+CIFAR_P90_N2,outofmemory,208.927
+CIFAR_P22_N14,NnenumError(Return code: 1),15.3068
+CIFAR_P47_N21,NnenumError(Return code: 1),14.3689
+CIFAR_P78_N12,NnenumError(Return code: 1),13.4983
+CIFAR_P61_N23,NnenumError(Return code: 1),14.4515
+CIFAR_P77_N37,NnenumError(Return code: 1),14.1545
+CIFAR_P31_N1,NnenumError(Return code: 1),13.9902
+CIFAR_P37_N31,NnenumError(Return code: 1),14.2353
+CIFAR_P3_N42,outofmemory,151.723
+CIFAR_P92_N9,NnenumError(Return code: 1),18.4463
+CIFAR_P90_N1,NnenumError(Return code: 1),15.3931
+CIFAR_P6_N20,NnenumError(Return code: 1),14.7901
+CIFAR_P54_N18,outofmemory,152.392
+CIFAR_P43_N34,outofmemory,156.401
+CIFAR_P48_N34,outofmemory,188.184
+CIFAR_P91_N18,outofmemory,213.189
+CIFAR_P42_N12,NnenumError(Return code: 1),14.5369
+CIFAR_P55_N18,outofmemory,155.761
+CIFAR_P45_N4,outofmemory,205.267
+CIFAR_P14_N1,NnenumError(Return code: 1),15.973
+CIFAR_P51_N6,NnenumError(Return code: 1),17.3299
+CIFAR_P64_N29,NnenumError(Return code: 1),15.3014
+CIFAR_P45_N24,NnenumError(Return code: 1),17.41
+CIFAR_P82_N34,outofmemory,165.835
+CIFAR_P83_N2,outofmemory,223.197
+CIFAR_P5_N2,outofmemory,481.589
+CIFAR_P1_N19,NnenumError(Return code: 1),12.1062
+CIFAR_P17_N4,outofmemory,178.86
+CIFAR_P57_N20,NnenumError(Return code: 1),13.7752
+CIFAR_P22_N26,NnenumError(Return code: 1),13.6241
+CIFAR_P32_N4,outofmemory,343.417
+CIFAR_P96_N13,outofmemory,184.437
+CIFAR_P0_N37,NnenumError(Return code: 1),15.8129
+CIFAR_P98_N5,outofmemory,376.151
+CIFAR_P93_N44,NnenumError(Return code: 1),14.9968
+CIFAR_P90_N34,outofmemory,159.197
+CIFAR_P5_N4,unsat,299.1148
+CIFAR_P86_N26,NnenumError(Return code: 1),15.7019
+CIFAR_P70_N41,NnenumError(Return code: 1),15.3949
+CIFAR_P58_N32,outofmemory,345.122
+CIFAR_P15_N21,NnenumError(Return code: 1),14.969
+CIFAR_P40_N24,NnenumError(Return code: 1),14.9242
+CIFAR_P84_N32,unsat,215.7405
+CIFAR_P56_N26,NnenumError(Return code: 1),14.6092
+CIFAR_P57_N33,NnenumError(Return code: 1),15.5368
+CIFAR_P97_N19,NnenumError(Return code: 1),13.7983
+CIFAR_P71_N14,NnenumError(Return code: 1),15.191
+CIFAR_P13_N34,outofmemory,208.828
+CIFAR_P50_N19,NnenumError(Return code: 1),12.0659
+CIFAR_P12_N37,NnenumError(Return code: 1),15.8363
+CIFAR_P0_N14,NnenumError(Return code: 1),16.0322
+CIFAR_P6_N13,outofmemory,159.156
+CIFAR_P11_N30,NnenumError(Return code: 1),13.6176
+CIFAR_P46_N7,NnenumError(Return code: 1),13.6438
+CIFAR_P91_N25,outofmemory,276.014
+CIFAR_P22_N22,NnenumError(Return code: 1),11.3011
+CIFAR_P50_N27,NnenumError(Return code: 1),12.8234
+CIFAR_P71_N15,outofmemory,207.243
+CIFAR_P30_N34,outofmemory,139.842
+CIFAR_P18_N7,NnenumError(Return code: 1),13.0248
+CIFAR_P13_N25,outofmemory,191.279
+CIFAR_P0_N31,NnenumError(Return code: 1),13.7966
+CIFAR_P86_N45,NnenumError(Return code: 1),15.0271
+CIFAR_P11_N2,outofmemory,204.373
+CIFAR_P27_N13,outofmemory,141.727
+CIFAR_P58_N2,outofmemory,381.988
+CIFAR_P19_N45,NnenumError(Return code: 1),12.7425
+CIFAR_P83_N42,outofmemory,128.991
+CIFAR_P57_N46,NnenumError(Return code: 1),12.9885
+CIFAR_P8_N20,NnenumError(Return code: 1),12.892
+CIFAR_P19_N35,NnenumError(Return code: 1),11.1074
+CIFAR_P14_N6,NnenumError(Return code: 1),13.5923
+CIFAR_P7_N44,NnenumError(Return code: 1),12.697
+CIFAR_P86_N18,unsat,207.1469
+CIFAR_P56_N8,NnenumError(Return code: 1),11.3345
+CIFAR_P23_N8,NnenumError(Return code: 1),11.4641
+CIFAR_P73_N18,outofmemory,162.868
+CIFAR_P20_N15,outofmemory,277.669
+CIFAR_P5_N3,NnenumError(Return code: 1),12.6067
+CIFAR_P79_N19,NnenumError(Return code: 1),11.0575
+CIFAR_P47_N38,NnenumError(Return code: 1),12.8201
+CIFAR_P87_N21,NnenumError(Return code: 1),13.5063
+CIFAR_P57_N30,NnenumError(Return code: 1),13.0836
+CIFAR_P2_N26,NnenumError(Return code: 1),14.3545
+CIFAR_P12_N19,NnenumError(Return code: 1),13.7026
+CIFAR_P61_N32,outofmemory,55.423
+CIFAR_P18_N45,NnenumError(Return code: 1),13.6311
+CIFAR_P19_N27,NnenumError(Return code: 1),14.0474
+CIFAR_P29_N3,NnenumError(Return code: 1),13.608
+CIFAR_P86_N35,NnenumError(Return code: 1),14.1368
+CIFAR_P38_N27,NnenumError(Return code: 1),13.747
+CIFAR_P62_N9,NnenumError(Return code: 1),14.7111
+CIFAR_P13_N26,NnenumError(Return code: 1),14.2764
+CIFAR_P5_N27,NnenumError(Return code: 1),13.9396
+CIFAR_P27_N35,NnenumError(Return code: 1),13.3611
+CIFAR_P92_N29,NnenumError(Return code: 1),12.8118
+CIFAR_P13_N14,NnenumError(Return code: 1),14.3772
+CIFAR_P89_N18,outofmemory,56.611
+CIFAR_P94_N41,NnenumError(Return code: 1),13.652
+CIFAR_P55_N12,NnenumError(Return code: 1),14.0811
+CIFAR_P56_N24,NnenumError(Return code: 1),13.8384
+CIFAR_P10_N45,NnenumError(Return code: 1),14.1904
+CIFAR_P27_N22,NnenumError(Return code: 1),13.7721
+CIFAR_P63_N46,NnenumError(Return code: 1),13.9657
+CIFAR_P35_N26,NnenumError(Return code: 1),14.0928
+CIFAR_P45_N8,NnenumError(Return code: 1),13.3745
+CIFAR_P66_N37,NnenumError(Return code: 1),13.8849
+CIFAR_P77_N45,NnenumError(Return code: 1),12.6691
+CIFAR_P37_N47,NnenumError(Return code: 1),12.3653
+CIFAR_P78_N27,NnenumError(Return code: 1),12.7437
+CIFAR_P13_N43,NnenumError(Return code: 1),13.1194
+CIFAR_P68_N6,NnenumError(Return code: 1),12.6731
+CIFAR_P37_N6,NnenumError(Return code: 1),12.168
+CIFAR_P27_N1,NnenumError(Return code: 1),12.2859
+CIFAR_P86_N3,NnenumError(Return code: 1),12.1561
+CIFAR_P51_N27,NnenumError(Return code: 1),12.294
+CIFAR_P84_N28,NnenumError(Return code: 1),13.2541
+CIFAR_P68_N20,NnenumError(Return code: 1),12.5992
+CIFAR_P25_N20,NnenumError(Return code: 1),12.5597
+CIFAR_P35_N35,NnenumError(Return code: 1),12.6809
+CIFAR_P45_N28,NnenumError(Return code: 1),13.0852
+CIFAR_P75_N22,NnenumError(Return code: 1),12.2989
+CIFAR_P50_N17,outofmemory,48.555
+CIFAR_P76_N16,NnenumError(Return code: 1),11.9844
+CIFAR_P81_N18,outofmemory,51.78
+CIFAR_P20_N38,NnenumError(Return code: 1),12.4979
+CIFAR_P86_N12,NnenumError(Return code: 1),10.6057
+CIFAR_P32_N46,NnenumError(Return code: 1),11.4988
+CIFAR_P52_N14,NnenumError(Return code: 1),12.1607
+CIFAR_P68_N13,outofmemory,45.377
+CIFAR_P53_N27,NnenumError(Return code: 1),13.1181
+CIFAR_P10_N18,outofmemory,69.49
+CIFAR_P6_N12,NnenumError(Return code: 1),12.5374
+CIFAR_P13_N7,NnenumError(Return code: 1),12.5608
+CIFAR_P14_N37,NnenumError(Return code: 1),12.9399
+CIFAR_P24_N7,NnenumError(Return code: 1),12.9861
+CIFAR_P23_N27,NnenumError(Return code: 1),12.1025
+CIFAR_P63_N2,outofmemory,133.402
+CIFAR_P47_N24,NnenumError(Return code: 1),12.9915
+CIFAR_P5_N29,NnenumError(Return code: 1),12.6256
+CIFAR_P39_N5,outofmemory,153.624
+CIFAR_P94_N34,outofmemory,87.063
+CIFAR_P69_N44,NnenumError(Return code: 1),12.9978
+CIFAR_P47_N13,outofmemory,65.774
+CIFAR_P1_N7,NnenumError(Return code: 1),12.6703
+CIFAR_P49_N38,NnenumError(Return code: 1),13.157
+CIFAR_P29_N41,NnenumError(Return code: 1),13.5476
+CIFAR_P70_N47,NnenumError(Return code: 1),12.0826
+CIFAR_P88_N31,NnenumError(Return code: 1),11.5581
+CIFAR_P95_N37,NnenumError(Return code: 1),11.9944
+CIFAR_P17_N38,NnenumError(Return code: 1),13.07
+CIFAR_P48_N28,NnenumError(Return code: 1),13.5761
+CIFAR_P41_N7,NnenumError(Return code: 1),11.9785
+CIFAR_P72_N13,outofmemory,55.131
+CIFAR_P50_N4,unsat,153.5738
+CIFAR_P9_N37,NnenumError(Return code: 1),9.6548
+CIFAR_P59_N7,NnenumError(Return code: 1),12.407
+CIFAR_P83_N15,outofmemory,164.798
+CIFAR_P51_N29,NnenumError(Return code: 1),9.5285
+CIFAR_P54_N26,NnenumError(Return code: 1),9.339
+CIFAR_P49_N29,NnenumError(Return code: 1),13.927
+CIFAR_P34_N31,NnenumError(Return code: 1),9.0049
+CIFAR_P20_N17,outofmemory,126.111
+CIFAR_P50_N20,NnenumError(Return code: 1),14.53
+CIFAR_P57_N31,NnenumError(Return code: 1),14.1345
+CIFAR_P63_N30,NnenumError(Return code: 1),14.681
+CIFAR_P46_N3,NnenumError(Return code: 1),13.708
+CIFAR_P14_N23,NnenumError(Return code: 1),12.3349
+CIFAR_P16_N22,NnenumError(Return code: 1),13.453
+CIFAR_P11_N15,outofmemory,113.259
+CIFAR_P37_N28,NnenumError(Return code: 1),14.8994
+CIFAR_P76_N13,outofmemory,93.098
+CIFAR_P19_N33,NnenumError(Return code: 1),12.5615
+CIFAR_P16_N1,NnenumError(Return code: 1),14.0503
+CIFAR_P69_N34,outofmemory,90.403
+CIFAR_P28_N33,NnenumError(Return code: 1),12.3961
+CIFAR_P46_N5,outofmemory,113.277
+CIFAR_P39_N16,NnenumError(Return code: 1),10.8
+CIFAR_P1_N17,outofmemory,92.439
+CIFAR_P54_N12,NnenumError(Return code: 1),12.0114
+CIFAR_P21_N25,outofmemory,194.327
+CIFAR_P72_N23,NnenumError(Return code: 1),11.9316
+CIFAR_P58_N29,NnenumError(Return code: 1),11.0002
+CIFAR_P72_N44,NnenumError(Return code: 1),12.2387
+CIFAR_P57_N38,NnenumError(Return code: 1),12.6005
+CIFAR_P84_N45,NnenumError(Return code: 1),11.9245
+CIFAR_P62_N7,NnenumError(Return code: 1),12.9434
+CIFAR_P66_N22,NnenumError(Return code: 1),11.9653
+CIFAR_P19_N22,NnenumError(Return code: 1),12.4878
+CIFAR_P80_N22,NnenumError(Return code: 1),11.8288
+CIFAR_P99_N12,NnenumError(Return code: 1),12.2315
+CIFAR_P37_N20,NnenumError(Return code: 1),12.2166
+CIFAR_P90_N23,NnenumError(Return code: 1),12.7695
+CIFAR_P63_N18,outofmemory,80.218
+CIFAR_P69_N20,NnenumError(Return code: 1),11.0294
+CIFAR_P84_N24,NnenumError(Return code: 1),11.58
+CIFAR_P26_N12,NnenumError(Return code: 1),14.7997
+CIFAR_P85_N41,NnenumError(Return code: 1),14.6676
+CIFAR_P56_N34,outofmemory,77.35
+CIFAR_P80_N15,outofmemory,159.557
+CIFAR_P98_N37,NnenumError(Return code: 1),11.808
+CIFAR_P8_N15,outofmemory,153.792
+CIFAR_P47_N1,NnenumError(Return code: 1),10.4817
+CIFAR_P26_N2,outofmemory,252.46
+CIFAR_P27_N30,NnenumError(Return code: 1),12.129
+CIFAR_P38_N37,NnenumError(Return code: 1),10.3203
+CIFAR_P45_N43,NnenumError(Return code: 1),10.8135
+CIFAR_P78_N41,NnenumError(Return code: 1),11.1588
+CIFAR_P24_N47,NnenumError(Return code: 1),11.1381
+CIFAR_P78_N46,NnenumError(Return code: 1),11.7303
+CIFAR_P34_N38,NnenumError(Return code: 1),11.9543
+CIFAR_P47_N33,NnenumError(Return code: 1),11.7884
+CIFAR_P35_N4,outofmemory,119.505
+CIFAR_P18_N19,NnenumError(Return code: 1),11.629
+CIFAR_P52_N42,outofmemory,87.355
+CIFAR_P85_N30,NnenumError(Return code: 1),11.5775
+CIFAR_P19_N29,NnenumError(Return code: 1),10.9583
+CIFAR_P59_N21,NnenumError(Return code: 1),12.3613
+CIFAR_P74_N45,NnenumError(Return code: 1),11.0571
+CIFAR_P52_N37,NnenumError(Return code: 1),14.9306
+CIFAR_P78_N28,NnenumError(Return code: 1),14.7828
+CIFAR_P39_N24,NnenumError(Return code: 1),8.3829
+CIFAR_P23_N31,NnenumError(Return code: 1),11.2718
+CIFAR_P99_N26,NnenumError(Return code: 1),12.0415
+CIFAR_P22_N27,NnenumError(Return code: 1),10.9626
+CIFAR_P95_N35,NnenumError(Return code: 1),9.5198
+CIFAR_P79_N2,outofmemory,164.486
+CIFAR_P35_N5,outofmemory,548.677
+CIFAR_P95_N30,NnenumError(Return code: 1),11.8007
+CIFAR_P65_N35,NnenumError(Return code: 1),10.0984
+CIFAR_P27_N7,NnenumError(Return code: 1),12.0823
+CIFAR_P83_N28,NnenumError(Return code: 1),13.7358
+CIFAR_P81_N13,outofmemory,97.004
+CIFAR_P65_N38,NnenumError(Return code: 1),13.716
+CIFAR_P41_N22,NnenumError(Return code: 1),11.9713
+CIFAR_P55_N22,NnenumError(Return code: 1),11.545
+CIFAR_P19_N43,NnenumError(Return code: 1),13.0722
+CIFAR_P74_N6,NnenumError(Return code: 1),12.7048
+CIFAR_P97_N1,NnenumError(Return code: 1),12.4281
+CIFAR_P88_N22,NnenumError(Return code: 1),11.8521
+CIFAR_P70_N30,NnenumError(Return code: 1),13.9533
+CIFAR_P63_N37,NnenumError(Return code: 1),15.9661
+CIFAR_P28_N19,NnenumError(Return code: 1),11.5844
+CIFAR_P79_N31,NnenumError(Return code: 1),8.2953
+CIFAR_P97_N47,NnenumError(Return code: 1),7.3059
+CIFAR_P55_N30,NnenumError(Return code: 1),9.2459
+CIFAR_P30_N32,outofmemory,160.414
+CIFAR_P62_N45,NnenumError(Return code: 1),8.9797
+CIFAR_P30_N13,outofmemory,104.704
+CIFAR_P84_N9,NnenumError(Return code: 1),14.7609
+CIFAR_P78_N31,NnenumError(Return code: 1),9.5459
+CIFAR_P35_N25,outofmemory,585.288
+CIFAR_P6_N42,outofmemory,101.077
+CIFAR_P0_N32,outofmemory,146.31
+CIFAR_P30_N25,outofmemory,145.014
+CIFAR_P84_N26,NnenumError(Return code: 1),13.2524
+CIFAR_P17_N43,NnenumError(Return code: 1),12.3298
+CIFAR_P43_N12,NnenumError(Return code: 1),11.893
+CIFAR_P33_N25,outofmemory,148.708
+CIFAR_P32_N47,NnenumError(Return code: 1),11.1721
+CIFAR_P41_N5,outofmemory,245.451
+CIFAR_P79_N45,NnenumError(Return code: 1),13.2641
+CIFAR_P93_N35,NnenumError(Return code: 1),12.9023
+CIFAR_P2_N18,outofmemory,100.623
+CIFAR_P4_N44,NnenumError(Return code: 1),10.5804
+CIFAR_P86_N16,NnenumError(Return code: 1),8.3094
+CIFAR_P42_N26,NnenumError(Return code: 1),9.1574
+CIFAR_P87_N12,NnenumError(Return code: 1),8.6091
+CIFAR_P48_N7,NnenumError(Return code: 1),9.1244
+CIFAR_P24_N25,outofmemory,144.703
+CIFAR_P93_N38,NnenumError(Return code: 1),8.9185
+CIFAR_P58_N13,outofmemory,256.84
+CIFAR_P95_N28,NnenumError(Return code: 1),11.9502
+CIFAR_P2_N42,outofmemory,107.502
+CIFAR_P65_N37,NnenumError(Return code: 1),11.2938
+CIFAR_P72_N20,NnenumError(Return code: 1),12.7443
+CIFAR_P68_N44,NnenumError(Return code: 1),12.576
+CIFAR_P95_N7,NnenumError(Return code: 1),11.1412
+CIFAR_P40_N28,NnenumError(Return code: 1),11.5824
+CIFAR_P98_N23,NnenumError(Return code: 1),11.2562
+CIFAR_P32_N14,NnenumError(Return code: 1),11.8425
+CIFAR_P97_N13,outofmemory,153.347
+CIFAR_P30_N23,NnenumError(Return code: 1),9.9049
+CIFAR_P23_N20,NnenumError(Return code: 1),9.7677
+CIFAR_P30_N26,NnenumError(Return code: 1),10.9555
+CIFAR_P95_N38,NnenumError(Return code: 1),10.4575
+CIFAR_P63_N45,NnenumError(Return code: 1),10.0173
+CIFAR_P40_N34,outofmemory,223.244
+CIFAR_P16_N20,NnenumError(Return code: 1),10.8452
+CIFAR_P35_N6,NnenumError(Return code: 1),11.5774
+CIFAR_P99_N5,outofmemory,143.864
+CIFAR_P80_N6,NnenumError(Return code: 1),11.2577
+CIFAR_P59_N9,NnenumError(Return code: 1),12.8691
+CIFAR_P10_N28,NnenumError(Return code: 1),10.8205
+CIFAR_P8_N33,NnenumError(Return code: 1),11.7266
+CIFAR_P67_N19,NnenumError(Return code: 1),11.3314
+CIFAR_P63_N20,NnenumError(Return code: 1),12.7175
+CIFAR_P41_N2,outofmemory,181.942
+CIFAR_P68_N32,outofmemory,119.315
+CIFAR_P92_N4,unsat,220.2337
+CIFAR_P83_N44,NnenumError(Return code: 1),10.7427
+CIFAR_P89_N47,NnenumError(Return code: 1),10.7356
+CIFAR_P93_N33,NnenumError(Return code: 1),11.3379
+CIFAR_P63_N32,outofmemory,147.401
+CIFAR_P14_N20,NnenumError(Return code: 1),12.7232
+CIFAR_P85_N3,NnenumError(Return code: 1),11.5436
+CIFAR_P67_N20,NnenumError(Return code: 1),12.3512
+CIFAR_P77_N7,NnenumError(Return code: 1),11.3404
+CIFAR_P53_N37,NnenumError(Return code: 1),11.0902
+CIFAR_P54_N38,NnenumError(Return code: 1),12.701
+CIFAR_P13_N38,NnenumError(Return code: 1),11.9407
+CIFAR_P15_N42,outofmemory,124.696
+CIFAR_P67_N9,NnenumError(Return code: 1),16.0457
+CIFAR_P82_N46,NnenumError(Return code: 1),12.4654
+CIFAR_P1_N34,outofmemory,118.657
+CIFAR_P38_N6,NnenumError(Return code: 1),12.2315
+CIFAR_P90_N24,NnenumError(Return code: 1),10.7333
+CIFAR_P83_N4,outofmemory,119.923
+CIFAR_P29_N26,NnenumError(Return code: 1),9.2517
+CIFAR_P56_N9,NnenumError(Return code: 1),13.185
+CIFAR_P95_N27,NnenumError(Return code: 1),8.6827
+CIFAR_P25_N31,NnenumError(Return code: 1),10.5077
+CIFAR_P10_N41,NnenumError(Return code: 1),11.793
+CIFAR_P1_N24,NnenumError(Return code: 1),11.4349
+CIFAR_P37_N18,outofmemory,111.442
+CIFAR_P26_N5,outofmemory,142.843
+CIFAR_P82_N19,NnenumError(Return code: 1),10.5617
+CIFAR_P26_N43,NnenumError(Return code: 1),9.5586
+CIFAR_P53_N1,NnenumError(Return code: 1),8.7293
+CIFAR_P24_N17,outofmemory,101.275
+CIFAR_P25_N24,NnenumError(Return code: 1),11.4487
+CIFAR_P42_N42,outofmemory,127.251
+CIFAR_P31_N44,NnenumError(Return code: 1),11.8086
+CIFAR_P7_N38,NnenumError(Return code: 1),11.0629
+CIFAR_P70_N5,outofmemory,138.977
+CIFAR_P78_N30,NnenumError(Return code: 1),12.2507
+CIFAR_P45_N6,NnenumError(Return code: 1),11.8326
+CIFAR_P20_N32,outofmemory,126.449
+CIFAR_P86_N6,NnenumError(Return code: 1),11.5883
+CIFAR_P5_N8,NnenumError(Return code: 1),10.8615
+CIFAR_P39_N8,NnenumError(Return code: 1),10.5361
+CIFAR_P65_N27,NnenumError(Return code: 1),10.0773
+CIFAR_P95_N5,outofmemory,149.28
+CIFAR_P71_N18,outofmemory,130.901
+CIFAR_P86_N25,unsat,604.3727
+CIFAR_P56_N47,NnenumError(Return code: 1),9.5462
+CIFAR_P54_N13,outofmemory,107.122
+CIFAR_P32_N26,NnenumError(Return code: 1),11.7721
+CIFAR_P78_N26,NnenumError(Return code: 1),11.9533
+CIFAR_P99_N1,NnenumError(Return code: 1),12.7783
+CIFAR_P43_N32,outofmemory,109.233
+CIFAR_P53_N26,NnenumError(Return code: 1),12.1395
+CIFAR_P89_N17,outofmemory,101.628
+CIFAR_P15_N1,NnenumError(Return code: 1),12.5122
+CIFAR_P34_N46,NnenumError(Return code: 1),11.1105
+CIFAR_P51_N38,NnenumError(Return code: 1),10.9187
+CIFAR_P83_N7,NnenumError(Return code: 1),10.7059
+CIFAR_P17_N12,NnenumError(Return code: 1),11.5798
+CIFAR_P46_N9,NnenumError(Return code: 1),14.2748
+CIFAR_P56_N37,NnenumError(Return code: 1),12.5308
+CIFAR_P39_N7,NnenumError(Return code: 1),10.7677
+CIFAR_P69_N16,NnenumError(Return code: 1),10.184
+CIFAR_P27_N17,outofmemory,109.806
+CIFAR_P74_N31,NnenumError(Return code: 1),10.5137
+CIFAR_P71_N23,NnenumError(Return code: 1),10.4301
+CIFAR_P54_N23,NnenumError(Return code: 1),10.8722
+CIFAR_P8_N43,NnenumError(Return code: 1),9.0163
+CIFAR_P17_N9,NnenumError(Return code: 1),11.076
+CIFAR_P66_N35,NnenumError(Return code: 1),8.7748
+CIFAR_P35_N13,unsat,171.6915
+CIFAR_P99_N17,outofmemory,104.468
+CIFAR_P20_N12,NnenumError(Return code: 1),9.4231
+CIFAR_P39_N13,outofmemory,97.479
+CIFAR_P67_N1,NnenumError(Return code: 1),10.1766
+CIFAR_P19_N31,NnenumError(Return code: 1),10.4767
+CIFAR_P88_N20,NnenumError(Return code: 1),10.186
+CIFAR_P96_N16,NnenumError(Return code: 1),9.5468
+CIFAR_P40_N45,NnenumError(Return code: 1),12.2453
+CIFAR_P50_N16,NnenumError(Return code: 1),10.7623
+CIFAR_P19_N24,NnenumError(Return code: 1),12.2559
+CIFAR_P41_N28,NnenumError(Return code: 1),14.9447
+CIFAR_P52_N41,NnenumError(Return code: 1),14.2729
+CIFAR_P7_N14,NnenumError(Return code: 1),13.6305
+CIFAR_P8_N25,outofmemory,221.273
+CIFAR_P33_N17,outofmemory,113.799
+CIFAR_P66_N13,outofmemory,100.578
+CIFAR_P94_N2,outofmemory,451.121
+CIFAR_P20_N1,NnenumError(Return code: 1),11.308
+CIFAR_P63_N35,NnenumError(Return code: 1),9.2784
+CIFAR_P12_N2,outofmemory,169.756
+CIFAR_P53_N28,NnenumError(Return code: 1),12.075
+CIFAR_P5_N42,outofmemory,178.135
+CIFAR_P93_N28,NnenumError(Return code: 1),12.501
+CIFAR_P50_N14,NnenumError(Return code: 1),12.5979
+CIFAR_P7_N45,NnenumError(Return code: 1),13.0836
+CIFAR_P35_N2,unsat,368.5576
+CIFAR_P97_N5,unsat,636.4603
+CIFAR_P93_N12,NnenumError(Return code: 1),9.9551
+CIFAR_P20_N18,outofmemory,158.979
+CIFAR_P45_N18,outofmemory,132.962
+CIFAR_P71_N12,NnenumError(Return code: 1),10.3708
+CIFAR_P14_N45,NnenumError(Return code: 1),13.6148
+CIFAR_P3_N18,outofmemory,281.48
+CIFAR_P75_N1,NnenumError(Return code: 1),15.827
+CIFAR_P97_N42,outofmemory,177.499
+CIFAR_P45_N16,NnenumError(Return code: 1),13.0117
+CIFAR_P86_N5,unsat,675.1517
+CIFAR_P29_N45,NnenumError(Return code: 1),13.5359
+CIFAR_P99_N34,outofmemory,142.167
+CIFAR_P40_N25,outofmemory,568.386
+CIFAR_P60_N19,NnenumError(Return code: 1),11.8366
+CIFAR_P80_N31,NnenumError(Return code: 1),14.3935
+CIFAR_P58_N20,NnenumError(Return code: 1),14.4502
+CIFAR_P88_N21,NnenumError(Return code: 1),14.11
+CIFAR_P32_N15,outofmemory,251.187
+CIFAR_P11_N13,outofmemory,147.118
+CIFAR_P75_N33,NnenumError(Return code: 1),13.7051
+CIFAR_P77_N32,outofmemory,142.891
+CIFAR_P96_N22,NnenumError(Return code: 1),11.4697
+CIFAR_P24_N44,NnenumError(Return code: 1),13.7187
+CIFAR_P74_N30,NnenumError(Return code: 1),13.4678
+CIFAR_P82_N23,NnenumError(Return code: 1),16.6338
+CIFAR_P12_N27,NnenumError(Return code: 1),15.4872
+CIFAR_P18_N16,NnenumError(Return code: 1),14.8897
+CIFAR_P15_N14,NnenumError(Return code: 1),16.7872
+CIFAR_P12_N28,NnenumError(Return code: 1),14.5234
+CIFAR_P58_N8,NnenumError(Return code: 1),11.8821
+CIFAR_P0_N18,outofmemory,154.997
+CIFAR_P92_N33,NnenumError(Return code: 1),12.6788
+CIFAR_P65_N1,NnenumError(Return code: 1),12.9739
+CIFAR_P65_N15,unsat,379.4152
+CIFAR_P17_N32,outofmemory,154.545
+CIFAR_P71_N33,NnenumError(Return code: 1),15.4514
+CIFAR_P49_N8,NnenumError(Return code: 1),12.662
+CIFAR_P16_N47,NnenumError(Return code: 1),12.1317
+CIFAR_P66_N44,NnenumError(Return code: 1),14.5269
+CIFAR_P67_N44,NnenumError(Return code: 1),15.499
+CIFAR_P3_N1,NnenumError(Return code: 1),14.8775
+CIFAR_P10_N37,NnenumError(Return code: 1),14.7248
+CIFAR_P47_N44,NnenumError(Return code: 1),15.6072
+CIFAR_P66_N6,NnenumError(Return code: 1),13.2837
+CIFAR_P78_N7,NnenumError(Return code: 1),12.9429
+CIFAR_P93_N32,outofmemory,161.975
+CIFAR_P0_N8,NnenumError(Return code: 1),13.1512
+CIFAR_P7_N3,NnenumError(Return code: 1),11.8349
+CIFAR_P89_N28,NnenumError(Return code: 1),13.0038
+CIFAR_P21_N6,NnenumError(Return code: 1),13.1593
+CIFAR_P78_N24,NnenumError(Return code: 1),13.45
+CIFAR_P47_N19,NnenumError(Return code: 1),12.8069
+CIFAR_P35_N19,NnenumError(Return code: 1),12.0965
+CIFAR_P0_N1,NnenumError(Return code: 1),13.5837
+CIFAR_P27_N3,NnenumError(Return code: 1),13.2108
+CIFAR_P85_N14,NnenumError(Return code: 1),15.1796
+CIFAR_P93_N20,NnenumError(Return code: 1),15.3871
+CIFAR_P72_N7,NnenumError(Return code: 1),15.3038
+CIFAR_P75_N34,unsat,227.5268
+CIFAR_P27_N2,outofmemory,257.096
+CIFAR_P79_N15,outofmemory,212.005
+CIFAR_P46_N35,NnenumError(Return code: 1),13.9021
+CIFAR_P59_N43,NnenumError(Return code: 1),14.6481
+CIFAR_P78_N23,NnenumError(Return code: 1),14.2145
+CIFAR_P76_N5,outofmemory,288.541
+CIFAR_P61_N25,outofmemory,200.606
+CIFAR_P22_N31,NnenumError(Return code: 1),16.3815
+CIFAR_P30_N37,NnenumError(Return code: 1),15.9577
+CIFAR_P91_N1,NnenumError(Return code: 1),11.8278
+CIFAR_P24_N4,outofmemory,238.294
+CIFAR_P7_N6,NnenumError(Return code: 1),15.1794
+CIFAR_P86_N13,unsat,201.6088
+CIFAR_P61_N24,NnenumError(Return code: 1),17.4093
+CIFAR_P23_N12,NnenumError(Return code: 1),16.056
+CIFAR_P22_N24,NnenumError(Return code: 1),16.8619
+CIFAR_P28_N47,NnenumError(Return code: 1),14.4456
+CIFAR_P91_N28,NnenumError(Return code: 1),16.61
+CIFAR_P25_N8,NnenumError(Return code: 1),14.6302
+CIFAR_P40_N7,NnenumError(Return code: 1),16.431
+CIFAR_P59_N30,NnenumError(Return code: 1),16.4775
+CIFAR_P77_N6,NnenumError(Return code: 1),14.3813
+CIFAR_P65_N46,NnenumError(Return code: 1),13.6882
+CIFAR_P58_N45,NnenumError(Return code: 1),13.821
+CIFAR_P80_N18,outofmemory,169.215
+CIFAR_P50_N34,outofmemory,174.665
+CIFAR_P26_N41,NnenumError(Return code: 1),13.5193
+CIFAR_P32_N1,NnenumError(Return code: 1),13.6782
+CIFAR_P51_N16,NnenumError(Return code: 1),12.3025
+CIFAR_P75_N26,NnenumError(Return code: 1),14.0226
+CIFAR_P56_N29,NnenumError(Return code: 1),12.3594
+CIFAR_P98_N46,NnenumError(Return code: 1),15.3745
+CIFAR_P97_N12,NnenumError(Return code: 1),13.6612
+CIFAR_P73_N28,NnenumError(Return code: 1),15.1868
+CIFAR_P83_N16,NnenumError(Return code: 1),13.6948
+CIFAR_P72_N14,NnenumError(Return code: 1),15.0742
+CIFAR_P25_N46,NnenumError(Return code: 1),12.8093
+CIFAR_P61_N30,NnenumError(Return code: 1),12.8765
+CIFAR_P48_N9,NnenumError(Return code: 1),15.9276
+CIFAR_P60_N24,NnenumError(Return code: 1),11.8467
+CIFAR_P64_N38,NnenumError(Return code: 1),11.4908
+CIFAR_P57_N14,NnenumError(Return code: 1),12.496
+CIFAR_P2_N20,NnenumError(Return code: 1),11.0253
+CIFAR_P67_N41,NnenumError(Return code: 1),12.4616
+CIFAR_P95_N25,outofmemory,166.129
+CIFAR_P3_N19,NnenumError(Return code: 1),10.8182
+CIFAR_P65_N2,unsat,337.8281
+CIFAR_P1_N35,NnenumError(Return code: 1),11.0909
+CIFAR_P41_N31,NnenumError(Return code: 1),10.8974
+CIFAR_P19_N18,outofmemory,170.813
+CIFAR_P29_N28,NnenumError(Return code: 1),13.1842
+CIFAR_P61_N45,NnenumError(Return code: 1),12.8765
+CIFAR_P64_N35,NnenumError(Return code: 1),11.7821
+CIFAR_P57_N32,outofmemory,131.1
+CIFAR_P82_N13,outofmemory,127.897
+CIFAR_P61_N8,NnenumError(Return code: 1),12.5165
+CIFAR_P82_N43,NnenumError(Return code: 1),13.8233
+CIFAR_P92_N28,NnenumError(Return code: 1),14.1941
+CIFAR_P98_N45,NnenumError(Return code: 1),13.9187
+CIFAR_P39_N15,outofmemory,187.527
+CIFAR_P72_N29,NnenumError(Return code: 1),11.8883
+CIFAR_P1_N32,outofmemory,127.502
+CIFAR_P75_N21,NnenumError(Return code: 1),13.9588
+CIFAR_P12_N35,NnenumError(Return code: 1),13.271
+CIFAR_P56_N5,outofmemory,257.198
+CIFAR_P59_N29,NnenumError(Return code: 1),12.9494
+CIFAR_P85_N38,NnenumError(Return code: 1),14.8214
+CIFAR_P81_N6,NnenumError(Return code: 1),13.7473
+CIFAR_P51_N9,NnenumError(Return code: 1),16.9906
+CIFAR_P16_N27,NnenumError(Return code: 1),10.8687
+CIFAR_P33_N33,NnenumError(Return code: 1),12.1109
+CIFAR_P16_N4,unsat,285.1394
+CIFAR_P84_N12,NnenumError(Return code: 1),11.5402
+CIFAR_P37_N30,NnenumError(Return code: 1),12.4555
+CIFAR_P71_N27,NnenumError(Return code: 1),11.2623
+CIFAR_P55_N21,NnenumError(Return code: 1),12.8298
+CIFAR_P89_N8,NnenumError(Return code: 1),10.9808
+CIFAR_P80_N38,NnenumError(Return code: 1),11.816
+CIFAR_P56_N32,outofmemory,138.001
+CIFAR_P15_N33,NnenumError(Return code: 1),13.478
+CIFAR_P67_N32,unsat,203.9128
+CIFAR_P85_N34,outofmemory,138.334
+CIFAR_P59_N46,NnenumError(Return code: 1),15.2304
+CIFAR_P81_N8,NnenumError(Return code: 1),12.7491
+CIFAR_P83_N26,NnenumError(Return code: 1),14.2779
+CIFAR_P36_N13,outofmemory,154.617
+CIFAR_P4_N33,NnenumError(Return code: 1),15.2031
+CIFAR_P59_N4,outofmemory,152.669
+CIFAR_P31_N7,NnenumError(Return code: 1),16.7657
+CIFAR_P70_N45,NnenumError(Return code: 1),14.9749
+CIFAR_P3_N20,NnenumError(Return code: 1),14.0653
+CIFAR_P40_N29,NnenumError(Return code: 1),12.3161
+CIFAR_P11_N31,NnenumError(Return code: 1),14.4838
+CIFAR_P29_N44,NnenumError(Return code: 1),14.207
+CIFAR_P86_N17,unsat,173.2971
+CIFAR_P91_N19,NnenumError(Return code: 1),13.0817
+CIFAR_P82_N7,NnenumError(Return code: 1),14.1312
+CIFAR_P31_N21,NnenumError(Return code: 1),13.7809
+CIFAR_P65_N22,NnenumError(Return code: 1),13.4207
+CIFAR_P81_N3,NnenumError(Return code: 1),12.3373
+CIFAR_P12_N45,NnenumError(Return code: 1),13.4302
+CIFAR_P53_N13,outofmemory,158.288
+CIFAR_P27_N19,NnenumError(Return code: 1),12.361
+CIFAR_P66_N3,NnenumError(Return code: 1),12.4726
+CIFAR_P9_N5,outofmemory,191.372
+CIFAR_P16_N3,NnenumError(Return code: 1),12.5797
+CIFAR_P27_N41,NnenumError(Return code: 1),14.2426
+CIFAR_P79_N16,NnenumError(Return code: 1),12.8231
+CIFAR_P42_N35,NnenumError(Return code: 1),13.602
+CIFAR_P77_N25,outofmemory,184.562
+CIFAR_P67_N8,NnenumError(Return code: 1),12.0909
+CIFAR_P36_N4,outofmemory,154.964
+CIFAR_P35_N8,NnenumError(Return code: 1),12.6463
+CIFAR_P65_N28,NnenumError(Return code: 1),14.4019
+CIFAR_P95_N3,NnenumError(Return code: 1),12.4993
+CIFAR_P0_N38,NnenumError(Return code: 1),16.533
+CIFAR_P63_N38,NnenumError(Return code: 1),16.1278
+CIFAR_P39_N34,outofmemory,148.136
+CIFAR_P5_N13,outofmemory,202.983
+CIFAR_P38_N3,NnenumError(Return code: 1),13.5057
+CIFAR_P27_N5,outofmemory,258.15
+CIFAR_P37_N37,NnenumError(Return code: 1),13.72
+CIFAR_P40_N41,NnenumError(Return code: 1),13.4621
+CIFAR_P87_N45,NnenumError(Return code: 1),13.1481
+CIFAR_P79_N9,NnenumError(Return code: 1),16.0706
+CIFAR_P23_N13,outofmemory,138.335
+CIFAR_P46_N37,NnenumError(Return code: 1),12.4882
+CIFAR_P57_N24,NnenumError(Return code: 1),13.2063
+CIFAR_P56_N33,NnenumError(Return code: 1),13.9158
+CIFAR_P50_N35,NnenumError(Return code: 1),12.9168
+CIFAR_P87_N47,NnenumError(Return code: 1),12.0806
+CIFAR_P1_N42,outofmemory,126.368
+CIFAR_P24_N30,NnenumError(Return code: 1),12.6904
+CIFAR_P98_N6,NnenumError(Return code: 1),14.0077
+CIFAR_P31_N31,NnenumError(Return code: 1),14.1567
+CIFAR_P59_N2,outofmemory,193.306
+CIFAR_P24_N13,outofmemory,134.797
+CIFAR_P68_N7,NnenumError(Return code: 1),12.1167
+CIFAR_P42_N8,NnenumError(Return code: 1),12.1626
+CIFAR_P20_N35,NnenumError(Return code: 1),12.1214
+CIFAR_P63_N42,outofmemory,227.423
+CIFAR_P37_N17,outofmemory,121.37
+CIFAR_P76_N42,outofmemory,126.673
+CIFAR_P3_N46,NnenumError(Return code: 1),15.6373
+CIFAR_P34_N28,NnenumError(Return code: 1),14.681
+CIFAR_P51_N45,NnenumError(Return code: 1),14.3388
+CIFAR_P17_N3,NnenumError(Return code: 1),14.1484
+CIFAR_P28_N25,outofmemory,186.745
+CIFAR_P16_N13,outofmemory,187.379
+CIFAR_P48_N44,NnenumError(Return code: 1),13.719
+CIFAR_P94_N25,outofmemory,417.016
+CIFAR_P44_N42,outofmemory,154.914
+CIFAR_P99_N45,NnenumError(Return code: 1),15.0189
+CIFAR_P83_N12,NnenumError(Return code: 1),14.4196
+CIFAR_P49_N22,NnenumError(Return code: 1),13.5189
+CIFAR_P28_N16,NnenumError(Return code: 1),12.3398
+CIFAR_P21_N1,NnenumError(Return code: 1),13.8942
+CIFAR_P69_N28,NnenumError(Return code: 1),13.5232
+CIFAR_P53_N32,outofmemory,136.84
+CIFAR_P53_N46,NnenumError(Return code: 1),14.0783
+CIFAR_P59_N26,NnenumError(Return code: 1),12.8583
+CIFAR_P26_N32,outofmemory,163.6
+CIFAR_P46_N27,NnenumError(Return code: 1),12.1048
+CIFAR_P47_N46,NnenumError(Return code: 1),14.3524
+CIFAR_P54_N9,NnenumError(Return code: 1),16.5963
+CIFAR_P85_N17,outofmemory,208.304
+CIFAR_P69_N7,NnenumError(Return code: 1),12.9183
+CIFAR_P17_N24,NnenumError(Return code: 1),13.5935
+CIFAR_P59_N41,NnenumError(Return code: 1),14.7649
+CIFAR_P74_N16,NnenumError(Return code: 1),13.016
+CIFAR_P41_N12,NnenumError(Return code: 1),12.9477
+CIFAR_P1_N18,outofmemory,166.814
+CIFAR_P32_N45,NnenumError(Return code: 1),15.089
+CIFAR_P85_N8,NnenumError(Return code: 1),11.7163
+CIFAR_P2_N30,NnenumError(Return code: 1),13.0627
+CIFAR_P19_N42,outofmemory,127.016
+CIFAR_P55_N47,NnenumError(Return code: 1),12.2377
+CIFAR_P75_N46,NnenumError(Return code: 1),14.6527
+CIFAR_P37_N2,outofmemory,207.458
+CIFAR_P11_N34,outofmemory,145.11
+CIFAR_P67_N31,NnenumError(Return code: 1),15.2207
+CIFAR_P27_N21,NnenumError(Return code: 1),14.9442
+CIFAR_P44_N5,outofmemory,666.222
+CIFAR_P72_N6,NnenumError(Return code: 1),14.6826
+CIFAR_P49_N44,NnenumError(Return code: 1),13.6841
+CIFAR_P41_N20,NnenumError(Return code: 1),13.3698
+CIFAR_P67_N15,outofmemory,457.09
+CIFAR_P16_N7,NnenumError(Return code: 1),14.0272
+CIFAR_P15_N8,NnenumError(Return code: 1),13.7265
+CIFAR_P47_N47,NnenumError(Return code: 1),13.4303
+CIFAR_P8_N19,NnenumError(Return code: 1),12.5346
+CIFAR_P56_N16,NnenumError(Return code: 1),12.0271
+CIFAR_P51_N37,NnenumError(Return code: 1),13.7961
+CIFAR_P12_N41,NnenumError(Return code: 1),14.4999
+CIFAR_P69_N3,NnenumError(Return code: 1),12.7562
+CIFAR_P54_N3,NnenumError(Return code: 1),12.4354
+CIFAR_P57_N6,NnenumError(Return code: 1),13.9997
+CIFAR_P14_N24,NnenumError(Return code: 1),14.3877
+CIFAR_P79_N24,NnenumError(Return code: 1),13.5156
+CIFAR_P86_N34,unsat,227.2876
+CIFAR_P91_N14,NnenumError(Return code: 1),14.4035
+CIFAR_P14_N19,NnenumError(Return code: 1),12.294
+CIFAR_P10_N27,NnenumError(Return code: 1),10.7442
+CIFAR_P30_N21,NnenumError(Return code: 1),13.4544
+CIFAR_P89_N41,NnenumError(Return code: 1),14.028
+CIFAR_P30_N6,NnenumError(Return code: 1),14.2128
+CIFAR_P6_N38,NnenumError(Return code: 1),14.2168
+CIFAR_P82_N4,outofmemory,215.328
+CIFAR_P71_N6,NnenumError(Return code: 1),14.6075
+CIFAR_P90_N31,NnenumError(Return code: 1),15.1324
+CIFAR_P95_N6,NnenumError(Return code: 1),14.5168
+CIFAR_P44_N13,outofmemory,200.103
+CIFAR_P58_N30,NnenumError(Return code: 1),14.7904
+CIFAR_P75_N5,outofmemory,595.718
+CIFAR_P66_N18,outofmemory,155.182
+CIFAR_P7_N33,NnenumError(Return code: 1),14.9655
+CIFAR_P19_N32,outofmemory,275.94
+CIFAR_P36_N8,NnenumError(Return code: 1),14.6247
+CIFAR_P11_N38,NnenumError(Return code: 1),16.3935
+CIFAR_P53_N38,NnenumError(Return code: 1),15.8524
+CIFAR_P99_N7,NnenumError(Return code: 1),16.4027
+CIFAR_P1_N38,NnenumError(Return code: 1),15.5037
+CIFAR_P22_N5,outofmemory,223.283
+CIFAR_P85_N9,NnenumError(Return code: 1),19.8057
+CIFAR_P20_N4,outofmemory,179.096
+CIFAR_P30_N38,NnenumError(Return code: 1),14.8762
+CIFAR_P67_N23,NnenumError(Return code: 1),15.4236
+CIFAR_P14_N8,NnenumError(Return code: 1),14.1833
+CIFAR_P85_N47,NnenumError(Return code: 1),14.1978
+CIFAR_P29_N12,NnenumError(Return code: 1),14.1504
+CIFAR_P15_N15,outofmemory,216.211
+CIFAR_P56_N19,NnenumError(Return code: 1),13.8181
+CIFAR_P96_N7,NnenumError(Return code: 1),15.4767
+CIFAR_P37_N32,outofmemory,152.712
+CIFAR_P29_N23,NnenumError(Return code: 1),16.2136
+CIFAR_P87_N13,outofmemory,175.717
+CIFAR_P18_N26,NnenumError(Return code: 1),13.67
+CIFAR_P47_N32,outofmemory,151.487
+CIFAR_P32_N3,NnenumError(Return code: 1),13.9428
+CIFAR_P34_N30,NnenumError(Return code: 1),16.3673
+CIFAR_P39_N43,NnenumError(Return code: 1),14.8832
+CIFAR_P15_N47,NnenumError(Return code: 1),13.6965
+CIFAR_P31_N32,outofmemory,151.359
+CIFAR_P67_N25,outofmemory,279.342
+CIFAR_P97_N34,outofmemory,148.702
+CIFAR_P65_N29,NnenumError(Return code: 1),12.7745
+CIFAR_P56_N43,NnenumError(Return code: 1),13.5788
+CIFAR_P74_N26,NnenumError(Return code: 1),14.8408
+CIFAR_P11_N33,NnenumError(Return code: 1),14.6691
+CIFAR_P91_N7,NnenumError(Return code: 1),15.3188
+CIFAR_P12_N23,NnenumError(Return code: 1),15.6552
+CIFAR_P31_N41,NnenumError(Return code: 1),14.0849
+CIFAR_P23_N25,outofmemory,197.586
+CIFAR_P44_N47,NnenumError(Return code: 1),12.3972
+CIFAR_P55_N16,NnenumError(Return code: 1),10.647
+CIFAR_P96_N24,NnenumError(Return code: 1),13.0194
+CIFAR_P2_N45,NnenumError(Return code: 1),13.5847
+CIFAR_P91_N43,NnenumError(Return code: 1),12.415
+CIFAR_P62_N16,NnenumError(Return code: 1),11.4703
+CIFAR_P99_N14,NnenumError(Return code: 1),13.1764
+CIFAR_P0_N15,outofmemory,81.533
+CIFAR_P0_N27,NnenumError(Return code: 1),14.7805
+CIFAR_P63_N26,NnenumError(Return code: 1),15.3839
+CIFAR_P63_N28,NnenumError(Return code: 1),15.5504
+CIFAR_P4_N34,outofmemory,60.893
+CIFAR_P66_N7,NnenumError(Return code: 1),15.5584
+CIFAR_P31_N15,outofmemory,132.116
+CIFAR_P72_N28,NnenumError(Return code: 1),15.8335
+CIFAR_P17_N15,outofmemory,80.421
+CIFAR_P72_N46,NnenumError(Return code: 1),15.4354
+CIFAR_P98_N25,outofmemory,175.663
+CIFAR_P79_N37,NnenumError(Return code: 1),15.6941
+CIFAR_P58_N4,outofmemory,61.77
+CIFAR_P3_N21,NnenumError(Return code: 1),15.3932
+CIFAR_P66_N23,NnenumError(Return code: 1),15.4488
+CIFAR_P52_N9,NnenumError(Return code: 1),16.6768
+CIFAR_P5_N14,NnenumError(Return code: 1),15.6114
+CIFAR_P59_N31,NnenumError(Return code: 1),15.9888
+CIFAR_P52_N2,outofmemory,116.899
+CIFAR_P28_N32,outofmemory,59.581
+CIFAR_P25_N15,unsat,205.8407
+CIFAR_P74_N41,NnenumError(Return code: 1),15.5883
+CIFAR_P13_N16,NnenumError(Return code: 1),14.2639
+CIFAR_P86_N14,NnenumError(Return code: 1),14.8359
+CIFAR_P48_N27,NnenumError(Return code: 1),13.9514
+CIFAR_P17_N23,NnenumError(Return code: 1),7.098
+CIFAR_P55_N1,NnenumError(Return code: 1),13.1812
+CIFAR_P37_N15,outofmemory,104.549
+CIFAR_P96_N32,outofmemory,83.176
+CIFAR_P54_N34,outofmemory,88.958
+CIFAR_P40_N44,NnenumError(Return code: 1),13.8047
+CIFAR_P81_N37,NnenumError(Return code: 1),9.1424
+CIFAR_P50_N42,outofmemory,80.755
+CIFAR_P91_N44,NnenumError(Return code: 1),12.5797
+CIFAR_P96_N12,NnenumError(Return code: 1),7.6544
+CIFAR_P96_N15,outofmemory,110.276
+CIFAR_P0_N6,NnenumError(Return code: 1),13.3306
+CIFAR_P3_N7,NnenumError(Return code: 1),12.5883
+CIFAR_P9_N28,NnenumError(Return code: 1),13.9146
+CIFAR_P54_N17,outofmemory,89.741
+CIFAR_P9_N1,NnenumError(Return code: 1),12.2086
+CIFAR_P46_N31,NnenumError(Return code: 1),12.7371
+CIFAR_P35_N24,NnenumError(Return code: 1),14.8338
+CIFAR_P46_N19,NnenumError(Return code: 1),12.5001
+CIFAR_P47_N14,NnenumError(Return code: 1),7.0943
+CIFAR_P56_N15,outofmemory,146.356
+CIFAR_P91_N8,NnenumError(Return code: 1),5.9261
+CIFAR_P5_N43,NnenumError(Return code: 1),9.3317
+CIFAR_P44_N15,outofmemory,119.032
+CIFAR_P46_N4,outofmemory,130.118
+CIFAR_P70_N8,NnenumError(Return code: 1),9.8625
+CIFAR_P32_N7,NnenumError(Return code: 1),10.0409
+CIFAR_P70_N34,unsat,140.5886
+CIFAR_P50_N26,NnenumError(Return code: 1),11.447
+CIFAR_P96_N28,NnenumError(Return code: 1),10.5946
+CIFAR_P12_N5,outofmemory,150.016
+CIFAR_P24_N21,NnenumError(Return code: 1),11.9944
+CIFAR_P69_N1,NnenumError(Return code: 1),10.8894
+CIFAR_P65_N23,NnenumError(Return code: 1),10.7161
+CIFAR_P11_N28,NnenumError(Return code: 1),11.3747
+CIFAR_P18_N8,NnenumError(Return code: 1),10.5693
+CIFAR_P52_N3,NnenumError(Return code: 1),12.5195
+CIFAR_P74_N28,NnenumError(Return code: 1),13.3817
+CIFAR_P83_N35,NnenumError(Return code: 1),12.9822
+CIFAR_P43_N13,outofmemory,95.692
+CIFAR_P2_N33,NnenumError(Return code: 1),14.0822
+CIFAR_P8_N5,outofmemory,128.456
+CIFAR_P5_N24,NnenumError(Return code: 1),7.3109
+CIFAR_P17_N45,NnenumError(Return code: 1),8.3498
+CIFAR_P92_N17,outofmemory,104.547
+CIFAR_P46_N23,NnenumError(Return code: 1),10.2786
+CIFAR_P45_N14,NnenumError(Return code: 1),10.0374
+CIFAR_P8_N9,NnenumError(Return code: 1),11.3015
+CIFAR_P50_N32,outofmemory,88.974
+CIFAR_P79_N26,NnenumError(Return code: 1),9.8348
+CIFAR_P9_N8,NnenumError(Return code: 1),9.7694
+CIFAR_P68_N27,NnenumError(Return code: 1),9.4315
+CIFAR_P94_N44,NnenumError(Return code: 1),9.7877
+CIFAR_P49_N35,NnenumError(Return code: 1),10.9574
+CIFAR_P60_N26,NnenumError(Return code: 1),10.5803
+CIFAR_P79_N29,NnenumError(Return code: 1),10.0667
+CIFAR_P93_N16,NnenumError(Return code: 1),10.766
+CIFAR_P57_N47,NnenumError(Return code: 1),11.2267
+CIFAR_P62_N2,outofmemory,136.392
+CIFAR_P59_N23,NnenumError(Return code: 1),13.2232
+CIFAR_P42_N24,NnenumError(Return code: 1),14.12
+CIFAR_P71_N45,NnenumError(Return code: 1),11.8514
+CIFAR_P66_N47,NnenumError(Return code: 1),11.0015
+CIFAR_P41_N4,unsat,176.8503
+CIFAR_P44_N33,NnenumError(Return code: 1),6.0525
+CIFAR_P70_N17,unsat,114.7839
+CIFAR_P88_N25,outofmemory,157.398
+CIFAR_P82_N18,outofmemory,86.354
+CIFAR_P68_N3,NnenumError(Return code: 1),7.5252
+CIFAR_P29_N21,NnenumError(Return code: 1),8.1167
+CIFAR_P46_N46,NnenumError(Return code: 1),6.8445
+CIFAR_P78_N8,NnenumError(Return code: 1),8.1093
+CIFAR_P94_N8,NnenumError(Return code: 1),7.6932
+CIFAR_P87_N17,outofmemory,83.249
+CIFAR_P7_N16,NnenumError(Return code: 1),8.8502
+CIFAR_P62_N26,NnenumError(Return code: 1),10.2879
+CIFAR_P46_N8,NnenumError(Return code: 1),10.1408
+CIFAR_P90_N37,NnenumError(Return code: 1),9.9239
+CIFAR_P85_N4,outofmemory,98.531
+CIFAR_P46_N22,NnenumError(Return code: 1),12.3995
+CIFAR_P98_N47,NnenumError(Return code: 1),12.2589
+CIFAR_P99_N27,NnenumError(Return code: 1),11.8286
+CIFAR_P71_N42,outofmemory,92.17
+CIFAR_P73_N41,NnenumError(Return code: 1),13.0031
+CIFAR_P72_N34,outofmemory,112.419
+CIFAR_P9_N3,NnenumError(Return code: 1),9.9544
+CIFAR_P99_N20,NnenumError(Return code: 1),10.6909
+CIFAR_P8_N47,NnenumError(Return code: 1),7.2447
+CIFAR_P82_N44,NnenumError(Return code: 1),8.4764
+CIFAR_P22_N42,outofmemory,167.146
+CIFAR_P8_N23,NnenumError(Return code: 1),9.3279
+CIFAR_P17_N37,NnenumError(Return code: 1),8.7312
+CIFAR_P37_N19,NnenumError(Return code: 1),8.3762
+CIFAR_P97_N3,NnenumError(Return code: 1),8.0253
+CIFAR_P20_N21,NnenumError(Return code: 1),9.0567
+CIFAR_P82_N45,NnenumError(Return code: 1),9.0681
+CIFAR_P63_N25,outofmemory,128.363
+CIFAR_P67_N21,NnenumError(Return code: 1),10.7643
+CIFAR_P21_N3,NnenumError(Return code: 1),10.0259
+CIFAR_P49_N37,NnenumError(Return code: 1),11.6719
+CIFAR_P60_N21,NnenumError(Return code: 1),10.7091
+CIFAR_P38_N34,outofmemory,96.419
+CIFAR_P36_N34,outofmemory,222.633
+CIFAR_P87_N2,outofmemory,126.94
+CIFAR_P84_N6,NnenumError(Return code: 1),11.2386
+CIFAR_P2_N21,NnenumError(Return code: 1),12.1428
+CIFAR_P10_N22,NnenumError(Return code: 1),9.8883
+CIFAR_P45_N17,outofmemory,84.151
+CIFAR_P20_N47,NnenumError(Return code: 1),7.767
+CIFAR_P57_N21,NnenumError(Return code: 1),9.4204
+CIFAR_P79_N13,outofmemory,111.939
+CIFAR_P14_N21,NnenumError(Return code: 1),10.135
+CIFAR_P92_N34,outofmemory,104.732
+CIFAR_P80_N46,NnenumError(Return code: 1),10.081
+CIFAR_P86_N44,NnenumError(Return code: 1),9.8427
+CIFAR_P31_N38,NnenumError(Return code: 1),10.0247
+CIFAR_P38_N2,outofmemory,133.505
+CIFAR_P13_N3,NnenumError(Return code: 1),11.2306
+CIFAR_P65_N19,NnenumError(Return code: 1),10.7979
+CIFAR_P22_N23,NnenumError(Return code: 1),11.7289
+CIFAR_P84_N41,NnenumError(Return code: 1),11.3335
+CIFAR_P34_N35,NnenumError(Return code: 1),10.7264
+CIFAR_P0_N44,NnenumError(Return code: 1),10.6071
+CIFAR_P91_N42,outofmemory,100.225
+CIFAR_P87_N41,NnenumError(Return code: 1),12.9313
+CIFAR_P29_N7,NnenumError(Return code: 1),11.4987
+CIFAR_P23_N16,NnenumError(Return code: 1),6.8863
+CIFAR_P37_N4,outofmemory,145.852
+CIFAR_P81_N2,outofmemory,109.592
+CIFAR_P33_N34,outofmemory,113.658
+CIFAR_P38_N42,outofmemory,86.089
+CIFAR_P52_N45,NnenumError(Return code: 1),10.4467
+CIFAR_P23_N44,NnenumError(Return code: 1),10.4432
+CIFAR_P65_N6,NnenumError(Return code: 1),8.8383
+CIFAR_P50_N9,NnenumError(Return code: 1),14.4767
+CIFAR_P19_N28,NnenumError(Return code: 1),10.9834
+CIFAR_P2_N13,outofmemory,101.65
+CIFAR_P0_N13,outofmemory,138.232
+CIFAR_P27_N32,outofmemory,121.396
+CIFAR_P30_N14,NnenumError(Return code: 1),12.9004
+CIFAR_P42_N30,NnenumError(Return code: 1),11.7943
+CIFAR_P16_N26,NnenumError(Return code: 1),12.339
+CIFAR_P97_N18,outofmemory,134.754
+CIFAR_P4_N28,NnenumError(Return code: 1),12.6929
+CIFAR_P20_N44,NnenumError(Return code: 1),14.7671
+CIFAR_P4_N5,outofmemory,173.125
+CIFAR_P14_N28,NnenumError(Return code: 1),13.7454
+CIFAR_P17_N22,NnenumError(Return code: 1),8.9906
+CIFAR_P79_N3,NnenumError(Return code: 1),8.1179
+CIFAR_P50_N6,NnenumError(Return code: 1),9.9237
+CIFAR_P49_N7,NnenumError(Return code: 1),9.6458
+CIFAR_P89_N31,NnenumError(Return code: 1),8.8766
+CIFAR_P88_N12,NnenumError(Return code: 1),8.3804
+CIFAR_P41_N23,NnenumError(Return code: 1),9.2268
+CIFAR_P64_N2,outofmemory,141.303
+CIFAR_P5_N32,outofmemory,167.486
+CIFAR_P68_N34,outofmemory,104.721
+CIFAR_P0_N19,NnenumError(Return code: 1),9.0457
+CIFAR_P5_N12,NnenumError(Return code: 1),9.3979
+CIFAR_P50_N31,NnenumError(Return code: 1),8.7028
+CIFAR_P47_N6,NnenumError(Return code: 1),11.3434
+CIFAR_P31_N33,NnenumError(Return code: 1),11.7623
+CIFAR_P75_N23,NnenumError(Return code: 1),11.6162
+CIFAR_P11_N32,outofmemory,102.065
+CIFAR_P24_N14,NnenumError(Return code: 1),11.5821
+CIFAR_P55_N3,NnenumError(Return code: 1),10.4657
+CIFAR_P37_N26,NnenumError(Return code: 1),11.2079
+CIFAR_P15_N38,NnenumError(Return code: 1),12.0197
+CIFAR_P70_N3,NnenumError(Return code: 1),10.4439
+CIFAR_P75_N31,NnenumError(Return code: 1),12.2375
+CIFAR_P76_N17,outofmemory,91.132
+CIFAR_P37_N13,outofmemory,93.54
+CIFAR_P51_N22,NnenumError(Return code: 1),8.1039
+CIFAR_P70_N29,NnenumError(Return code: 1),7.9233
+CIFAR_P22_N17,outofmemory,117.997
+CIFAR_P59_N24,NnenumError(Return code: 1),10.3094
+CIFAR_P79_N4,outofmemory,108.031
+CIFAR_P90_N3,NnenumError(Return code: 1),8.9501
+CIFAR_P99_N18,outofmemory,100.668
+CIFAR_P64_N7,NnenumError(Return code: 1),10.2884
+CIFAR_P49_N9,NnenumError(Return code: 1),14.0154
+CIFAR_P72_N31,NnenumError(Return code: 1),10.8351
+CIFAR_P41_N29,NnenumError(Return code: 1),9.3775
+CIFAR_P1_N27,NnenumError(Return code: 1),9.936
+CIFAR_P61_N1,NnenumError(Return code: 1),12.0154
+CIFAR_P98_N7,NnenumError(Return code: 1),11.5305
+CIFAR_P98_N15,unsat,286.5011
+CIFAR_P7_N17,outofmemory,123.701
+CIFAR_P2_N46,NnenumError(Return code: 1),12.4667
+CIFAR_P2_N8,NnenumError(Return code: 1),11.7718
+CIFAR_P27_N31,NnenumError(Return code: 1),11.8641
+CIFAR_P4_N12,NnenumError(Return code: 1),11.0307
+CIFAR_P61_N27,NnenumError(Return code: 1),10.2844
+CIFAR_P10_N44,NnenumError(Return code: 1),11.2388
+CIFAR_P33_N6,NnenumError(Return code: 1),9.4347
+CIFAR_P7_N31,NnenumError(Return code: 1),9.5085
+CIFAR_P19_N5,outofmemory,136.711
+CIFAR_P87_N9,NnenumError(Return code: 1),12.0406
+CIFAR_P69_N15,outofmemory,212.528
+CIFAR_P74_N38,NnenumError(Return code: 1),10.733
+CIFAR_P81_N31,NnenumError(Return code: 1),9.9928
+CIFAR_P23_N26,NnenumError(Return code: 1),10.3106
+CIFAR_P47_N8,NnenumError(Return code: 1),9.6738
+CIFAR_P65_N24,NnenumError(Return code: 1),11.7149
+CIFAR_P41_N30,NnenumError(Return code: 1),11.9424
+CIFAR_P47_N9,NnenumError(Return code: 1),14.8069
+CIFAR_P86_N43,NnenumError(Return code: 1),11.1863
+CIFAR_P5_N18,outofmemory,152.501
+CIFAR_P39_N27,NnenumError(Return code: 1),10.8785
+CIFAR_P80_N16,NnenumError(Return code: 1),10.0259
+CIFAR_P5_N22,NnenumError(Return code: 1),10.9409
+CIFAR_P85_N32,outofmemory,128.841
+CIFAR_P77_N14,NnenumError(Return code: 1),12.6526
+CIFAR_P35_N31,NnenumError(Return code: 1),11.2704
+CIFAR_P97_N30,NnenumError(Return code: 1),12.1307
+CIFAR_P90_N17,outofmemory,119.694
+CIFAR_P83_N3,NnenumError(Return code: 1),10.505
+CIFAR_P0_N25,outofmemory,275.768
+CIFAR_P87_N44,NnenumError(Return code: 1),12.3931
+CIFAR_P87_N19,NnenumError(Return code: 1),10.9926
+CIFAR_P94_N46,NnenumError(Return code: 1),11.6705
+CIFAR_P16_N25,outofmemory,219.241
+CIFAR_P18_N12,NnenumError(Return code: 1),10.9938
+CIFAR_P84_N8,NnenumError(Return code: 1),10.5355
+CIFAR_P89_N20,NnenumError(Return code: 1),12.0134
+CIFAR_P81_N25,outofmemory,161.271
+CIFAR_P77_N24,NnenumError(Return code: 1),13.1643
+CIFAR_P34_N25,outofmemory,163.841
+CIFAR_P12_N9,NnenumError(Return code: 1),15.9352
+CIFAR_P48_N19,NnenumError(Return code: 1),11.4367
+CIFAR_P23_N7,NnenumError(Return code: 1),13.3086
+CIFAR_P47_N17,outofmemory,116.524
+CIFAR_P85_N22,NnenumError(Return code: 1),11.1806
+CIFAR_P0_N41,NnenumError(Return code: 1),13.3971
+CIFAR_P28_N18,outofmemory,128.6
+CIFAR_P97_N28,NnenumError(Return code: 1),14.1075
+CIFAR_P38_N12,NnenumError(Return code: 1),11.267
+CIFAR_P34_N24,NnenumError(Return code: 1),12.4722
+CIFAR_P3_N45,NnenumError(Return code: 1),12.3208
+CIFAR_P66_N45,NnenumError(Return code: 1),11.5976
+CIFAR_P59_N6,NnenumError(Return code: 1),11.7871
+CIFAR_P87_N7,NnenumError(Return code: 1),12.0688
+CIFAR_P11_N46,NnenumError(Return code: 1),12.6027
+CIFAR_P14_N13,outofmemory,122.633
+CIFAR_P94_N47,NnenumError(Return code: 1),9.5837
+CIFAR_P13_N4,unsat,251.6665
+CIFAR_P60_N2,outofmemory,168.4
+CIFAR_P41_N9,NnenumError(Return code: 1),13.9662
+CIFAR_P22_N35,NnenumError(Return code: 1),9.7204
+CIFAR_P27_N6,NnenumError(Return code: 1),11.9235
+CIFAR_P71_N22,NnenumError(Return code: 1),11.2556
+CIFAR_P32_N18,outofmemory,213.719
+CIFAR_P81_N33,NnenumError(Return code: 1),12.6309
+CIFAR_P23_N22,NnenumError(Return code: 1),10.8459
+CIFAR_P55_N9,NnenumError(Return code: 1),14.3259
+CIFAR_P21_N27,NnenumError(Return code: 1),9.4095
+CIFAR_P51_N42,outofmemory,109.178
+CIFAR_P14_N30,NnenumError(Return code: 1),11.1512
+CIFAR_P0_N17,outofmemory,108.459
+CIFAR_P98_N41,NnenumError(Return code: 1),11.52
+CIFAR_P86_N38,NnenumError(Return code: 1),11.9347
+CIFAR_P80_N26,NnenumError(Return code: 1),12.4672
+CIFAR_P73_N38,NnenumError(Return code: 1),12.0535
+CIFAR_P57_N22,NnenumError(Return code: 1),12.41
+CIFAR_P47_N5,outofmemory,161.686
+CIFAR_P75_N2,unsat,350.2996
+CIFAR_P71_N8,NnenumError(Return code: 1),11.4016
+CIFAR_P62_N21,NnenumError(Return code: 1),11.4009
+CIFAR_P74_N18,outofmemory,122.448
+CIFAR_P49_N3,NnenumError(Return code: 1),10.5763
+CIFAR_P60_N37,NnenumError(Return code: 1),10.813
+CIFAR_P90_N15,outofmemory,176.12
+CIFAR_P70_N19,NnenumError(Return code: 1),13.5638
+CIFAR_P23_N1,NnenumError(Return code: 1),13.7813
+CIFAR_P21_N28,NnenumError(Return code: 1),15.4992
+CIFAR_P38_N18,outofmemory,131.963
+CIFAR_P26_N24,NnenumError(Return code: 1),13.128
+CIFAR_P79_N38,NnenumError(Return code: 1),12.0127
+CIFAR_P7_N22,NnenumError(Return code: 1),10.4819
+CIFAR_P79_N5,outofmemory,469.296
+CIFAR_P82_N2,outofmemory,225.539
+CIFAR_P7_N32,outofmemory,151.904
+CIFAR_P19_N3,NnenumError(Return code: 1),12.9273
+CIFAR_P41_N18,outofmemory,154.46
+CIFAR_P57_N35,NnenumError(Return code: 1),14.3084
+CIFAR_P0_N46,NnenumError(Return code: 1),15.4556
+CIFAR_P4_N23,NnenumError(Return code: 1),13.8362
+CIFAR_P21_N22,NnenumError(Return code: 1),11.722
+CIFAR_P55_N43,NnenumError(Return code: 1),14.739
+CIFAR_P0_N35,NnenumError(Return code: 1),12.2889
+CIFAR_P57_N34,outofmemory,165.586
+CIFAR_P8_N37,NnenumError(Return code: 1),14.8543
+CIFAR_P88_N43,NnenumError(Return code: 1),14.6677
+CIFAR_P49_N5,outofmemory,183.742
+CIFAR_P12_N26,NnenumError(Return code: 1),12.9699
+CIFAR_P68_N18,outofmemory,167.194
+CIFAR_P89_N14,NnenumError(Return code: 1),12.3227
+CIFAR_P11_N14,NnenumError(Return code: 1),15.9578
+CIFAR_P99_N9,NnenumError(Return code: 1),18.7899
+CIFAR_P16_N2,outofmemory,248.011
+CIFAR_P60_N6,NnenumError(Return code: 1),13.9586
+CIFAR_P32_N33,NnenumError(Return code: 1),15.1838
+CIFAR_P86_N2,unsat,360.2393
+CIFAR_P98_N34,outofmemory,292.945
+CIFAR_P40_N19,NnenumError(Return code: 1),13.3681
+CIFAR_P44_N24,NnenumError(Return code: 1),15.1577
+CIFAR_P91_N27,NnenumError(Return code: 1),12.4848
+CIFAR_P6_N18,outofmemory,149.909
+CIFAR_P43_N37,NnenumError(Return code: 1),14.4874
+CIFAR_P23_N15,outofmemory,210.956
+CIFAR_P85_N16,NnenumError(Return code: 1),14.1701
+CIFAR_P39_N33,NnenumError(Return code: 1),15.5168
+CIFAR_P51_N46,NnenumError(Return code: 1),16.0299
+CIFAR_P48_N16,NnenumError(Return code: 1),14.3305
+CIFAR_P34_N19,NnenumError(Return code: 1),13.8008
+CIFAR_P19_N1,NnenumError(Return code: 1),13.4462
+CIFAR_P88_N47,NnenumError(Return code: 1),12.5165
+CIFAR_P81_N43,NnenumError(Return code: 1),13.7123
+CIFAR_P24_N22,NnenumError(Return code: 1),12.217
+CIFAR_P82_N14,NnenumError(Return code: 1),14.9549
+CIFAR_P85_N20,NnenumError(Return code: 1),15.0334
+CIFAR_P55_N8,NnenumError(Return code: 1),12.6046
+CIFAR_P33_N5,outofmemory,330.205
+CIFAR_P44_N28,NnenumError(Return code: 1),14.1811
+CIFAR_P61_N4,outofmemory,334.087
+CIFAR_P80_N21,NnenumError(Return code: 1),13.263
+CIFAR_P31_N28,NnenumError(Return code: 1),12.1989
+CIFAR_P24_N38,NnenumError(Return code: 1),14.5535
+CIFAR_P18_N34,outofmemory,138.292
+CIFAR_P98_N16,NnenumError(Return code: 1),13.3566
+CIFAR_P35_N45,NnenumError(Return code: 1),14.709
+CIFAR_P45_N37,NnenumError(Return code: 1),15.1015
+CIFAR_P28_N21,NnenumError(Return code: 1),13.4052
+CIFAR_P7_N15,outofmemory,199.57
+CIFAR_P14_N9,NnenumError(Return code: 1),17.1097
+CIFAR_P20_N28,NnenumError(Return code: 1),12.5595
+CIFAR_P52_N31,NnenumError(Return code: 1),11.2532
+CIFAR_P29_N9,NnenumError(Return code: 1),18.4263
+CIFAR_P36_N19,NnenumError(Return code: 1),11.5244
+CIFAR_P74_N23,NnenumError(Return code: 1),15.6648
+CIFAR_P41_N45,NnenumError(Return code: 1),15.231
+CIFAR_P90_N45,NnenumError(Return code: 1),14.9442
+CIFAR_P98_N4,outofmemory,408.077
+CIFAR_P63_N9,NnenumError(Return code: 1),19.322
+CIFAR_P57_N19,NnenumError(Return code: 1),13.7169
+CIFAR_P94_N22,NnenumError(Return code: 1),13.2046
+CIFAR_P75_N47,NnenumError(Return code: 1),12.0632
+CIFAR_P6_N14,NnenumError(Return code: 1),13.8733
+CIFAR_P84_N3,NnenumError(Return code: 1),13.1695
+CIFAR_P93_N24,NnenumError(Return code: 1),14.1403
+CIFAR_P94_N9,NnenumError(Return code: 1),19.066
+CIFAR_P63_N33,NnenumError(Return code: 1),14.4079
+CIFAR_P58_N25,outofmemory,332.784
+CIFAR_P91_N16,NnenumError(Return code: 1),9.5301
+CIFAR_P24_N46,NnenumError(Return code: 1),12.6974
+CIFAR_P7_N25,outofmemory,269.886
+CIFAR_P91_N12,NnenumError(Return code: 1),11.3553
+CIFAR_P62_N22,NnenumError(Return code: 1),11.651
+CIFAR_P83_N5,outofmemory,188.752
+CIFAR_P92_N20,NnenumError(Return code: 1),14.6627
+CIFAR_P67_N14,NnenumError(Return code: 1),15.0244
+CIFAR_P42_N16,NnenumError(Return code: 1),13.3619
+CIFAR_P70_N46,NnenumError(Return code: 1),14.5014
+CIFAR_P89_N5,outofmemory,261.393
+CIFAR_P15_N25,outofmemory,194.079
+CIFAR_P39_N19,NnenumError(Return code: 1),11.5018
+CIFAR_P65_N16,NnenumError(Return code: 1),11.6253
+CIFAR_P73_N44,NnenumError(Return code: 1),13.649
+CIFAR_P66_N12,NnenumError(Return code: 1),11.3093
+CIFAR_P66_N19,NnenumError(Return code: 1),12.4727
+CIFAR_P99_N4,unsat,286.4214
+CIFAR_P61_N37,NnenumError(Return code: 1),15.6371
+CIFAR_P14_N27,NnenumError(Return code: 1),12.4173
+CIFAR_P24_N26,NnenumError(Return code: 1),15.2562
+CIFAR_P32_N38,NnenumError(Return code: 1),15.4502
+CIFAR_P16_N8,NnenumError(Return code: 1),13.728
+CIFAR_P47_N23,NnenumError(Return code: 1),15.4384
+CIFAR_P35_N21,NnenumError(Return code: 1),14.8231
+CIFAR_P94_N14,NnenumError(Return code: 1),15.0473
+CIFAR_P3_N34,outofmemory,174.166
+CIFAR_P67_N28,NnenumError(Return code: 1),14.4534
+CIFAR_P16_N9,NnenumError(Return code: 1),19.7036
+CIFAR_P95_N22,NnenumError(Return code: 1),13.9432
+CIFAR_P6_N25,outofmemory,192.631
+CIFAR_P90_N14,NnenumError(Return code: 1),13.5669
+CIFAR_P76_N47,NnenumError(Return code: 1),12.3322
+CIFAR_P88_N3,NnenumError(Return code: 1),13.1516
+CIFAR_P66_N29,NnenumError(Return code: 1),12.523
+CIFAR_P61_N38,NnenumError(Return code: 1),12.9566
+CIFAR_P8_N12,NnenumError(Return code: 1),12.0749
+CIFAR_P51_N15,outofmemory,201.783
+CIFAR_P1_N5,outofmemory,405.007
+CIFAR_P45_N27,NnenumError(Return code: 1),11.0587
+CIFAR_P67_N2,outofmemory,288.055
+CIFAR_P13_N44,NnenumError(Return code: 1),14.162
+CIFAR_P98_N3,NnenumError(Return code: 1),11.6419
+CIFAR_P34_N4,outofmemory,232.365
+CIFAR_P70_N1,NnenumError(Return code: 1),13.3771
+CIFAR_P88_N35,NnenumError(Return code: 1),12.3519
+CIFAR_P47_N42,outofmemory,128.917
+CIFAR_P35_N29,NnenumError(Return code: 1),14.1932
+CIFAR_P76_N32,outofmemory,136.546
+CIFAR_P58_N33,NnenumError(Return code: 1),14.3149
+CIFAR_P4_N8,NnenumError(Return code: 1),13.0505
+CIFAR_P61_N44,NnenumError(Return code: 1),15.7597
+CIFAR_P67_N26,NnenumError(Return code: 1),15.3924
+CIFAR_P20_N33,NnenumError(Return code: 1),15.7654
+CIFAR_P93_N46,NnenumError(Return code: 1),17.0839
+CIFAR_P56_N4,outofmemory,161.063
+CIFAR_P64_N44,NnenumError(Return code: 1),16.7653
+CIFAR_P40_N38,NnenumError(Return code: 1),16.9944
+CIFAR_P79_N6,NnenumError(Return code: 1),16.391
+CIFAR_P25_N18,unsat,214.1569
+CIFAR_P28_N29,NnenumError(Return code: 1),12.8966
+CIFAR_P6_N15,outofmemory,203.68
+CIFAR_P93_N9,NnenumError(Return code: 1),18.6486
+CIFAR_P84_N30,NnenumError(Return code: 1),15.1182
+CIFAR_P7_N7,NnenumError(Return code: 1),14.4132
+CIFAR_P67_N22,NnenumError(Return code: 1),12.4886
+CIFAR_P13_N28,NnenumError(Return code: 1),15.883
+CIFAR_P42_N38,NnenumError(Return code: 1),14.2179
+CIFAR_P76_N25,outofmemory,193.99
+CIFAR_P9_N4,unsat,283.7559
+CIFAR_P12_N31,NnenumError(Return code: 1),13.9763
+CIFAR_P34_N22,NnenumError(Return code: 1),13.0619
+CIFAR_P46_N29,NnenumError(Return code: 1),14.0893
+CIFAR_P55_N34,outofmemory,146.485
+CIFAR_P41_N38,NnenumError(Return code: 1),15.7571
+CIFAR_P25_N27,NnenumError(Return code: 1),14.0685
+CIFAR_P17_N41,NnenumError(Return code: 1),16.3874
+CIFAR_P33_N35,NnenumError(Return code: 1),15.6731
+CIFAR_P50_N41,NnenumError(Return code: 1),14.1361
+CIFAR_P77_N34,outofmemory,173.283
+CIFAR_P95_N24,NnenumError(Return code: 1),14.3528
+CIFAR_P30_N2,outofmemory,198.354
+CIFAR_P4_N45,NnenumError(Return code: 1),14.0687
+CIFAR_P51_N30,NnenumError(Return code: 1),14.0351
+CIFAR_P98_N1,NnenumError(Return code: 1),13.1144
+CIFAR_P38_N24,NnenumError(Return code: 1),13.837
+CIFAR_P72_N41,NnenumError(Return code: 1),16.2663
+CIFAR_P32_N37,NnenumError(Return code: 1),14.3766
+CIFAR_P15_N43,NnenumError(Return code: 1),13.5073
+CIFAR_P38_N32,outofmemory,143.409
+CIFAR_P54_N31,NnenumError(Return code: 1),14.1721
+CIFAR_P59_N16,NnenumError(Return code: 1),14.0232
+CIFAR_P66_N38,NnenumError(Return code: 1),15.1409
+CIFAR_P96_N19,NnenumError(Return code: 1),13.1078
+CIFAR_P76_N18,outofmemory,147.392
+CIFAR_P7_N26,NnenumError(Return code: 1),14.9324
+CIFAR_P33_N12,NnenumError(Return code: 1),13.2056
+CIFAR_P33_N41,NnenumError(Return code: 1),16.99
+CIFAR_P75_N32,unsat,208.4232
+CIFAR_P13_N41,NnenumError(Return code: 1),13.7223
+CIFAR_P76_N8,NnenumError(Return code: 1),10.9947
+CIFAR_P30_N43,NnenumError(Return code: 1),12.4856
+CIFAR_P52_N5,outofmemory,182.676
+CIFAR_P46_N12,NnenumError(Return code: 1),11.2439
+CIFAR_P21_N45,NnenumError(Return code: 1),12.3871
+CIFAR_P56_N3,NnenumError(Return code: 1),11.225
+CIFAR_P62_N42,outofmemory,183.23
+CIFAR_P40_N8,NnenumError(Return code: 1),12.4848
+CIFAR_P24_N5,outofmemory,184.42
+CIFAR_P93_N19,NnenumError(Return code: 1),12.968
+CIFAR_P89_N13,outofmemory,142.691
+CIFAR_P80_N27,NnenumError(Return code: 1),11.2019
+CIFAR_P11_N22,NnenumError(Return code: 1),10.7704
+CIFAR_P26_N18,outofmemory,249.27
+CIFAR_P72_N21,NnenumError(Return code: 1),15.1697
+CIFAR_P52_N20,NnenumError(Return code: 1),14.4782
+CIFAR_P24_N19,NnenumError(Return code: 1),13.8132
+CIFAR_P99_N32,outofmemory,169.912
+CIFAR_P21_N34,unsat,214.9653
+CIFAR_P57_N15,outofmemory,206.116
+CIFAR_P9_N21,NnenumError(Return code: 1),16.9527
+CIFAR_P73_N16,NnenumError(Return code: 1),14.0803
+CIFAR_P3_N29,NnenumError(Return code: 1),13.0456
+CIFAR_P4_N31,NnenumError(Return code: 1),15.6704
+CIFAR_P6_N27,NnenumError(Return code: 1),14.4298
+CIFAR_P55_N31,NnenumError(Return code: 1),14.1176
+CIFAR_P30_N4,outofmemory,164.26
+CIFAR_P63_N29,NnenumError(Return code: 1),13.3062
+CIFAR_P88_N14,NnenumError(Return code: 1),15.5038
+CIFAR_P42_N33,NnenumError(Return code: 1),13.4137
+CIFAR_P25_N29,NnenumError(Return code: 1),12.0686
+CIFAR_P55_N29,NnenumError(Return code: 1),11.9565
+CIFAR_P28_N5,outofmemory,193.098
+CIFAR_P19_N14,NnenumError(Return code: 1),14.552
+CIFAR_P32_N43,NnenumError(Return code: 1),14.0789
+CIFAR_P92_N37,NnenumError(Return code: 1),14.1955
+CIFAR_P99_N3,NnenumError(Return code: 1),12.7849
+CIFAR_P49_N24,NnenumError(Return code: 1),14.799
+CIFAR_P88_N7,NnenumError(Return code: 1),13.6564
+CIFAR_P11_N6,NnenumError(Return code: 1),14.2609
+CIFAR_P94_N12,NnenumError(Return code: 1),12.2276
+CIFAR_P18_N3,NnenumError(Return code: 1),12.5208
+CIFAR_P29_N6,NnenumError(Return code: 1),15.627
+CIFAR_P16_N32,outofmemory,144.638
+CIFAR_P3_N43,NnenumError(Return code: 1),15.5766
+CIFAR_P38_N21,NnenumError(Return code: 1),14.0258
+CIFAR_P43_N35,NnenumError(Return code: 1),12.74
+CIFAR_P4_N25,outofmemory,255.101
+CIFAR_P68_N12,NnenumError(Return code: 1),11.0337
+CIFAR_P47_N35,NnenumError(Return code: 1),11.0462
+CIFAR_P98_N31,NnenumError(Return code: 1),11.6676
+CIFAR_P85_N26,NnenumError(Return code: 1),11.5223
+CIFAR_P91_N32,outofmemory,160.093
+CIFAR_P92_N30,NnenumError(Return code: 1),12.4759
+CIFAR_P15_N19,NnenumError(Return code: 1),12.8189
+CIFAR_P77_N38,NnenumError(Return code: 1),13.8469
+CIFAR_P58_N37,NnenumError(Return code: 1),13.5071
+CIFAR_P44_N41,NnenumError(Return code: 1),13.3511
+CIFAR_P45_N23,NnenumError(Return code: 1),13.8644
+CIFAR_P45_N41,NnenumError(Return code: 1),13.6416
+CIFAR_P39_N17,outofmemory,128.54
+CIFAR_P67_N34,unsat,208.125
+CIFAR_P26_N45,NnenumError(Return code: 1),13.7606
+CIFAR_P39_N44,NnenumError(Return code: 1),14.8105
+CIFAR_P48_N14,NnenumError(Return code: 1),12.81
+CIFAR_P24_N31,NnenumError(Return code: 1),12.4149
+CIFAR_P72_N3,NnenumError(Return code: 1),12.6088
+CIFAR_P2_N43,NnenumError(Return code: 1),13.4663
+CIFAR_P17_N29,NnenumError(Return code: 1),11.3222
+CIFAR_P0_N23,NnenumError(Return code: 1),13.0264
+CIFAR_P4_N13,outofmemory,133.153
+CIFAR_P96_N30,NnenumError(Return code: 1),13.4042
+CIFAR_P64_N6,NnenumError(Return code: 1),13.1358
+CIFAR_P30_N45,NnenumError(Return code: 1),13.5986
+CIFAR_P89_N25,outofmemory,186.335
+CIFAR_P31_N18,outofmemory,137.774
+CIFAR_P28_N30,NnenumError(Return code: 1),13.6575
+CIFAR_P57_N37,NnenumError(Return code: 1),13.989
+CIFAR_P69_N14,NnenumError(Return code: 1),14.7455
+CIFAR_P87_N1,NnenumError(Return code: 1),13.8932
+CIFAR_P79_N42,outofmemory,126.186
+CIFAR_P68_N22,NnenumError(Return code: 1),11.9722
+CIFAR_P36_N5,outofmemory,433.991
+CIFAR_P86_N23,NnenumError(Return code: 1),14.6688
+CIFAR_P92_N25,outofmemory,440.787
+CIFAR_P76_N19,NnenumError(Return code: 1),12.4411
+CIFAR_P21_N30,NnenumError(Return code: 1),13.5111
+CIFAR_P68_N16,NnenumError(Return code: 1),11.3282
+CIFAR_P9_N25,outofmemory,197.157
+CIFAR_P74_N47,NnenumError(Return code: 1),12.7902
+CIFAR_P67_N35,NnenumError(Return code: 1),13.4825
+CIFAR_P67_N27,NnenumError(Return code: 1),12.1617
+CIFAR_P49_N32,outofmemory,268.648
+CIFAR_P67_N18,unsat,232.6838
+CIFAR_P86_N30,NnenumError(Return code: 1),14.2191
+CIFAR_P97_N45,NnenumError(Return code: 1),15.3787
+CIFAR_P82_N9,NnenumError(Return code: 1),20.0326
+CIFAR_P16_N29,NnenumError(Return code: 1),13.5984
+CIFAR_P30_N1,NnenumError(Return code: 1),15.1065
+CIFAR_P53_N15,outofmemory,223.265
+CIFAR_P54_N16,NnenumError(Return code: 1),12.8159
+CIFAR_P18_N41,NnenumError(Return code: 1),15.4098
+CIFAR_P14_N14,NnenumError(Return code: 1),15.0728
+CIFAR_P49_N16,NnenumError(Return code: 1),13.6661
+CIFAR_P92_N38,NnenumError(Return code: 1),14.4388
+CIFAR_P93_N17,outofmemory,184.297
+CIFAR_P84_N13,unsat,216.3878
+CIFAR_P27_N15,outofmemory,229.1
+CIFAR_P83_N21,NnenumError(Return code: 1),16.2781
+CIFAR_P22_N3,NnenumError(Return code: 1),14.7169
+CIFAR_P28_N15,outofmemory,235.579
+CIFAR_P82_N15,outofmemory,265.18
+CIFAR_P72_N8,NnenumError(Return code: 1),14.0023
+CIFAR_P94_N7,NnenumError(Return code: 1),15.1949
+CIFAR_P12_N6,NnenumError(Return code: 1),15.2464
+CIFAR_P78_N4,outofmemory,174.7
+CIFAR_P82_N35,NnenumError(Return code: 1),10.8894
+CIFAR_P95_N31,NnenumError(Return code: 1),12.6228
+CIFAR_P6_N22,NnenumError(Return code: 1),12.4699
+CIFAR_P37_N35,NnenumError(Return code: 1),13.7463
+CIFAR_P4_N47,NnenumError(Return code: 1),12.4098
+CIFAR_P1_N43,NnenumError(Return code: 1),14.0951
+CIFAR_P64_N32,outofmemory,199.419
+CIFAR_P72_N22,NnenumError(Return code: 1),11.0286
+CIFAR_P92_N45,NnenumError(Return code: 1),11.8828
+CIFAR_P45_N19,NnenumError(Return code: 1),11.5239
+CIFAR_P73_N30,NnenumError(Return code: 1),12.6133
+CIFAR_P59_N44,NnenumError(Return code: 1),12.4624
+CIFAR_P64_N1,NnenumError(Return code: 1),11.9403
+CIFAR_P73_N22,NnenumError(Return code: 1),10.7869
+CIFAR_P87_N6,NnenumError(Return code: 1),12.0431
+CIFAR_P61_N33,NnenumError(Return code: 1),12.7372
+CIFAR_P44_N12,NnenumError(Return code: 1),11.937
+CIFAR_P57_N1,NnenumError(Return code: 1),12.4436
+CIFAR_P89_N19,NnenumError(Return code: 1),10.9544
+CIFAR_P15_N13,outofmemory,146.688
+CIFAR_P68_N47,NnenumError(Return code: 1),10.4057
+CIFAR_P2_N6,NnenumError(Return code: 1),12.16
+CIFAR_P36_N35,NnenumError(Return code: 1),11.9777
+CIFAR_P26_N17,outofmemory,205.896
+CIFAR_P95_N32,outofmemory,176.011
+CIFAR_P10_N16,NnenumError(Return code: 1),11.3046
+CIFAR_P36_N44,NnenumError(Return code: 1),13.249
+CIFAR_P49_N27,NnenumError(Return code: 1),11.124
+CIFAR_P2_N44,NnenumError(Return code: 1),12.2137
+CIFAR_P93_N30,NnenumError(Return code: 1),12.4635
+CIFAR_P94_N3,NnenumError(Return code: 1),11.6254
+CIFAR_P21_N19,NnenumError(Return code: 1),12.5515
+CIFAR_P71_N35,NnenumError(Return code: 1),12.2281
+CIFAR_P62_N3,NnenumError(Return code: 1),12.6399
+CIFAR_P23_N41,NnenumError(Return code: 1),13.3257
+CIFAR_P24_N16,NnenumError(Return code: 1),11.9384
+CIFAR_P61_N42,outofmemory,139.663
+CIFAR_P6_N35,NnenumError(Return code: 1),11.8437
+CIFAR_P25_N44,NnenumError(Return code: 1),12.0779
+CIFAR_P37_N22,NnenumError(Return code: 1),10.5386
+CIFAR_P81_N42,outofmemory,119.377
+CIFAR_P79_N18,outofmemory,127.872
+CIFAR_P88_N24,NnenumError(Return code: 1),13.7968
+CIFAR_P52_N28,NnenumError(Return code: 1),13.3713
+CIFAR_P58_N24,NnenumError(Return code: 1),14.4401
+CIFAR_P48_N37,NnenumError(Return code: 1),13.4355
+CIFAR_P6_N44,NnenumError(Return code: 1),14.2642
+CIFAR_P37_N34,outofmemory,55.31
+CIFAR_P51_N28,NnenumError(Return code: 1),13.9197
+CIFAR_P10_N5,unsat,307.5829
+CIFAR_P35_N28,NnenumError(Return code: 1),14.198
+CIFAR_P14_N32,outofmemory,52.675
+CIFAR_P10_N43,NnenumError(Return code: 1),13.7478
+CIFAR_P82_N24,NnenumError(Return code: 1),13.6296
+CIFAR_P77_N1,NnenumError(Return code: 1),13.5373
+CIFAR_P52_N34,outofmemory,54.706
+CIFAR_P70_N26,NnenumError(Return code: 1),13.9137
+CIFAR_P53_N8,NnenumError(Return code: 1),13.5388
+CIFAR_P35_N12,NnenumError(Return code: 1),13.7564
+CIFAR_P75_N4,outofmemory,87.348
+CIFAR_P60_N7,NnenumError(Return code: 1),14.2382
+CIFAR_P97_N33,NnenumError(Return code: 1),14.5333
+CIFAR_P76_N26,NnenumError(Return code: 1),13.9394
+CIFAR_P7_N37,NnenumError(Return code: 1),14.0415
+CIFAR_P48_N32,outofmemory,52.112
+CIFAR_P46_N13,outofmemory,99.385
+CIFAR_P54_N43,NnenumError(Return code: 1),13.8205
+CIFAR_P21_N46,NnenumError(Return code: 1),14.3805
+CIFAR_P17_N20,NnenumError(Return code: 1),13.5842
+CIFAR_P51_N1,NnenumError(Return code: 1),14.1006
+CIFAR_P43_N16,NnenumError(Return code: 1),7.5487
+CIFAR_P12_N20,NnenumError(Return code: 1),9.1982
+CIFAR_P63_N24,NnenumError(Return code: 1),8.882
+CIFAR_P27_N45,NnenumError(Return code: 1),9.1047
+CIFAR_P35_N23,NnenumError(Return code: 1),9.0505
+CIFAR_P44_N31,NnenumError(Return code: 1),8.4976
+CIFAR_P95_N43,NnenumError(Return code: 1),10.3075
+CIFAR_P87_N33,NnenumError(Return code: 1),9.4462
+CIFAR_P30_N8,NnenumError(Return code: 1),11.7107
+CIFAR_P5_N33,NnenumError(Return code: 1),11.5728
+CIFAR_P53_N17,outofmemory,69.825
+CIFAR_P94_N33,NnenumError(Return code: 1),10.2158
+CIFAR_P26_N35,NnenumError(Return code: 1),10.0079
+CIFAR_P8_N31,NnenumError(Return code: 1),10.3473
+CIFAR_P12_N24,NnenumError(Return code: 1),10.5371
+CIFAR_P33_N22,NnenumError(Return code: 1),11.4953
+CIFAR_P59_N32,outofmemory,75.474
+CIFAR_P62_N41,NnenumError(Return code: 1),12.4005
+CIFAR_P48_N8,NnenumError(Return code: 1),12.3505
+CIFAR_P88_N1,NnenumError(Return code: 1),11.5664
+CIFAR_P87_N29,NnenumError(Return code: 1),10.8804
+CIFAR_P69_N30,NnenumError(Return code: 1),8.4974
+CIFAR_P66_N31,NnenumError(Return code: 1),6.0355
+CIFAR_P55_N13,outofmemory,72.931
+CIFAR_P33_N47,NnenumError(Return code: 1),7.4131
+CIFAR_P74_N8,NnenumError(Return code: 1),7.3723
+CIFAR_P51_N3,NnenumError(Return code: 1),8.0688
+CIFAR_P60_N28,NnenumError(Return code: 1),8.4439
+CIFAR_P70_N12,NnenumError(Return code: 1),7.63
+CIFAR_P7_N47,NnenumError(Return code: 1),6.8432
+CIFAR_P83_N24,NnenumError(Return code: 1),8.1321
+CIFAR_P94_N38,NnenumError(Return code: 1),13.5866
+CIFAR_P96_N33,NnenumError(Return code: 1),8.2311
+CIFAR_P26_N30,NnenumError(Return code: 1),13.6917
+CIFAR_P17_N28,NnenumError(Return code: 1),12.1483
+CIFAR_P52_N7,NnenumError(Return code: 1),12.4978
+CIFAR_P52_N26,NnenumError(Return code: 1),12.9772
+CIFAR_P78_N13,outofmemory,96.108
+CIFAR_P42_N6,NnenumError(Return code: 1),13.384
+CIFAR_P74_N34,outofmemory,121.502
+CIFAR_P83_N30,NnenumError(Return code: 1),13.7245
+CIFAR_P88_N5,outofmemory,96.523
+CIFAR_P83_N41,NnenumError(Return code: 1),12.0838
+CIFAR_P38_N13,outofmemory,73.313
+CIFAR_P22_N15,outofmemory,226.164
+CIFAR_P64_N31,NnenumError(Return code: 1),13.8143
+CIFAR_P80_N17,outofmemory,108.489
+CIFAR_P72_N33,NnenumError(Return code: 1),9.0562
+CIFAR_P28_N4,outofmemory,150.997
+CIFAR_P6_N1,NnenumError(Return code: 1),7.979
+CIFAR_P34_N5,outofmemory,124.649
+CIFAR_P41_N26,NnenumError(Return code: 1),9.0143
+CIFAR_P46_N20,NnenumError(Return code: 1),12.7985
+CIFAR_P1_N23,NnenumError(Return code: 1),11.1771
+CIFAR_P48_N23,NnenumError(Return code: 1),12.2676
+CIFAR_P7_N21,NnenumError(Return code: 1),12.2375
+CIFAR_P69_N12,NnenumError(Return code: 1),10.9606
+CIFAR_P77_N46,NnenumError(Return code: 1),11.3127
+CIFAR_P51_N34,outofmemory,95.327
+CIFAR_P61_N12,NnenumError(Return code: 1),12.7135
+CIFAR_P43_N6,NnenumError(Return code: 1),12.0101
+CIFAR_P70_N35,NnenumError(Return code: 1),12.2615
+CIFAR_P46_N6,NnenumError(Return code: 1),11.7924
+CIFAR_P2_N14,NnenumError(Return code: 1),12.4785
+CIFAR_P25_N2,unsat,238.8455
+CIFAR_P9_N42,outofmemory,71.221
+CIFAR_P99_N43,NnenumError(Return code: 1),12.7492
+CIFAR_P4_N27,NnenumError(Return code: 1),6.7827
+CIFAR_P31_N24,NnenumError(Return code: 1),10.3908
+CIFAR_P57_N5,outofmemory,175.982
+CIFAR_P83_N13,outofmemory,93.7
+CIFAR_P2_N24,NnenumError(Return code: 1),10.1799
+CIFAR_P48_N1,NnenumError(Return code: 1),10.1503
+CIFAR_P73_N33,NnenumError(Return code: 1),10.4598
+CIFAR_P69_N38,NnenumError(Return code: 1),9.0275
+CIFAR_P8_N18,outofmemory,138.732
+CIFAR_P90_N30,NnenumError(Return code: 1),11.5813
+CIFAR_P99_N42,outofmemory,97.4
+CIFAR_P39_N18,outofmemory,106.559
+CIFAR_P41_N6,NnenumError(Return code: 1),11.4276
+CIFAR_P62_N29,NnenumError(Return code: 1),11.0465
+CIFAR_P61_N46,NnenumError(Return code: 1),11.193
+CIFAR_P17_N18,outofmemory,125.773
+CIFAR_P36_N42,outofmemory,99.838
+CIFAR_P42_N27,NnenumError(Return code: 1),12.1385
+CIFAR_P50_N30,NnenumError(Return code: 1),14.1401
+CIFAR_P17_N21,NnenumError(Return code: 1),14.5695
+CIFAR_P66_N17,outofmemory,81.904
+CIFAR_P78_N18,outofmemory,93.475
+CIFAR_P10_N13,outofmemory,136.97
+CIFAR_P96_N41,NnenumError(Return code: 1),10.4143
+CIFAR_P8_N17,outofmemory,92.321
+CIFAR_P79_N35,NnenumError(Return code: 1),9.2468
+CIFAR_P93_N3,NnenumError(Return code: 1),8.9913
+CIFAR_P5_N5,outofmemory,182.048
+CIFAR_P88_N16,NnenumError(Return code: 1),8.164
+CIFAR_P34_N27,NnenumError(Return code: 1),10.0016
+CIFAR_P13_N20,NnenumError(Return code: 1),10.3547
+CIFAR_P49_N45,NnenumError(Return code: 1),11.3006
+CIFAR_P8_N13,outofmemory,102.684
+CIFAR_P53_N6,NnenumError(Return code: 1),12.2101
+CIFAR_P45_N34,outofmemory,104.787
+CIFAR_P12_N3,NnenumError(Return code: 1),10.0566
+CIFAR_P49_N30,NnenumError(Return code: 1),11.4625
+CIFAR_P23_N18,outofmemory,117.65
+CIFAR_P34_N44,NnenumError(Return code: 1),12.7661
+CIFAR_P1_N46,NnenumError(Return code: 1),12.6359
+CIFAR_P18_N31,NnenumError(Return code: 1),10.5103
+CIFAR_P73_N42,outofmemory,87.908
+CIFAR_P22_N45,NnenumError(Return code: 1),9.7817
+CIFAR_P76_N15,outofmemory,130.756
+CIFAR_P92_N19,NnenumError(Return code: 1),9.2069
+CIFAR_P9_N30,NnenumError(Return code: 1),10.6372
+CIFAR_P2_N41,NnenumError(Return code: 1),9.6693
+CIFAR_P42_N29,NnenumError(Return code: 1),9.224
+CIFAR_P44_N18,outofmemory,102.205
+CIFAR_P86_N7,NnenumError(Return code: 1),9.6104
+CIFAR_P43_N23,NnenumError(Return code: 1),10.3835
+CIFAR_P73_N24,NnenumError(Return code: 1),10.4823
+CIFAR_P16_N21,NnenumError(Return code: 1),11.1823
+CIFAR_P38_N41,NnenumError(Return code: 1),11.9204
+CIFAR_P61_N41,NnenumError(Return code: 1),10.9847
+CIFAR_P58_N5,outofmemory,120.916
+CIFAR_P60_N20,NnenumError(Return code: 1),11.056
+CIFAR_P44_N22,NnenumError(Return code: 1),9.9494
+CIFAR_P28_N37,NnenumError(Return code: 1),12.4529
+CIFAR_P83_N38,NnenumError(Return code: 1),12.6329
+CIFAR_P17_N1,NnenumError(Return code: 1),10.7865
+CIFAR_P20_N37,NnenumError(Return code: 1),10.2156
+CIFAR_P27_N16,NnenumError(Return code: 1),8.5623
+CIFAR_P34_N23,NnenumError(Return code: 1),8.955
+CIFAR_P56_N31,NnenumError(Return code: 1),9.1672
+CIFAR_P15_N3,NnenumError(Return code: 1),7.5264
+CIFAR_P22_N25,outofmemory,209.017
+CIFAR_P23_N5,outofmemory,123.549
+CIFAR_P41_N25,outofmemory,123.643
+CIFAR_P0_N29,NnenumError(Return code: 1),7.9599
+CIFAR_P95_N23,NnenumError(Return code: 1),9.3828
+CIFAR_P6_N32,outofmemory,95.354
+CIFAR_P49_N17,outofmemory,101.876
+CIFAR_P46_N33,NnenumError(Return code: 1),11.4545
+CIFAR_P19_N21,NnenumError(Return code: 1),8.7687
+CIFAR_P42_N22,NnenumError(Return code: 1),9.417
+CIFAR_P33_N28,NnenumError(Return code: 1),12.349
+CIFAR_P49_N21,NnenumError(Return code: 1),11.6521
+CIFAR_P7_N23,NnenumError(Return code: 1),12.0181
+CIFAR_P60_N31,NnenumError(Return code: 1),12.0875
+CIFAR_P1_N47,NnenumError(Return code: 1),10.6803
+CIFAR_P62_N43,NnenumError(Return code: 1),12.7495
+CIFAR_P60_N46,NnenumError(Return code: 1),13.401
+CIFAR_P28_N13,outofmemory,94.314
+CIFAR_P26_N27,NnenumError(Return code: 1),11.133
+CIFAR_P50_N37,NnenumError(Return code: 1),11.1705
+CIFAR_P30_N18,outofmemory,108.383
+CIFAR_P86_N37,NnenumError(Return code: 1),12.5828
+CIFAR_P58_N35,NnenumError(Return code: 1),11.4799
+CIFAR_P10_N9,NnenumError(Return code: 1),13.6067
+CIFAR_P86_N28,NnenumError(Return code: 1),9.5935
+CIFAR_P29_N42,outofmemory,149.358
+CIFAR_P63_N27,NnenumError(Return code: 1),8.3002
+CIFAR_P44_N32,outofmemory,95.006
+CIFAR_P36_N16,NnenumError(Return code: 1),9.0689
+CIFAR_P0_N21,NnenumError(Return code: 1),10.2687
+CIFAR_P68_N41,NnenumError(Return code: 1),10.1487
+CIFAR_P6_N21,NnenumError(Return code: 1),10.1337
+CIFAR_P86_N8,NnenumError(Return code: 1),8.761
+CIFAR_P86_N31,NnenumError(Return code: 1),10.9846
+CIFAR_P16_N19,NnenumError(Return code: 1),10.2931
+CIFAR_P90_N44,NnenumError(Return code: 1),11.3205
+CIFAR_P91_N41,NnenumError(Return code: 1),12.2267
+CIFAR_P52_N30,NnenumError(Return code: 1),12.095
+CIFAR_P63_N17,outofmemory,136.644
+CIFAR_P88_N42,outofmemory,88.13
+CIFAR_P97_N46,NnenumError(Return code: 1),13.235
+CIFAR_P73_N25,outofmemory,257.775
+CIFAR_P17_N44,NnenumError(Return code: 1),13.9555
+CIFAR_P63_N23,NnenumError(Return code: 1),13.155
+CIFAR_P75_N9,NnenumError(Return code: 1),15.4543
+CIFAR_P3_N25,outofmemory,376.138
+CIFAR_P19_N19,NnenumError(Return code: 1),10.7267
+CIFAR_P69_N18,outofmemory,118.676
+CIFAR_P82_N37,NnenumError(Return code: 1),10.0334
+CIFAR_P71_N3,NnenumError(Return code: 1),9.712
+CIFAR_P99_N13,outofmemory,131.999
+CIFAR_P91_N33,NnenumError(Return code: 1),11.2004
+CIFAR_P1_N29,NnenumError(Return code: 1),9.4814
+CIFAR_P82_N5,outofmemory,156.678
+CIFAR_P14_N42,outofmemory,107.547
+CIFAR_P6_N4,outofmemory,124.461
+CIFAR_P3_N2,outofmemory,173.587
+CIFAR_P8_N42,outofmemory,147.311
+CIFAR_P78_N15,outofmemory,175.339
+CIFAR_P36_N3,NnenumError(Return code: 1),11.5133
+CIFAR_P56_N1,NnenumError(Return code: 1),13.5086
+CIFAR_P46_N44,NnenumError(Return code: 1),13.7365
+CIFAR_P69_N27,NnenumError(Return code: 1),12.8462
+CIFAR_P53_N34,outofmemory,146.298
+CIFAR_P14_N16,NnenumError(Return code: 1),11.9029
+CIFAR_P15_N5,outofmemory,274.539
+CIFAR_P76_N3,NnenumError(Return code: 1),13.5736
+CIFAR_P55_N20,NnenumError(Return code: 1),13.7508
+CIFAR_P91_N24,NnenumError(Return code: 1),13.321
+CIFAR_P77_N17,outofmemory,178.959
+CIFAR_P24_N41,NnenumError(Return code: 1),13.3217
+CIFAR_P94_N31,NnenumError(Return code: 1),10.639
+CIFAR_P72_N1,NnenumError(Return code: 1),10.6061
+CIFAR_P3_N33,NnenumError(Return code: 1),10.8353
+CIFAR_P21_N4,outofmemory,212.723
+CIFAR_P4_N6,NnenumError(Return code: 1),10.1939
+CIFAR_P29_N43,NnenumError(Return code: 1),11.395
+CIFAR_P91_N23,NnenumError(Return code: 1),12.1526
+CIFAR_P34_N47,NnenumError(Return code: 1),10.4445
+CIFAR_P33_N15,outofmemory,232.247
+CIFAR_P5_N7,NnenumError(Return code: 1),12.3889
+CIFAR_P14_N44,NnenumError(Return code: 1),11.7408
+CIFAR_P38_N1,NnenumError(Return code: 1),13.4842
+CIFAR_P48_N13,outofmemory,117.417
+CIFAR_P10_N29,NnenumError(Return code: 1),11.3559
+CIFAR_P35_N3,NnenumError(Return code: 1),11.6497
+CIFAR_P37_N44,NnenumError(Return code: 1),11.1579
+CIFAR_P72_N9,NnenumError(Return code: 1),14.8348
+CIFAR_P41_N13,outofmemory,115.077
+CIFAR_P5_N45,NnenumError(Return code: 1),11.7385
+CIFAR_P22_N28,NnenumError(Return code: 1),12.4608
+CIFAR_P87_N35,NnenumError(Return code: 1),11.6376
+CIFAR_P75_N12,NnenumError(Return code: 1),11.423
+CIFAR_P80_N44,NnenumError(Return code: 1),12.9935
+CIFAR_P26_N6,NnenumError(Return code: 1),11.7866
+CIFAR_P59_N33,NnenumError(Return code: 1),12.0268
+CIFAR_P68_N17,outofmemory,200.176
+CIFAR_P50_N29,NnenumError(Return code: 1),10.3676
+CIFAR_P24_N34,outofmemory,132.333
+CIFAR_P92_N31,NnenumError(Return code: 1),10.4097
+CIFAR_P49_N19,NnenumError(Return code: 1),9.6724
+CIFAR_P59_N37,NnenumError(Return code: 1),10.6397
+CIFAR_P14_N7,NnenumError(Return code: 1),11.4754
+CIFAR_P12_N42,outofmemory,119.518
+CIFAR_P76_N14,NnenumError(Return code: 1),11.958
+CIFAR_P31_N23,NnenumError(Return code: 1),11.4692
+CIFAR_P96_N37,NnenumError(Return code: 1),11.1202
+CIFAR_P68_N21,NnenumError(Return code: 1),10.3525
+CIFAR_P21_N33,NnenumError(Return code: 1),10.4349
+CIFAR_P4_N46,NnenumError(Return code: 1),10.5449
+CIFAR_P35_N7,NnenumError(Return code: 1),10.3807
+CIFAR_P24_N12,NnenumError(Return code: 1),10.0942
+CIFAR_P61_N17,outofmemory,99.547
+CIFAR_P87_N37,NnenumError(Return code: 1),10.7349
+CIFAR_P8_N3,NnenumError(Return code: 1),10.2402
+CIFAR_P99_N6,NnenumError(Return code: 1),10.6681
+CIFAR_P17_N26,NnenumError(Return code: 1),10.1798
+CIFAR_P32_N17,outofmemory,108.451
+CIFAR_P32_N24,NnenumError(Return code: 1),10.8417
+CIFAR_P9_N35,NnenumError(Return code: 1),10.0192
+CIFAR_P39_N45,NnenumError(Return code: 1),11.4602
+CIFAR_P18_N20,NnenumError(Return code: 1),10.4077
+CIFAR_P14_N15,outofmemory,152.628
+CIFAR_P59_N13,outofmemory,103.031
+CIFAR_P83_N47,NnenumError(Return code: 1),11.2493
+CIFAR_P49_N26,NnenumError(Return code: 1),12.1872
+CIFAR_P53_N18,outofmemory,209.22
+CIFAR_P73_N8,NnenumError(Return code: 1),10.4445
+CIFAR_P71_N31,NnenumError(Return code: 1),10.9092
+CIFAR_P66_N5,outofmemory,161.504
+CIFAR_P48_N2,outofmemory,168.19
+CIFAR_P15_N41,NnenumError(Return code: 1),11.6201
+CIFAR_P61_N26,NnenumError(Return code: 1),11.0596
+CIFAR_P25_N16,NnenumError(Return code: 1),10.2857
+CIFAR_P73_N15,outofmemory,167.732
+CIFAR_P54_N35,NnenumError(Return code: 1),11.4556
+CIFAR_P83_N18,outofmemory,123.738
+CIFAR_P30_N29,NnenumError(Return code: 1),13.0961
+CIFAR_P44_N44,NnenumError(Return code: 1),14.5194
+CIFAR_P68_N1,NnenumError(Return code: 1),14.4509
+CIFAR_P68_N25,outofmemory,306.23
+CIFAR_P9_N12,NnenumError(Return code: 1),12.317
+CIFAR_P58_N12,NnenumError(Return code: 1),11.4355
+CIFAR_P60_N42,outofmemory,117.048
+CIFAR_P47_N16,NnenumError(Return code: 1),11.2154
+CIFAR_P84_N20,NnenumError(Return code: 1),13.5255
+CIFAR_P88_N4,unsat,275.87
+CIFAR_P58_N19,NnenumError(Return code: 1),13.7564
+CIFAR_P63_N4,outofmemory,133.778
+CIFAR_P54_N15,outofmemory,186.606
+CIFAR_P41_N16,NnenumError(Return code: 1),12.5553
+CIFAR_P68_N37,NnenumError(Return code: 1),13.0741
+CIFAR_P98_N42,outofmemory,177.232
+CIFAR_P22_N20,NnenumError(Return code: 1),12.0737
+CIFAR_P39_N4,unsat,282.4196
+CIFAR_P94_N29,NnenumError(Return code: 1),12.0312
+CIFAR_P29_N13,outofmemory,246.941
+CIFAR_P76_N43,NnenumError(Return code: 1),12.7788
+CIFAR_P47_N30,NnenumError(Return code: 1),14.0176
+CIFAR_P18_N46,NnenumError(Return code: 1),14.4831
+CIFAR_P85_N29,NnenumError(Return code: 1),11.974
+CIFAR_P29_N1,NnenumError(Return code: 1),13.5291
+CIFAR_P67_N16,NnenumError(Return code: 1),12.5393
+CIFAR_P77_N33,NnenumError(Return code: 1),13.9976
+CIFAR_P60_N16,NnenumError(Return code: 1),12.8383
+CIFAR_P97_N4,outofmemory,145.354
+CIFAR_P21_N15,unsat,333.4637
+CIFAR_P15_N29,NnenumError(Return code: 1),12.5678
+CIFAR_P70_N22,NnenumError(Return code: 1),12.7105
+CIFAR_P67_N17,unsat,177.7387
+CIFAR_P97_N31,NnenumError(Return code: 1),14.0448
+CIFAR_P6_N34,outofmemory,145.417
+CIFAR_P80_N4,outofmemory,215.649
+CIFAR_P49_N1,NnenumError(Return code: 1),12.3221
+CIFAR_P63_N7,NnenumError(Return code: 1),11.7433
+CIFAR_P19_N6,NnenumError(Return code: 1),12.4855
+CIFAR_P70_N28,NnenumError(Return code: 1),12.4755
+CIFAR_P54_N28,NnenumError(Return code: 1),14.4083
+CIFAR_P35_N43,NnenumError(Return code: 1),14.3907
+CIFAR_P36_N18,outofmemory,197.891
+CIFAR_P62_N28,NnenumError(Return code: 1),15.3364
+CIFAR_P77_N21,NnenumError(Return code: 1),13.9425
+CIFAR_P65_N33,NnenumError(Return code: 1),13.7746
+CIFAR_P49_N18,outofmemory,172.856
+CIFAR_P85_N33,NnenumError(Return code: 1),15.7002
+CIFAR_P46_N32,outofmemory,145.192
+CIFAR_P31_N45,NnenumError(Return code: 1),14.053
+CIFAR_P40_N5,outofmemory,667.553
+CIFAR_P89_N26,NnenumError(Return code: 1),14.4804
+CIFAR_P21_N21,NnenumError(Return code: 1),14.211
+CIFAR_P62_N33,NnenumError(Return code: 1),12.4592
+CIFAR_P10_N17,outofmemory,135.064
+CIFAR_P1_N13,outofmemory,160.492
+CIFAR_P41_N17,outofmemory,132.912
+CIFAR_P17_N47,NnenumError(Return code: 1),11.6461
+CIFAR_P95_N19,NnenumError(Return code: 1),12.4515
+CIFAR_P32_N29,NnenumError(Return code: 1),12.5224
+CIFAR_P74_N14,NnenumError(Return code: 1),14.1946
+CIFAR_P42_N13,outofmemory,139.51
+CIFAR_P54_N46,NnenumError(Return code: 1),14.835
+CIFAR_P92_N6,NnenumError(Return code: 1),14.5409
+CIFAR_P90_N28,NnenumError(Return code: 1),14.2291
+CIFAR_P77_N18,outofmemory,190.833
+CIFAR_P93_N34,outofmemory,140.274
+CIFAR_P5_N20,NnenumError(Return code: 1),12.7146
+CIFAR_P26_N9,NnenumError(Return code: 1),18.3649
+CIFAR_P58_N17,outofmemory,144.301
+CIFAR_P73_N32,outofmemory,135.87
+CIFAR_P61_N16,NnenumError(Return code: 1),12.3018
+CIFAR_P87_N25,outofmemory,188.346
+CIFAR_P36_N26,NnenumError(Return code: 1),14.4354
+CIFAR_P76_N9,NnenumError(Return code: 1),18.551
+CIFAR_P59_N5,outofmemory,191.025
+CIFAR_P23_N24,NnenumError(Return code: 1),15.8076
+CIFAR_P63_N41,NnenumError(Return code: 1),16.1858
+CIFAR_P57_N8,NnenumError(Return code: 1),12.5774
+CIFAR_P80_N43,NnenumError(Return code: 1),15.281
+CIFAR_P35_N18,unsat,235.3083
+CIFAR_P30_N41,NnenumError(Return code: 1),13.4231
+CIFAR_P22_N6,NnenumError(Return code: 1),16.3747
+CIFAR_P12_N46,NnenumError(Return code: 1),15.8662
+CIFAR_P8_N38,NnenumError(Return code: 1),15.9835
+CIFAR_P10_N25,unsat,742.2962
+CIFAR_P86_N33,NnenumError(Return code: 1),13.8463
+CIFAR_P63_N15,outofmemory,225.151
+CIFAR_P88_N28,NnenumError(Return code: 1),13.4912
+CIFAR_P99_N44,NnenumError(Return code: 1),15.3265
+CIFAR_P53_N16,NnenumError(Return code: 1),13.9508
+CIFAR_P74_N15,outofmemory,274.021
+CIFAR_P0_N28,NnenumError(Return code: 1),16.5988
+CIFAR_P16_N16,NnenumError(Return code: 1),14.7494
+CIFAR_P46_N34,outofmemory,212.051
+CIFAR_P5_N37,NnenumError(Return code: 1),14.6463
+CIFAR_P80_N7,NnenumError(Return code: 1),13.6002
+CIFAR_P95_N18,outofmemory,158.866
+CIFAR_P54_N44,NnenumError(Return code: 1),14.3782
+CIFAR_P68_N31,NnenumError(Return code: 1),13.8403
+CIFAR_P55_N35,NnenumError(Return code: 1),14.0502
+CIFAR_P71_N5,outofmemory,216.414
+CIFAR_P82_N3,NnenumError(Return code: 1),16.4984
+CIFAR_P4_N18,outofmemory,194.118
+CIFAR_P13_N5,outofmemory,392.534
+CIFAR_P25_N13,unsat,227.0414
+CIFAR_P7_N12,NnenumError(Return code: 1),17.6075
+CIFAR_P30_N47,NnenumError(Return code: 1),13.5751
+CIFAR_P71_N19,NnenumError(Return code: 1),15.7591
+CIFAR_P8_N6,NnenumError(Return code: 1),16.9574
+CIFAR_P71_N38,NnenumError(Return code: 1),16.5114
+CIFAR_P91_N47,NnenumError(Return code: 1),15.8413
+CIFAR_P82_N17,outofmemory,155.166
+CIFAR_P84_N43,NnenumError(Return code: 1),15.4748
+CIFAR_P85_N43,NnenumError(Return code: 1),14.1861
+CIFAR_P90_N21,NnenumError(Return code: 1),13.3766
+CIFAR_P65_N9,NnenumError(Return code: 1),16.7309
+CIFAR_P29_N37,NnenumError(Return code: 1),13.2171
+CIFAR_P15_N34,outofmemory,166.654
+CIFAR_P62_N38,NnenumError(Return code: 1),13.6055
+CIFAR_P27_N9,NnenumError(Return code: 1),20.6165
+CIFAR_P40_N12,NnenumError(Return code: 1),14.597
+CIFAR_P68_N9,NnenumError(Return code: 1),20.3441
+CIFAR_P90_N47,NnenumError(Return code: 1),13.3983
+CIFAR_P6_N47,NnenumError(Return code: 1),12.7126
+CIFAR_P15_N20,NnenumError(Return code: 1),13.476
+CIFAR_P66_N4,unsat,344.7499
+CIFAR_P99_N46,NnenumError(Return code: 1),15.7757
+CIFAR_P24_N18,outofmemory,173.946
+CIFAR_P63_N43,NnenumError(Return code: 1),14.9023
+CIFAR_P48_N25,outofmemory,215.506
+CIFAR_P7_N46,NnenumError(Return code: 1),15.8657
+CIFAR_P21_N8,NnenumError(Return code: 1),14.5101
+CIFAR_P48_N35,NnenumError(Return code: 1),13.2047
+CIFAR_P26_N47,NnenumError(Return code: 1),13.7058
+CIFAR_P22_N37,NnenumError(Return code: 1),17.5865
+CIFAR_P7_N20,NnenumError(Return code: 1),17.7436
+CIFAR_P12_N16,NnenumError(Return code: 1),15.1433
+CIFAR_P68_N2,outofmemory,236.569
+CIFAR_P85_N1,NnenumError(Return code: 1),14.5767
+CIFAR_P49_N33,NnenumError(Return code: 1),13.1792
+CIFAR_P13_N33,NnenumError(Return code: 1),13.2675
+CIFAR_P78_N2,outofmemory,278.934
+CIFAR_P76_N6,NnenumError(Return code: 1),12.5527
+CIFAR_P72_N2,outofmemory,246.557
+CIFAR_P26_N37,NnenumError(Return code: 1),16.6845
+CIFAR_P50_N15,outofmemory,234.614
+CIFAR_P68_N38,NnenumError(Return code: 1),16.7359
+CIFAR_P76_N1,NnenumError(Return code: 1),15.5404
+CIFAR_P36_N29,NnenumError(Return code: 1),14.9886
+CIFAR_P92_N5,outofmemory,231.462
+CIFAR_P30_N17,outofmemory,244.033
+CIFAR_P93_N22,NnenumError(Return code: 1),16.5409
+CIFAR_P26_N14,NnenumError(Return code: 1),18.64
+CIFAR_P14_N5,outofmemory,303.387
+CIFAR_P98_N18,outofmemory,241.976
+CIFAR_P35_N9,NnenumError(Return code: 1),24.1143
+CIFAR_P96_N8,NnenumError(Return code: 1),16.6788
+CIFAR_P49_N14,NnenumError(Return code: 1),19.5195
+CIFAR_P93_N47,NnenumError(Return code: 1),16.6312
+CIFAR_P24_N28,NnenumError(Return code: 1),16.9012
+CIFAR_P80_N47,NnenumError(Return code: 1),12.7011
+CIFAR_P52_N1,NnenumError(Return code: 1),14.4123
+CIFAR_P81_N46,NnenumError(Return code: 1),15.6187
+CIFAR_P38_N30,NnenumError(Return code: 1),14.3804
+CIFAR_P50_N3,NnenumError(Return code: 1),13.0411
+CIFAR_P81_N32,outofmemory,159.486
+CIFAR_P69_N22,NnenumError(Return code: 1),13.2967
+CIFAR_P97_N8,NnenumError(Return code: 1),10.4338
+CIFAR_P3_N28,NnenumError(Return code: 1),11.9818
+CIFAR_P5_N9,NnenumError(Return code: 1),15.9647
+CIFAR_P73_N20,NnenumError(Return code: 1),11.9776
+CIFAR_P99_N28,NnenumError(Return code: 1),13.0581
+CIFAR_P29_N17,outofmemory,132.157
+CIFAR_P77_N42,outofmemory,129.503
+CIFAR_P29_N14,NnenumError(Return code: 1),13.6702
+CIFAR_P16_N38,NnenumError(Return code: 1),12.7767
+CIFAR_P92_N2,outofmemory,194.629
+CIFAR_P51_N4,outofmemory,150.805
+CIFAR_P22_N34,outofmemory,163.648
+CIFAR_P84_N38,NnenumError(Return code: 1),13.5347
+CIFAR_P92_N14,NnenumError(Return code: 1),12.9016
+CIFAR_P45_N45,NnenumError(Return code: 1),13.663
+CIFAR_P44_N4,unsat,285.5068
+CIFAR_P56_N22,NnenumError(Return code: 1),11.6331
+CIFAR_P25_N37,NnenumError(Return code: 1),15.3063
+CIFAR_P0_N9,NnenumError(Return code: 1),20.121
+CIFAR_P19_N13,outofmemory,163.961
+CIFAR_P32_N20,NnenumError(Return code: 1),14.2683
+CIFAR_P40_N23,NnenumError(Return code: 1),14.6921
+CIFAR_P62_N4,outofmemory,200.234
+CIFAR_P59_N20,NnenumError(Return code: 1),15.0336
+CIFAR_P71_N16,NnenumError(Return code: 1),12.9624
+CIFAR_P90_N19,NnenumError(Return code: 1),13.15
+CIFAR_P88_N2,outofmemory,211.683
+CIFAR_P69_N26,NnenumError(Return code: 1),13.4059
+CIFAR_P86_N1,NnenumError(Return code: 1),13.0136
+CIFAR_P84_N5,outofmemory,504.834
+CIFAR_P65_N30,NnenumError(Return code: 1),14.4926
+CIFAR_P33_N21,NnenumError(Return code: 1),12.8458
+CIFAR_P43_N24,NnenumError(Return code: 1),12.0759
+CIFAR_P81_N23,NnenumError(Return code: 1),15.9708
+CIFAR_P48_N45,NnenumError(Return code: 1),15.9479
+CIFAR_P8_N29,NnenumError(Return code: 1),12.1895
+CIFAR_P12_N4,outofmemory,151.779
+CIFAR_P0_N26,NnenumError(Return code: 1),14.8777
+CIFAR_P53_N12,NnenumError(Return code: 1),14.1759
+CIFAR_P92_N24,NnenumError(Return code: 1),13.8227
+CIFAR_P56_N20,NnenumError(Return code: 1),13.3057
+CIFAR_P49_N13,outofmemory,242.375
+CIFAR_P19_N38,NnenumError(Return code: 1),14.1831
+CIFAR_P84_N23,NnenumError(Return code: 1),14.0931
+CIFAR_P22_N43,NnenumError(Return code: 1),13.1041
+CIFAR_P66_N2,outofmemory,214.318
+CIFAR_P87_N18,outofmemory,170.759
+CIFAR_P69_N35,NnenumError(Return code: 1),14.2861
+CIFAR_P7_N42,outofmemory,131.619
+CIFAR_P85_N15,outofmemory,421.416
+CIFAR_P59_N35,NnenumError(Return code: 1),13.955
+CIFAR_P88_N26,NnenumError(Return code: 1),16.3841
+CIFAR_P9_N46,NnenumError(Return code: 1),16.5805
+CIFAR_P4_N15,outofmemory,217.021
+CIFAR_P36_N32,outofmemory,199.395
+CIFAR_P56_N7,NnenumError(Return code: 1),13.2766
+CIFAR_P13_N45,NnenumError(Return code: 1),14.4672
+CIFAR_P48_N41,NnenumError(Return code: 1),14.3228
+CIFAR_P38_N35,NnenumError(Return code: 1),13.7276
+CIFAR_P96_N5,outofmemory,206.486
+CIFAR_P37_N43,NnenumError(Return code: 1),15.7902
+CIFAR_P88_N32,outofmemory,148.373
+CIFAR_P65_N20,NnenumError(Return code: 1),14.6392
+CIFAR_P15_N12,NnenumError(Return code: 1),9.2671
+CIFAR_P11_N5,outofmemory,186.926
+CIFAR_P47_N7,NnenumError(Return code: 1),13.0301
+CIFAR_P53_N44,NnenumError(Return code: 1),12.0544
+CIFAR_P44_N29,NnenumError(Return code: 1),10.8788
+CIFAR_P50_N38,NnenumError(Return code: 1),12.3926
+CIFAR_P49_N31,NnenumError(Return code: 1),37.7498
+CIFAR_P43_N3,NnenumError(Return code: 1),34.1059
+CIFAR_P71_N29,NnenumError(Return code: 1),10.479
+CIFAR_P96_N23,NnenumError(Return code: 1),12.2691
+CIFAR_P54_N20,NnenumError(Return code: 1),11.7383
+CIFAR_P59_N12,NnenumError(Return code: 1),11.0181
+CIFAR_P2_N32,outofmemory,159.311
+CIFAR_P45_N3,NnenumError(Return code: 1),11.3683
+CIFAR_P37_N33,NnenumError(Return code: 1),11.1531
+CIFAR_P79_N22,NnenumError(Return code: 1),10.9357
+CIFAR_P4_N9,NnenumError(Return code: 1),15.5373
+CIFAR_P67_N43,NnenumError(Return code: 1),11.8741
+CIFAR_P98_N27,NnenumError(Return code: 1),10.3865
+CIFAR_P20_N16,NnenumError(Return code: 1),10.5269
+CIFAR_P87_N3,NnenumError(Return code: 1),9.9771
+CIFAR_P46_N41,NnenumError(Return code: 1),11.0712
+CIFAR_P45_N30,NnenumError(Return code: 1),10.8523
+CIFAR_P79_N41,NnenumError(Return code: 1),12.1992
+CIFAR_P60_N15,outofmemory,224.515
+CIFAR_P74_N12,NnenumError(Return code: 1),10.4137
+CIFAR_P42_N2,outofmemory,187.179
+CIFAR_P73_N12,NnenumError(Return code: 1),11.5973
+CIFAR_P58_N42,outofmemory,238.841
+CIFAR_P31_N6,NnenumError(Return code: 1),13.5034
+CIFAR_P75_N45,NnenumError(Return code: 1),14.8016
+CIFAR_P6_N46,NnenumError(Return code: 1),14.7029
+CIFAR_P44_N9,NnenumError(Return code: 1),17.6123
+CIFAR_P71_N47,NnenumError(Return code: 1),11.5962
+CIFAR_P82_N47,NnenumError(Return code: 1),10.4525
+CIFAR_P69_N37,NnenumError(Return code: 1),11.8141
+CIFAR_P2_N15,outofmemory,188.289
+CIFAR_P15_N28,NnenumError(Return code: 1),11.878
+CIFAR_P89_N24,NnenumError(Return code: 1),13.1817
+CIFAR_P19_N8,NnenumError(Return code: 1),11.36
+CIFAR_P94_N23,NnenumError(Return code: 1),13.1343
+CIFAR_P97_N16,NnenumError(Return code: 1),11.2705
+CIFAR_P96_N47,NnenumError(Return code: 1),11.7282
+CIFAR_P81_N44,NnenumError(Return code: 1),12.3356
+CIFAR_P65_N47,NnenumError(Return code: 1),11.733
+CIFAR_P76_N41,NnenumError(Return code: 1),14.9263
+CIFAR_P94_N20,NnenumError(Return code: 1),13.2097
+CIFAR_P26_N22,NnenumError(Return code: 1),12.9829
+CIFAR_P47_N12,NnenumError(Return code: 1),12.9507
+CIFAR_P96_N2,outofmemory,86.206
+CIFAR_P62_N27,NnenumError(Return code: 1),13.0765
+CIFAR_P75_N18,unsat,124.6039
+CIFAR_P66_N43,NnenumError(Return code: 1),13.001
+CIFAR_P98_N35,NnenumError(Return code: 1),11.9037
+CIFAR_P96_N29,NnenumError(Return code: 1),12.603
+CIFAR_P40_N21,NnenumError(Return code: 1),13.6541
+CIFAR_P9_N2,outofmemory,70.543
+CIFAR_P28_N43,NnenumError(Return code: 1),13.3343
+CIFAR_P0_N42,outofmemory,47.039
+CIFAR_P4_N17,outofmemory,74.908
+CIFAR_P20_N13,outofmemory,49.992
+CIFAR_P3_N26,NnenumError(Return code: 1),13.6055
+CIFAR_P43_N28,NnenumError(Return code: 1),14.3646
+CIFAR_P33_N44,NnenumError(Return code: 1),13.7763
+CIFAR_P45_N44,NnenumError(Return code: 1),13.976
+CIFAR_P58_N15,outofmemory,69.689
+CIFAR_P88_N6,NnenumError(Return code: 1),13.142
+CIFAR_P23_N2,outofmemory,69.689
+CIFAR_P27_N33,NnenumError(Return code: 1),13.424
+CIFAR_P75_N14,NnenumError(Return code: 1),12.3854
+CIFAR_P73_N45,NnenumError(Return code: 1),9.5215
+CIFAR_P32_N25,outofmemory,275.552
+CIFAR_P96_N27,NnenumError(Return code: 1),10.2569
+CIFAR_P36_N20,NnenumError(Return code: 1),11.519
+CIFAR_P68_N26,NnenumError(Return code: 1),11.5962
+CIFAR_P87_N15,outofmemory,97.778
+CIFAR_P89_N6,NnenumError(Return code: 1),11.4708
+CIFAR_P11_N1,NnenumError(Return code: 1),11.874
+CIFAR_P60_N12,NnenumError(Return code: 1),8.9589
+CIFAR_P44_N34,outofmemory,79.751
+CIFAR_P77_N13,outofmemory,128.297
+CIFAR_P13_N1,NnenumError(Return code: 1),11.8004
+CIFAR_P65_N31,NnenumError(Return code: 1),11.382
+CIFAR_P4_N22,NnenumError(Return code: 1),11.5074
+CIFAR_P19_N17,outofmemory,119.807
+CIFAR_P80_N1,NnenumError(Return code: 1),12.0252
+CIFAR_P32_N2,outofmemory,217.885
+CIFAR_P71_N20,NnenumError(Return code: 1),13.1595
+CIFAR_P21_N31,NnenumError(Return code: 1),14.1187
+CIFAR_P98_N26,NnenumError(Return code: 1),10.9041
+CIFAR_P73_N13,outofmemory,57.644
+CIFAR_P51_N2,outofmemory,94.528
+CIFAR_P80_N9,NnenumError(Return code: 1),12.9217
+CIFAR_P77_N22,NnenumError(Return code: 1),10.4257
+CIFAR_P16_N42,outofmemory,89.868
+CIFAR_P96_N14,NnenumError(Return code: 1),11.1533
+CIFAR_P11_N18,outofmemory,93.535
+CIFAR_P54_N47,NnenumError(Return code: 1),10.6377
+CIFAR_P79_N12,NnenumError(Return code: 1),10.7137
+CIFAR_P72_N43,NnenumError(Return code: 1),10.6771
+CIFAR_P74_N37,NnenumError(Return code: 1),11.1468
+CIFAR_P34_N29,NnenumError(Return code: 1),9.884
+CIFAR_P54_N1,NnenumError(Return code: 1),11.3969
+CIFAR_P44_N3,NnenumError(Return code: 1),11.0081
+CIFAR_P58_N44,NnenumError(Return code: 1),11.431
+CIFAR_P52_N17,outofmemory,108.347
+CIFAR_P78_N32,outofmemory,113.135
+CIFAR_P75_N16,NnenumError(Return code: 1),10.8976
+CIFAR_P3_N8,NnenumError(Return code: 1),9.1763
+CIFAR_P1_N20,NnenumError(Return code: 1),9.7575
+CIFAR_P31_N8,NnenumError(Return code: 1),11.5848
+CIFAR_P35_N22,NnenumError(Return code: 1),12.2927
+CIFAR_P93_N7,NnenumError(Return code: 1),11.6486
+CIFAR_P21_N42,unsat,105.4677
+CIFAR_P38_N28,NnenumError(Return code: 1),7.9081
+CIFAR_P2_N7,NnenumError(Return code: 1),8.0143
+CIFAR_P59_N45,NnenumError(Return code: 1),7.922
+CIFAR_P51_N47,NnenumError(Return code: 1),7.9012
+CIFAR_P15_N24,NnenumError(Return code: 1),9.4257
+CIFAR_P21_N32,outofmemory,199.545
+CIFAR_P74_N44,NnenumError(Return code: 1),9.8951
+CIFAR_P74_N9,NnenumError(Return code: 1),11.0432
+CIFAR_P34_N41,NnenumError(Return code: 1),9.0353
+CIFAR_P43_N17,outofmemory,75.783
+CIFAR_P93_N14,NnenumError(Return code: 1),7.9619
+CIFAR_P83_N23,NnenumError(Return code: 1),10.4882
+CIFAR_P20_N27,NnenumError(Return code: 1),9.6236
+CIFAR_P30_N16,NnenumError(Return code: 1),9.5446
+CIFAR_P38_N4,outofmemory,191.166
+CIFAR_P75_N8,NnenumError(Return code: 1),12.6962
+CIFAR_P25_N1,NnenumError(Return code: 1),14.1423
+CIFAR_P10_N15,outofmemory,126.782
+CIFAR_P70_N18,unsat,130.6051
+CIFAR_P98_N29,NnenumError(Return code: 1),11.2641
+CIFAR_P39_N29,NnenumError(Return code: 1),11.8152
+CIFAR_P38_N45,NnenumError(Return code: 1),10.5222
+CIFAR_P21_N14,NnenumError(Return code: 1),10.056
+CIFAR_P76_N33,NnenumError(Return code: 1),10.6725
+CIFAR_P89_N27,NnenumError(Return code: 1),8.9442
+CIFAR_P4_N7,NnenumError(Return code: 1),10.2053
+CIFAR_P3_N14,NnenumError(Return code: 1),9.9269
+CIFAR_P36_N25,outofmemory,204.529
+CIFAR_P16_N46,NnenumError(Return code: 1),11.8319
+CIFAR_P70_N9,NnenumError(Return code: 1),12.9914
+CIFAR_P28_N2,outofmemory,112.291
+CIFAR_P27_N14,NnenumError(Return code: 1),10.989
+CIFAR_P59_N3,NnenumError(Return code: 1),12.8387
+CIFAR_P13_N24,NnenumError(Return code: 1),11.4195
+CIFAR_P44_N26,NnenumError(Return code: 1),13.3289
+CIFAR_P62_N1,NnenumError(Return code: 1),13.6043
+CIFAR_P7_N8,NnenumError(Return code: 1),14.4299
+CIFAR_P61_N47,NnenumError(Return code: 1),13.294
+CIFAR_P44_N6,NnenumError(Return code: 1),12.2449
+CIFAR_P42_N7,NnenumError(Return code: 1),12.3897
+CIFAR_P51_N20,NnenumError(Return code: 1),10.3257
+CIFAR_P9_N43,NnenumError(Return code: 1),8.0355
+CIFAR_P90_N38,NnenumError(Return code: 1),10.9215
+CIFAR_P40_N46,NnenumError(Return code: 1),10.8691
+CIFAR_P47_N20,NnenumError(Return code: 1),11.2185
+CIFAR_P22_N32,unsat,120.7749
+CIFAR_P91_N20,NnenumError(Return code: 1),10.4076
+CIFAR_P37_N24,NnenumError(Return code: 1),10.3198
+CIFAR_P7_N1,NnenumError(Return code: 1),7.7106
+CIFAR_P40_N33,NnenumError(Return code: 1),10.7589
+CIFAR_P31_N43,NnenumError(Return code: 1),9.7092
+CIFAR_P0_N47,NnenumError(Return code: 1),8.2269
+CIFAR_P87_N5,outofmemory,90.722
+CIFAR_P89_N16,NnenumError(Return code: 1),9.3299
+CIFAR_P25_N28,NnenumError(Return code: 1),10.1859
+CIFAR_P35_N33,NnenumError(Return code: 1),10.4014
+CIFAR_P49_N41,NnenumError(Return code: 1),10.9032
+CIFAR_P25_N7,NnenumError(Return code: 1),10.4946
+CIFAR_P34_N12,NnenumError(Return code: 1),16.5162
+CIFAR_P98_N30,NnenumError(Return code: 1),13.872
+CIFAR_P41_N44,NnenumError(Return code: 1),11.6395
+CIFAR_P93_N42,outofmemory,75.368
+CIFAR_P83_N8,NnenumError(Return code: 1),9.8228
+CIFAR_P27_N44,NnenumError(Return code: 1),12.8308
+CIFAR_P52_N4,outofmemory,96.683
+CIFAR_P91_N29,NnenumError(Return code: 1),10.8852
+CIFAR_P94_N17,outofmemory,159.427
+CIFAR_P83_N29,NnenumError(Return code: 1),11.5293
+CIFAR_P6_N7,NnenumError(Return code: 1),12.3231
+CIFAR_P79_N14,NnenumError(Return code: 1),12.6187
+CIFAR_P50_N43,NnenumError(Return code: 1),12.209
+CIFAR_P17_N2,outofmemory,143.5
+CIFAR_P23_N28,NnenumError(Return code: 1),13.1395
+CIFAR_P23_N3,NnenumError(Return code: 1),11.6917
+CIFAR_P55_N7,NnenumError(Return code: 1),12.5317
+CIFAR_P52_N47,NnenumError(Return code: 1),11.9126
+CIFAR_P57_N27,NnenumError(Return code: 1),11.4207
+CIFAR_P29_N19,NnenumError(Return code: 1),12.1317
+CIFAR_P72_N25,outofmemory,107.762
+CIFAR_P39_N1,NnenumError(Return code: 1),11.3339
+CIFAR_P96_N21,NnenumError(Return code: 1),11.1152
+CIFAR_P77_N44,NnenumError(Return code: 1),12.083
+CIFAR_P13_N42,outofmemory,65.447
+CIFAR_P33_N3,NnenumError(Return code: 1),10.9768
+CIFAR_P60_N1,NnenumError(Return code: 1),11.7857
+CIFAR_P46_N42,outofmemory,83.323
+CIFAR_P77_N5,outofmemory,226.676
+CIFAR_P62_N35,NnenumError(Return code: 1),12.6915
+CIFAR_P40_N13,outofmemory,128.638
+CIFAR_P89_N29,NnenumError(Return code: 1),13.151
+CIFAR_P8_N4,outofmemory,110.936
+CIFAR_P51_N26,NnenumError(Return code: 1),12.0755
+CIFAR_P65_N41,NnenumError(Return code: 1),13.8662
+CIFAR_P20_N2,outofmemory,167.357
+CIFAR_P54_N7,NnenumError(Return code: 1),13.1091
+CIFAR_P20_N46,NnenumError(Return code: 1),13.2207
+CIFAR_P16_N43,NnenumError(Return code: 1),12.9482
+CIFAR_P88_N17,outofmemory,107.725
+CIFAR_P49_N25,outofmemory,133.787
+CIFAR_P9_N26,NnenumError(Return code: 1),13.332
+CIFAR_P52_N21,NnenumError(Return code: 1),12.8437
+CIFAR_P93_N23,NnenumError(Return code: 1),13.5775
+CIFAR_P14_N47,NnenumError(Return code: 1),12.8171
+CIFAR_P12_N34,outofmemory,90.437
+CIFAR_P1_N28,NnenumError(Return code: 1),11.7974
+CIFAR_P75_N38,NnenumError(Return code: 1),11.3857
+CIFAR_P37_N1,NnenumError(Return code: 1),13.1067
+CIFAR_P55_N46,NnenumError(Return code: 1),14.4733
+CIFAR_P21_N17,unsat,116.9825
+CIFAR_P28_N14,NnenumError(Return code: 1),8.9344
+CIFAR_P56_N45,NnenumError(Return code: 1),8.9862
+CIFAR_P75_N27,NnenumError(Return code: 1),8.4873
+CIFAR_P55_N25,outofmemory,133.273
+CIFAR_P92_N13,outofmemory,130.603
+CIFAR_P25_N21,NnenumError(Return code: 1),11.7223
+CIFAR_P18_N42,outofmemory,96.499
+CIFAR_P53_N25,outofmemory,168.673
+CIFAR_P16_N12,NnenumError(Return code: 1),10.3179
+CIFAR_P36_N27,NnenumError(Return code: 1),11.6332
+CIFAR_P88_N9,NnenumError(Return code: 1),14.7231
+CIFAR_P39_N41,NnenumError(Return code: 1),12.934
+CIFAR_P17_N30,NnenumError(Return code: 1),13.0796
+CIFAR_P48_N26,NnenumError(Return code: 1),12.8148
+CIFAR_P84_N47,NnenumError(Return code: 1),11.9581
+CIFAR_P55_N26,NnenumError(Return code: 1),11.4172
+CIFAR_P9_N29,NnenumError(Return code: 1),11.1354
+CIFAR_P86_N47,NnenumError(Return code: 1),10.8042
+CIFAR_P60_N3,NnenumError(Return code: 1),11.1667
+CIFAR_P34_N7,NnenumError(Return code: 1),14.7965
+CIFAR_P46_N14,NnenumError(Return code: 1),13.4939
+CIFAR_P48_N29,NnenumError(Return code: 1),7.3553
+CIFAR_P34_N1,NnenumError(Return code: 1),8.7251
+CIFAR_P32_N13,outofmemory,220.971
+CIFAR_P47_N15,outofmemory,129.084
+CIFAR_P50_N18,outofmemory,103.39
+CIFAR_P62_N6,NnenumError(Return code: 1),12.6224
+CIFAR_P3_N6,NnenumError(Return code: 1),12.2285
+CIFAR_P3_N30,NnenumError(Return code: 1),12.3505
+CIFAR_P27_N34,outofmemory,133.812
+CIFAR_P88_N13,outofmemory,102.187
+CIFAR_P77_N41,NnenumError(Return code: 1),13.5488
+CIFAR_P80_N3,NnenumError(Return code: 1),12.6015
+CIFAR_P69_N13,outofmemory,102.048
+CIFAR_P96_N44,NnenumError(Return code: 1),14.2615
+CIFAR_P10_N6,NnenumError(Return code: 1),13.2984
+CIFAR_P98_N33,NnenumError(Return code: 1),13.1302
+CIFAR_P36_N43,NnenumError(Return code: 1),13.8699
+CIFAR_P17_N31,NnenumError(Return code: 1),12.3346
+CIFAR_P28_N22,NnenumError(Return code: 1),11.3474
+CIFAR_P82_N16,NnenumError(Return code: 1),12.7714
+CIFAR_P63_N19,NnenumError(Return code: 1),11.8212
+CIFAR_P90_N16,NnenumError(Return code: 1),12.3156
+CIFAR_P41_N47,NnenumError(Return code: 1),7.3578
+CIFAR_P53_N31,NnenumError(Return code: 1),6.5657
+CIFAR_P87_N16,NnenumError(Return code: 1),7.3103
+CIFAR_P92_N8,NnenumError(Return code: 1),6.7387
+CIFAR_P52_N46,NnenumError(Return code: 1),8.6226
+CIFAR_P58_N9,NnenumError(Return code: 1),10.1933
+CIFAR_P50_N25,outofmemory,122.757
+CIFAR_P90_N32,outofmemory,108.698
+CIFAR_P0_N20,NnenumError(Return code: 1),8.1231
+CIFAR_P66_N32,outofmemory,89.729
+CIFAR_P10_N8,NnenumError(Return code: 1),7.9977
+CIFAR_P33_N42,outofmemory,113.981
+CIFAR_P85_N46,NnenumError(Return code: 1),9.647
+CIFAR_P44_N27,NnenumError(Return code: 1),9.1262
+CIFAR_P38_N33,NnenumError(Return code: 1),11.8143
+CIFAR_P62_N47,NnenumError(Return code: 1),9.6302
+CIFAR_P80_N24,NnenumError(Return code: 1),11.2708
+CIFAR_P82_N8,NnenumError(Return code: 1),10.7191
+CIFAR_P20_N8,NnenumError(Return code: 1),12.7296
+CIFAR_P76_N12,NnenumError(Return code: 1),12.9719
+CIFAR_P8_N35,NnenumError(Return code: 1),13.1567
+CIFAR_P93_N1,NnenumError(Return code: 1),14.0675
+CIFAR_P24_N35,NnenumError(Return code: 1),11.7069
+CIFAR_P28_N23,NnenumError(Return code: 1),11.8274
+CIFAR_P89_N21,NnenumError(Return code: 1),9.5455
+CIFAR_P43_N44,NnenumError(Return code: 1),8.5964
+CIFAR_P50_N7,NnenumError(Return code: 1),7.5024
+CIFAR_P8_N14,NnenumError(Return code: 1),7.1744
+CIFAR_P21_N29,NnenumError(Return code: 1),6.5262
+CIFAR_P95_N26,NnenumError(Return code: 1),7.7894
+CIFAR_P28_N9,NnenumError(Return code: 1),9.3696
+CIFAR_P73_N14,NnenumError(Return code: 1),8.8209
+CIFAR_P1_N16,NnenumError(Return code: 1),7.4548
+CIFAR_P70_N24,NnenumError(Return code: 1),8.8868
+CIFAR_P24_N33,NnenumError(Return code: 1),9.0424
+CIFAR_P46_N18,outofmemory,138.35
+CIFAR_P12_N7,NnenumError(Return code: 1),9.0239
+CIFAR_P3_N37,NnenumError(Return code: 1),8.7014
+CIFAR_P47_N25,outofmemory,127.343
+CIFAR_P39_N3,NnenumError(Return code: 1),9.9701
+CIFAR_P42_N18,outofmemory,115.372
+CIFAR_P73_N2,outofmemory,137.573
+CIFAR_P94_N19,NnenumError(Return code: 1),10.7363
+CIFAR_P97_N21,NnenumError(Return code: 1),10.7313
+CIFAR_P69_N42,outofmemory,83.307
+CIFAR_P73_N5,outofmemory,127.924
+CIFAR_P18_N4,unsat,215.1222
+CIFAR_P55_N32,outofmemory,90.077
+CIFAR_P72_N5,outofmemory,124.863
+CIFAR_P94_N16,NnenumError(Return code: 1),10.3819
+CIFAR_P68_N28,NnenumError(Return code: 1),12.862
+CIFAR_P94_N21,NnenumError(Return code: 1),12.3412
+CIFAR_P65_N7,NnenumError(Return code: 1),11.6635
+CIFAR_P58_N22,NnenumError(Return code: 1),11.2501
+CIFAR_P80_N14,NnenumError(Return code: 1),9.8224
+CIFAR_P64_N18,outofmemory,111.486
+CIFAR_P64_N12,NnenumError(Return code: 1),7.9287
+CIFAR_P98_N43,NnenumError(Return code: 1),9.7674
+CIFAR_P14_N31,NnenumError(Return code: 1),10.3229
+CIFAR_P51_N14,NnenumError(Return code: 1),11.4073
+CIFAR_P93_N27,NnenumError(Return code: 1),10.1928
+CIFAR_P60_N5,outofmemory,249.552
+CIFAR_P61_N7,NnenumError(Return code: 1),10.8194
+CIFAR_P23_N4,outofmemory,115.718
+CIFAR_P34_N16,NnenumError(Return code: 1),8.6522
+CIFAR_P8_N1,NnenumError(Return code: 1),9.2015
+CIFAR_P44_N30,NnenumError(Return code: 1),10.8515
+CIFAR_P23_N46,NnenumError(Return code: 1),11.1516
+CIFAR_P91_N22,NnenumError(Return code: 1),8.5571
+CIFAR_P6_N5,outofmemory,144.374
+CIFAR_P98_N9,NnenumError(Return code: 1),12.3979
+CIFAR_P44_N16,NnenumError(Return code: 1),9.5809
+CIFAR_P37_N46,NnenumError(Return code: 1),10.1157
+CIFAR_P66_N8,NnenumError(Return code: 1),8.9817
+CIFAR_P76_N2,outofmemory,145.975
+CIFAR_P43_N21,NnenumError(Return code: 1),9.3738
+CIFAR_P41_N15,outofmemory,270.744
+CIFAR_P73_N37,NnenumError(Return code: 1),11.2802
+CIFAR_P74_N46,NnenumError(Return code: 1),9.3147
+CIFAR_P88_N18,outofmemory,102.183
+CIFAR_P39_N31,NnenumError(Return code: 1),12.7293
+CIFAR_P53_N43,NnenumError(Return code: 1),12.6019
+CIFAR_P81_N26,NnenumError(Return code: 1),13.2593
+CIFAR_P95_N12,NnenumError(Return code: 1),12.5741
+CIFAR_P71_N37,NnenumError(Return code: 1),13.9095
+CIFAR_P69_N23,NnenumError(Return code: 1),11.1475
+CIFAR_P22_N46,NnenumError(Return code: 1),10.5506
+CIFAR_P93_N26,NnenumError(Return code: 1),11.3288
+CIFAR_P97_N37,NnenumError(Return code: 1),11.6954
+CIFAR_P97_N35,NnenumError(Return code: 1),10.2368
+CIFAR_P62_N18,outofmemory,114.67
+CIFAR_P53_N14,NnenumError(Return code: 1),11.7199
+CIFAR_P11_N9,NnenumError(Return code: 1),14.8438
+CIFAR_P72_N19,NnenumError(Return code: 1),11.0844
+CIFAR_P99_N23,NnenumError(Return code: 1),9.9171
+CIFAR_P66_N1,NnenumError(Return code: 1),8.4996
+CIFAR_P7_N2,outofmemory,147.099
+CIFAR_P81_N35,NnenumError(Return code: 1),10.371
+CIFAR_P73_N3,NnenumError(Return code: 1),8.6043
+CIFAR_P64_N43,NnenumError(Return code: 1),10.1414
+CIFAR_P73_N21,NnenumError(Return code: 1),10.2791
+CIFAR_P28_N6,NnenumError(Return code: 1),11.2267
+CIFAR_P62_N46,NnenumError(Return code: 1),11.6583
+CIFAR_P73_N23,NnenumError(Return code: 1),11.1587
+CIFAR_P18_N33,NnenumError(Return code: 1),10.7919
+CIFAR_P6_N3,NnenumError(Return code: 1),9.7775
+CIFAR_P3_N5,outofmemory,200.974
+CIFAR_P67_N38,NnenumError(Return code: 1),9.7133
+CIFAR_P39_N20,NnenumError(Return code: 1),8.8421
+CIFAR_P49_N43,NnenumError(Return code: 1),9.2197
+CIFAR_P75_N35,NnenumError(Return code: 1),9.1837
+CIFAR_P12_N29,NnenumError(Return code: 1),7.7611
+CIFAR_P54_N37,NnenumError(Return code: 1),7.6424
+CIFAR_P64_N45,NnenumError(Return code: 1),8.4652
+CIFAR_P61_N29,NnenumError(Return code: 1),7.5804
+CIFAR_P90_N27,NnenumError(Return code: 1),6.5584
+CIFAR_P45_N1,NnenumError(Return code: 1),7.3638
+CIFAR_P42_N20,NnenumError(Return code: 1),6.1016
+CIFAR_P26_N38,NnenumError(Return code: 1),7.1574
+CIFAR_P11_N26,NnenumError(Return code: 1),7.3381
+CIFAR_P6_N43,NnenumError(Return code: 1),6.3287
+CIFAR_P92_N41,NnenumError(Return code: 1),6.2834
+CIFAR_P28_N20,NnenumError(Return code: 1),6.1851
+CIFAR_P63_N21,NnenumError(Return code: 1),5.5991
+CIFAR_P65_N42,unsat,67.4015
+CIFAR_P94_N30,NnenumError(Return code: 1),6.5758
+CIFAR_P25_N42,unsat,94.2313
+CIFAR_P36_N41,NnenumError(Return code: 1),14.0872
+CIFAR_P53_N3,NnenumError(Return code: 1),12.9598
+CIFAR_P64_N20,NnenumError(Return code: 1),13.6972
+CIFAR_P16_N35,NnenumError(Return code: 1),13.627
+CIFAR_P92_N1,NnenumError(Return code: 1),13.5519
+CIFAR_P80_N41,NnenumError(Return code: 1),14.2008
+CIFAR_P84_N1,NnenumError(Return code: 1),13.5155
+CIFAR_P31_N47,NnenumError(Return code: 1),13.034
+CIFAR_P64_N47,NnenumError(Return code: 1),13.1816
+CIFAR_P58_N18,outofmemory,92.556
+CIFAR_P10_N46,NnenumError(Return code: 1),13.9189
+CIFAR_P95_N14,NnenumError(Return code: 1),14.0184
+CIFAR_P54_N2,outofmemory,60.937
+CIFAR_P13_N23,NnenumError(Return code: 1),13.4914
+CIFAR_P6_N33,NnenumError(Return code: 1),13.6475
+CIFAR_P79_N17,outofmemory,47.926
+CIFAR_P85_N24,NnenumError(Return code: 1),13.7427
+CIFAR_P51_N17,outofmemory,47.856
+CIFAR_P44_N38,NnenumError(Return code: 1),13.4407
+CIFAR_P20_N14,NnenumError(Return code: 1),14.2181
+CIFAR_P72_N4,outofmemory,50.115
+CIFAR_P82_N30,NnenumError(Return code: 1),13.492
+CIFAR_P60_N4,unsat,103.5901
+CIFAR_P67_N33,NnenumError(Return code: 1),12.3962
+CIFAR_P13_N30,NnenumError(Return code: 1),13.5615
+CIFAR_P54_N19,NnenumError(Return code: 1),11.5238
+CIFAR_P61_N5,outofmemory,98.743
+CIFAR_P43_N7,NnenumError(Return code: 1),13.1328
+CIFAR_P84_N33,NnenumError(Return code: 1),12.59
+CIFAR_P33_N9,NnenumError(Return code: 1),12.1671
+CIFAR_P31_N16,NnenumError(Return code: 1),11.9584
+CIFAR_P54_N29,NnenumError(Return code: 1),11.128
+CIFAR_P96_N25,outofmemory,81.664
+CIFAR_P18_N38,NnenumError(Return code: 1),12.7968
+CIFAR_P51_N5,outofmemory,82.281
+CIFAR_P13_N46,NnenumError(Return code: 1),12.8946
+CIFAR_P8_N45,NnenumError(Return code: 1),11.8961
+CIFAR_P68_N5,outofmemory,108.359
+CIFAR_P77_N20,NnenumError(Return code: 1),12.6065
+CIFAR_P8_N7,NnenumError(Return code: 1),10.9217
+CIFAR_P58_N27,NnenumError(Return code: 1),10.6085
+CIFAR_P85_N44,NnenumError(Return code: 1),12.9607
+CIFAR_P38_N20,NnenumError(Return code: 1),8.263
+CIFAR_P23_N9,NnenumError(Return code: 1),7.6498
+CIFAR_P34_N43,NnenumError(Return code: 1),2.8405
+CIFAR_P76_N27,NnenumError(Return code: 1),2.2988
+CIFAR_P95_N2,outofmemory,54.438

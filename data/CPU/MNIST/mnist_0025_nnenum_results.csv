@@ -1,0 +1,4401 @@
+ProblemId,Result,TotalTime
+MNIST_P1_N24,outofmemory,43.154
+MNIST_P2_N37,unsat,112.792
+MNIST_P12_N48,NnenumError(Return code: 1),14.7494
+MNIST_P6_N25,outofmemory,60.025
+MNIST_P5_N19,NnenumError(Return code: 1),14.5264
+MNIST_P6_N37,unsat,110.5116
+MNIST_P8_N2,unsat,141.8974
+MNIST_P5_N11,outofmemory,45.2
+MNIST_P16_N12,NnenumError(Return code: 1),12.8986
+MNIST_P7_N10,outofmemory,43.905
+MNIST_P11_N17,NnenumError(Return code: 1),13.5927
+MNIST_P7_N29,unsat,91.6662
+MNIST_P5_N29,unsat,88.0011
+MNIST_P15_N19,NnenumError(Return code: 1),13.138
+MNIST_P14_N1,unsat,84.2226
+MNIST_P9_N12,NnenumError(Return code: 1),14.241
+MNIST_P7_N42,unsat,88.8606
+MNIST_P12_N47,outofmemory,49.486
+MNIST_P0_N15,NnenumError(Return code: 1),14.4406
+MNIST_P5_N9,unsat,112.274
+MNIST_P2_N15,NnenumError(Return code: 1),14.3148
+MNIST_P6_N41,unsat,319.3452
+MNIST_P9_N5,NnenumError(Return code: 1),7	3846
+MNIST_P15_N42,unsat,80.6205
+MNIST_P1_N49,NnenumError(Return code: 1),8.8347
+MNIST_P14_N29,unsat,79.8504
+MNIST_P5_N25,outofmemory,96.761
+MNIST_P2_N16,NnenumError(Return code: 1),10.2194
+MNIST_P13_N14,NnenumError(Return code: 1),10.5069
+MNIST_P9_N27,NnenumError(Return code: 1),7.6736
+MNIST_P6_N46,unsat,100.9046
+MNIST_P4_N5,NnenumError(Return code: 1),9.6046
+MNIST_P5_N20,NnenumError(Return code: 1),10.0152
+MNIST_P0_N26,NnenumError(Return code: 1),11.4047
+MNIST_P6_N19,NnenumError(Return code: 1),11.3358
+MNIST_P12_N11,outofmemory,63.021
+MNIST_P9_N24,outofmemory,64.557
+MNIST_P7_N49,NnenumError(Return code: 1),5.7512
+MNIST_P13_N22,NnenumError(Return code: 1),6.4793
+MNIST_P10_N36,unsat,122.3831
+MNIST_P14_N4,NnenumError(Return code: 1),8.9876
+MNIST_P16_N15,NnenumError(Return code: 1),9.8151
+MNIST_P8_N40,unsat,72.3698
+MNIST_P7_N35,outofmemory,72.514
+MNIST_P9_N16,NnenumError(Return code: 1),7.84
+MNIST_P12_N26,NnenumError(Return code: 1),10.6632
+MNIST_P12_N45,outofmemory,58.543
+MNIST_P6_N7,outofmemory,66.329
+MNIST_P0_N4,NnenumError(Return code: 1),11.0608
+MNIST_P7_N44,outofmemory,57.082
+MNIST_P4_N35,outofmemory,55.455
+MNIST_P9_N44,outofmemory,54.918
+MNIST_P12_N21,NnenumError(Return code: 1),10.8906
+MNIST_P16_N9,unsat,94.9795
+MNIST_P9_N37,unsat,90.7082
+MNIST_P16_N7,outofmemory,49.854
+MNIST_P5_N36,outofmemory,85.712
+MNIST_P4_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.081
+MNIST_P5_N39,outofmemory,73.191
+MNIST_P12_N46,unsat,103.6209
+MNIST_P15_N35,outofmemory,65.996
+MNIST_P15_N46,unsat,99.8564
+MNIST_P15_N20,NnenumError(Return code: 1),8.2488
+MNIST_P16_N4,NnenumError(Return code: 1),9.6297
+MNIST_P3_N45,outofmemory,92.027
+MNIST_P0_N45,outofmemory,60.226
+MNIST_P0_N12,NnenumError(Return code: 1),9.3239
+MNIST_P1_N44,outofmemory,66.915
+MNIST_P3_N33,NnenumError(Return code: 1),10.4361
+MNIST_P7_N4,NnenumError(Return code: 1),11.4001
+MNIST_P4_N48,NnenumError(Return code: 1),11.5263
+MNIST_P10_N21,NnenumError(Return code: 1),10.3964
+MNIST_P1_N25,outofmemory,87.564
+MNIST_P9_N23,unsat,75.4289
+MNIST_P2_N17,NnenumError(Return code: 1),6.1219
+MNIST_P6_N34,outofmemory,66.243
+MNIST_P13_N33,NnenumError(Return code: 1),9.7717
+MNIST_P14_N7,outofmemory,73.671
+MNIST_P0_N2,unsat,150.1464
+MNIST_P15_N45,outofmemory,68.578
+MNIST_P11_N39,outofmemory,69.69
+MNIST_P14_N41,unsat,259.3198
+MNIST_P13_N9,unsat,98.7557
+MNIST_P2_N48,NnenumError(Return code: 1),10.5201
+MNIST_P11_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.1243
+MNIST_P14_N48,NnenumError(Return code: 1),10.2868
+MNIST_P3_N44,outofmemory,62.304
+MNIST_P8_N49,NnenumError(Return code: 1),9.469
+MNIST_P0_N27,NnenumError(Return code: 1),9.6754
+MNIST_P14_N37,unsat,105.2096
+MNIST_P12_N27,NnenumError(Return code: 1),13.1363
+MNIST_P9_N47,outofmemory,61.889
+MNIST_P11_N45,outofmemory,72.769
+MNIST_P14_N21,NnenumError(Return code: 1),7.6691
+MNIST_P9_N10,outofmemory,63.281
+MNIST_P3_N13,outofmemory,64.091
+MNIST_P2_N7,outofmemory,71.014
+MNIST_P4_N40,unsat,83.7365
+MNIST_P13_N10,outofmemory,70.638
+MNIST_P2_N23,unsat,81.5911
+MNIST_P0_N44,outofmemory,72.244
+MNIST_P5_N34,outofmemory,75.481
+MNIST_P1_N4,NnenumError(Return code: 1),10.5379
+MNIST_P3_N4,NnenumError(Return code: 1),11.7771
+MNIST_P8_N31,unsat,107.5221
+MNIST_P1_N46,unsat,103.1293
+MNIST_P1_N47,outofmemory,80.393
+MNIST_P12_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0668
+MNIST_P1_N14,NnenumError(Return code: 1),12.9296
+MNIST_P4_N1,unsat,78.0423
+MNIST_P8_N24,outofmemory,69.81
+MNIST_P14_N36,outofmemory,91.323
+MNIST_P4_N33,NnenumError(Return code: 1),7.7189
+MNIST_P15_N44,outofmemory,63.171
+MNIST_P14_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.2241
+MNIST_P10_N44,outofmemory,70.25
+MNIST_P10_N49,NnenumError(Return code: 1),8.7636
+MNIST_P13_N23,unsat,62.8262
+MNIST_P14_N18,NnenumError(Return code: 1),8.495
+MNIST_P10_N45,outofmemory,75.931
+MNIST_P1_N21,NnenumError(Return code: 1),8.7152
+MNIST_P4_N20,NnenumError(Return code: 1),8.363
+MNIST_P9_N18,NnenumError(Return code: 1),8.4543
+MNIST_P3_N48,NnenumError(Return code: 1),6.1555
+MNIST_P9_N36,unsat,79.1834
+MNIST_P14_N5,NnenumError(Return code: 1),5.5231
+MNIST_P2_N3,NnenumError(Return code: 1),5.7441
+MNIST_P11_N16,NnenumError(Return code: 1),5.3748
+MNIST_P3_N10,outofmemory,50.53
+MNIST_P5_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.189
+MNIST_P11_N4,NnenumError(Return code: 1),6.7022
+MNIST_P9_N33,NnenumError(Return code: 1),7.187
+MNIST_P8_N27,NnenumError(Return code: 1),6.2301
+MNIST_P14_N13,outofmemory,38.817
+MNIST_P4_N42,unsat,45.8255
+MNIST_P8_N16,NnenumError(Return code: 1),4.0249
+MNIST_P11_N49,NnenumError(Return code: 1),5.4908
+MNIST_P13_N15,NnenumError(Return code: 1),5.7379
+MNIST_P3_N7,outofmemory,41.219
+MNIST_P13_N11,outofmemory,42.78
+MNIST_P11_N14,NnenumError(Return code: 1),3.9015
+MNIST_P0_N13,outofmemory,39.036
+MNIST_P5_N3,NnenumError(Return code: 1),6.078
+MNIST_P10_N38,outofmemory,40.749
+MNIST_P13_N44,outofmemory,38.776
+MNIST_P6_N42,unsat,33.1281
+MNIST_P12_N42,unsat,28.3749
+MNIST_P14_N26,NnenumError(Return code: 1),3.0752
+MNIST_P8_N1,unsat,24.9253
+MNIST_P12_N39,outofmemory,34.57
+MNIST_P3_N16,NnenumError(Return code: 1),3.3962
+MNIST_P12_N31,unsat,39.4604
+MNIST_P11_N19,NnenumError(Return code: 1),2.5001
+MNIST_P12_N15,NnenumError(Return code: 1),2.7008
+MNIST_P1_N31,unsat,38.8613
+MNIST_P15_N48,NnenumError(Return code: 1),3.308
+MNIST_P5_N10,outofmemory,25.773
+MNIST_P2_N13,outofmemory,23.935
+MNIST_P0_N18,NnenumError(Return code: 1),2.4094
+MNIST_P1_N18,NnenumError(Return code: 1),2.6869
+MNIST_P4_N21,NnenumError(Return code: 1),2.5766
+MNIST_P4_N16,NnenumError(Return code: 1),2.0793
+MNIST_P14_N24,outofmemory,21.672
+MNIST_P10_N33,NnenumError(Return code: 1),2.2122
+MNIST_P7_N9,unsat,24.4479
+MNIST_P7_N48,NnenumError(Return code: 1),2.3029
+MNIST_P5_N42,unsat,20.9504
+MNIST_P16_N5,NnenumError(Return code: 1),2.2258
+MNIST_P15_N16,NnenumError(Return code: 1),2.0144
+MNIST_P2_N2,unsat,39.0941
+MNIST_P9_N38,outofmemory,23.642
+MNIST_P4_N7,outofmemory,23.31
+MNIST_P9_N15,NnenumError(Return code: 1),2.2258
+MNIST_P6_N17,NnenumError(Return code: 1),2.0362
+MNIST_P1_N42,unsat,20.5383
+MNIST_P4_N22,NnenumError(Return code: 1),2.3042
+MNIST_P13_N49,NnenumError(Return code: 1),2.1293
+MNIST_P12_N29,unsat,20.7487
+MNIST_P14_N19,NnenumError(Return code: 1),2.219
+MNIST_P6_N36,outofmemory,27.301
+MNIST_P16_N11,outofmemory,22.556
+MNIST_P0_N35,outofmemory,21.087
+MNIST_P7_N13,outofmemory,20.721
+MNIST_P1_N13,outofmemory,20.522
+MNIST_P5_N44,outofmemory,21.735
+MNIST_P6_N13,outofmemory,20.846
+MNIST_P11_N13,outofmemory,20.983
+MNIST_P5_N1,unsat,95.1579
+MNIST_P2_N31,unsat,151.8102
+MNIST_P14_N10,outofmemory,54.901
+MNIST_P8_N41,unsat,403.6378
+MNIST_P4_N44,outofmemory,55.372
+MNIST_P9_N31,unsat,151.2207
+MNIST_P6_N22,NnenumError(Return code: 1),20.46
+MNIST_P0_N25,outofmemory,79.269
+MNIST_P2_N14,NnenumError(Return code: 1),20.2866
+MNIST_P13_N48,NnenumError(Return code: 1),19.9876
+MNIST_P1_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1186
+MNIST_P3_N23,unsat,105.5541
+MNIST_P5_N35,outofmemory,53.728
+MNIST_P11_N37,unsat,115.8356
+MNIST_P8_N48,NnenumError(Return code: 1),21.1112
+MNIST_P5_N7,outofmemory,56.415
+MNIST_P6_N14,NnenumError(Return code: 1),20.431
+MNIST_P3_N20,NnenumError(Return code: 1),20.2938
+MNIST_P9_N4,NnenumError(Return code: 1),20.7917
+MNIST_P6_N31,unsat,152.1199
+MNIST_P10_N17,NnenumError(Return code: 1),20.5064
+MNIST_P11_N35,outofmemory,96.243
+MNIST_P14_N14,NnenumError(Return code: 1),9.1901
+MNIST_P3_N19,NnenumError(Return code: 1),8.8984
+MNIST_P0_N22,NnenumError(Return code: 1),9.1468
+MNIST_P8_N14,NnenumError(Return code: 1),12.5813
+MNIST_P2_N45,outofmemory,74.066
+MNIST_P5_N48,NnenumError(Return code: 1),13.3377
+MNIST_P4_N41,unsat,405.4348
+MNIST_P4_N31,unsat,139.006
+MNIST_P9_N39,outofmemory,73.988
+MNIST_P2_N21,NnenumError(Return code: 1),12.6288
+MNIST_P6_N4,NnenumError(Return code: 1),12.4579
+MNIST_P8_N11,outofmemory,72.548
+MNIST_P2_N19,NnenumError(Return code: 1),12.4402
+MNIST_P2_N25,outofmemory,95.729
+MNIST_P4_N10,outofmemory,60.927
+MNIST_P7_N37,unsat,103.5816
+MNIST_P8_N19,NnenumError(Return code: 1),12.9463
+MNIST_P2_N24,outofmemory,65.427
+MNIST_P13_N24,outofmemory,81.146
+MNIST_P4_N15,NnenumError(Return code: 1),10.1353
+MNIST_P3_N2,unsat,159.8475
+MNIST_P13_N42,unsat,89.4
+MNIST_P15_N14,NnenumError(Return code: 1),8.2113
+MNIST_P6_N44,outofmemory,77.076
+MNIST_P9_N3,NnenumError(Return code: 1),8.8491
+MNIST_P14_N42,unsat,89.7427
+MNIST_P10_N19,NnenumError(Return code: 1),10.0241
+MNIST_P1_N34,outofmemory,71.427
+MNIST_P7_N14,NnenumError(Return code: 1),9.278
+MNIST_P15_N4,NnenumError(Return code: 1),10.0964
+MNIST_P1_N16,NnenumError(Return code: 1),12.044
+MNIST_P3_N37,unsat,109.789
+MNIST_P14_N39,outofmemory,58.259
+MNIST_P5_N13,outofmemory,53.862
+MNIST_P3_N11,outofmemory,64.397
+MNIST_P7_N36,outofmemory,113.729
+MNIST_P12_N23,unsat,84.8114
+MNIST_P3_N42,unsat,85.327
+MNIST_P11_N25,outofmemory,129.716
+MNIST_P15_N27,NnenumError(Return code: 1),7.0563
+MNIST_P6_N20,NnenumError(Return code: 1),8.2087
+MNIST_P8_N39,outofmemory,77.835
+MNIST_P13_N41,unsat,362.4178
+MNIST_P13_N17,NnenumError(Return code: 1),8.604
+MNIST_P0_N9,unsat,110.3788
+MNIST_P6_N26,NnenumError(Return code: 1),7.4609
+MNIST_P3_N5,NnenumError(Return code: 1),10.8981
+MNIST_P6_N33,NnenumError(Return code: 1),11.2832
+MNIST_P2_N46,unsat,117.1496
+MNIST_P1_N19,NnenumError(Return code: 1),11.6058
+MNIST_P7_N21,NnenumError(Return code: 1),10.7838
+MNIST_P14_N44,outofmemory,67.928
+MNIST_P5_N46,unsat,112.8642
+MNIST_P8_N12,NnenumError(Return code: 1),6.859
+MNIST_P1_N20,NnenumError(Return code: 1),9.3078
+MNIST_P3_N34,outofmemory,68.119
+MNIST_P10_N12,NnenumError(Return code: 1),8.5041
+MNIST_P14_N35,outofmemory,70.168
+MNIST_P6_N18,NnenumError(Return code: 1),11.1502
+MNIST_P16_N2,unsat,163.8452
+MNIST_P8_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.1144
+MNIST_P3_N21,NnenumError(Return code: 1),11.0403
+MNIST_P2_N5,NnenumError(Return code: 1),11.6089
+MNIST_P15_N47,outofmemory,87.865
+MNIST_P7_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0837
+MNIST_P7_N39,outofmemory,68.403
+MNIST_P0_N21,NnenumError(Return code: 1),9.8166
+MNIST_P7_N40,unsat,92.3712
+MNIST_P9_N49,NnenumError(Return code: 1),9.1873
+MNIST_P4_N2,unsat,147.4345
+MNIST_P2_N42,unsat,88.493
+MNIST_P0_N47,outofmemory,89.587
+MNIST_P6_N49,NnenumError(Return code: 1),8.3703
+MNIST_P8_N33,NnenumError(Return code: 1),8.4959
+MNIST_P10_N24,outofmemory,113.797
+MNIST_P3_N18,NnenumError(Return code: 1),8.2903
+MNIST_P5_N37,unsat,105.5539
+MNIST_P6_N35,outofmemory,81.82
+MNIST_P4_N17,NnenumError(Return code: 1),10.4256
+MNIST_P11_N22,NnenumError(Return code: 1),10.8712
+MNIST_P11_N38,outofmemory,78.676
+MNIST_P12_N12,NnenumError(Return code: 1),11.0724
+MNIST_P7_N5,NnenumError(Return code: 1),11.5688
+MNIST_P16_N1,unsat,80.576
+MNIST_P1_N3,NnenumError(Return code: 1),10.7573
+MNIST_P15_N22,NnenumError(Return code: 1),11.1223
+MNIST_P1_N11,outofmemory,66.001
+MNIST_P4_N46,unsat,100.6043
+MNIST_P11_N44,outofmemory,73.716
+MNIST_P12_N24,outofmemory,68.337
+MNIST_P13_N19,NnenumError(Return code: 1),7.6536
+MNIST_P7_N19,NnenumError(Return code: 1),8.1748
+MNIST_P9_N19,NnenumError(Return code: 1),8.5877
+MNIST_P0_N14,NnenumError(Return code: 1),9.7351
+MNIST_P6_N5,NnenumError(Return code: 1),9.616
+MNIST_P2_N49,NnenumError(Return code: 1),10.0284
+MNIST_P10_N7,outofmemory,71.137
+MNIST_P11_N24,outofmemory,60.264
+MNIST_P13_N2,unsat,122.8381
+MNIST_P10_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1975
+MNIST_P10_N16,NnenumError(Return code: 1),9.9581
+MNIST_P15_N3,NnenumError(Return code: 1),9.8668
+MNIST_P7_N11,outofmemory,58.069
+MNIST_P8_N18,NnenumError(Return code: 1),8.2784
+MNIST_P14_N17,NnenumError(Return code: 1),7.9894
+MNIST_P11_N7,outofmemory,53.902
+MNIST_P8_N25,outofmemory,78.329
+MNIST_P0_N33,NnenumError(Return code: 1),6.8021
+MNIST_P11_N46,unsat,89.1243
+MNIST_P12_N40,unsat,72.1419
+MNIST_P10_N20,NnenumError(Return code: 1),5.6625
+MNIST_P12_N20,NnenumError(Return code: 1),6.2088
+MNIST_P15_N13,outofmemory,57.68
+MNIST_P11_N40,unsat,68.8732
+MNIST_P1_N7,outofmemory,59.136
+MNIST_P10_N10,outofmemory,58.49
+MNIST_P12_N2,unsat,115.813
+MNIST_P12_N41,unsat,245.3997
+MNIST_P5_N21,NnenumError(Return code: 1),8.4414
+MNIST_P8_N7,outofmemory,59.557
+MNIST_P7_N16,NnenumError(Return code: 1),8.2473
+MNIST_P6_N48,NnenumError(Return code: 1),7.3
+MNIST_P15_N5,NnenumError(Return code: 1),7.4008
+MNIST_P14_N45,outofmemory,60.625
+MNIST_P5_N33,NnenumError(Return code: 1),6.7878
+MNIST_P9_N40,unsat,58.6461
+MNIST_P8_N34,outofmemory,54.304
+MNIST_P12_N5,NnenumError(Return code: 1),5.8227
+MNIST_P8_N47,outofmemory,59.118
+MNIST_P8_N10,outofmemory,47.602
+MNIST_P4_N36,outofmemory,71.773
+MNIST_P8_N46,unsat,73.3178
+MNIST_P9_N46,unsat,74.8214
+MNIST_P9_N29,unsat,54.83
+MNIST_P2_N36,outofmemory,79.699
+MNIST_P15_N10,outofmemory,51.136
+MNIST_P0_N29,unsat,55.6415
+MNIST_P2_N12,NnenumError(Return code: 1),6.8622
+MNIST_P2_N29,unsat,52.1468
+MNIST_P0_N24,outofmemory,47.44
+MNIST_P16_N10,outofmemory,50.503
+MNIST_P6_N2,unsat,96.1257
+MNIST_P6_N15,NnenumError(Return code: 1),5.1439
+MNIST_P14_N12,NnenumError(Return code: 1),4.7837
+MNIST_P15_N25,outofmemory,71.627
+MNIST_P12_N34,outofmemory,36.941
+MNIST_P15_N2,unsat,89.777
+MNIST_P15_N37,unsat,62.3226
+MNIST_P1_N27,NnenumError(Return code: 1),4.3919
+MNIST_P10_N2,unsat,84.753
+MNIST_P10_N9,unsat,61.3224
+MNIST_P0_N36,outofmemory,74.778
+MNIST_P14_N40,unsat,41.8862
+MNIST_P14_N38,outofmemory,46.902
+MNIST_P9_N26,NnenumError(Return code: 1),2.9697
+MNIST_P10_N34,outofmemory,28.44
+MNIST_P4_N4,NnenumError(Return code: 1),2.2982
+MNIST_P7_N20,NnenumError(Return code: 1),2.0976
+MNIST_P9_N7,outofmemory,22.66
+MNIST_P15_N26,NnenumError(Return code: 1),2.1733
+MNIST_P2_N18,NnenumError(Return code: 1),2.3537
+MNIST_P1_N35,outofmemory,21.113
+MNIST_P2_N47,outofmemory,23.738
+MNIST_P6_N11,outofmemory,22.308
+MNIST_P9_N2,unsat,38.5702
+MNIST_P2_N9,unsat,24.18
+MNIST_P5_N12,NnenumError(Return code: 1),2.3197
+MNIST_P14_N16,NnenumError(Return code: 1),2.0257
+MNIST_P4_N12,NnenumError(Return code: 1),2.2705
+MNIST_P8_N22,NnenumError(Return code: 1),2.1373
+MNIST_P9_N13,outofmemory,20.47
+MNIST_P12_N13,outofmemory,21.694
+MNIST_P10_N35,outofmemory,20.936
+MNIST_P9_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0257
+MNIST_P5_N24,outofmemory,20.545
+MNIST_P9_N35,outofmemory,22.052
+MNIST_P6_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.025
+MNIST_P2_N44,outofmemory,22.139
+MNIST_P4_N24,outofmemory,21.436
+MNIST_P3_N35,outofmemory,21.318
+MNIST_P13_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0649
+MNIST_P8_N13,outofmemory,21.307
+MNIST_P2_N35,outofmemory,21.16
+MNIST_P12_N35,outofmemory,21.566
+MNIST_P15_N24,outofmemory,21.421
+MNIST_P6_N24,outofmemory,21.222
+MNIST_P2_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0675
+MNIST_P13_N13,outofmemory,20.618
+MNIST_P0_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0268
+MNIST_P12_N44,outofmemory,21.446
+MNIST_P8_N44,outofmemory,21.513
+MNIST_P7_N24,outofmemory,20.901
+MNIST_P3_N24,outofmemory,20.745
+MNIST_P8_N35,outofmemory,21.166
+MNIST_P51_N48,NnenumError(Return code: 1),14.9926
+MNIST_P35_N44,outofmemory,46.225
+MNIST_P60_N49,NnenumError(Return code: 1),17.0715
+MNIST_P61_N36,outofmemory,56.049
+MNIST_P19_N13,outofmemory,44.586
+MNIST_P23_N48,NnenumError(Return code: 1),15.5539
+MNIST_P43_N42,unsat,77.4406
+MNIST_P22_N29,unsat,78.1328
+MNIST_P91_N27,NnenumError(Return code: 1),14.5248
+MNIST_P96_N38,outofmemory,47.197
+MNIST_P98_N11,outofmemory,47.018
+MNIST_P84_N20,NnenumError(Return code: 1),15.7535
+MNIST_P98_N24,outofmemory,44.741
+MNIST_P99_N22,NnenumError(Return code: 1),15.7131
+MNIST_P69_N44,outofmemory,45.598
+MNIST_P90_N18,NnenumError(Return code: 1),16.5146
+MNIST_P65_N45,outofmemory,43.824
+MNIST_P87_N13,outofmemory,73.974
+MNIST_P54_N16,NnenumError(Return code: 1),14.7884
+MNIST_P75_N17,NnenumError(Return code: 1),14.7122
+MNIST_P86_N9,unsat,94.8898
+MNIST_P81_N47,outofmemory,49.227
+MNIST_P90_N37,unsat,101.4861
+MNIST_P78_N41,unsat,318.4313
+MNIST_P68_N18,NnenumError(Return code: 1),6.0498
+MNIST_P66_N45,outofmemory,51.03
+MNIST_P20_N10,outofmemory,62.508
+MNIST_P93_N37,unsat,108.4207
+MNIST_P76_N13,outofmemory,49.031
+MNIST_P23_N38,outofmemory,63.722
+MNIST_P92_N44,outofmemory,63.601
+MNIST_P83_N40,unsat,99.2744
+MNIST_P38_N29,unsat,101.5127
+MNIST_P0_N7,outofmemory,52.641
+MNIST_P79_N35,outofmemory,61.039
+MNIST_P37_N20,NnenumError(Return code: 1),12.6269
+MNIST_P95_N13,outofmemory,58.981
+MNIST_P10_N29,unsat,101.3344
+MNIST_P3_N46,unsat,126.1415
+MNIST_P11_N31,unsat,123.9444
+MNIST_P20_N18,NnenumError(Return code: 1),13.1992
+MNIST_P87_N25,outofmemory,88.432
+MNIST_P92_N12,NnenumError(Return code: 1),7.3596
+MNIST_P48_N46,unsat,120.3698
+MNIST_P63_N12,NnenumError(Return code: 1),10.8612
+MNIST_P44_N42,unsat,90.1688
+MNIST_P48_N41,unsat,381.7272
+MNIST_P24_N9,unsat,112.6195
+MNIST_P38_N37,unsat,115.1837
+MNIST_P75_N41,unsat,353.0711
+MNIST_P13_N34,outofmemory,75.058
+MNIST_P63_N4,NnenumError(Return code: 1),13.1144
+MNIST_P81_N7,outofmemory,68.869
+MNIST_P70_N45,outofmemory,112.699
+MNIST_P49_N26,NnenumError(Return code: 1),9.8129
+MNIST_P82_N39,outofmemory,74.392
+MNIST_P30_N7,outofmemory,87.942
+MNIST_P99_N27,NnenumError(Return code: 1),9.1314
+MNIST_P38_N35,outofmemory,85.122
+MNIST_P41_N45,outofmemory,80.3
+MNIST_P95_N7,outofmemory,86.046
+MNIST_P93_N7,outofmemory,79.347
+MNIST_P65_N18,NnenumError(Return code: 1),10.1324
+MNIST_P89_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.2774
+MNIST_P75_N37,unsat,106.0418
+MNIST_P78_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.1773
+MNIST_P56_N10,outofmemory,80.562
+MNIST_P47_N18,NnenumError(Return code: 1),11.7434
+MNIST_P37_N47,outofmemory,80.746
+MNIST_P30_N44,outofmemory,70.392
+MNIST_P57_N10,outofmemory,67.022
+MNIST_P23_N46,unsat,108.6608
+MNIST_P75_N13,outofmemory,70.285
+MNIST_P0_N39,outofmemory,74.45
+MNIST_P56_N33,NnenumError(Return code: 1),9.5799
+MNIST_P70_N31,unsat,138.865
+MNIST_P99_N11,outofmemory,74.737
+MNIST_P62_N24,outofmemory,76.535
+MNIST_P65_N48,NnenumError(Return code: 1),10.8815
+MNIST_P91_N2,unsat,154.1568
+MNIST_P16_N31,unsat,132.8617
+MNIST_P8_N38,outofmemory,74.329
+MNIST_P68_N40,unsat,86.1294
+MNIST_P69_N20,NnenumError(Return code: 1),9.7044
+MNIST_P73_N12,NnenumError(Return code: 1),10.0864
+MNIST_P16_N17,NnenumError(Return code: 1),8.7429
+MNIST_P53_N15,NnenumError(Return code: 1),7.5167
+MNIST_P53_N31,unsat,126.8539
+MNIST_P2_N33,NnenumError(Return code: 1),7.229
+MNIST_P19_N40,unsat,81.2413
+MNIST_P57_N21,NnenumError(Return code: 1),8.8302
+MNIST_P61_N25,outofmemory,121.662
+MNIST_P76_N35,outofmemory,75.446
+MNIST_P59_N33,NnenumError(Return code: 1),9.6083
+MNIST_P54_N20,NnenumError(Return code: 1),7.9963
+MNIST_P67_N34,outofmemory,71.977
+MNIST_P29_N17,NnenumError(Return code: 1),8.3119
+MNIST_P32_N21,NnenumError(Return code: 1),10.5881
+MNIST_P18_N38,outofmemory,66.297
+MNIST_P77_N5,NnenumError(Return code: 1),6.5105
+MNIST_P40_N9,unsat,84.0199
+MNIST_P37_N34,outofmemory,64.74
+MNIST_P96_N31,unsat,93.3928
+MNIST_P17_N10,outofmemory,62.903
+MNIST_P98_N34,outofmemory,64.633
+MNIST_P32_N40,unsat,62.7334
+MNIST_P41_N40,unsat,67.1586
+MNIST_P34_N33,NnenumError(Return code: 1),6.7394
+MNIST_P48_N1,unsat,45.657
+MNIST_P74_N5,NnenumError(Return code: 1),5.3407
+MNIST_P32_N1,unsat,45.0211
+MNIST_P15_N34,outofmemory,52.028
+MNIST_P79_N9,unsat,52.732
+MNIST_P46_N15,NnenumError(Return code: 1),7.8251
+MNIST_P64_N16,NnenumError(Return code: 1),7.4366
+MNIST_P26_N21,NnenumError(Return code: 1),6.8331
+MNIST_P65_N42,outofmemory,44.411
+MNIST_P90_N14,NnenumError(Return code: 1),4.0551
+MNIST_P36_N7,outofmemory,40.887
+MNIST_P94_N12,NnenumError(Return code: 1),3.2841
+MNIST_P96_N19,NnenumError(Return code: 1),3.5979
+MNIST_P38_N39,outofmemory,37.202
+MNIST_P21_N12,NnenumError(Return code: 1),4.8372
+MNIST_P18_N9,unsat,44.466
+MNIST_P39_N48,NnenumError(Return code: 1),3.9944
+MNIST_P33_N12,NnenumError(Return code: 1),4.0753
+MNIST_P85_N4,NnenumError(Return code: 1),4.0825
+MNIST_P56_N24,outofmemory,29.552
+MNIST_P53_N26,NnenumError(Return code: 1),3.5592
+MNIST_P46_N1,unsat,38.1766
+MNIST_P33_N17,NnenumError(Return code: 1),2.785
+MNIST_P6_N40,unsat,39.6133
+MNIST_P64_N35,outofmemory,29.744
+MNIST_P21_N25,outofmemory,54.82
+MNIST_P93_N40,unsat,39.1261
+MNIST_P16_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0282
+MNIST_P88_N45,outofmemory,62.507
+MNIST_P16_N38,outofmemory,32.095
+MNIST_P23_N36,outofmemory,52.656
+MNIST_P25_N14,NnenumError(Return code: 1),5.4547
+MNIST_P44_N5,NnenumError(Return code: 1),5.0951
+MNIST_P46_N26,NnenumError(Return code: 1),5.0968
+MNIST_P14_N27,NnenumError(Return code: 1),3.206
+MNIST_P0_N40,unsat,28.6907
+MNIST_P68_N31,unsat,40.521
+MNIST_P72_N40,unsat,29.0457
+MNIST_P27_N33,NnenumError(Return code: 1),2.9987
+MNIST_P50_N40,unsat,28.5848
+MNIST_P28_N1,unsat,25.5034
+MNIST_P20_N35,outofmemory,26.253
+MNIST_P17_N12,NnenumError(Return code: 1),2.7122
+MNIST_P41_N16,NnenumError(Return code: 1),2.3503
+MNIST_P63_N11,outofmemory,24.112
+MNIST_P95_N29,unsat,22.4876
+MNIST_P64_N19,NnenumError(Return code: 1),2.2868
+MNIST_P36_N24,outofmemory,24.172
+MNIST_P76_N44,outofmemory,22.356
+MNIST_P85_N35,unsat,23.0033
+MNIST_P49_N22,NnenumError(Return code: 1),2.1191
+MNIST_P60_N19,NnenumError(Return code: 1),2.2623
+MNIST_P22_N4,NnenumError(Return code: 1),2.1896
+MNIST_P46_N33,NnenumError(Return code: 1),2.1759
+MNIST_P61_N35,outofmemory,21.463
+MNIST_P76_N9,unsat,23.7549
+MNIST_P56_N34,outofmemory,20.638
+MNIST_P60_N45,outofmemory,54.331
+MNIST_P77_N18,NnenumError(Return code: 1),18.4837
+MNIST_P92_N31,unsat,131.8366
+MNIST_P29_N29,unsat,106.8731
+MNIST_P16_N44,outofmemory,55.921
+MNIST_P5_N22,NnenumError(Return code: 1),17.2944
+MNIST_P42_N10,outofmemory,55.613
+MNIST_P34_N14,NnenumError(Return code: 1),18.2688
+MNIST_P74_N23,unsat,105.9422
+MNIST_P17_N2,unsat,149.7183
+MNIST_P9_N1,unsat,102.1596
+MNIST_P60_N36,outofmemory,84.324
+MNIST_P15_N7,outofmemory,56.956
+MNIST_P67_N13,outofmemory,54.43
+MNIST_P91_N7,outofmemory,57.523
+MNIST_P89_N3,NnenumError(Return code: 1),17.1565
+MNIST_P77_N40,unsat,107.6209
+MNIST_P37_N42,unsat,102.7451
+MNIST_P32_N41,unsat,321.311
+MNIST_P14_N25,outofmemory,93.511
+MNIST_P43_N14,NnenumError(Return code: 1),8.6796
+MNIST_P57_N33,NnenumError(Return code: 1),8.4861
+MNIST_P59_N49,NnenumError(Return code: 1),8.1086
+MNIST_P76_N49,NnenumError(Return code: 1),8.3335
+MNIST_P31_N22,NnenumError(Return code: 1),12.1436
+MNIST_P81_N4,NnenumError(Return code: 1),11.9187
+MNIST_P44_N22,NnenumError(Return code: 1),10.3362
+MNIST_P83_N4,NnenumError(Return code: 1),11.4976
+MNIST_P87_N31,unsat,134.0022
+MNIST_P89_N16,NnenumError(Return code: 1),12.1368
+MNIST_P19_N2,unsat,152.7374
+MNIST_P5_N49,NnenumError(Return code: 1),12.6276
+MNIST_P52_N27,NnenumError(Return code: 1),8.7983
+MNIST_P27_N10,outofmemory,73.726
+MNIST_P36_N31,unsat,132.9315
+MNIST_P31_N4,NnenumError(Return code: 1),12.6019
+MNIST_P50_N49,NnenumError(Return code: 1),12.5491
+MNIST_P7_N15,NnenumError(Return code: 1),12.9048
+MNIST_P51_N35,unsat,89.9411
+MNIST_P82_N18,NnenumError(Return code: 1),12.4621
+MNIST_P66_N42,unsat,95.4342
+MNIST_P51_N34,outofmemory,65.622
+MNIST_P30_N1,unsat,93.9832
+MNIST_P55_N24,outofmemory,75.827
+MNIST_P49_N9,unsat,118.3716
+MNIST_P94_N4,NnenumError(Return code: 1),12.8074
+MNIST_P52_N18,NnenumError(Return code: 1),12.6043
+MNIST_P18_N24,outofmemory,70.996
+MNIST_P39_N29,unsat,97.1367
+MNIST_P59_N17,NnenumError(Return code: 1),12.3939
+MNIST_P57_N41,unsat,278.9297
+MNIST_P39_N26,NnenumError(Return code: 1),13.1494
+MNIST_P90_N23,unsat,95.1659
+MNIST_P59_N16,NnenumError(Return code: 1),13.9701
+MNIST_P94_N16,NnenumError(Return code: 1),14.1372
+MNIST_P73_N18,NnenumError(Return code: 1),13.5928
+MNIST_P61_N42,unsat,92.1894
+MNIST_P3_N25,outofmemory,99.214
+MNIST_P32_N29,unsat,85.8723
+MNIST_P67_N15,NnenumError(Return code: 1),10.1576
+MNIST_P87_N11,outofmemory,80.503
+MNIST_P25_N11,outofmemory,82.072
+MNIST_P92_N15,NnenumError(Return code: 1),11.1327
+MNIST_P60_N11,outofmemory,68.922
+MNIST_P44_N34,outofmemory,73.125
+MNIST_P47_N21,NnenumError(Return code: 1),11.0179
+MNIST_P91_N22,NnenumError(Return code: 1),10.251
+MNIST_P6_N3,NnenumError(Return code: 1),13.2034
+MNIST_P34_N37,unsat,100.9197
+MNIST_P23_N39,outofmemory,57.407
+MNIST_P61_N2,unsat,143.8388
+MNIST_P45_N4,NnenumError(Return code: 1),8.2444
+MNIST_P54_N11,outofmemory,60.392
+MNIST_P65_N3,NnenumError(Return code: 1),8.5783
+MNIST_P95_N9,unsat,105.2266
+MNIST_P42_N49,NnenumError(Return code: 1),8.5552
+MNIST_P46_N47,outofmemory,76.569
+MNIST_P28_N5,NnenumError(Return code: 1),10.265
+MNIST_P47_N31,unsat,138.1377
+MNIST_P61_N47,outofmemory,74.163
+MNIST_P36_N37,unsat,109.9157
+MNIST_P35_N26,NnenumError(Return code: 1),8.9893
+MNIST_P44_N24,outofmemory,70.543
+MNIST_P58_N45,outofmemory,69.235
+MNIST_P38_N44,outofmemory,75.523
+MNIST_P67_N17,NnenumError(Return code: 1),9.8644
+MNIST_P83_N24,outofmemory,70.342
+MNIST_P35_N29,unsat,94.6585
+MNIST_P42_N20,NnenumError(Return code: 1),10.974
+MNIST_P88_N9,unsat,111.6645
+MNIST_P93_N27,NnenumError(Return code: 1),11.9929
+MNIST_P39_N20,NnenumError(Return code: 1),11.1446
+MNIST_P70_N23,unsat,95.8987
+MNIST_P93_N34,outofmemory,57.179
+MNIST_P94_N45,outofmemory,56.933
+MNIST_P28_N17,NnenumError(Return code: 1),9.4307
+MNIST_P25_N33,NnenumError(Return code: 1),11.1062
+MNIST_P9_N25,outofmemory,89.698
+MNIST_P42_N34,outofmemory,66.415
+MNIST_P55_N10,outofmemory,66.67
+MNIST_P15_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0732
+MNIST_P36_N44,outofmemory,77.111
+MNIST_P3_N1,unsat,86.7775
+MNIST_P84_N25,outofmemory,102.537
+MNIST_P67_N10,outofmemory,69.648
+MNIST_P18_N25,outofmemory,90.928
+MNIST_P3_N31,unsat,100.6069
+MNIST_P24_N34,outofmemory,61.835
+MNIST_P49_N13,outofmemory,64.491
+MNIST_P80_N45,outofmemory,60.262
+MNIST_P94_N29,unsat,81.6666
+MNIST_P67_N44,outofmemory,60.218
+MNIST_P84_N29,unsat,79.2318
+MNIST_P36_N48,NnenumError(Return code: 1),9.8293
+MNIST_P78_N21,NnenumError(Return code: 1),9.2417
+MNIST_P57_N49,NnenumError(Return code: 1),9.2199
+MNIST_P59_N21,NnenumError(Return code: 1),9.2052
+MNIST_P39_N38,outofmemory,57.021
+MNIST_P64_N21,NnenumError(Return code: 1),9.6994
+MNIST_P28_N40,unsat,74.8265
+MNIST_P30_N34,outofmemory,50.485
+MNIST_P25_N4,NnenumError(Return code: 1),8.299
+MNIST_P30_N9,unsat,87.7722
+MNIST_P32_N5,NnenumError(Return code: 1),9.4901
+MNIST_P85_N37,unsat,84.4447
+MNIST_P31_N49,NnenumError(Return code: 1),8.1268
+MNIST_P42_N31,unsat,104.4569
+MNIST_P59_N31,unsat,108.7243
+MNIST_P44_N40,unsat,69.3933
+MNIST_P88_N4,NnenumError(Return code: 1),8.0699
+MNIST_P6_N47,outofmemory,63.559
+MNIST_P17_N44,outofmemory,53.485
+MNIST_P95_N41,unsat,260.1582
+MNIST_P57_N25,outofmemory,100.987
+MNIST_P3_N27,NnenumError(Return code: 1),7.8135
+MNIST_P33_N3,NnenumError(Return code: 1),6.6395
+MNIST_P94_N2,unsat,94.8243
+MNIST_P40_N1,unsat,54.1472
+MNIST_P89_N17,NnenumError(Return code: 1),6.486
+MNIST_P64_N10,outofmemory,57.066
+MNIST_P50_N47,outofmemory,65.938
+MNIST_P62_N21,NnenumError(Return code: 1),8.4636
+MNIST_P32_N39,outofmemory,60.52
+MNIST_P73_N23,outofmemory,64.816
+MNIST_P77_N48,NnenumError(Return code: 1),6.7235
+MNIST_P95_N42,unsat,45.1043
+MNIST_P78_N15,NnenumError(Return code: 1),4.9431
+MNIST_P84_N7,outofmemory,42.441
+MNIST_P32_N19,NnenumError(Return code: 1),4.313
+MNIST_P65_N40,unsat,43.225
+MNIST_P46_N38,outofmemory,42.067
+MNIST_P33_N26,NnenumError(Return code: 1),4.5095
+MNIST_P37_N10,outofmemory,37.17
+MNIST_P38_N34,outofmemory,35.509
+MNIST_P99_N4,NnenumError(Return code: 1),3.417
+MNIST_P69_N2,unsat,84.7343
+MNIST_P91_N9,unsat,58.9165
+MNIST_P54_N9,unsat,61.1248
+MNIST_P38_N15,NnenumError(Return code: 1),6.4605
+MNIST_P62_N33,NnenumError(Return code: 1),5.2669
+MNIST_P43_N12,NnenumError(Return code: 1),5.6861
+MNIST_P23_N41,unsat,151.0898
+MNIST_P52_N13,outofmemory,38.702
+MNIST_P92_N42,outofmemory,72.267
+MNIST_P29_N27,NnenumError(Return code: 1),5.1709
+MNIST_P36_N27,NnenumError(Return code: 1),6.2048
+MNIST_P41_N3,NnenumError(Return code: 1),2.8988
+MNIST_P50_N31,unsat,58.2571
+MNIST_P95_N2,unsat,64.5438
+MNIST_P68_N10,outofmemory,33.415
+MNIST_P30_N10,outofmemory,32.958
+MNIST_P92_N24,outofmemory,33.164
+MNIST_P62_N4,NnenumError(Return code: 1),2.7484
+MNIST_P91_N47,outofmemory,35.189
+MNIST_P28_N35,outofmemory,31.681
+MNIST_P87_N38,outofmemory,28.286
+MNIST_P67_N35,outofmemory,24.983
+MNIST_P77_N45,outofmemory,22.532
+MNIST_P45_N38,outofmemory,23.309
+MNIST_P40_N44,outofmemory,21.414
+MNIST_P23_N44,outofmemory,21.357
+MNIST_P78_N31,unsat,131.4174
+MNIST_P2_N20,NnenumError(Return code: 1),14.8883
+MNIST_P56_N26,NnenumError(Return code: 1),15.017
+MNIST_P72_N25,outofmemory,61.617
+MNIST_P97_N11,outofmemory,53.474
+MNIST_P7_N31,unsat,132.0708
+MNIST_P83_N15,NnenumError(Return code: 1),15.6873
+MNIST_P63_N20,NnenumError(Return code: 1),15.8751
+MNIST_P70_N40,unsat,80.2001
+MNIST_P79_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.057
+MNIST_P21_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.1169
+MNIST_P96_N14,NnenumError(Return code: 1),16.3599
+MNIST_P71_N25,unsat,124.6354
+MNIST_P13_N16,NnenumError(Return code: 1),15.2971
+MNIST_P62_N39,outofmemory,53.539
+MNIST_P76_N19,NnenumError(Return code: 1),15.6361
+MNIST_P84_N15,NnenumError(Return code: 1),16.4303
+MNIST_P63_N26,NnenumError(Return code: 1),15.4258
+MNIST_P76_N1,unsat,81.0984
+MNIST_P41_N22,NnenumError(Return code: 1),15.2406
+MNIST_P83_N23,unsat,81.81
+MNIST_P31_N33,NnenumError(Return code: 1),15.9561
+MNIST_P54_N10,outofmemory,52.622
+MNIST_P64_N48,NnenumError(Return code: 1),16.3583
+MNIST_P30_N40,unsat,83.335
+MNIST_P14_N20,NnenumError(Return code: 1),6.4469
+MNIST_P29_N47,outofmemory,72.151
+MNIST_P79_N14,NnenumError(Return code: 1),15.3699
+MNIST_P86_N2,unsat,159.2211
+MNIST_P76_N12,NnenumError(Return code: 1),13.7221
+MNIST_P17_N25,outofmemory,85.76
+MNIST_P99_N47,outofmemory,71.345
+MNIST_P65_N24,outofmemory,60.302
+MNIST_P66_N23,unsat,85.5982
+MNIST_P38_N48,NnenumError(Return code: 1),14.4919
+MNIST_P31_N40,unsat,90.9941
+MNIST_P54_N31,unsat,142.4687
+MNIST_P89_N31,unsat,142.9049
+MNIST_P95_N45,outofmemory,57.837
+MNIST_P65_N35,outofmemory,60.915
+MNIST_P86_N35,outofmemory,60.071
+MNIST_P52_N39,outofmemory,57.372
+MNIST_P41_N18,NnenumError(Return code: 1),11.5118
+MNIST_P74_N44,outofmemory,69.214
+MNIST_P50_N9,unsat,108.3719
+MNIST_P39_N39,outofmemory,64.566
+MNIST_P51_N45,outofmemory,74.944
+MNIST_P47_N11,outofmemory,68.367
+MNIST_P62_N47,outofmemory,77.07
+MNIST_P76_N2,unsat,150.7117
+MNIST_P48_N20,NnenumError(Return code: 1),10.2667
+MNIST_P30_N48,NnenumError(Return code: 1),10.5094
+MNIST_P56_N2,unsat,153.6705
+MNIST_P16_N29,unsat,89.3587
+MNIST_P17_N24,outofmemory,61.427
+MNIST_P21_N18,NnenumError(Return code: 1),11.2049
+MNIST_P16_N48,NnenumError(Return code: 1),10.7529
+MNIST_P21_N31,unsat,124.9547
+MNIST_P45_N11,outofmemory,54.99
+MNIST_P19_N31,unsat,126.2104
+MNIST_P5_N40,unsat,87.4842
+MNIST_P56_N48,NnenumError(Return code: 1),8.74
+MNIST_P65_N27,NnenumError(Return code: 1),7.9255
+MNIST_P75_N42,unsat,94.6399
+MNIST_P26_N40,unsat,94.4796
+MNIST_P17_N4,NnenumError(Return code: 1),10.2572
+MNIST_P57_N12,NnenumError(Return code: 1),10.2999
+MNIST_P79_N40,unsat,93.9346
+MNIST_P90_N46,unsat,110.2838
+MNIST_P49_N14,NnenumError(Return code: 1),11.8166
+MNIST_P75_N15,NnenumError(Return code: 1),11.8226
+MNIST_P13_N31,unsat,113.9267
+MNIST_P22_N22,NnenumError(Return code: 1),12.6113
+MNIST_P46_N35,outofmemory,74.445
+MNIST_P34_N49,NnenumError(Return code: 1),12.7156
+MNIST_P14_N15,NnenumError(Return code: 1),11.542
+MNIST_P67_N45,outofmemory,81.496
+MNIST_P93_N13,outofmemory,60.511
+MNIST_P20_N39,outofmemory,90.035
+MNIST_P48_N29,unsat,87.0594
+MNIST_P57_N24,outofmemory,76.965
+MNIST_P34_N18,NnenumError(Return code: 1),12.7703
+MNIST_P59_N38,outofmemory,79.935
+MNIST_P64_N17,NnenumError(Return code: 1),11.4207
+MNIST_P71_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1979
+MNIST_P71_N29,unsat,83.4865
+MNIST_P29_N37,unsat,99.6876
+MNIST_P48_N24,outofmemory,75.889
+MNIST_P70_N38,outofmemory,67.026
+MNIST_P90_N15,NnenumError(Return code: 1),9.8025
+MNIST_P70_N16,NnenumError(Return code: 1),9.7779
+MNIST_P91_N37,unsat,100.9125
+MNIST_P46_N44,outofmemory,48.21
+MNIST_P38_N27,NnenumError(Return code: 1),7.2209
+MNIST_P26_N2,unsat,149.7184
+MNIST_P32_N46,unsat,121.4242
+MNIST_P34_N29,unsat,93.2152
+MNIST_P90_N39,outofmemory,52.881
+MNIST_P38_N7,outofmemory,56.221
+MNIST_P27_N5,NnenumError(Return code: 1),8.3186
+MNIST_P36_N46,unsat,129.9882
+MNIST_P35_N49,NnenumError(Return code: 1),8.1099
+MNIST_P70_N7,outofmemory,63.537
+MNIST_P32_N49,NnenumError(Return code: 1),10.9231
+MNIST_P49_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0995
+MNIST_P75_N46,unsat,126.5414
+MNIST_P83_N29,unsat,99.983
+MNIST_P69_N9,unsat,118.3886
+MNIST_P18_N39,outofmemory,61.383
+MNIST_P48_N38,outofmemory,61.269
+MNIST_P82_N20,NnenumError(Return code: 1),11.8249
+MNIST_P97_N23,unsat,98.0545
+MNIST_P40_N46,unsat,122.0505
+MNIST_P50_N19,NnenumError(Return code: 1),13.6658
+MNIST_P61_N10,outofmemory,79.161
+MNIST_P28_N7,outofmemory,83.656
+MNIST_P97_N3,NnenumError(Return code: 1),11.0342
+MNIST_P25_N26,NnenumError(Return code: 1),7.8883
+MNIST_P76_N5,NnenumError(Return code: 1),9.4468
+MNIST_P22_N36,outofmemory,114.434
+MNIST_P54_N2,unsat,147.9226
+MNIST_P36_N41,unsat,343.3789
+MNIST_P90_N9,unsat,100.9425
+MNIST_P31_N11,outofmemory,65.582
+MNIST_P38_N17,NnenumError(Return code: 1),13.2034
+MNIST_P76_N4,NnenumError(Return code: 1),12.7552
+MNIST_P14_N9,unsat,97.2156
+MNIST_P72_N35,outofmemory,61.815
+MNIST_P68_N5,NnenumError(Return code: 1),7.7766
+MNIST_P97_N44,outofmemory,77.549
+MNIST_P64_N38,outofmemory,73.609
+MNIST_P49_N31,unsat,104.8432
+MNIST_P17_N23,unsat,70.4942
+MNIST_P77_N33,NnenumError(Return code: 1),7.1592
+MNIST_P66_N41,unsat,295.3656
+MNIST_P31_N24,outofmemory,64.989
+MNIST_P7_N25,outofmemory,105.596
+MNIST_P33_N4,NnenumError(Return code: 1),9.0456
+MNIST_P56_N12,NnenumError(Return code: 1),6.7966
+MNIST_P58_N12,NnenumError(Return code: 1),8.0005
+MNIST_P91_N20,NnenumError(Return code: 1),7.3652
+MNIST_P89_N27,NnenumError(Return code: 1),7.196
+MNIST_P60_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0849
+MNIST_P43_N18,NnenumError(Return code: 1),8.265
+MNIST_P16_N22,NnenumError(Return code: 1),6.8068
+MNIST_P84_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0713
+MNIST_P41_N19,NnenumError(Return code: 1),5.7619
+MNIST_P72_N19,NnenumError(Return code: 1),7.0256
+MNIST_P16_N27,NnenumError(Return code: 1),6.6899
+MNIST_P86_N46,unsat,92.3058
+MNIST_P87_N33,NnenumError(Return code: 1),8.0918
+MNIST_P74_N34,outofmemory,51.209
+MNIST_P35_N27,NnenumError(Return code: 1),8.1728
+MNIST_P64_N12,NnenumError(Return code: 1),8.0866
+MNIST_P48_N17,NnenumError(Return code: 1),7.5901
+MNIST_P94_N25,outofmemory,98.772
+MNIST_P51_N1,unsat,60.4707
+MNIST_P32_N18,NnenumError(Return code: 1),5.9291
+MNIST_P25_N37,unsat,83.6588
+MNIST_P43_N9,unsat,89.3842
+MNIST_P48_N45,unsat,64.0097
+MNIST_P64_N39,outofmemory,54.877
+MNIST_P90_N41,unsat,246.667
+MNIST_P97_N40,unsat,71.1557
+MNIST_P72_N20,NnenumError(Return code: 1),7.2199
+MNIST_P80_N3,NnenumError(Return code: 1),7.1474
+MNIST_P2_N22,NnenumError(Return code: 1),7.6695
+MNIST_P68_N9,unsat,82.5533
+MNIST_P8_N9,unsat,85.1743
+MNIST_P80_N44,outofmemory,60.651
+MNIST_P93_N44,outofmemory,64.039
+MNIST_P36_N22,NnenumError(Return code: 1),6.9953
+MNIST_P61_N40,unsat,59.1829
+MNIST_P83_N9,unsat,69.1216
+MNIST_P52_N19,NnenumError(Return code: 1),6.8301
+MNIST_P55_N35,outofmemory,58.693
+MNIST_P54_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0739
+MNIST_P53_N33,NnenumError(Return code: 1),5.7731
+MNIST_P96_N40,unsat,50.8691
+MNIST_P99_N2,unsat,73.7898
+MNIST_P24_N13,outofmemory,43.572
+MNIST_P7_N47,outofmemory,48.992
+MNIST_P55_N49,NnenumError(Return code: 1),5.8116
+MNIST_P45_N18,NnenumError(Return code: 1),5.0328
+MNIST_P53_N5,NnenumError(Return code: 1),3.6156
+MNIST_P63_N39,outofmemory,42.222
+MNIST_P21_N37,unsat,43.636
+MNIST_P35_N48,NnenumError(Return code: 1),4.0828
+MNIST_P51_N44,outofmemory,32.921
+MNIST_P27_N37,unsat,36.5091
+MNIST_P70_N22,NnenumError(Return code: 1),4.4984
+MNIST_P34_N12,NnenumError(Return code: 1),3.5444
+MNIST_P98_N44,outofmemory,30.354
+MNIST_P26_N36,outofmemory,32.193
+MNIST_P35_N11,outofmemory,22.896
+MNIST_P22_N19,NnenumError(Return code: 1),2.1632
+MNIST_P19_N29,unsat,91.5332
+MNIST_P35_N3,NnenumError(Return code: 1),12.9028
+MNIST_P43_N47,outofmemory,57.208
+MNIST_P23_N47,outofmemory,56.935
+MNIST_P65_N4,NnenumError(Return code: 1),13.8905
+MNIST_P33_N45,outofmemory,54.54
+MNIST_P48_N3,NnenumError(Return code: 1),13.6137
+MNIST_P23_N7,outofmemory,47.594
+MNIST_P2_N26,NnenumError(Return code: 1),12.7485
+MNIST_P52_N11,outofmemory,47.142
+MNIST_P52_N34,outofmemory,42.866
+MNIST_P33_N44,outofmemory,45.142
+MNIST_P66_N16,NnenumError(Return code: 1),12.9923
+MNIST_P77_N17,NnenumError(Return code: 1),12.8707
+MNIST_P33_N13,outofmemory,42.558
+MNIST_P51_N3,NnenumError(Return code: 1),8.3782
+MNIST_P40_N14,NnenumError(Return code: 1),8.7883
+MNIST_P17_N33,NnenumError(Return code: 1),9.3752
+MNIST_P62_N12,NnenumError(Return code: 1),10.2455
+MNIST_P22_N25,outofmemory,59.126
+MNIST_P61_N15,NnenumError(Return code: 1),14.9384
+MNIST_P45_N19,NnenumError(Return code: 1),13.4829
+MNIST_P25_N19,NnenumError(Return code: 1),14.7055
+MNIST_P1_N26,NnenumError(Return code: 1),13.2872
+MNIST_P33_N18,NnenumError(Return code: 1),14.8877
+MNIST_P29_N24,outofmemory,49.602
+MNIST_P29_N15,NnenumError(Return code: 1),15.1739
+MNIST_P19_N42,unsat,71.7677
+MNIST_P25_N20,NnenumError(Return code: 1),14.7462
+MNIST_P40_N23,unsat,75.0505
+MNIST_P63_N24,outofmemory,49.423
+MNIST_P83_N33,NnenumError(Return code: 1),15.0116
+MNIST_P32_N48,NnenumError(Return code: 1),15.0764
+MNIST_P42_N38,outofmemory,51.801
+MNIST_P97_N1,unsat,65.0188
+MNIST_P66_N35,outofmemory,49.689
+MNIST_P98_N49,NnenumError(Return code: 1),15.4355
+MNIST_P87_N17,NnenumError(Return code: 1),15.4059
+MNIST_P86_N3,NnenumError(Return code: 1),14.3102
+MNIST_P70_N37,unsat,94.0875
+MNIST_P18_N33,NnenumError(Return code: 1),14.4565
+MNIST_P77_N20,NnenumError(Return code: 1),14.9518
+MNIST_P55_N17,NnenumError(Return code: 1),4.6754
+MNIST_P87_N9,unsat,110.2945
+MNIST_P39_N3,NnenumError(Return code: 1),11.5208
+MNIST_P60_N47,outofmemory,66.332
+MNIST_P39_N25,outofmemory,117.913
+MNIST_P19_N41,unsat,446.109
+MNIST_P75_N11,outofmemory,54.771
+MNIST_P77_N2,unsat,165.123
+MNIST_P87_N40,unsat,97.3631
+MNIST_P88_N41,unsat,470.5908
+MNIST_P57_N13,outofmemory,53.319
+MNIST_P54_N39,outofmemory,54.462
+MNIST_P27_N9,unsat,115.4107
+MNIST_P59_N40,unsat,96.5408
+MNIST_P16_N23,unsat,96.3041
+MNIST_P39_N47,outofmemory,68.288
+MNIST_P15_N40,unsat,97.423
+MNIST_P97_N17,NnenumError(Return code: 1),10.5346
+MNIST_P86_N12,NnenumError(Return code: 1),11.8625
+MNIST_P82_N44,outofmemory,82.317
+MNIST_P62_N13,outofmemory,78.105
+MNIST_P94_N35,outofmemory,81.22
+MNIST_P18_N31,outofmemory,180.754
+MNIST_P30_N15,NnenumError(Return code: 1),11.6512
+MNIST_P69_N41,unsat,466.7345
+MNIST_P27_N14,NnenumError(Return code: 1),11.3625
+MNIST_P12_N16,NnenumError(Return code: 1),11.2032
+MNIST_P68_N14,NnenumError(Return code: 1),8.1111
+MNIST_P21_N19,NnenumError(Return code: 1),7.1756
+MNIST_P43_N31,unsat,160.5598
+MNIST_P56_N37,unsat,117.7079
+MNIST_P28_N34,outofmemory,74.601
+MNIST_P77_N11,outofmemory,78.829
+MNIST_P90_N47,outofmemory,95.561
+MNIST_P99_N29,unsat,93.1495
+MNIST_P65_N34,outofmemory,72.393
+MNIST_P36_N11,outofmemory,79.975
+MNIST_P78_N23,unsat,92.8497
+MNIST_P50_N27,NnenumError(Return code: 1),9.4921
+MNIST_P16_N42,unsat,93.5228
+MNIST_P10_N40,unsat,95.3413
+MNIST_P84_N9,unsat,123.3152
+MNIST_P90_N38,outofmemory,81.969
+MNIST_P40_N48,NnenumError(Return code: 1),12.2831
+MNIST_P91_N44,outofmemory,66.685
+MNIST_P94_N20,NnenumError(Return code: 1),10.6697
+MNIST_P91_N1,unsat,91.1297
+MNIST_P58_N9,unsat,114.4415
+MNIST_P70_N17,NnenumError(Return code: 1),9.428
+MNIST_P3_N38,outofmemory,77.864
+MNIST_P1_N39,outofmemory,75.382
+MNIST_P8_N20,NnenumError(Return code: 1),9.6889
+MNIST_P19_N5,NnenumError(Return code: 1),9.5468
+MNIST_P14_N23,unsat,94.1276
+MNIST_P74_N13,outofmemory,81.263
+MNIST_P83_N34,outofmemory,74.585
+MNIST_P84_N14,NnenumError(Return code: 1),13.7202
+MNIST_P10_N11,outofmemory,83.299
+MNIST_P22_N42,unsat,98.235
+MNIST_P31_N37,unsat,122.3163
+MNIST_P90_N42,unsat,97.6282
+MNIST_P82_N29,unsat,97.2586
+MNIST_P16_N41,unsat,386.9317
+MNIST_P33_N29,unsat,99.0656
+MNIST_P47_N9,unsat,116.5753
+MNIST_P25_N17,NnenumError(Return code: 1),11.4124
+MNIST_P27_N4,NnenumError(Return code: 1),12.7422
+MNIST_P60_N34,outofmemory,80.486
+MNIST_P29_N23,unsat,92.5119
+MNIST_P65_N26,NnenumError(Return code: 1),10.0163
+MNIST_P20_N25,outofmemory,160.874
+MNIST_P77_N31,unsat,152.4969
+MNIST_P81_N22,NnenumError(Return code: 1),13.626
+MNIST_P54_N47,outofmemory,97.708
+MNIST_P94_N47,outofmemory,93.045
+MNIST_P40_N26,NnenumError(Return code: 1),8.4309
+MNIST_P73_N22,NnenumError(Return code: 1),9.9854
+MNIST_P85_N15,NnenumError(Return code: 1),9.9623
+MNIST_P24_N49,NnenumError(Return code: 1),11.1997
+MNIST_P32_N20,NnenumError(Return code: 1),10.216
+MNIST_P85_N41,unsat,344.6467
+MNIST_P47_N19,NnenumError(Return code: 1),10.8307
+MNIST_P63_N14,NnenumError(Return code: 1),12.0077
+MNIST_P80_N25,outofmemory,141.106
+MNIST_P93_N23,unsat,80.0495
+MNIST_P78_N18,NnenumError(Return code: 1),11.22
+MNIST_P98_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.131
+MNIST_P25_N10,outofmemory,67.011
+MNIST_P28_N2,unsat,155.7467
+MNIST_P30_N22,NnenumError(Return code: 1),6.6476
+MNIST_P49_N27,NnenumError(Return code: 1),7.1822
+MNIST_P58_N21,NnenumError(Return code: 1),6.9191
+MNIST_P80_N39,outofmemory,77.767
+MNIST_P92_N40,unsat,83.939
+MNIST_P98_N29,unsat,81.3801
+MNIST_P0_N19,NnenumError(Return code: 1),9.1167
+MNIST_P45_N31,unsat,137.4265
+MNIST_P25_N31,unsat,135.4709
+MNIST_P64_N36,outofmemory,129.362
+MNIST_P51_N18,NnenumError(Return code: 1),11.5832
+MNIST_P33_N19,NnenumError(Return code: 1),10.5204
+MNIST_P35_N16,NnenumError(Return code: 1),11.0227
+MNIST_P56_N38,outofmemory,88.416
+MNIST_P34_N36,outofmemory,126.303
+MNIST_P76_N14,NnenumError(Return code: 1),11.9948
+MNIST_P82_N35,outofmemory,67.954
+MNIST_P43_N25,outofmemory,133.586
+MNIST_P66_N3,NnenumError(Return code: 1),6.7286
+MNIST_P24_N7,outofmemory,76.364
+MNIST_P13_N40,unsat,74.1904
+MNIST_P12_N14,NnenumError(Return code: 1),7.1227
+MNIST_P61_N13,outofmemory,79.67
+MNIST_P52_N21,NnenumError(Return code: 1),10.31
+MNIST_P29_N42,unsat,72.2651
+MNIST_P77_N39,outofmemory,77.9
+MNIST_P10_N25,outofmemory,114.161
+MNIST_P23_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.095
+MNIST_P36_N20,NnenumError(Return code: 1),6.4964
+MNIST_P58_N1,unsat,61.0555
+MNIST_P43_N35,outofmemory,61.745
+MNIST_P44_N36,outofmemory,77.977
+MNIST_P20_N27,NnenumError(Return code: 1),7.958
+MNIST_P38_N40,unsat,58.303
+MNIST_P36_N19,NnenumError(Return code: 1),7.2353
+MNIST_P75_N24,outofmemory,46.726
+MNIST_P80_N41,unsat,138.0053
+MNIST_P96_N10,outofmemory,48.222
+MNIST_P78_N13,outofmemory,49.078
+MNIST_P21_N47,outofmemory,61.226
+MNIST_P28_N48,NnenumError(Return code: 1),6.033
+MNIST_P62_N10,outofmemory,45.727
+MNIST_P28_N20,NnenumError(Return code: 1),5.3936
+MNIST_P21_N24,outofmemory,48.631
+MNIST_P39_N19,NnenumError(Return code: 1),5.0389
+MNIST_P63_N13,outofmemory,39.511
+MNIST_P24_N29,unsat,35.7926
+MNIST_P96_N44,outofmemory,39.28
+MNIST_P46_N7,outofmemory,34.621
+MNIST_P77_N14,NnenumError(Return code: 1),4.0739
+MNIST_P18_N35,outofmemory,32.494
+MNIST_P84_N13,outofmemory,27.372
+MNIST_P94_N24,outofmemory,27.143
+MNIST_P58_N13,outofmemory,26.076
+MNIST_P65_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0517
+MNIST_P59_N46,unsat,24.7306
+MNIST_P35_N37,unsat,23.8759
+MNIST_P73_N36,outofmemory,27.355
+MNIST_P88_N24,outofmemory,20.621
+MNIST_P31_N44,outofmemory,21.595
+MNIST_P42_N24,outofmemory,21.029
+MNIST_P90_N44,outofmemory,22.197
+MNIST_P49_N35,outofmemory,20.971
+MNIST_P50_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0272
+MNIST_P83_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0258
+MNIST_P33_N1,outofmemory,22.612
+MNIST_P43_N24,outofmemory,21.408
+MNIST_P60_N24,outofmemory,20.656
+MNIST_P33_N24,outofmemory,20.506
+MNIST_P20_N44,outofmemory,52.628
+MNIST_P24_N2,unsat,139.4807
+MNIST_P34_N23,unsat,82.189
+MNIST_P95_N47,outofmemory,61.947
+MNIST_P74_N25,outofmemory,77.822
+MNIST_P1_N10,outofmemory,53.026
+MNIST_P62_N27,NnenumError(Return code: 1),15.4058
+MNIST_P17_N20,NnenumError(Return code: 1),13.7741
+MNIST_P82_N47,outofmemory,61.991
+MNIST_P88_N10,outofmemory,53.803
+MNIST_P95_N38,outofmemory,55.261
+MNIST_P24_N37,unsat,102.8243
+MNIST_P41_N33,NnenumError(Return code: 1),15.5895
+MNIST_P58_N2,unsat,134.4358
+MNIST_P57_N39,outofmemory,54.365
+MNIST_P14_N46,unsat,105.1755
+MNIST_P3_N17,NnenumError(Return code: 1),13.7622
+MNIST_P44_N26,NnenumError(Return code: 1),14.4934
+MNIST_P28_N29,unsat,80.3257
+MNIST_P48_N9,unsat,99.706
+MNIST_P60_N13,outofmemory,51.287
+MNIST_P62_N19,NnenumError(Return code: 1),15.7215
+MNIST_P16_N21,NnenumError(Return code: 1),14.4247
+MNIST_P46_N14,NnenumError(Return code: 1),15.5902
+MNIST_P27_N21,NnenumError(Return code: 1),14.3018
+MNIST_P77_N16,NnenumError(Return code: 1),13.958
+MNIST_P92_N17,NnenumError(Return code: 1),13.8824
+MNIST_P38_N24,outofmemory,75.656
+MNIST_P18_N13,outofmemory,81.355
+MNIST_P58_N23,unsat,80.8775
+MNIST_P58_N33,NnenumError(Return code: 1),11.809
+MNIST_P47_N29,unsat,85.3406
+MNIST_P89_N29,unsat,83.5585
+MNIST_P33_N33,NnenumError(Return code: 1),12.2903
+MNIST_P50_N4,NnenumError(Return code: 1),13.2892
+MNIST_P70_N34,outofmemory,77.952
+MNIST_P44_N12,NnenumError(Return code: 1),8.6126
+MNIST_P48_N22,NnenumError(Return code: 1),13.6996
+MNIST_P21_N23,unsat,83.8496
+MNIST_P58_N14,NnenumError(Return code: 1),12.7831
+MNIST_P42_N33,NnenumError(Return code: 1),12.7265
+MNIST_P94_N21,NnenumError(Return code: 1),7.3163
+MNIST_P44_N7,outofmemory,71.098
+MNIST_P56_N27,NnenumError(Return code: 1),7.6038
+MNIST_P55_N2,unsat,115.0251
+MNIST_P9_N22,NnenumError(Return code: 1),11.5147
+MNIST_P47_N33,NnenumError(Return code: 1),11.9875
+MNIST_P64_N7,outofmemory,64.489
+MNIST_P35_N24,unsat,78.562
+MNIST_P98_N12,NnenumError(Return code: 1),13.7163
+MNIST_P27_N46,unsat,95.813
+MNIST_P65_N11,outofmemory,56.755
+MNIST_P69_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1547
+MNIST_P30_N23,unsat,78.9185
+MNIST_P82_N24,unsat,76.7163
+MNIST_P97_N5,NnenumError(Return code: 1),13.6974
+MNIST_P83_N49,NnenumError(Return code: 1),13.3957
+MNIST_P4_N25,outofmemory,71.936
+MNIST_P85_N14,NnenumError(Return code: 1),12.8417
+MNIST_P46_N4,NnenumError(Return code: 1),9.0116
+MNIST_P82_N21,NnenumError(Return code: 1),7.8704
+MNIST_P53_N3,NnenumError(Return code: 1),12.4621
+MNIST_P56_N44,outofmemory,74.308
+MNIST_P63_N1,outofmemory,124.826
+MNIST_P55_N21,NnenumError(Return code: 1),11.3021
+MNIST_P99_N19,NnenumError(Return code: 1),10.5875
+MNIST_P36_N15,NnenumError(Return code: 1),12.6203
+MNIST_P21_N4,NnenumError(Return code: 1),13.0598
+MNIST_P53_N38,outofmemory,63.489
+MNIST_P90_N10,outofmemory,60.92
+MNIST_P97_N13,outofmemory,61.391
+MNIST_P20_N42,unsat,66.7556
+MNIST_P54_N3,NnenumError(Return code: 1),12.0052
+MNIST_P59_N9,unsat,83.1219
+MNIST_P20_N24,outofmemory,63.706
+MNIST_P93_N24,outofmemory,56.587
+MNIST_P25_N18,NnenumError(Return code: 1),11.7538
+MNIST_P39_N16,NnenumError(Return code: 1),9.5279
+MNIST_P47_N47,outofmemory,55.16
+MNIST_P51_N10,outofmemory,49.818
+MNIST_P0_N42,unsat,73.5276
+MNIST_P13_N36,unsat,103.3323
+MNIST_P80_N7,outofmemory,65.153
+MNIST_P35_N39,outofmemory,64.213
+MNIST_P0_N3,NnenumError(Return code: 1),11.7579
+MNIST_P63_N15,NnenumError(Return code: 1),11.7267
+MNIST_P45_N9,unsat,87.3837
+MNIST_P18_N12,NnenumError(Return code: 1),13.3822
+MNIST_P39_N17,NnenumError(Return code: 1),9.9945
+MNIST_P54_N37,unsat,90.0387
+MNIST_P79_N3,NnenumError(Return code: 1),13.0012
+MNIST_P88_N25,outofmemory,72.067
+MNIST_P92_N19,NnenumError(Return code: 1),12.9668
+MNIST_P42_N27,NnenumError(Return code: 1),12.0417
+MNIST_P40_N17,NnenumError(Return code: 1),11.6338
+MNIST_P84_N31,unsat,94.2518
+MNIST_P68_N45,outofmemory,52.667
+MNIST_P32_N44,outofmemory,52.465
+MNIST_P17_N3,NnenumError(Return code: 1),11.1026
+MNIST_P26_N33,NnenumError(Return code: 1),10.3612
+MNIST_P13_N3,NnenumError(Return code: 1),8.312
+MNIST_P64_N33,NnenumError(Return code: 1),6.1286
+MNIST_P60_N17,NnenumError(Return code: 1),9.446
+MNIST_P22_N15,NnenumError(Return code: 1),13.031
+MNIST_P69_N33,NnenumError(Return code: 1),12.5985
+MNIST_P66_N47,outofmemory,72.095
+MNIST_P41_N46,unsat,90.1957
+MNIST_P81_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.1358
+MNIST_P55_N12,NnenumError(Return code: 1),10.2741
+MNIST_P43_N5,NnenumError(Return code: 1),11.7944
+MNIST_P83_N3,NnenumError(Return code: 1),12.4834
+MNIST_P95_N31,unsat,95.0485
+MNIST_P44_N14,NnenumError(Return code: 1),10.8626
+MNIST_P54_N17,NnenumError(Return code: 1),12.8983
+MNIST_P92_N16,NnenumError(Return code: 1),13.3163
+MNIST_P97_N18,NnenumError(Return code: 1),11.5928
+MNIST_P37_N22,NnenumError(Return code: 1),12.6758
+MNIST_P60_N10,outofmemory,54.321
+MNIST_P93_N12,NnenumError(Return code: 1),12.1936
+MNIST_P59_N4,NnenumError(Return code: 1),8.8234
+MNIST_P68_N47,outofmemory,57.398
+MNIST_P92_N27,NnenumError(Return code: 1),11.8598
+MNIST_P29_N40,unsat,76.795
+MNIST_P64_N1,unsat,72.4922
+MNIST_P51_N27,NnenumError(Return code: 1),12.6987
+MNIST_P21_N3,NnenumError(Return code: 1),11.8342
+MNIST_P97_N37,unsat,92.1632
+MNIST_P10_N46,unsat,95.8078
+MNIST_P78_N46,unsat,96.7477
+MNIST_P6_N21,NnenumError(Return code: 1),9.1182
+MNIST_P30_N11,outofmemory,56.709
+MNIST_P15_N39,outofmemory,59.771
+MNIST_P75_N38,outofmemory,62.987
+MNIST_P47_N4,NnenumError(Return code: 1),11.3125
+MNIST_P45_N7,outofmemory,59.71
+MNIST_P97_N22,NnenumError(Return code: 1),11.0069
+MNIST_P46_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1934
+MNIST_P40_N33,NnenumError(Return code: 1),12.6397
+MNIST_P5_N27,NnenumError(Return code: 1),12.1699
+MNIST_P22_N11,outofmemory,49.364
+MNIST_P30_N18,NnenumError(Return code: 1),10.5547
+MNIST_P55_N29,unsat,74.7305
+MNIST_P63_N37,unsat,82.6817
+MNIST_P19_N36,outofmemory,81.615
+MNIST_P26_N16,NnenumError(Return code: 1),10.4968
+MNIST_P4_N38,outofmemory,73.829
+MNIST_P25_N16,NnenumError(Return code: 1),7.9134
+MNIST_P29_N22,NnenumError(Return code: 1),10.3415
+MNIST_P90_N17,NnenumError(Return code: 1),11.0003
+MNIST_P17_N18,NnenumError(Return code: 1),10.5227
+MNIST_P37_N15,NnenumError(Return code: 1),10.6774
+MNIST_P23_N5,NnenumError(Return code: 1),10.5403
+MNIST_P55_N40,unsat,61.3477
+MNIST_P99_N13,outofmemory,69.304
+MNIST_P23_N42,unsat,59.3326
+MNIST_P98_N26,NnenumError(Return code: 1),10.2277
+MNIST_P94_N3,NnenumError(Return code: 1),8.2578
+MNIST_P20_N29,unsat,64.1184
+MNIST_P76_N7,outofmemory,53.162
+MNIST_P57_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0774
+MNIST_P40_N47,outofmemory,54.202
+MNIST_P71_N42,unsat,61.0642
+MNIST_P37_N9,unsat,77.6245
+MNIST_P84_N3,NnenumError(Return code: 1),11.2799
+MNIST_P58_N25,outofmemory,58.185
+MNIST_P79_N22,NnenumError(Return code: 1),10.2846
+MNIST_P46_N46,unsat,86.4366
+MNIST_P80_N31,unsat,92.773
+MNIST_P69_N21,NnenumError(Return code: 1),9.9254
+MNIST_P52_N22,NnenumError(Return code: 1),10.0479
+MNIST_P8_N17,NnenumError(Return code: 1),9.7058
+MNIST_P18_N4,NnenumError(Return code: 1),8.9093
+MNIST_P39_N12,NnenumError(Return code: 1),10.316
+MNIST_P83_N18,NnenumError(Return code: 1),8.3582
+MNIST_P65_N19,NnenumError(Return code: 1),5.2526
+MNIST_P24_N12,NnenumError(Return code: 1),5.7365
+MNIST_P9_N11,outofmemory,47.476
+MNIST_P36_N25,outofmemory,68.377
+MNIST_P33_N9,unsat,74.5134
+MNIST_P45_N44,outofmemory,50.395
+MNIST_P52_N40,unsat,62.5515
+MNIST_P31_N12,NnenumError(Return code: 1),7.894
+MNIST_P82_N17,NnenumError(Return code: 1),7.2872
+MNIST_P45_N46,unsat,77.7951
+MNIST_P91_N46,unsat,74.4975
+MNIST_P42_N2,unsat,102.5602
+MNIST_P71_N31,unsat,80.3547
+MNIST_P43_N46,unsat,72.3081
+MNIST_P0_N1,unsat,49.529
+MNIST_P39_N31,unsat,77.9096
+MNIST_P32_N15,NnenumError(Return code: 1),6.2925
+MNIST_P16_N19,NnenumError(Return code: 1),6.1314
+MNIST_P55_N23,unsat,47.5157
+MNIST_P1_N37,unsat,53.2788
+MNIST_P10_N31,unsat,66.4017
+MNIST_P18_N27,NnenumError(Return code: 1),5.1637
+MNIST_P90_N36,unsat,72.5625
+MNIST_P53_N37,unsat,46.055
+MNIST_P69_N7,outofmemory,44.175
+MNIST_P61_N1,unsat,35.3329
+MNIST_P63_N23,unsat,37.0948
+MNIST_P29_N25,outofmemory,60.274
+MNIST_P89_N14,NnenumError(Return code: 1),4.191
+MNIST_P91_N33,NnenumError(Return code: 1),4.3495
+MNIST_P20_N2,unsat,59.2948
+MNIST_P99_N46,unsat,41.624
+MNIST_P76_N3,NnenumError(Return code: 1),3.2818
+MNIST_P66_N12,NnenumError(Return code: 1),3.3256
+MNIST_P32_N10,outofmemory,31.749
+MNIST_P31_N13,outofmemory,29.048
+MNIST_P37_N23,unsat,25.6697
+MNIST_P58_N10,outofmemory,27.538
+MNIST_P52_N5,NnenumError(Return code: 1),2.5908
+MNIST_P61_N18,NnenumError(Return code: 1),2.8203
+MNIST_P94_N1,unsat,20.7973
+MNIST_P98_N14,NnenumError(Return code: 1),2.2679
+MNIST_P39_N44,outofmemory,23.449
+MNIST_P4_N9,unsat,25.7416
+MNIST_P26_N7,outofmemory,24.217
+MNIST_P26_N39,outofmemory,23.719
+MNIST_P72_N45,outofmemory,23.776
+MNIST_P69_N4,NnenumError(Return code: 1),17.1048
+MNIST_P85_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0648
+MNIST_P85_N19,NnenumError(Return code: 1),17.1361
+MNIST_P58_N26,NnenumError(Return code: 1),16.9704
+MNIST_P74_N36,outofmemory,78.819
+MNIST_P28_N27,NnenumError(Return code: 1),17.1862
+MNIST_P58_N41,unsat,428.7257
+MNIST_P90_N2,unsat,161.779
+MNIST_P35_N20,NnenumError(Return code: 1),15.6525
+MNIST_P56_N45,unsat,85.0075
+MNIST_P94_N10,outofmemory,55.148
+MNIST_P25_N23,unsat,85.3549
+MNIST_P11_N26,NnenumError(Return code: 1),16.2392
+MNIST_P64_N29,unsat,89.624
+MNIST_P82_N37,unsat,111.0392
+MNIST_P63_N45,outofmemory,53.502
+MNIST_P44_N4,NnenumError(Return code: 1),17.9533
+MNIST_P87_N49,NnenumError(Return code: 1),17.245
+MNIST_P73_N14,NnenumError(Return code: 1),17.5706
+MNIST_P72_N17,NnenumError(Return code: 1),17.542
+MNIST_P81_N46,unsat,114.9837
+MNIST_P93_N2,unsat,158.4651
+MNIST_P52_N26,NnenumError(Return code: 1),16.8458
+MNIST_P74_N27,NnenumError(Return code: 1),15.8972
+MNIST_P42_N35,outofmemory,58.375
+MNIST_P72_N14,NnenumError(Return code: 1),12.3972
+MNIST_P49_N10,outofmemory,86.281
+MNIST_P46_N25,outofmemory,141.178
+MNIST_P47_N39,outofmemory,84.985
+MNIST_P7_N34,outofmemory,79.866
+MNIST_P33_N2,outofmemory,99.872
+MNIST_P48_N12,NnenumError(Return code: 1),12.7343
+MNIST_P55_N34,outofmemory,81.686
+MNIST_P65_N2,unsat,162.1177
+MNIST_P69_N17,NnenumError(Return code: 1),11.7794
+MNIST_P49_N41,unsat,423.2327
+MNIST_P83_N31,unsat,145.1451
+MNIST_P8_N3,NnenumError(Return code: 1),10.8454
+MNIST_P76_N48,NnenumError(Return code: 1),12.296
+MNIST_P84_N22,NnenumError(Return code: 1),13.1174
+MNIST_P23_N40,unsat,85.5113
+MNIST_P85_N45,unsat,93.7601
+MNIST_P94_N9,unsat,113.0895
+MNIST_P96_N29,unsat,95.7141
+MNIST_P32_N2,unsat,169.9379
+MNIST_P48_N40,unsat,95.3161
+MNIST_P14_N49,NnenumError(Return code: 1),11.2453
+MNIST_P56_N14,NnenumError(Return code: 1),11.434
+MNIST_P62_N22,NnenumError(Return code: 1),11.7186
+MNIST_P42_N23,unsat,96.3882
+MNIST_P64_N42,unsat,93.8025
+MNIST_P32_N36,unsat,167.4669
+MNIST_P56_N17,NnenumError(Return code: 1),10.4993
+MNIST_P80_N33,NnenumError(Return code: 1),11.6723
+MNIST_P21_N45,outofmemory,78.279
+MNIST_P71_N33,NnenumError(Return code: 1),12.0138
+MNIST_P76_N18,NnenumError(Return code: 1),12.6827
+MNIST_P35_N21,NnenumError(Return code: 1),10.1786
+MNIST_P73_N39,outofmemory,73.339
+MNIST_P80_N10,outofmemory,74.171
+MNIST_P85_N38,outofmemory,85.492
+MNIST_P17_N7,outofmemory,87.798
+MNIST_P86_N16,NnenumError(Return code: 1),7.8809
+MNIST_P69_N25,outofmemory,110.921
+MNIST_P22_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0978
+MNIST_P41_N31,unsat,145.037
+MNIST_P68_N16,NnenumError(Return code: 1),10.4242
+MNIST_P89_N34,outofmemory,84.27
+MNIST_P95_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0746
+MNIST_P67_N31,unsat,141.0686
+MNIST_P97_N42,unsat,82.9023
+MNIST_P49_N11,outofmemory,68.34
+MNIST_P27_N36,outofmemory,111.446
+MNIST_P98_N45,outofmemory,66.126
+MNIST_P50_N46,unsat,116.5382
+MNIST_P41_N11,outofmemory,70.434
+MNIST_P55_N42,unsat,87.597
+MNIST_P18_N5,NnenumError(Return code: 1),9.3704
+MNIST_P85_N17,NnenumError(Return code: 1),10.2759
+MNIST_P0_N31,unsat,148.7542
+MNIST_P40_N38,outofmemory,87.04
+MNIST_P48_N7,outofmemory,79.081
+MNIST_P53_N49,NnenumError(Return code: 1),12.8474
+MNIST_P31_N48,NnenumError(Return code: 1),11.6674
+MNIST_P94_N42,unsat,89.911
+MNIST_P75_N25,outofmemory,122.967
+MNIST_P75_N26,NnenumError(Return code: 1),11.209
+MNIST_P42_N11,outofmemory,67.955
+MNIST_P27_N41,unsat,390.3703
+MNIST_P92_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0984
+MNIST_P11_N2,unsat,163.3256
+MNIST_P79_N19,NnenumError(Return code: 1),10.4038
+MNIST_P0_N23,unsat,85.177
+MNIST_P24_N20,NnenumError(Return code: 1),9.1796
+MNIST_P50_N23,unsat,86.413
+MNIST_P70_N27,NnenumError(Return code: 1),8.8257
+MNIST_P31_N21,NnenumError(Return code: 1),9.7773
+MNIST_P21_N10,outofmemory,93.917
+MNIST_P19_N22,NnenumError(Return code: 1),12.7581
+MNIST_P73_N11,outofmemory,93.824
+MNIST_P93_N3,NnenumError(Return code: 1),12.3543
+MNIST_P55_N25,outofmemory,134.809
+MNIST_P60_N21,NnenumError(Return code: 1),12.2686
+MNIST_P71_N47,outofmemory,85.091
+MNIST_P18_N49,NnenumError(Return code: 1),11.0408
+MNIST_P62_N5,NnenumError(Return code: 1),9.2163
+MNIST_P76_N16,NnenumError(Return code: 1),6.3714
+MNIST_P30_N42,unsat,81.6702
+MNIST_P1_N45,outofmemory,82.777
+MNIST_P38_N14,NnenumError(Return code: 1),8.843
+MNIST_P89_N12,NnenumError(Return code: 1),8.6078
+MNIST_P74_N48,NnenumError(Return code: 1),8.5116
+MNIST_P19_N37,unsat,105.4146
+MNIST_P41_N44,outofmemory,76.89
+MNIST_P95_N14,NnenumError(Return code: 1),10.5099
+MNIST_P36_N39,outofmemory,75.163
+MNIST_P20_N46,unsat,113.3539
+MNIST_P93_N1,unsat,84.0816
+MNIST_P5_N5,NnenumError(Return code: 1),12.6153
+MNIST_P18_N17,NnenumError(Return code: 1),11.7273
+MNIST_P51_N22,NnenumError(Return code: 1),11.7681
+MNIST_P15_N15,NnenumError(Return code: 1),11.9771
+MNIST_P21_N33,NnenumError(Return code: 1),12.1798
+MNIST_P65_N5,NnenumError(Return code: 1),10.765
+MNIST_P72_N49,NnenumError(Return code: 1),7.438
+MNIST_P41_N26,NnenumError(Return code: 1),7.4103
+MNIST_P7_N38,outofmemory,70.644
+MNIST_P37_N17,NnenumError(Return code: 1),6.9664
+MNIST_P90_N3,NnenumError(Return code: 1),7.0296
+MNIST_P0_N48,NnenumError(Return code: 1),7.4519
+MNIST_P34_N15,NnenumError(Return code: 1),11.0966
+MNIST_P45_N1,unsat,87.3101
+MNIST_P43_N36,outofmemory,82.435
+MNIST_P34_N5,NnenumError(Return code: 1),10.8797
+MNIST_P21_N21,NnenumError(Return code: 1),10.7069
+MNIST_P16_N49,NnenumError(Return code: 1),12.2746
+MNIST_P45_N27,NnenumError(Return code: 1),11.4982
+MNIST_P94_N26,NnenumError(Return code: 1),13.4571
+MNIST_P2_N41,unsat,260.6314
+MNIST_P27_N19,NnenumError(Return code: 1),12.4504
+MNIST_P59_N35,outofmemory,64.114
+MNIST_P14_N47,outofmemory,66.287
+MNIST_P82_N5,NnenumError(Return code: 1),10.4251
+MNIST_P38_N13,outofmemory,61.661
+MNIST_P74_N42,unsat,71.2574
+MNIST_P40_N20,NnenumError(Return code: 1),7.5629
+MNIST_P39_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1056
+MNIST_P0_N16,NnenumError(Return code: 1),7.9329
+MNIST_P40_N37,unsat,91.5232
+MNIST_P52_N47,outofmemory,77.426
+MNIST_P70_N13,outofmemory,62.853
+MNIST_P77_N26,NnenumError(Return code: 1),8.6438
+MNIST_P81_N13,outofmemory,61.475
+MNIST_P14_N11,outofmemory,66.079
+MNIST_P67_N11,outofmemory,66.424
+MNIST_P54_N41,unsat,296.0651
+MNIST_P71_N49,NnenumError(Return code: 1),8.6872
+MNIST_P73_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0887
+MNIST_P29_N31,unsat,103.1688
+MNIST_P82_N45,unsat,59.3479
+MNIST_P84_N24,outofmemory,63.917
+MNIST_P31_N14,NnenumError(Return code: 1),7.1021
+MNIST_P10_N26,NnenumError(Return code: 1),6.5452
+MNIST_P67_N46,unsat,82.5494
+MNIST_P47_N5,NnenumError(Return code: 1),6.7674
+MNIST_P61_N39,outofmemory,63.533
+MNIST_P43_N17,NnenumError(Return code: 1),5.9427
+MNIST_P62_N44,outofmemory,60.635
+MNIST_P40_N35,outofmemory,57.572
+MNIST_P26_N24,outofmemory,57.408
+MNIST_P80_N20,NnenumError(Return code: 1),4.0651
+MNIST_P44_N23,unsat,49.8279
+MNIST_P48_N49,NnenumError(Return code: 1),6.1405
+MNIST_P52_N9,unsat,63.3501
+MNIST_P20_N12,NnenumError(Return code: 1),5.9907
+MNIST_P15_N11,outofmemory,42.346
+MNIST_P54_N36,outofmemory,67.886
+MNIST_P33_N10,outofmemory,44.368
+MNIST_P1_N41,unsat,179.6669
+MNIST_P54_N45,unsat,49.4798
+MNIST_P70_N2,unsat,89.2523
+MNIST_P61_N14,NnenumError(Return code: 1),6.9378
+MNIST_P67_N3,NnenumError(Return code: 1),4.1472
+MNIST_P59_N13,outofmemory,41.705
+MNIST_P90_N19,NnenumError(Return code: 1),4.5329
+MNIST_P60_N4,NnenumError(Return code: 1),5.0733
+MNIST_P80_N14,NnenumError(Return code: 1),4.0772
+MNIST_P45_N34,outofmemory,36.601
+MNIST_P34_N47,outofmemory,44.521
+MNIST_P71_N7,unsat,46.478
+MNIST_P78_N7,outofmemory,38.255
+MNIST_P21_N9,unsat,43.1936
+MNIST_P36_N26,NnenumError(Return code: 1),4.4235
+MNIST_P90_N31,unsat,38.551
+MNIST_P23_N45,outofmemory,27.606
+MNIST_P44_N46,unsat,33.9175
+MNIST_P63_N22,NnenumError(Return code: 1),2.6753
+MNIST_P77_N24,outofmemory,25.411
+MNIST_P48_N13,outofmemory,24.554
+MNIST_P55_N7,outofmemory,25.13
+MNIST_P69_N46,unsat,26.5297
+MNIST_P44_N35,outofmemory,22.947
+MNIST_P54_N19,NnenumError(Return code: 1),2.6228
+MNIST_P42_N4,NnenumError(Return code: 1),14.8346
+MNIST_P83_N39,outofmemory,47.93
+MNIST_P70_N20,NnenumError(Return code: 1),14.1321
+MNIST_P3_N36,unsat,147.7606
+MNIST_P28_N11,outofmemory,48.852
+MNIST_P88_N35,outofmemory,47.044
+MNIST_P84_N18,NnenumError(Return code: 1),16.2263
+MNIST_P65_N33,NnenumError(Return code: 1),13.5809
+MNIST_P98_N19,NnenumError(Return code: 1),12.8693
+MNIST_P93_N20,NnenumError(Return code: 1),13.5361
+MNIST_P56_N15,NnenumError(Return code: 1),13.9476
+MNIST_P78_N45,outofmemory,45.514
+MNIST_P11_N10,outofmemory,46.83
+MNIST_P92_N3,NnenumError(Return code: 1),13.8098
+MNIST_P73_N21,NnenumError(Return code: 1),13.8661
+MNIST_P17_N41,unsat,336.8264
+MNIST_P18_N18,NnenumError(Return code: 1),14.2346
+MNIST_P1_N40,unsat,75.3588
+MNIST_P51_N36,unsat,145.361
+MNIST_P85_N46,unsat,105.67
+MNIST_P69_N12,NnenumError(Return code: 1),13.3672
+MNIST_P28_N37,unsat,98.4896
+MNIST_P24_N25,outofmemory,72.826
+MNIST_P53_N45,outofmemory,45.667
+MNIST_P80_N42,unsat,76.4576
+MNIST_P36_N36,outofmemory,110.113
+MNIST_P47_N24,outofmemory,68.428
+MNIST_P77_N19,NnenumError(Return code: 1),11.9798
+MNIST_P66_N36,outofmemory,109.001
+MNIST_P50_N38,outofmemory,67.061
+MNIST_P81_N24,outofmemory,71.002
+MNIST_P84_N17,NnenumError(Return code: 1),11.0719
+MNIST_P69_N18,NnenumError(Return code: 1),11.5592
+MNIST_P79_N5,NnenumError(Return code: 1),11.5761
+MNIST_P4_N49,NnenumError(Return code: 1),10.9227
+MNIST_P17_N13,outofmemory,66.413
+MNIST_P31_N20,NnenumError(Return code: 1),11.181
+MNIST_P56_N3,NnenumError(Return code: 1),10.7578
+MNIST_P86_N41,unsat,384.6779
+MNIST_P46_N27,NnenumError(Return code: 1),11.091
+MNIST_P86_N49,NnenumError(Return code: 1),11.9427
+MNIST_P46_N12,NnenumError(Return code: 1),13.2446
+MNIST_P50_N24,outofmemory,64.683
+MNIST_P20_N47,outofmemory,81.891
+MNIST_P93_N35,outofmemory,69.13
+MNIST_P39_N11,outofmemory,77.757
+MNIST_P46_N39,outofmemory,77.356
+MNIST_P70_N39,outofmemory,75.887
+MNIST_P29_N12,NnenumError(Return code: 1),10.0966
+MNIST_P38_N42,unsat,89.0587
+MNIST_P45_N23,unsat,89.2062
+MNIST_P49_N24,outofmemory,73.741
+MNIST_P65_N41,unsat,361.4307
+MNIST_P95_N46,unsat,121.1188
+MNIST_P23_N15,NnenumError(Return code: 1),12.7459
+MNIST_P46_N36,outofmemory,125.961
+MNIST_P10_N4,NnenumError(Return code: 1),12.5104
+MNIST_P27_N25,outofmemory,119.186
+MNIST_P85_N26,NnenumError(Return code: 1),12.7551
+MNIST_P49_N20,NnenumError(Return code: 1),10.0892
+MNIST_P91_N41,unsat,392.0924
+MNIST_P16_N35,outofmemory,74.925
+MNIST_P88_N3,NnenumError(Return code: 1),8.3918
+MNIST_P23_N20,NnenumError(Return code: 1),8.686
+MNIST_P20_N23,unsat,91.591
+MNIST_P9_N17,NnenumError(Return code: 1),11.2846
+MNIST_P26_N4,NnenumError(Return code: 1),10.8752
+MNIST_P51_N26,NnenumError(Return code: 1),12.1608
+MNIST_P99_N44,outofmemory,87.035
+MNIST_P65_N15,NnenumError(Return code: 1),12.7948
+MNIST_P38_N38,outofmemory,91.566
+MNIST_P50_N11,outofmemory,86.495
+MNIST_P72_N10,outofmemory,83.085
+MNIST_P29_N44,outofmemory,84.15
+MNIST_P33_N15,NnenumError(Return code: 1),12.2123
+MNIST_P67_N14,NnenumError(Return code: 1),8.2387
+MNIST_P64_N44,outofmemory,65.645
+MNIST_P97_N2,unsat,160.909
+MNIST_P53_N19,NnenumError(Return code: 1),8.062
+MNIST_P76_N24,outofmemory,71.896
+MNIST_P7_N22,NnenumError(Return code: 1),8.2074
+MNIST_P42_N45,outofmemory,87.521
+MNIST_P30_N2,unsat,164.1205
+MNIST_P3_N3,NnenumError(Return code: 1),8.1897
+MNIST_P60_N7,outofmemory,80.113
+MNIST_P5_N16,NnenumError(Return code: 1),8.1499
+MNIST_P68_N35,unsat,86.2701
+MNIST_P86_N38,outofmemory,87.673
+MNIST_P34_N44,outofmemory,81.498
+MNIST_P57_N34,outofmemory,81.873
+MNIST_P71_N4,NnenumError(Return code: 1),9.5638
+MNIST_P93_N48,NnenumError(Return code: 1),9.5147
+MNIST_P96_N7,outofmemory,78.101
+MNIST_P47_N45,outofmemory,66.961
+MNIST_P79_N45,unsat,74.3121
+MNIST_P78_N5,NnenumError(Return code: 1),7.3275
+MNIST_P99_N12,NnenumError(Return code: 1),7.9089
+MNIST_P55_N36,outofmemory,110.249
+MNIST_P75_N47,outofmemory,80.387
+MNIST_P82_N26,NnenumError(Return code: 1),6.9734
+MNIST_P30_N45,outofmemory,69.323
+MNIST_P23_N2,unsat,144.0233
+MNIST_P85_N29,unsat,77.4678
+MNIST_P77_N15,NnenumError(Return code: 1),8.7927
+MNIST_P62_N49,NnenumError(Return code: 1),8.3083
+MNIST_P17_N9,unsat,95.3996
+MNIST_P56_N35,outofmemory,89.319
+MNIST_P25_N41,unsat,288.4539
+MNIST_P79_N29,unsat,74.8916
+MNIST_P56_N21,NnenumError(Return code: 1),9.0361
+MNIST_P26_N1,unsat,68.2356
+MNIST_P50_N34,outofmemory,68.64
+MNIST_P64_N14,NnenumError(Return code: 1),8.2768
+MNIST_P30_N5,NnenumError(Return code: 1),8.0805
+MNIST_P71_N12,NnenumError(Return code: 1),7.7765
+MNIST_P88_N39,outofmemory,76.464
+MNIST_P92_N18,NnenumError(Return code: 1),5.9319
+MNIST_P80_N1,unsat,55.9609
+MNIST_P63_N25,outofmemory,104.807
+MNIST_P78_N29,unsat,54.3064
+MNIST_P40_N31,unsat,87.8258
+MNIST_P89_N24,outofmemory,53.462
+MNIST_P21_N17,NnenumError(Return code: 1),5.6846
+MNIST_P65_N31,unsat,77.3188
+MNIST_P38_N20,NnenumError(Return code: 1),5.6106
+MNIST_P72_N46,unsat,61.189
+MNIST_P40_N49,NnenumError(Return code: 1),6.6295
+MNIST_P60_N26,NnenumError(Return code: 1),5.3374
+MNIST_P92_N47,outofmemory,48.46
+MNIST_P66_N22,NnenumError(Return code: 1),5.2158
+MNIST_P7_N46,unsat,47.4409
+MNIST_P89_N7,outofmemory,39.714
+MNIST_P77_N12,NnenumError(Return code: 1),5.7033
+MNIST_P99_N10,outofmemory,38.575
+MNIST_P45_N5,NnenumError(Return code: 1),3.7158
+MNIST_P95_N15,NnenumError(Return code: 1),3.4347
+MNIST_P34_N26,NnenumError(Return code: 1),2.9137
+MNIST_P25_N7,unsat,33.3905
+MNIST_P70_N42,unsat,31.1453
+MNIST_P19_N25,outofmemory,46.252
+MNIST_P21_N44,outofmemory,28.339
+MNIST_P62_N1,outofmemory,27.119
+MNIST_P40_N24,outofmemory,25.776
+MNIST_P67_N24,outofmemory,27.114
+MNIST_P38_N16,NnenumError(Return code: 1),2.0947
+MNIST_P28_N18,NnenumError(Return code: 1),2.1576
+MNIST_P35_N23,unsat,71.0506
+MNIST_P69_N38,outofmemory,49.305
+MNIST_P77_N34,outofmemory,46.947
+MNIST_P93_N15,NnenumError(Return code: 1),15.7548
+MNIST_P3_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0772
+MNIST_P34_N35,outofmemory,47.53
+MNIST_P68_N27,NnenumError(Return code: 1),14.2796
+MNIST_P71_N22,NnenumError(Return code: 1),15.4875
+MNIST_P46_N17,NnenumError(Return code: 1),13.8756
+MNIST_P80_N19,NnenumError(Return code: 1),14.6215
+MNIST_P83_N16,NnenumError(Return code: 1),14.1959
+MNIST_P63_N17,NnenumError(Return code: 1),13.8461
+MNIST_P94_N22,NnenumError(Return code: 1),14.031
+MNIST_P99_N1,unsat,69.3468
+MNIST_P53_N44,outofmemory,48.294
+MNIST_P37_N37,unsat,82.8606
+MNIST_P84_N36,outofmemory,55.272
+MNIST_P65_N13,outofmemory,47.369
+MNIST_P74_N45,outofmemory,46.261
+MNIST_P26_N12,NnenumError(Return code: 1),14.0286
+MNIST_P48_N15,NnenumError(Return code: 1),14.931
+MNIST_P18_N14,NnenumError(Return code: 1),14.0055
+MNIST_P27_N11,outofmemory,48.273
+MNIST_P71_N11,outofmemory,48.083
+MNIST_P45_N14,NnenumError(Return code: 1),5.4731
+MNIST_P62_N40,unsat,66.9979
+MNIST_P71_N26,NnenumError(Return code: 1),8.5136
+MNIST_P59_N3,NnenumError(Return code: 1),11.2745
+MNIST_P94_N44,outofmemory,50.807
+MNIST_P23_N31,unsat,91.8589
+MNIST_P98_N47,outofmemory,52.579
+MNIST_P85_N5,NnenumError(Return code: 1),12.5385
+MNIST_P62_N23,unsat,72.9062
+MNIST_P66_N27,NnenumError(Return code: 1),12.5569
+MNIST_P19_N14,NnenumError(Return code: 1),13.2408
+MNIST_P28_N26,NnenumError(Return code: 1),12.6525
+MNIST_P78_N19,NnenumError(Return code: 1),13.1507
+MNIST_P37_N49,NnenumError(Return code: 1),13.0946
+MNIST_P29_N7,outofmemory,52.025
+MNIST_P61_N4,NnenumError(Return code: 1),12.8222
+MNIST_P71_N10,outofmemory,49.187
+MNIST_P94_N39,outofmemory,51.131
+MNIST_P20_N7,outofmemory,51.868
+MNIST_P91_N34,outofmemory,49.33
+MNIST_P92_N48,NnenumError(Return code: 1),10.104
+MNIST_P72_N36,outofmemory,74.53
+MNIST_P36_N38,outofmemory,48.504
+MNIST_P61_N22,NnenumError(Return code: 1),6.2089
+MNIST_P43_N49,NnenumError(Return code: 1),10.3708
+MNIST_P58_N35,outofmemory,48.855
+MNIST_P47_N25,outofmemory,64.692
+MNIST_P98_N5,NnenumError(Return code: 1),11.3385
+MNIST_P94_N46,unsat,94.9486
+MNIST_P21_N13,outofmemory,51.353
+MNIST_P18_N42,outofmemory,97.876
+MNIST_P98_N10,outofmemory,46.699
+MNIST_P73_N7,outofmemory,53.215
+MNIST_P89_N2,unsat,121.4281
+MNIST_P15_N18,NnenumError(Return code: 1),10.69
+MNIST_P84_N38,outofmemory,53.013
+MNIST_P43_N34,outofmemory,50.454
+MNIST_P57_N26,NnenumError(Return code: 1),10.7028
+MNIST_P41_N5,NnenumError(Return code: 1),11.1394
+MNIST_P79_N33,NnenumError(Return code: 1),10.94
+MNIST_P91_N45,outofmemory,59.98
+MNIST_P23_N49,NnenumError(Return code: 1),9.163
+MNIST_P73_N42,unsat,78.3926
+MNIST_P92_N22,NnenumError(Return code: 1),11.8358
+MNIST_P93_N26,NnenumError(Return code: 1),11.0765
+MNIST_P1_N48,NnenumError(Return code: 1),11.4097
+MNIST_P23_N25,outofmemory,85.773
+MNIST_P44_N27,NnenumError(Return code: 1),10.7601
+MNIST_P46_N20,NnenumError(Return code: 1),11.6365
+MNIST_P50_N25,outofmemory,86.922
+MNIST_P73_N38,outofmemory,59.617
+MNIST_P78_N38,outofmemory,59.242
+MNIST_P18_N37,unsat,98.9008
+MNIST_P54_N22,NnenumError(Return code: 1),11.1407
+MNIST_P51_N15,NnenumError(Return code: 1),5.0222
+MNIST_P99_N33,NnenumError(Return code: 1),12.0394
+MNIST_P64_N18,NnenumError(Return code: 1),12.1773
+MNIST_P50_N41,unsat,301.0989
+MNIST_P55_N44,outofmemory,58.204
+MNIST_P77_N23,unsat,81.8023
+MNIST_P43_N33,NnenumError(Return code: 1),12.3105
+MNIST_P59_N19,NnenumError(Return code: 1),12.2234
+MNIST_P43_N3,NnenumError(Return code: 1),10.9306
+MNIST_P87_N27,NnenumError(Return code: 1),6.0408
+MNIST_P37_N21,NnenumError(Return code: 1),12.1174
+MNIST_P33_N25,outofmemory,115.874
+MNIST_P38_N36,outofmemory,105.66
+MNIST_P69_N48,NnenumError(Return code: 1),12.3383
+MNIST_P21_N14,NnenumError(Return code: 1),12.3498
+MNIST_P20_N13,outofmemory,74.037
+MNIST_P37_N16,NnenumError(Return code: 1),10.9359
+MNIST_P97_N46,unsat,111.0798
+MNIST_P36_N45,outofmemory,69.852
+MNIST_P82_N10,outofmemory,65.282
+MNIST_P60_N44,outofmemory,73.338
+MNIST_P81_N39,outofmemory,69.208
+MNIST_P56_N13,outofmemory,64.405
+MNIST_P83_N46,unsat,108.145
+MNIST_P55_N22,NnenumError(Return code: 1),12.8382
+MNIST_P77_N42,unsat,78.4822
+MNIST_P21_N2,unsat,138.5786
+MNIST_P44_N10,outofmemory,56.057
+MNIST_P77_N41,unsat,255.1812
+MNIST_P75_N29,unsat,68.8451
+MNIST_P60_N35,outofmemory,89.058
+MNIST_P93_N47,outofmemory,94.88
+MNIST_P58_N31,unsat,105.8053
+MNIST_P90_N21,NnenumError(Return code: 1),8.7886
+MNIST_P47_N41,unsat,221.8111
+MNIST_P51_N11,outofmemory,81.349
+MNIST_P62_N31,outofmemory,175.69
+MNIST_P46_N13,outofmemory,68.965
+MNIST_P33_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0473
+MNIST_P27_N38,outofmemory,64.612
+MNIST_P79_N42,unsat,56.2624
+MNIST_P78_N42,unsat,51.4148
+MNIST_P50_N48,NnenumError(Return code: 1),6.2188
+MNIST_P63_N47,outofmemory,59.928
+MNIST_P19_N49,NnenumError(Return code: 1),5.4021
+MNIST_P53_N42,unsat,47.4973
+MNIST_P53_N29,unsat,46.5221
+MNIST_P54_N18,NnenumError(Return code: 1),6.343
+MNIST_P71_N40,unsat,43.1035
+MNIST_P28_N13,outofmemory,43.498
+MNIST_P42_N25,outofmemory,60.59
+MNIST_P61_N21,NnenumError(Return code: 1),3.2341
+MNIST_P77_N4,NnenumError(Return code: 1),3.7886
+MNIST_P40_N16,NnenumError(Return code: 1),4.8106
+MNIST_P48_N39,outofmemory,32.381
+MNIST_P52_N1,unsat,24.5033
+MNIST_P47_N1,unsat,24.0454
+MNIST_P86_N29,unsat,26.3796
+MNIST_P42_N29,unsat,23.3194
+MNIST_P3_N39,outofmemory,25.213
+MNIST_P39_N42,unsat,22.1663
+MNIST_P53_N18,NnenumError(Return code: 1),2.1554
+MNIST_P47_N12,NnenumError(Return code: 1),2.1411
+MNIST_P51_N4,NnenumError(Return code: 1),2.1907
+MNIST_P68_N37,unsat,25.6875
+MNIST_P93_N22,NnenumError(Return code: 1),2.5842
+MNIST_P73_N24,outofmemory,21.155
+MNIST_P74_N37,unsat,26.8886
+MNIST_P32_N33,NnenumError(Return code: 1),2.2686
+MNIST_P5_N15,NnenumError(Return code: 1),2.1606
+MNIST_P49_N2,unsat,38.8419
+MNIST_P82_N7,unsat,26.3224
+MNIST_P37_N24,outofmemory,22.956
+MNIST_P46_N10,outofmemory,23.188
+MNIST_P18_N41,outofmemory,69.626
+MNIST_P96_N2,unsat,47.0227
+MNIST_P63_N3,NnenumError(Return code: 1),2.0042
+MNIST_P70_N44,outofmemory,20.53
+MNIST_P15_N23,unsat,83.848
+MNIST_P32_N38,outofmemory,54.029
+MNIST_P36_N1,unsat,81.8609
+MNIST_P52_N31,unsat,108.4362
+MNIST_P31_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0991
+MNIST_P89_N18,NnenumError(Return code: 1),14.6513
+MNIST_P34_N11,outofmemory,52.575
+MNIST_P19_N24,outofmemory,51.387
+MNIST_P21_N29,unsat,84.5705
+MNIST_P79_N12,NnenumError(Return code: 1),14.4713
+MNIST_P49_N18,NnenumError(Return code: 1),14.1638
+MNIST_P40_N7,outofmemory,53.21
+MNIST_P53_N24,outofmemory,50.758
+MNIST_P69_N1,unsat,79.7053
+MNIST_P44_N41,unsat,297.2763
+MNIST_P62_N17,NnenumError(Return code: 1),14.2241
+MNIST_P85_N18,NnenumError(Return code: 1),14.5054
+MNIST_P54_N13,unsat,82.1903
+MNIST_P52_N25,outofmemory,69.673
+MNIST_P71_N48,NnenumError(Return code: 1),14.243
+MNIST_P72_N4,NnenumError(Return code: 1),14.7615
+MNIST_P78_N35,outofmemory,51.374
+MNIST_P84_N37,unsat,99.5882
+MNIST_P30_N19,NnenumError(Return code: 1),9.8507
+MNIST_P72_N7,outofmemory,54.499
+MNIST_P78_N20,NnenumError(Return code: 1),11.914
+MNIST_P16_N16,NnenumError(Return code: 1),11.0859
+MNIST_P74_N39,outofmemory,78.76
+MNIST_P61_N33,NnenumError(Return code: 1),12.5977
+MNIST_P59_N24,outofmemory,74.259
+MNIST_P28_N42,unsat,72.1548
+MNIST_P45_N24,outofmemory,71.606
+MNIST_P31_N45,outofmemory,75.788
+MNIST_P5_N26,NnenumError(Return code: 1),10.6374
+MNIST_P27_N44,outofmemory,76.21
+MNIST_P73_N48,NnenumError(Return code: 1),11.4742
+MNIST_P83_N17,NnenumError(Return code: 1),11.6775
+MNIST_P35_N4,NnenumError(Return code: 1),11.4443
+MNIST_P21_N5,NnenumError(Return code: 1),10.8107
+MNIST_P45_N15,NnenumError(Return code: 1),7.813
+MNIST_P16_N3,NnenumError(Return code: 1),8.2199
+MNIST_P27_N39,outofmemory,58.946
+MNIST_P86_N26,NnenumError(Return code: 1),7.3855
+MNIST_P29_N19,NnenumError(Return code: 1),6.2235
+MNIST_P53_N14,NnenumError(Return code: 1),5.4187
+MNIST_P42_N47,outofmemory,69.174
+MNIST_P68_N49,NnenumError(Return code: 1),9.5607
+MNIST_P5_N38,outofmemory,50.783
+MNIST_P22_N3,NnenumError(Return code: 1),8.0997
+MNIST_P34_N2,unsat,148.2539
+MNIST_P46_N40,unsat,83.3993
+MNIST_P64_N46,unsat,109.0417
+MNIST_P51_N29,unsat,85.1933
+MNIST_P69_N10,outofmemory,58.768
+MNIST_P98_N40,unsat,85.6636
+MNIST_P93_N49,NnenumError(Return code: 1),9.5388
+MNIST_P91_N26,NnenumError(Return code: 1),11.8275
+MNIST_P9_N21,NnenumError(Return code: 1),12.3452
+MNIST_P59_N48,NnenumError(Return code: 1),12.7788
+MNIST_P67_N21,NnenumError(Return code: 1),12.906
+MNIST_P71_N13,unsat,79.511
+MNIST_P18_N23,unsat,92.1259
+MNIST_P57_N11,outofmemory,51.354
+MNIST_P37_N2,unsat,142.3297
+MNIST_P17_N36,outofmemory,105.071
+MNIST_P73_N34,outofmemory,80.678
+MNIST_P37_N41,unsat,284.9711
+MNIST_P36_N16,NnenumError(Return code: 1),9.8432
+MNIST_P62_N48,NnenumError(Return code: 1),10.0723
+MNIST_P97_N19,NnenumError(Return code: 1),8.8899
+MNIST_P61_N20,NnenumError(Return code: 1),9.9381
+MNIST_P84_N42,unsat,82.8322
+MNIST_P62_N34,outofmemory,74.739
+MNIST_P60_N2,unsat,140.7875
+MNIST_P86_N23,unsat,77.1289
+MNIST_P72_N27,NnenumError(Return code: 1),12.811
+MNIST_P14_N3,NnenumError(Return code: 1),11.864
+MNIST_P68_N26,NnenumError(Return code: 1),12.1858
+MNIST_P28_N9,unsat,100.8668
+MNIST_P35_N33,NnenumError(Return code: 1),12.853
+MNIST_P56_N16,NnenumError(Return code: 1),10.4467
+MNIST_P61_N44,outofmemory,96.599
+MNIST_P65_N21,NnenumError(Return code: 1),12.0461
+MNIST_P25_N40,unsat,75.5715
+MNIST_P58_N49,NnenumError(Return code: 1),12.9231
+MNIST_P86_N19,NnenumError(Return code: 1),10.6813
+MNIST_P38_N45,outofmemory,80.393
+MNIST_P38_N1,unsat,76.5328
+MNIST_P44_N39,outofmemory,86.791
+MNIST_P22_N44,outofmemory,83.0
+MNIST_P52_N38,outofmemory,84.746
+MNIST_P19_N19,NnenumError(Return code: 1),13.4333
+MNIST_P92_N4,NnenumError(Return code: 1),11.8006
+MNIST_P44_N18,NnenumError(Return code: 1),10.8371
+MNIST_P44_N31,unsat,117.6511
+MNIST_P1_N15,NnenumError(Return code: 1),10.0957
+MNIST_P90_N7,outofmemory,58.513
+MNIST_P63_N9,unsat,96.5915
+MNIST_P78_N17,NnenumError(Return code: 1),5.9612
+MNIST_P63_N38,outofmemory,65.627
+MNIST_P63_N29,unsat,87.1107
+MNIST_P50_N33,NnenumError(Return code: 1),9.6719
+MNIST_P98_N33,NnenumError(Return code: 1),10.8792
+MNIST_P60_N23,unsat,82.3726
+MNIST_P96_N21,NnenumError(Return code: 1),10.6612
+MNIST_P3_N15,NnenumError(Return code: 1),11.4651
+MNIST_P92_N11,outofmemory,67.648
+MNIST_P69_N45,outofmemory,77.842
+MNIST_P43_N39,outofmemory,68.198
+MNIST_P44_N19,NnenumError(Return code: 1),12.4078
+MNIST_P44_N44,outofmemory,65.632
+MNIST_P46_N41,unsat,267.2747
+MNIST_P66_N11,outofmemory,67.44
+MNIST_P71_N18,NnenumError(Return code: 1),12.459
+MNIST_P13_N7,outofmemory,57.998
+MNIST_P53_N21,NnenumError(Return code: 1),12.7401
+MNIST_P78_N2,unsat,139.7059
+MNIST_P68_N3,NnenumError(Return code: 1),7.9694
+MNIST_P73_N17,NnenumError(Return code: 1),7.4794
+MNIST_P69_N15,NnenumError(Return code: 1),7.9645
+MNIST_P50_N7,outofmemory,71.287
+MNIST_P81_N18,NnenumError(Return code: 1),9.1464
+MNIST_P75_N10,outofmemory,74.372
+MNIST_P29_N35,outofmemory,74.608
+MNIST_P59_N45,outofmemory,74.239
+MNIST_P44_N20,NnenumError(Return code: 1),10.0965
+MNIST_P56_N7,outofmemory,81.002
+MNIST_P57_N38,outofmemory,75.523
+MNIST_P55_N47,outofmemory,88.488
+MNIST_P72_N26,NnenumError(Return code: 1),10.6847
+MNIST_P40_N2,unsat,127.1476
+MNIST_P55_N38,outofmemory,76.365
+MNIST_P74_N38,outofmemory,57.789
+MNIST_P16_N13,outofmemory,55.313
+MNIST_P39_N36,outofmemory,108.997
+MNIST_P82_N19,NnenumError(Return code: 1),6.8269
+MNIST_P16_N18,NnenumError(Return code: 1),6.5633
+MNIST_P88_N7,outofmemory,68.643
+MNIST_P62_N41,unsat,192.9452
+MNIST_P89_N47,outofmemory,72.86
+MNIST_P63_N19,NnenumError(Return code: 1),6.7347
+MNIST_P15_N36,outofmemory,113.251
+MNIST_P64_N11,outofmemory,67.662
+MNIST_P57_N36,outofmemory,110.977
+MNIST_P97_N24,outofmemory,59.699
+MNIST_P6_N1,unsat,48.9387
+MNIST_P91_N16,NnenumError(Return code: 1),5.8083
+MNIST_P36_N35,outofmemory,50.332
+MNIST_P92_N41,unsat,144.5303
+MNIST_P51_N14,NnenumError(Return code: 1),4.5061
+MNIST_P54_N44,outofmemory,40.737
+MNIST_P61_N34,outofmemory,40.101
+MNIST_P90_N25,outofmemory,60.202
+MNIST_P14_N33,NnenumError(Return code: 1),5.6137
+MNIST_P47_N17,NnenumError(Return code: 1),3.8544
+MNIST_P58_N15,NnenumError(Return code: 1),2.9715
+MNIST_P77_N47,outofmemory,31.926
+MNIST_P85_N3,NnenumError(Return code: 1),2.0306
+MNIST_P27_N35,outofmemory,22.715
+MNIST_P54_N23,unsat,22.0067
+MNIST_P64_N47,outofmemory,24.603
+MNIST_P37_N40,unsat,81.0562
+MNIST_P83_N47,outofmemory,62.216
+MNIST_P51_N47,outofmemory,61.08
+MNIST_P16_N24,outofmemory,55.373
+MNIST_P59_N14,NnenumError(Return code: 1),14.53
+MNIST_P28_N10,outofmemory,54.715
+MNIST_P25_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1052
+MNIST_P48_N36,outofmemory,69.602
+MNIST_P91_N14,NnenumError(Return code: 1),14.4261
+MNIST_P12_N18,NnenumError(Return code: 1),14.9258
+MNIST_P64_N40,unsat,86.1025
+MNIST_P66_N17,NnenumError(Return code: 1),15.3844
+MNIST_P11_N21,NnenumError(Return code: 1),16.5194
+MNIST_P59_N22,NnenumError(Return code: 1),14.6145
+MNIST_P72_N9,unsat,102.5909
+MNIST_P82_N27,NnenumError(Return code: 1),14.594
+MNIST_P60_N38,outofmemory,56.703
+MNIST_P57_N7,outofmemory,56.914
+MNIST_P17_N19,NnenumError(Return code: 1),18.1968
+MNIST_P26_N48,NnenumError(Return code: 1),15.5146
+MNIST_P79_N37,unsat,94.5428
+MNIST_P51_N13,outofmemory,101.332
+MNIST_P79_N2,unsat,135.2344
+MNIST_P30_N4,NnenumError(Return code: 1),15.3856
+MNIST_P6_N16,NnenumError(Return code: 1),7.7339
+MNIST_P18_N21,NnenumError(Return code: 1),7.0256
+MNIST_P75_N34,outofmemory,56.489
+MNIST_P86_N31,unsat,108.697
+MNIST_P55_N48,NnenumError(Return code: 1),7.0238
+MNIST_P2_N10,outofmemory,58.35
+MNIST_P11_N29,unsat,86.4706
+MNIST_P38_N21,NnenumError(Return code: 1),12.7505
+MNIST_P16_N36,outofmemory,76.998
+MNIST_P31_N42,unsat,88.6359
+MNIST_P52_N12,NnenumError(Return code: 1),14.4168
+MNIST_P62_N11,outofmemory,74.6
+MNIST_P3_N22,NnenumError(Return code: 1),15.0737
+MNIST_P6_N23,unsat,87.837
+MNIST_P99_N49,NnenumError(Return code: 1),14.0621
+MNIST_P68_N34,outofmemory,67.828
+MNIST_P7_N17,NnenumError(Return code: 1),13.6896
+MNIST_P23_N9,unsat,98.6245
+MNIST_P25_N3,NnenumError(Return code: 1),9.3684
+MNIST_P76_N39,outofmemory,50.101
+MNIST_P52_N15,NnenumError(Return code: 1),6.7319
+MNIST_P37_N26,NnenumError(Return code: 1),7.4892
+MNIST_P56_N23,unsat,79.7869
+MNIST_P47_N7,outofmemory,59.701
+MNIST_P63_N16,NnenumError(Return code: 1),12.3228
+MNIST_P80_N12,NnenumError(Return code: 1),12.5791
+MNIST_P66_N15,NnenumError(Return code: 1),12.5777
+MNIST_P70_N35,outofmemory,60.882
+MNIST_P24_N15,NnenumError(Return code: 1),12.0849
+MNIST_P28_N15,NnenumError(Return code: 1),12.4976
+MNIST_P49_N21,NnenumError(Return code: 1),11.8427
+MNIST_P64_N45,outofmemory,60.16
+MNIST_P4_N27,NnenumError(Return code: 1),10.7694
+MNIST_P67_N7,outofmemory,61.452
+MNIST_P47_N42,unsat,78.243
+MNIST_P63_N41,unsat,359.4838
+MNIST_P57_N46,unsat,102.1755
+MNIST_P93_N38,outofmemory,52.592
+MNIST_P89_N38,outofmemory,51.245
+MNIST_P95_N11,outofmemory,60.165
+MNIST_P19_N1,unsat,76.0719
+MNIST_P54_N4,NnenumError(Return code: 1),9.4324
+MNIST_P92_N2,outofmemory,216.666
+MNIST_P52_N16,NnenumError(Return code: 1),12.0362
+MNIST_P91_N10,outofmemory,70.55
+MNIST_P73_N49,NnenumError(Return code: 1),11.5839
+MNIST_P4_N3,NnenumError(Return code: 1),11.9307
+MNIST_P69_N11,outofmemory,68.331
+MNIST_P7_N12,NnenumError(Return code: 1),10.1344
+MNIST_P77_N38,outofmemory,72.126
+MNIST_P21_N27,NnenumError(Return code: 1),11.6731
+MNIST_P48_N35,outofmemory,127.559
+MNIST_P97_N14,NnenumError(Return code: 1),12.171
+MNIST_P57_N40,unsat,84.1793
+MNIST_P81_N41,unsat,372.6756
+MNIST_P6_N38,outofmemory,66.215
+MNIST_P97_N16,NnenumError(Return code: 1),9.8656
+MNIST_P67_N40,unsat,80.2839
+MNIST_P37_N36,outofmemory,78.29
+MNIST_P88_N38,outofmemory,60.184
+MNIST_P14_N22,NnenumError(Return code: 1),11.9783
+MNIST_P43_N37,unsat,102.2207
+MNIST_P53_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.1068
+MNIST_P69_N34,outofmemory,77.085
+MNIST_P97_N41,unsat,382.1057
+MNIST_P53_N1,unsat,79.2568
+MNIST_P66_N5,NnenumError(Return code: 1),10.0675
+MNIST_P85_N39,outofmemory,79.302
+MNIST_P70_N48,NnenumError(Return code: 1),10.091
+MNIST_P53_N47,outofmemory,99.696
+MNIST_P40_N3,NnenumError(Return code: 1),8.3081
+MNIST_P99_N25,outofmemory,142.831
+MNIST_P80_N27,NnenumError(Return code: 1),9.115
+MNIST_P14_N31,unsat,144.2343
+MNIST_P19_N47,outofmemory,95.733
+MNIST_P13_N45,unsat,77.754
+MNIST_P89_N26,NnenumError(Return code: 1),12.9106
+MNIST_P86_N24,outofmemory,82.634
+MNIST_P30_N31,unsat,144.6497
+MNIST_P65_N10,outofmemory,66.426
+MNIST_P72_N3,NnenumError(Return code: 1),9.2461
+MNIST_P48_N48,NnenumError(Return code: 1),10.8377
+MNIST_P93_N39,outofmemory,84.421
+MNIST_P29_N16,NnenumError(Return code: 1),9.8586
+MNIST_P5_N31,unsat,133.8641
+MNIST_P45_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.1376
+MNIST_P90_N22,NnenumError(Return code: 1),9.8073
+MNIST_P58_N47,outofmemory,94.349
+MNIST_P52_N7,outofmemory,83.833
+MNIST_P85_N33,NnenumError(Return code: 1),9.5228
+MNIST_P51_N46,unsat,107.7028
+MNIST_P66_N13,outofmemory,70.138
+MNIST_P41_N34,outofmemory,63.535
+MNIST_P58_N34,outofmemory,65.383
+MNIST_P75_N7,outofmemory,79.363
+MNIST_P18_N36,outofmemory,122.728
+MNIST_P20_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.098
+MNIST_P34_N16,NnenumError(Return code: 1),8.2078
+MNIST_P30_N37,unsat,89.8057
+MNIST_P62_N25,outofmemory,134.295
+MNIST_P74_N18,NnenumError(Return code: 1),9.4265
+MNIST_P92_N49,NnenumError(Return code: 1),9.7262
+MNIST_P1_N17,NnenumError(Return code: 1),9.1284
+MNIST_P0_N38,outofmemory,77.549
+MNIST_P25_N44,unsat,72.7307
+MNIST_P94_N37,unsat,87.3273
+MNIST_P29_N33,NnenumError(Return code: 1),8.2529
+MNIST_P13_N38,outofmemory,73.911
+MNIST_P3_N9,unsat,82.4362
+MNIST_P96_N20,NnenumError(Return code: 1),7.2119
+MNIST_P4_N45,outofmemory,62.938
+MNIST_P74_N3,NnenumError(Return code: 1),7.0265
+MNIST_P79_N46,unsat,88.6537
+MNIST_P86_N4,NnenumError(Return code: 1),7.4191
+MNIST_P41_N2,unsat,111.0322
+MNIST_P71_N23,unsat,62.0039
+MNIST_P2_N1,unsat,60.6352
+MNIST_P30_N47,outofmemory,71.621
+MNIST_P37_N18,NnenumError(Return code: 1),7.6871
+MNIST_P86_N22,NnenumError(Return code: 1),7.1033
+MNIST_P34_N7,outofmemory,60.736
+MNIST_P12_N33,NnenumError(Return code: 1),7.2568
+MNIST_P73_N25,outofmemory,78.628
+MNIST_P18_N48,NnenumError(Return code: 1),6.7439
+MNIST_P27_N23,unsat,50.9949
+MNIST_P41_N13,outofmemory,45.552
+MNIST_P45_N48,NnenumError(Return code: 1),5.3752
+MNIST_P87_N35,outofmemory,43.295
+MNIST_P81_N42,unsat,50.6132
+MNIST_P33_N39,outofmemory,49.957
+MNIST_P40_N40,unsat,45.7529
+MNIST_P95_N18,NnenumError(Return code: 1),6.0648
+MNIST_P16_N39,outofmemory,45.296
+MNIST_P37_N31,unsat,62.6297
+MNIST_P33_N31,unsat,63.4133
+MNIST_P59_N10,outofmemory,35.526
+MNIST_P93_N31,unsat,57.813
+MNIST_P68_N21,NnenumError(Return code: 1),3.3347
+MNIST_P57_N2,unsat,67.0313
+MNIST_P13_N25,outofmemory,50.008
+MNIST_P22_N9,unsat,44.0559
+MNIST_P69_N22,NnenumError(Return code: 1),3.5762
+MNIST_P55_N37,unsat,38.5294
+MNIST_P29_N1,unsat,26.0881
+MNIST_P73_N10,outofmemory,29.789
+MNIST_P96_N1,unsat,22.917
+MNIST_P52_N37,unsat,28.7258
+MNIST_P52_N14,NnenumError(Return code: 1),2.7196
+MNIST_P10_N22,NnenumError(Return code: 1),2.6798
+MNIST_P54_N49,NnenumError(Return code: 1),2.2697
+MNIST_P23_N12,NnenumError(Return code: 1),2.4086
+MNIST_P34_N38,outofmemory,24.271
+MNIST_P33_N34,outofmemory,22.186
+MNIST_P56_N18,NnenumError(Return code: 1),2.3457
+MNIST_P88_N18,NnenumError(Return code: 1),2.2124
+MNIST_P28_N47,outofmemory,24.71
+MNIST_P24_N4,NnenumError(Return code: 1),2.1823
+MNIST_P46_N49,NnenumError(Return code: 1),2.1598
+MNIST_P22_N24,outofmemory,21.097
+MNIST_P8_N5,NnenumError(Return code: 1),2.2675
+MNIST_P61_N12,NnenumError(Return code: 1),2.1484
+MNIST_P94_N34,outofmemory,20.305
+MNIST_P1_N38,outofmemory,56.016
+MNIST_P17_N11,outofmemory,52.897
+MNIST_P24_N42,unsat,81.5178
+MNIST_P55_N11,outofmemory,52.793
+MNIST_P87_N23,unsat,82.8345
+MNIST_P24_N36,outofmemory,74.98
+MNIST_P41_N10,outofmemory,52.901
+MNIST_P19_N7,outofmemory,54.769
+MNIST_P34_N39,outofmemory,53.314
+MNIST_P90_N49,NnenumError(Return code: 1),16.1342
+MNIST_P48_N44,outofmemory,52.723
+MNIST_P84_N2,unsat,154.7087
+MNIST_P48_N47,outofmemory,59.488
+MNIST_P39_N4,NnenumError(Return code: 1),16.422
+MNIST_P10_N1,unsat,75.9604
+MNIST_P57_N31,unsat,141.7142
+MNIST_P55_N16,NnenumError(Return code: 1),17.0205
+MNIST_P27_N18,NnenumError(Return code: 1),17.1561
+MNIST_P26_N27,NnenumError(Return code: 1),16.8391
+MNIST_P62_N7,outofmemory,54.652
+MNIST_P89_N41,unsat,345.3458
+MNIST_P88_N40,unsat,80.2908
+MNIST_P81_N48,NnenumError(Return code: 1),17.5851
+MNIST_P36_N4,NnenumError(Return code: 1),16.0096
+MNIST_P69_N40,unsat,87.2692
+MNIST_P43_N13,outofmemory,72.01
+MNIST_P33_N16,NnenumError(Return code: 1),7.253
+MNIST_P59_N2,unsat,170.5702
+MNIST_P30_N20,NnenumError(Return code: 1),11.455
+MNIST_P33_N38,outofmemory,78.829
+MNIST_P92_N25,outofmemory,159.692
+MNIST_P37_N19,NnenumError(Return code: 1),12.363
+MNIST_P41_N36,outofmemory,139.043
+MNIST_P60_N41,unsat,434.7283
+MNIST_P17_N46,unsat,120.384
+MNIST_P57_N4,NnenumError(Return code: 1),13.837
+MNIST_P62_N16,NnenumError(Return code: 1),7.8812
+MNIST_P87_N37,unsat,114.8299
+MNIST_P46_N18,NnenumError(Return code: 1),11.036
+MNIST_P11_N41,unsat,468.7081
+MNIST_P26_N45,outofmemory,58.099
+MNIST_P31_N31,unsat,155.3515
+MNIST_P33_N20,NnenumError(Return code: 1),12.9922
+MNIST_P43_N29,unsat,91.8504
+MNIST_P47_N40,unsat,91.9911
+MNIST_P32_N9,unsat,122.9892
+MNIST_P45_N17,NnenumError(Return code: 1),12.7255
+MNIST_P32_N3,NnenumError(Return code: 1),12.2155
+MNIST_P74_N22,NnenumError(Return code: 1),12.5361
+MNIST_P92_N1,outofmemory,153.418
+MNIST_P81_N17,NnenumError(Return code: 1),12.4169
+MNIST_P21_N11,outofmemory,87.668
+MNIST_P26_N14,NnenumError(Return code: 1),13.0978
+MNIST_P39_N15,NnenumError(Return code: 1),12.7792
+MNIST_P46_N9,unsat,113.0193
+MNIST_P72_N44,outofmemory,72.247
+MNIST_P24_N22,NnenumError(Return code: 1),7.5698
+MNIST_P86_N37,unsat,110.1458
+MNIST_P41_N15,NnenumError(Return code: 1),8.8926
+MNIST_P75_N3,NnenumError(Return code: 1),10.7464
+MNIST_P88_N17,NnenumError(Return code: 1),11.7851
+MNIST_P76_N25,outofmemory,160.824
+MNIST_P92_N29,outofmemory,99.59
+MNIST_P35_N46,unsat,122.0056
+MNIST_P92_N46,unsat,123.8957
+MNIST_P89_N36,outofmemory,155.866
+MNIST_P10_N27,NnenumError(Return code: 1),12.3963
+MNIST_P17_N31,unsat,149.0923
+MNIST_P87_N7,outofmemory,80.757
+MNIST_P95_N35,outofmemory,73.974
+MNIST_P64_N13,outofmemory,70.203
+MNIST_P75_N14,NnenumError(Return code: 1),7.1431
+MNIST_P24_N21,NnenumError(Return code: 1),7.8297
+MNIST_P10_N18,NnenumError(Return code: 1),7.9868
+MNIST_P12_N19,NnenumError(Return code: 1),10.4216
+MNIST_P26_N37,unsat,109.0869
+MNIST_P33_N46,unsat,115.5758
+MNIST_P81_N14,NnenumError(Return code: 1),10.7406
+MNIST_P88_N48,NnenumError(Return code: 1),9.8124
+MNIST_P31_N1,unsat,86.857
+MNIST_P82_N22,NnenumError(Return code: 1),11.73
+MNIST_P88_N46,unsat,115.9917
+MNIST_P42_N14,NnenumError(Return code: 1),10.9536
+MNIST_P78_N27,NnenumError(Return code: 1),11.0256
+MNIST_P51_N12,NnenumError(Return code: 1),9.6426
+MNIST_P43_N23,unsat,92.196
+MNIST_P84_N27,NnenumError(Return code: 1),8.1749
+MNIST_P93_N5,NnenumError(Return code: 1),9.3217
+MNIST_P98_N17,NnenumError(Return code: 1),8.509
+MNIST_P8_N23,unsat,88.3601
+MNIST_P20_N16,NnenumError(Return code: 1),7.5982
+MNIST_P34_N13,outofmemory,74.026
+MNIST_P72_N22,NnenumError(Return code: 1),11.6107
+MNIST_P17_N15,NnenumError(Return code: 1),11.2355
+MNIST_P67_N27,NnenumError(Return code: 1),9.8647
+MNIST_P22_N16,NnenumError(Return code: 1),11.5437
+MNIST_P27_N7,outofmemory,69.985
+MNIST_P91_N17,NnenumError(Return code: 1),12.5402
+MNIST_P45_N37,unsat,109.9728
+MNIST_P29_N3,NnenumError(Return code: 1),11.4561
+MNIST_P34_N21,NnenumError(Return code: 1),12.1284
+MNIST_P43_N1,unsat,81.8232
+MNIST_P24_N48,NnenumError(Return code: 1),8.6891
+MNIST_P43_N16,NnenumError(Return code: 1),8.8682
+MNIST_P80_N37,unsat,104.9515
+MNIST_P55_N14,NnenumError(Return code: 1),9.3819
+MNIST_P48_N42,unsat,87.6996
+MNIST_P68_N41,unsat,432.4092
+MNIST_P81_N49,NnenumError(Return code: 1),9.8023
+MNIST_P93_N41,unsat,474.2187
+MNIST_P83_N19,NnenumError(Return code: 1),8.5618
+MNIST_P54_N29,unsat,89.6194
+MNIST_P71_N15,NnenumError(Return code: 1),10.5077
+MNIST_P27_N47,outofmemory,81.653
+MNIST_P69_N37,unsat,103.8029
+MNIST_P26_N47,outofmemory,84.861
+MNIST_P41_N4,NnenumError(Return code: 1),9.4623
+MNIST_P57_N5,NnenumError(Return code: 1),8.8326
+MNIST_P64_N4,NnenumError(Return code: 1),9.1899
+MNIST_P68_N2,unsat,165.9257
+MNIST_P99_N39,outofmemory,75.805
+MNIST_P43_N41,unsat,397.4573
+MNIST_P25_N25,unsat,153.3381
+MNIST_P24_N24,outofmemory,77.365
+MNIST_P31_N39,outofmemory,79.333
+MNIST_P59_N18,NnenumError(Return code: 1),9.6861
+MNIST_P56_N20,NnenumError(Return code: 1),9.1638
+MNIST_P7_N2,unsat,175.3956
+MNIST_P40_N39,outofmemory,75.811
+MNIST_P42_N7,outofmemory,78.773
+MNIST_P82_N25,unsat,161.0516
+MNIST_P93_N46,unsat,117.5334
+MNIST_P16_N45,outofmemory,71.387
+MNIST_P75_N20,NnenumError(Return code: 1),9.1082
+MNIST_P81_N45,outofmemory,74.433
+MNIST_P80_N46,unsat,122.1518
+MNIST_P38_N12,NnenumError(Return code: 1),7.332
+MNIST_P28_N46,unsat,124.6243
+MNIST_P41_N14,NnenumError(Return code: 1),10.0248
+MNIST_P20_N31,unsat,139.0366
+MNIST_P51_N23,unsat,89.7671
+MNIST_P10_N3,NnenumError(Return code: 1),8.4089
+MNIST_P51_N33,NnenumError(Return code: 1),10.3505
+MNIST_P90_N33,NnenumError(Return code: 1),10.399
+MNIST_P41_N37,unsat,111.9266
+MNIST_P66_N7,outofmemory,90.698
+MNIST_P25_N21,NnenumError(Return code: 1),7.8438
+MNIST_P64_N27,NnenumError(Return code: 1),7.4737
+MNIST_P20_N33,NnenumError(Return code: 1),10.9699
+MNIST_P24_N16,NnenumError(Return code: 1),10.1826
+MNIST_P36_N3,NnenumError(Return code: 1),8.9644
+MNIST_P45_N42,unsat,76.8789
+MNIST_P54_N24,outofmemory,78.473
+MNIST_P73_N40,unsat,74.1615
+MNIST_P87_N12,NnenumError(Return code: 1),7.333
+MNIST_P95_N5,NnenumError(Return code: 1),8.0501
+MNIST_P50_N3,NnenumError(Return code: 1),6.8774
+MNIST_P40_N21,NnenumError(Return code: 1),6.7987
+MNIST_P9_N14,NnenumError(Return code: 1),6.8355
+MNIST_P56_N11,outofmemory,74.121
+MNIST_P37_N27,NnenumError(Return code: 1),7.8051
+MNIST_P77_N44,outofmemory,68.268
+MNIST_P0_N11,outofmemory,64.156
+MNIST_P21_N41,unsat,248.033
+MNIST_P60_N33,NnenumError(Return code: 1),7.7226
+MNIST_P77_N10,outofmemory,61.706
+MNIST_P79_N11,outofmemory,58.555
+MNIST_P86_N14,NnenumError(Return code: 1),8.1375
+MNIST_P99_N26,NnenumError(Return code: 1),6.1597
+MNIST_P19_N39,outofmemory,65.624
+MNIST_P78_N3,NnenumError(Return code: 1),6.1648
+MNIST_P22_N26,NnenumError(Return code: 1),6.0073
+MNIST_P43_N48,NnenumError(Return code: 1),7.8581
+MNIST_P81_N2,unsat,136.005
+MNIST_P81_N27,NnenumError(Return code: 1),6.2539
+MNIST_P71_N27,NnenumError(Return code: 1),6.3623
+MNIST_P13_N1,unsat,68.1918
+MNIST_P48_N23,unsat,69.6245
+MNIST_P23_N14,NnenumError(Return code: 1),8.8717
+MNIST_P62_N42,outofmemory,79.787
+MNIST_P73_N27,NnenumError(Return code: 1),6.8688
+MNIST_P51_N24,outofmemory,61.505
+MNIST_P87_N26,NnenumError(Return code: 1),7.2938
+MNIST_P63_N5,NnenumError(Return code: 1),7.3986
+MNIST_P92_N35,outofmemory,65.905
+MNIST_P50_N14,NnenumError(Return code: 1),7.3989
+MNIST_P67_N26,NnenumError(Return code: 1),6.4736
+MNIST_P44_N9,unsat,72.5208
+MNIST_P30_N26,NnenumError(Return code: 1),6.9103
+MNIST_P87_N18,NnenumError(Return code: 1),7.0414
+MNIST_P25_N39,outofmemory,62.51
+MNIST_P11_N3,NnenumError(Return code: 1),6.5394
+MNIST_P22_N34,outofmemory,54.611
+MNIST_P35_N25,outofmemory,62.645
+MNIST_P27_N15,NnenumError(Return code: 1),5.3327
+MNIST_P65_N1,unsat,39.6749
+MNIST_P86_N13,outofmemory,47.791
+MNIST_P83_N35,outofmemory,48.62
+MNIST_P60_N29,unsat,35.359
+MNIST_P31_N2,unsat,55.2375
+MNIST_P55_N20,NnenumError(Return code: 1),3.5385
+MNIST_P92_N38,outofmemory,37.178
+MNIST_P86_N40,unsat,24.5193
+MNIST_P20_N11,outofmemory,28.129
+MNIST_P88_N20,NnenumError(Return code: 1),2.0499
+MNIST_P43_N4,NnenumError(Return code: 1),2.1691
+MNIST_P96_N48,NnenumError(Return code: 1),2.1502
+MNIST_P85_N36,outofmemory,26.748
+MNIST_P38_N18,NnenumError(Return code: 1),2.1784
+MNIST_P50_N15,NnenumError(Return code: 1),2.2036
+MNIST_P84_N45,outofmemory,20.627
+MNIST_P72_N12,NnenumError(Return code: 1),2.1141
+MNIST_P55_N13,outofmemory,20.589
+MNIST_P24_N11,outofmemory,22.028
+MNIST_P86_N36,outofmemory,26.966
+MNIST_P81_N3,NnenumError(Return code: 1),13.9242
+MNIST_P75_N1,unsat,87.2052
+MNIST_P73_N33,NnenumError(Return code: 1),14.23
+MNIST_P25_N42,unsat,91.4209
+MNIST_P87_N16,NnenumError(Return code: 1),14.2183
+MNIST_P90_N1,unsat,83.6215
+MNIST_P82_N3,NnenumError(Return code: 1),14.2855
+MNIST_P41_N25,outofmemory,75.178
+MNIST_P73_N19,NnenumError(Return code: 1),15.5872
+MNIST_P57_N19,NnenumError(Return code: 1),13.9386
+MNIST_P70_N4,NnenumError(Return code: 1),15.0452
+MNIST_P95_N1,unsat,82.5787
+MNIST_P89_N13,outofmemory,51.393
+MNIST_P23_N1,unsat,88.2742
+MNIST_P64_N49,NnenumError(Return code: 1),13.8301
+MNIST_P97_N35,outofmemory,51.417
+MNIST_P48_N34,outofmemory,50.992
+MNIST_P21_N40,unsat,91.9286
+MNIST_P7_N41,unsat,336.1017
+MNIST_P37_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0931
+MNIST_P30_N25,outofmemory,68.962
+MNIST_P48_N16,NnenumError(Return code: 1),14.1769
+MNIST_P12_N49,NnenumError(Return code: 1),14.8322
+MNIST_P63_N35,outofmemory,51.269
+MNIST_P95_N10,outofmemory,48.997
+MNIST_P12_N37,unsat,102.9188
+MNIST_P82_N48,NnenumError(Return code: 1),12.8548
+MNIST_P88_N29,unsat,81.7962
+MNIST_P70_N10,outofmemory,71.287
+MNIST_P92_N26,NnenumError(Return code: 1),11.7673
+MNIST_P88_N21,NnenumError(Return code: 1),13.2755
+MNIST_P56_N22,NnenumError(Return code: 1),11.1839
+MNIST_P41_N9,unsat,104.0326
+MNIST_P42_N13,outofmemory,73.264
+MNIST_P82_N2,unsat,134.1668
+MNIST_P72_N37,unsat,102.8557
+MNIST_P41_N1,unsat,76.9534
+MNIST_P82_N16,NnenumError(Return code: 1),14.0462
+MNIST_P31_N47,outofmemory,80.928
+MNIST_P66_N48,NnenumError(Return code: 1),12.6142
+MNIST_P21_N16,NnenumError(Return code: 1),12.1989
+MNIST_P29_N48,NnenumError(Return code: 1),13.9039
+MNIST_P40_N22,NnenumError(Return code: 1),9.6297
+MNIST_P81_N1,unsat,78.687
+MNIST_P12_N17,NnenumError(Return code: 1),9.8795
+MNIST_P53_N17,NnenumError(Return code: 1),13.0585
+MNIST_P63_N7,outofmemory,79.559
+MNIST_P84_N26,NnenumError(Return code: 1),13.1266
+MNIST_P15_N49,NnenumError(Return code: 1),11.1217
+MNIST_P64_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0991
+MNIST_P51_N21,NnenumError(Return code: 1),13.6791
+MNIST_P83_N38,outofmemory,78.703
+MNIST_P28_N45,unsat,78.0692
+MNIST_P79_N23,unsat,85.4375
+MNIST_P23_N13,outofmemory,82.302
+MNIST_P32_N47,outofmemory,80.293
+MNIST_P6_N27,NnenumError(Return code: 1),13.4336
+MNIST_P30_N36,unsat,141.1176
+MNIST_P92_N21,NnenumError(Return code: 1),13.5031
+MNIST_P37_N13,outofmemory,63.833
+MNIST_P46_N37,unsat,101.5939
+MNIST_P31_N26,NnenumError(Return code: 1),6.4703
+MNIST_P66_N40,unsat,88.6399
+MNIST_P80_N15,NnenumError(Return code: 1),9.6808
+MNIST_P7_N33,NnenumError(Return code: 1),9.2568
+MNIST_P62_N14,NnenumError(Return code: 1),10.7387
+MNIST_P73_N41,outofmemory,155.468
+MNIST_P84_N49,NnenumError(Return code: 1),11.1615
+MNIST_P89_N11,outofmemory,67.615
+MNIST_P94_N17,NnenumError(Return code: 1),11.6291
+MNIST_P33_N47,outofmemory,72.44
+MNIST_P91_N40,unsat,90.4643
+MNIST_P22_N33,NnenumError(Return code: 1),14.4267
+MNIST_P73_N4,NnenumError(Return code: 1),13.5234
+MNIST_P86_N7,outofmemory,70.024
+MNIST_P82_N46,unsat,116.3979
+MNIST_P86_N10,outofmemory,61.976
+MNIST_P22_N49,NnenumError(Return code: 1),12.4179
+MNIST_P50_N16,NnenumError(Return code: 1),6.1238
+MNIST_P87_N45,outofmemory,67.893
+MNIST_P88_N1,unsat,95.0899
+MNIST_P23_N24,outofmemory,74.234
+MNIST_P84_N33,NnenumError(Return code: 1),9.0291
+MNIST_P60_N18,NnenumError(Return code: 1),9.9648
+MNIST_P11_N15,NnenumError(Return code: 1),8.9001
+MNIST_P96_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.203
+MNIST_P24_N44,outofmemory,80.06
+MNIST_P27_N24,outofmemory,75.019
+MNIST_P82_N23,unsat,101.2819
+MNIST_P30_N16,NnenumError(Return code: 1),10.5905
+MNIST_P82_N42,unsat,103.7778
+MNIST_P30_N39,outofmemory,86.935
+MNIST_P28_N36,unsat,128.7083
+MNIST_P62_N3,NnenumError(Return code: 1),11.9203
+MNIST_P56_N36,unsat,136.8029
+MNIST_P97_N45,outofmemory,58.094
+MNIST_P54_N42,unsat,92.2974
+MNIST_P29_N10,outofmemory,61.496
+MNIST_P52_N45,outofmemory,54.526
+MNIST_P68_N17,NnenumError(Return code: 1),8.282
+MNIST_P85_N49,NnenumError(Return code: 1),10.6579
+MNIST_P47_N14,NnenumError(Return code: 1),9.5529
+MNIST_P19_N44,outofmemory,61.567
+MNIST_P63_N21,NnenumError(Return code: 1),11.6543
+MNIST_P42_N3,NnenumError(Return code: 1),10.7547
+MNIST_P5_N47,outofmemory,68.597
+MNIST_P88_N37,unsat,111.9418
+MNIST_P30_N29,unsat,100.6428
+MNIST_P36_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.096
+MNIST_P58_N39,outofmemory,62.834
+MNIST_P64_N31,unsat,123.2174
+MNIST_P36_N23,unsat,95.8735
+MNIST_P89_N21,NnenumError(Return code: 1),11.7117
+MNIST_P93_N29,unsat,94.8604
+MNIST_P98_N16,NnenumError(Return code: 1),10.1869
+MNIST_P18_N47,outofmemory,80.577
+MNIST_P83_N21,NnenumError(Return code: 1),11.0326
+MNIST_P11_N18,NnenumError(Return code: 1),11.3927
+MNIST_P88_N42,unsat,92.8027
+MNIST_P90_N5,NnenumError(Return code: 1),11.9513
+MNIST_P99_N31,unsat,123.7531
+MNIST_P51_N7,outofmemory,68.116
+MNIST_P76_N45,outofmemory,64.38
+MNIST_P17_N27,NnenumError(Return code: 1),10.2638
+MNIST_P38_N3,NnenumError(Return code: 1),11.455
+MNIST_P51_N2,unsat,138.7587
+MNIST_P99_N17,NnenumError(Return code: 1),11.594
+MNIST_P13_N12,NnenumError(Return code: 1),13.1634
+MNIST_P18_N45,outofmemory,60.642
+MNIST_P42_N39,outofmemory,62.6
+MNIST_P86_N33,NnenumError(Return code: 1),10.7577
+MNIST_P21_N38,outofmemory,69.839
+MNIST_P85_N16,NnenumError(Return code: 1),9.9024
+MNIST_P96_N5,NnenumError(Return code: 1),10.3298
+MNIST_P35_N14,NnenumError(Return code: 1),11.0503
+MNIST_P40_N42,unsat,88.8763
+MNIST_P53_N46,unsat,105.1074
+MNIST_P91_N13,outofmemory,61.634
+MNIST_P3_N49,NnenumError(Return code: 1),10.0398
+MNIST_P50_N36,outofmemory,79.209
+MNIST_P20_N37,unsat,106.3084
+MNIST_P36_N14,NnenumError(Return code: 1),10.1442
+MNIST_P34_N24,outofmemory,60.295
+MNIST_P25_N48,NnenumError(Return code: 1),11.4669
+MNIST_P98_N3,NnenumError(Return code: 1),10.5979
+MNIST_P42_N17,NnenumError(Return code: 1),10.1536
+MNIST_P82_N4,NnenumError(Return code: 1),10.6788
+MNIST_P27_N29,unsat,85.6135
+MNIST_P11_N27,NnenumError(Return code: 1),10.644
+MNIST_P22_N17,NnenumError(Return code: 1),10.2203
+MNIST_P44_N37,unsat,101.8943
+MNIST_P61_N49,NnenumError(Return code: 1),8.9392
+MNIST_P28_N38,outofmemory,62.692
+MNIST_P75_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0956
+MNIST_P61_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0768
+MNIST_P71_N16,NnenumError(Return code: 1),9.154
+MNIST_P19_N46,unsat,101.59
+MNIST_P78_N24,outofmemory,61.947
+MNIST_P39_N23,unsat,78.7393
+MNIST_P32_N13,outofmemory,61.278
+MNIST_P60_N27,NnenumError(Return code: 1),9.088
+MNIST_P86_N39,outofmemory,65.001
+MNIST_P60_N31,unsat,97.493
+MNIST_P53_N9,unsat,86.4061
+MNIST_P29_N2,unsat,105.4087
+MNIST_P23_N34,outofmemory,56.898
+MNIST_P70_N9,unsat,81.1766
+MNIST_P85_N42,unsat,72.1862
+MNIST_P89_N48,NnenumError(Return code: 1),8.6108
+MNIST_P38_N4,NnenumError(Return code: 1),9.4004
+MNIST_P54_N25,outofmemory,91.939
+MNIST_P91_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0566
+MNIST_P59_N29,unsat,53.9113
+MNIST_P29_N36,outofmemory,85.56
+MNIST_P74_N16,NnenumError(Return code: 1),6.598
+MNIST_P4_N19,NnenumError(Return code: 1),6.5939
+MNIST_P82_N33,NnenumError(Return code: 1),7.1046
+MNIST_P17_N48,NnenumError(Return code: 1),7.2212
+MNIST_P85_N10,outofmemory,38.718
+MNIST_P90_N20,NnenumError(Return code: 1),3.2906
+MNIST_P19_N33,NnenumError(Return code: 1),3.0729
+MNIST_P90_N45,outofmemory,33.094
+MNIST_P68_N13,unsat,31.8712
+MNIST_P54_N15,NnenumError(Return code: 1),3.1716
+MNIST_P19_N23,unsat,32.6393
+MNIST_P42_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0337
+MNIST_P71_N5,NnenumError(Return code: 1),3.2465
+MNIST_P97_N29,unsat,32.7776
+MNIST_P50_N21,NnenumError(Return code: 1),3.7526
+MNIST_P71_N3,NnenumError(Return code: 1),3.3042
+MNIST_P10_N48,NnenumError(Return code: 1),3.9361
+MNIST_P89_N49,NnenumError(Return code: 1),3.6791
+MNIST_P4_N13,outofmemory,26.001
+MNIST_P21_N26,NnenumError(Return code: 1),2.8187
+MNIST_P29_N18,NnenumError(Return code: 1),3.212
+MNIST_P84_N19,NnenumError(Return code: 1),3.3706
+MNIST_P61_N38,outofmemory,30.553
+MNIST_P58_N5,NnenumError(Return code: 1),2.3504
+MNIST_P68_N33,NnenumError(Return code: 1),2.3911
+MNIST_P34_N10,outofmemory,24.748
+MNIST_P72_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0641
+MNIST_P22_N48,NnenumError(Return code: 1),2.3501
+MNIST_P99_N3,NnenumError(Return code: 1),2.1323
+MNIST_P53_N39,outofmemory,23.631
+MNIST_P86_N5,NnenumError(Return code: 1),2.488
+MNIST_P40_N11,outofmemory,23.015
+MNIST_P55_N4,NnenumError(Return code: 1),2.2573
+MNIST_P11_N34,outofmemory,21.553
+MNIST_P28_N16,NnenumError(Return code: 1),2.1807
+MNIST_P33_N36,outofmemory,30.482
+MNIST_P64_N5,NnenumError(Return code: 1),2.8176
+MNIST_P35_N41,unsat,105.4175
+MNIST_P43_N27,NnenumError(Return code: 1),3.4159
+MNIST_P98_N23,unsat,26.2002
+MNIST_P23_N10,outofmemory,24.203
+MNIST_P85_N22,NnenumError(Return code: 1),2.1398
+MNIST_P37_N4,NnenumError(Return code: 1),2.1251
+MNIST_P30_N17,NnenumError(Return code: 1),2.0135
+MNIST_P30_N12,NnenumError(Return code: 1),2.1702
+MNIST_P75_N36,outofmemory,27.537
+MNIST_P96_N42,outofmemory,85.987
+MNIST_P44_N47,outofmemory,59.9
+MNIST_P42_N41,unsat,305.4993
+MNIST_P29_N20,NnenumError(Return code: 1),15.5105
+MNIST_P75_N49,NnenumError(Return code: 1),15.5139
+MNIST_P43_N21,NnenumError(Return code: 1),16.6236
+MNIST_P34_N48,NnenumError(Return code: 1),16.5115
+MNIST_P50_N44,outofmemory,53.746
+MNIST_P67_N12,NnenumError(Return code: 1),15.9586
+MNIST_P65_N46,unsat,100.5322
+MNIST_P32_N31,unsat,111.6778
+MNIST_P99_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0467
+MNIST_P54_N48,NnenumError(Return code: 1),16.7463
+MNIST_P18_N16,NnenumError(Return code: 1),17.027
+MNIST_P83_N10,outofmemory,53.162
+MNIST_P95_N22,NnenumError(Return code: 1),15.9751
+MNIST_P87_N15,NnenumError(Return code: 1),17.2148
+MNIST_P99_N48,NnenumError(Return code: 1),15.9316
+MNIST_P11_N5,NnenumError(Return code: 1),17.3129
+MNIST_P69_N47,outofmemory,59.16
+MNIST_P56_N29,unsat,77.8465
+MNIST_P26_N3,NnenumError(Return code: 1),15.8646
+MNIST_P65_N44,outofmemory,53.863
+MNIST_P73_N45,outofmemory,52.122
+MNIST_P55_N46,unsat,97.178
+MNIST_P5_N18,NnenumError(Return code: 1),7.2184
+MNIST_P82_N11,outofmemory,62.558
+MNIST_P37_N11,outofmemory,61.213
+MNIST_P57_N22,NnenumError(Return code: 1),7.3611
+MNIST_P76_N11,outofmemory,61.419
+MNIST_P2_N40,unsat,86.7949
+MNIST_P35_N19,NnenumError(Return code: 1),13.7735
+MNIST_P37_N25,outofmemory,125.989
+MNIST_P20_N1,unsat,85.2361
+MNIST_P45_N2,unsat,150.2528
+MNIST_P91_N36,outofmemory,121.278
+MNIST_P39_N22,NnenumError(Return code: 1),12.9811
+MNIST_P79_N47,outofmemory,85.409
+MNIST_P70_N1,unsat,84.705
+MNIST_P84_N34,outofmemory,72.89
+MNIST_P81_N9,unsat,106.2077
+MNIST_P78_N16,NnenumError(Return code: 1),9.5152
+MNIST_P97_N33,NnenumError(Return code: 1),6.6017
+MNIST_P81_N26,NnenumError(Return code: 1),12.3425
+MNIST_P88_N47,outofmemory,89.0
+MNIST_P69_N42,unsat,80.5343
+MNIST_P57_N47,outofmemory,86.894
+MNIST_P46_N29,unsat,78.3008
+MNIST_P28_N4,NnenumError(Return code: 1),10.7233
+MNIST_P26_N23,unsat,85.4058
+MNIST_P88_N14,NnenumError(Return code: 1),10.7281
+MNIST_P34_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.093
+MNIST_P87_N19,NnenumError(Return code: 1),11.5617
+MNIST_P42_N15,NnenumError(Return code: 1),11.9365
+MNIST_P62_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0871
+MNIST_P47_N27,NnenumError(Return code: 1),12.3281
+MNIST_P17_N40,unsat,83.8174
+MNIST_P31_N10,outofmemory,66.919
+MNIST_P2_N38,outofmemory,65.938
+MNIST_P80_N34,outofmemory,56.408
+MNIST_P91_N3,NnenumError(Return code: 1),9.566
+MNIST_P74_N19,NnenumError(Return code: 1),7.129
+MNIST_P87_N24,outofmemory,69.848
+MNIST_P84_N47,outofmemory,75.954
+MNIST_P49_N48,NnenumError(Return code: 1),8.4781
+MNIST_P15_N21,NnenumError(Return code: 1),10.36
+MNIST_P76_N29,unsat,72.3754
+MNIST_P81_N12,NnenumError(Return code: 1),7.9772
+MNIST_P47_N15,NnenumError(Return code: 1),10.8221
+MNIST_P48_N18,NnenumError(Return code: 1),10.0256
+MNIST_P63_N49,NnenumError(Return code: 1),9.6303
+MNIST_P86_N21,NnenumError(Return code: 1),10.7976
+MNIST_P99_N41,unsat,441.3394
+MNIST_P89_N23,unsat,74.5463
+MNIST_P39_N18,NnenumError(Return code: 1),10.3239
+MNIST_P21_N22,NnenumError(Return code: 1),10.8192
+MNIST_P92_N34,outofmemory,55.354
+MNIST_P69_N27,NnenumError(Return code: 1),11.3056
+MNIST_P5_N17,NnenumError(Return code: 1),9.3367
+MNIST_P82_N15,NnenumError(Return code: 1),9.7315
+MNIST_P54_N35,unsat,88.8591
+MNIST_P17_N42,unsat,81.1494
+MNIST_P28_N39,outofmemory,67.711
+MNIST_P32_N25,outofmemory,102.454
+MNIST_P78_N33,NnenumError(Return code: 1),6.2535
+MNIST_P52_N41,unsat,434.5567
+MNIST_P28_N3,NnenumError(Return code: 1),11.3456
+MNIST_P65_N9,unsat,100.1801
+MNIST_P91_N11,outofmemory,69.669
+MNIST_P78_N22,NnenumError(Return code: 1),10.1489
+MNIST_P99_N9,unsat,101.5533
+MNIST_P94_N19,NnenumError(Return code: 1),11.6079
+MNIST_P19_N45,outofmemory,71.151
+MNIST_P95_N39,outofmemory,70.589
+MNIST_P76_N10,outofmemory,66.125
+MNIST_P49_N1,unsat,76.2719
+MNIST_P91_N4,NnenumError(Return code: 1),11.2181
+MNIST_P75_N22,NnenumError(Return code: 1),11.3938
+MNIST_P77_N21,NnenumError(Return code: 1),14.3307
+MNIST_P17_N38,outofmemory,68.657
+MNIST_P75_N33,NnenumError(Return code: 1),11.112
+MNIST_P35_N36,outofmemory,118.384
+MNIST_P69_N31,unsat,146.5107
+MNIST_P66_N29,unsat,83.8126
+MNIST_P77_N49,NnenumError(Return code: 1),10.1284
+MNIST_P27_N27,NnenumError(Return code: 1),10.6585
+MNIST_P84_N39,outofmemory,71.227
+MNIST_P73_N2,outofmemory,169.289
+MNIST_P79_N26,NnenumError(Return code: 1),8.4584
+MNIST_P66_N2,unsat,175.8986
+MNIST_P81_N31,unsat,142.4846
+MNIST_P85_N27,NnenumError(Return code: 1),9.8815
+MNIST_P10_N23,unsat,83.5037
+MNIST_P42_N18,NnenumError(Return code: 1),10.7453
+MNIST_P12_N22,NnenumError(Return code: 1),11.9177
+MNIST_P4_N29,unsat,91.7945
+MNIST_P24_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0588
+MNIST_P62_N15,NnenumError(Return code: 1),7.6513
+MNIST_P0_N17,NnenumError(Return code: 1),6.7242
+MNIST_P17_N1,unsat,92.2438
+MNIST_P20_N48,NnenumError(Return code: 1),9.0144
+MNIST_P41_N48,NnenumError(Return code: 1),11.7235
+MNIST_P58_N37,unsat,115.7004
+MNIST_P67_N5,NnenumError(Return code: 1),11.3222
+MNIST_P20_N41,unsat,466.1844
+MNIST_P86_N27,NnenumError(Return code: 1),9.9998
+MNIST_P94_N40,unsat,95.2182
+MNIST_P3_N29,unsat,96.8502
+MNIST_P13_N5,NnenumError(Return code: 1),12.6328
+MNIST_P32_N12,NnenumError(Return code: 1),14.098
+MNIST_P78_N39,outofmemory,73.863
+MNIST_P33_N21,NnenumError(Return code: 1),10.4825
+MNIST_P45_N36,outofmemory,139.912
+MNIST_P31_N46,unsat,113.0241
+MNIST_P19_N16,NnenumError(Return code: 1),10.5348
+MNIST_P61_N7,outofmemory,87.323
+MNIST_P54_N5,NnenumError(Return code: 1),9.5323
+MNIST_P62_N29,unsat,81.1678
+MNIST_P41_N47,outofmemory,105.323
+MNIST_P60_N14,NnenumError(Return code: 1),10.0271
+MNIST_P43_N22,NnenumError(Return code: 1),11.3993
+MNIST_P4_N34,outofmemory,82.093
+MNIST_P78_N1,unsat,75.5796
+MNIST_P89_N35,outofmemory,74.294
+MNIST_P55_N18,NnenumError(Return code: 1),6.253
+MNIST_P90_N29,unsat,79.4018
+MNIST_P16_N26,NnenumError(Return code: 1),7.9879
+MNIST_P20_N49,NnenumError(Return code: 1),8.0836
+MNIST_P66_N34,outofmemory,69.586
+MNIST_P0_N46,unsat,102.6303
+MNIST_P62_N26,NnenumError(Return code: 1),9.2456
+MNIST_P94_N49,NnenumError(Return code: 1),10.1307
+MNIST_P25_N29,unsat,79.8568
+MNIST_P20_N26,NnenumError(Return code: 1),7.6596
+MNIST_P6_N29,unsat,76.4539
+MNIST_P6_N9,unsat,93.4315
+MNIST_P62_N18,NnenumError(Return code: 1),9.8693
+MNIST_P57_N35,outofmemory,71.661
+MNIST_P72_N48,NnenumError(Return code: 1),8.3683
+MNIST_P54_N33,NnenumError(Return code: 1),8.3244
+MNIST_P44_N25,outofmemory,124.413
+MNIST_P59_N7,outofmemory,74.502
+MNIST_P68_N44,unsat,71.3285
+MNIST_P56_N41,unsat,337.2217
+MNIST_P89_N46,unsat,93.2148
+MNIST_P95_N4,NnenumError(Return code: 1),10.0828
+MNIST_P8_N29,outofmemory,118.935
+MNIST_P58_N48,NnenumError(Return code: 1),6.0569
+MNIST_P67_N42,unsat,62.7145
+MNIST_P68_N1,unsat,61.6301
+MNIST_P70_N15,NnenumError(Return code: 1),6.7067
+MNIST_P25_N2,unsat,135.8256
+MNIST_P71_N21,NnenumError(Return code: 1),7.2071
+MNIST_P24_N14,NnenumError(Return code: 1),7.9491
+MNIST_P41_N39,outofmemory,53.011
+MNIST_P69_N13,unsat,60.9547
+MNIST_P64_N41,unsat,268.8986
+MNIST_P26_N41,unsat,255.5066
+MNIST_P54_N12,NnenumError(Return code: 1),7.2273
+MNIST_P35_N15,NnenumError(Return code: 1),7.6228
+MNIST_P52_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0866
+MNIST_P66_N46,unsat,91.327
+MNIST_P28_N19,NnenumError(Return code: 1),6.2062
+MNIST_P67_N22,NnenumError(Return code: 1),6.7335
+MNIST_P98_N18,NnenumError(Return code: 1),7.7293
+MNIST_P96_N15,NnenumError(Return code: 1),7.4371
+MNIST_P10_N39,outofmemory,69.603
+MNIST_P84_N23,unsat,65.3348
+MNIST_P32_N45,outofmemory,76.057
+MNIST_P53_N34,outofmemory,58.254
+MNIST_P92_N45,outofmemory,60.994
+MNIST_P58_N46,unsat,67.4971
+MNIST_P24_N1,unsat,45.2577
+MNIST_P96_N24,outofmemory,44.647
+MNIST_P67_N19,NnenumError(Return code: 1),4.0849
+MNIST_P86_N45,outofmemory,41.272
+MNIST_P36_N10,outofmemory,38.785
+MNIST_P53_N16,NnenumError(Return code: 1),3.6751
+MNIST_P25_N22,NnenumError(Return code: 1),4.5603
+MNIST_P14_N34,outofmemory,29.678
+MNIST_P15_N31,unsat,32.986
+MNIST_P77_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0686
+MNIST_P87_N48,NnenumError(Return code: 1),2.3141
+MNIST_P42_N21,NnenumError(Return code: 1),2.5115
+MNIST_P76_N31,unsat,32.7592
+MNIST_P80_N47,outofmemory,27.045
+MNIST_P85_N40,unsat,21.9905
+MNIST_P0_N5,NnenumError(Return code: 1),2.4007
+MNIST_P71_N1,unsat,21.2414
+MNIST_P37_N46,unsat,27.1948
+MNIST_P96_N39,outofmemory,24.022
+MNIST_P39_N1,unsat,18.8407
+MNIST_P26_N13,outofmemory,21.193
+MNIST_P55_N45,outofmemory,53.758
+MNIST_P48_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0513
+MNIST_P83_N2,unsat,143.1516
+MNIST_P61_N48,NnenumError(Return code: 1),16.1429
+MNIST_P62_N20,NnenumError(Return code: 1),16.3288
+MNIST_P55_N19,NnenumError(Return code: 1),16.5909
+MNIST_P64_N24,outofmemory,54.542
+MNIST_P82_N40,unsat,83.4524
+MNIST_P38_N47,outofmemory,60.061
+MNIST_P47_N20,NnenumError(Return code: 1),16.6519
+MNIST_P49_N46,unsat,103.3118
+MNIST_P42_N1,unsat,81.6494
+MNIST_P65_N7,outofmemory,56.797
+MNIST_P89_N42,unsat,83.361
+MNIST_P34_N40,unsat,82.848
+MNIST_P58_N11,outofmemory,55.852
+MNIST_P35_N18,NnenumError(Return code: 1),15.5116
+MNIST_P89_N33,NnenumError(Return code: 1),16.4922
+MNIST_P23_N26,NnenumError(Return code: 1),15.9849
+MNIST_P52_N3,NnenumError(Return code: 1),16.5052
+MNIST_P95_N17,NnenumError(Return code: 1),16.2731
+MNIST_P10_N5,NnenumError(Return code: 1),14.9361
+MNIST_P89_N22,NnenumError(Return code: 1),16.0276
+MNIST_P5_N14,NnenumError(Return code: 1),17.121
+MNIST_P31_N18,NnenumError(Return code: 1),5.8603
+MNIST_P85_N48,NnenumError(Return code: 1),13.8326
+MNIST_P57_N9,unsat,107.6429
+MNIST_P45_N39,outofmemory,65.698
+MNIST_P90_N12,NnenumError(Return code: 1),12.7537
+MNIST_P32_N35,outofmemory,63.727
+MNIST_P20_N40,unsat,85.8193
+MNIST_P74_N47,outofmemory,76.708
+MNIST_P58_N36,outofmemory,101.334
+MNIST_P56_N47,outofmemory,75.772
+MNIST_P55_N27,NnenumError(Return code: 1),13.4806
+MNIST_P41_N41,unsat,323.0408
+MNIST_P65_N25,outofmemory,121.059
+MNIST_P75_N19,NnenumError(Return code: 1),13.6381
+MNIST_P11_N42,unsat,88.9798
+MNIST_P18_N40,unsat,87.6756
+MNIST_P97_N36,outofmemory,101.502
+MNIST_P13_N26,NnenumError(Return code: 1),9.2657
+MNIST_P15_N29,unsat,80.2742
+MNIST_P74_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1342
+MNIST_P7_N18,NnenumError(Return code: 1),11.6337
+MNIST_P76_N37,unsat,97.4188
+MNIST_P99_N35,outofmemory,79.403
+MNIST_P82_N14,NnenumError(Return code: 1),12.0306
+MNIST_P42_N19,NnenumError(Return code: 1),12.008
+MNIST_P64_N22,NnenumError(Return code: 1),12.3814
+MNIST_P85_N2,unsat,143.5934
+MNIST_P29_N13,outofmemory,75.767
+MNIST_P22_N31,unsat,130.0987
+MNIST_P54_N21,NnenumError(Return code: 1),12.4311
+MNIST_P42_N48,NnenumError(Return code: 1),11.4054
+MNIST_P90_N48,NnenumError(Return code: 1),11.3557
+MNIST_P28_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.2499
+MNIST_P91_N24,outofmemory,55.44
+MNIST_P79_N38,outofmemory,55.79
+MNIST_P83_N36,outofmemory,89.808
+MNIST_P18_N29,outofmemory,113.136
+MNIST_P77_N25,outofmemory,97.876
+MNIST_P96_N3,NnenumError(Return code: 1),6.8411
+MNIST_P16_N34,outofmemory,62.06
+MNIST_P66_N31,unsat,134.528
+MNIST_P99_N16,NnenumError(Return code: 1),7.007
+MNIST_P81_N37,unsat,106.1671
+MNIST_P90_N26,NnenumError(Return code: 1),7.1628
+MNIST_P74_N46,unsat,118.7907
+MNIST_P28_N44,outofmemory,71.809
+MNIST_P55_N5,NnenumError(Return code: 1),8.2731
+MNIST_P2_N27,NnenumError(Return code: 1),11.3811
+MNIST_P77_N7,outofmemory,70.702
+MNIST_P32_N23,unsat,90.9767
+MNIST_P74_N20,NnenumError(Return code: 1),12.0776
+MNIST_P50_N1,unsat,83.7483
+MNIST_P37_N12,NnenumError(Return code: 1),11.745
+MNIST_P45_N10,outofmemory,63.973
+MNIST_P81_N35,outofmemory,61.774
+MNIST_P38_N41,unsat,324.9706
+MNIST_P20_N45,outofmemory,77.547
+MNIST_P64_N26,NnenumError(Return code: 1),7.5777
+MNIST_P77_N27,NnenumError(Return code: 1),6.7353
+MNIST_P46_N22,NnenumError(Return code: 1),8.564
+MNIST_P95_N49,NnenumError(Return code: 1),8.8334
+MNIST_P96_N4,NnenumError(Return code: 1),9.6462
+MNIST_P6_N39,outofmemory,72.085
+MNIST_P94_N48,NnenumError(Return code: 1),11.761
+MNIST_P57_N27,NnenumError(Return code: 1),11.8881
+MNIST_P22_N1,unsat,89.7798
+MNIST_P66_N10,outofmemory,75.026
+MNIST_P72_N1,unsat,87.8926
+MNIST_P93_N25,outofmemory,95.977
+MNIST_P43_N40,unsat,91.6308
+MNIST_P27_N40,unsat,91.678
+MNIST_P9_N48,NnenumError(Return code: 1),11.0873
+MNIST_P93_N16,NnenumError(Return code: 1),9.4082
+MNIST_P33_N40,unsat,90.8232
+MNIST_P72_N2,unsat,149.6999
+MNIST_P9_N20,NnenumError(Return code: 1),9.1949
+MNIST_P10_N47,outofmemory,78.775
+MNIST_P52_N49,NnenumError(Return code: 1),7.988
+MNIST_P22_N10,outofmemory,74.767
+MNIST_P43_N15,NnenumError(Return code: 1),11.0712
+MNIST_P86_N42,unsat,88.013
+MNIST_P1_N23,unsat,85.6277
+MNIST_P38_N10,outofmemory,66.039
+MNIST_P91_N15,NnenumError(Return code: 1),11.4755
+MNIST_P37_N45,outofmemory,68.491
+MNIST_P94_N14,NnenumError(Return code: 1),11.7772
+MNIST_P53_N27,NnenumError(Return code: 1),9.6222
+MNIST_P15_N41,unsat,314.0081
+MNIST_P44_N3,NnenumError(Return code: 1),10.5224
+MNIST_P96_N49,NnenumError(Return code: 1),11.0422
+MNIST_P35_N40,unsat,83.7205
+MNIST_P78_N47,outofmemory,73.244
+MNIST_P27_N16,NnenumError(Return code: 1),9.4119
+MNIST_P18_N22,NnenumError(Return code: 1),8.155
+MNIST_P75_N5,NnenumError(Return code: 1),7.5527
+MNIST_P49_N19,NnenumError(Return code: 1),8.6344
+MNIST_P83_N14,NnenumError(Return code: 1),9.6517
+MNIST_P39_N2,unsat,128.6453
+MNIST_P95_N26,NnenumError(Return code: 1),9.0638
+MNIST_P22_N38,outofmemory,78.855
+MNIST_P7_N23,unsat,77.3359
+MNIST_P95_N33,NnenumError(Return code: 1),9.7317
+MNIST_P11_N11,outofmemory,69.759
+MNIST_P63_N36,outofmemory,127.054
+MNIST_P83_N13,outofmemory,66.17
+MNIST_P4_N39,outofmemory,72.654
+MNIST_P67_N39,outofmemory,71.579
+MNIST_P84_N35,outofmemory,63.12
+MNIST_P96_N25,outofmemory,105.691
+MNIST_P23_N11,outofmemory,61.732
+MNIST_P60_N9,unsat,81.8383
+MNIST_P85_N24,outofmemory,71.686
+MNIST_P50_N22,NnenumError(Return code: 1),7.1658
+MNIST_P8_N15,NnenumError(Return code: 1),7.149
+MNIST_P39_N27,NnenumError(Return code: 1),6.3513
+MNIST_P70_N18,NnenumError(Return code: 1),8.5306
+MNIST_P77_N22,NnenumError(Return code: 1),9.5302
+MNIST_P25_N12,NnenumError(Return code: 1),8.4233
+MNIST_P74_N14,NnenumError(Return code: 1),9.5303
+MNIST_P7_N27,NnenumError(Return code: 1),7.9481
+MNIST_P31_N16,NnenumError(Return code: 1),8.3715
+MNIST_P42_N46,unsat,77.9804
+MNIST_P22_N7,outofmemory,56.121
+MNIST_P76_N21,NnenumError(Return code: 1),6.9167
+MNIST_P67_N33,NnenumError(Return code: 1),5.4515
+MNIST_P0_N37,unsat,60.1046
+MNIST_P94_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1575
+MNIST_P26_N38,outofmemory,57.497
+MNIST_P69_N26,NnenumError(Return code: 1),6.5931
+MNIST_P87_N47,outofmemory,65.07
+MNIST_P98_N36,outofmemory,76.835
+MNIST_P12_N10,outofmemory,55.867
+MNIST_P65_N49,NnenumError(Return code: 1),4.2453
+MNIST_P69_N36,unsat,76.63
+MNIST_P72_N15,NnenumError(Return code: 1),4.9371
+MNIST_P39_N46,unsat,52.4854
+MNIST_P43_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.143
+MNIST_P81_N38,outofmemory,41.76
+MNIST_P48_N4,NnenumError(Return code: 1),4.4188
+MNIST_P58_N19,NnenumError(Return code: 1),5.3642
+MNIST_P59_N26,NnenumError(Return code: 1),4.7349
+MNIST_P94_N7,outofmemory,39.246
+MNIST_P78_N25,outofmemory,64.606
+MNIST_P22_N39,outofmemory,34.757
+MNIST_P80_N36,outofmemory,56.007
+MNIST_P79_N21,NnenumError(Return code: 1),3.8509
+MNIST_P38_N11,outofmemory,32.447
+MNIST_P41_N29,unsat,31.276
+MNIST_P39_N13,outofmemory,32.67
+MNIST_P84_N46,unsat,31.1069
+MNIST_P79_N7,outofmemory,29.154
+MNIST_P80_N13,outofmemory,28.274
+MNIST_P22_N21,NnenumError(Return code: 1),2.331
+MNIST_P19_N3,NnenumError(Return code: 1),2.0311
+MNIST_P19_N11,outofmemory,23.199
+MNIST_P66_N4,NnenumError(Return code: 1),2.2682
+MNIST_P28_N14,NnenumError(Return code: 1),2.1765
+MNIST_P42_N37,unsat,24.9074
+MNIST_P27_N22,NnenumError(Return code: 1),2.1403
+MNIST_P23_N18,NnenumError(Return code: 1),2.1233
+MNIST_P34_N27,NnenumError(Return code: 1),2.015
+MNIST_P85_N13,outofmemory,20.5
+MNIST_P31_N35,outofmemory,21.705
+MNIST_P97_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0255
+MNIST_P64_N37,unsat,23.8304
+MNIST_P36_N34,outofmemory,52.359
+MNIST_P90_N27,NnenumError(Return code: 1),14.1627
+MNIST_P96_N41,unsat,283.2791
+MNIST_P94_N36,outofmemory,73.028
+MNIST_P28_N33,NnenumError(Return code: 1),15.0335
+MNIST_P74_N12,NnenumError(Return code: 1),15.2133
+MNIST_P68_N39,outofmemory,51.29
+MNIST_P36_N49,NnenumError(Return code: 1),15.1335
+MNIST_P98_N41,unsat,288.5474
+MNIST_P91_N35,outofmemory,49.11
+MNIST_P82_N38,outofmemory,53.109
+MNIST_P78_N9,unsat,108.9716
+MNIST_P34_N9,unsat,108.7179
+MNIST_P79_N1,unsat,81.2569
+MNIST_P70_N29,unsat,84.687
+MNIST_P34_N19,NnenumError(Return code: 1),15.3981
+MNIST_P12_N3,NnenumError(Return code: 1),15.1868
+MNIST_P26_N18,NnenumError(Return code: 1),14.9163
+MNIST_P97_N4,NnenumError(Return code: 1),14.6971
+MNIST_P39_N21,NnenumError(Return code: 1),15.0752
+MNIST_P0_N10,outofmemory,49.146
+MNIST_P50_N39,outofmemory,50.71
+MNIST_P62_N46,unsat,111.3423
+MNIST_P29_N49,NnenumError(Return code: 1),14.5959
+MNIST_P53_N7,outofmemory,72.683
+MNIST_P81_N15,NnenumError(Return code: 1),9.3436
+MNIST_P91_N18,NnenumError(Return code: 1),8.2989
+MNIST_P44_N33,NnenumError(Return code: 1),8.8313
+MNIST_P98_N13,outofmemory,68.646
+MNIST_P98_N27,NnenumError(Return code: 1),7.8908
+MNIST_P0_N49,NnenumError(Return code: 1),8.4678
+MNIST_P92_N14,NnenumError(Return code: 1),11.698
+MNIST_P73_N16,NnenumError(Return code: 1),8.4514
+MNIST_P54_N27,NnenumError(Return code: 1),7.9081
+MNIST_P19_N48,NnenumError(Return code: 1),14.1888
+MNIST_P22_N13,outofmemory,79.921
+MNIST_P68_N22,NnenumError(Return code: 1),13.7972
+MNIST_P71_N46,unsat,102.3948
+MNIST_P58_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0863
+MNIST_P93_N36,outofmemory,84.964
+MNIST_P20_N4,NnenumError(Return code: 1),13.0126
+MNIST_P17_N17,NnenumError(Return code: 1),5.4779
+MNIST_P50_N29,unsat,89.5522
+MNIST_P92_N20,NnenumError(Return code: 1),10.3185
+MNIST_P72_N18,NnenumError(Return code: 1),11.624
+MNIST_P35_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.2344
+MNIST_P67_N49,NnenumError(Return code: 1),10.7474
+MNIST_P57_N37,unsat,102.7966
+MNIST_P71_N19,NnenumError(Return code: 1),7.8626
+MNIST_P63_N2,unsat,147.6501
+MNIST_P47_N34,outofmemory,71.873
+MNIST_P26_N49,NnenumError(Return code: 1),12.3122
+MNIST_P87_N5,NnenumError(Return code: 1),12.8234
+MNIST_P37_N1,unsat,80.8475
+MNIST_P81_N20,NnenumError(Return code: 1),12.1914
+MNIST_P16_N47,outofmemory,75.096
+MNIST_P50_N37,unsat,105.7528
+MNIST_P88_N23,unsat,87.0529
+MNIST_P56_N4,NnenumError(Return code: 1),12.9698
+MNIST_P50_N26,NnenumError(Return code: 1),12.0672
+MNIST_P36_N5,NnenumError(Return code: 1),12.4832
+MNIST_P95_N20,NnenumError(Return code: 1),12.9481
+MNIST_P70_N33,NnenumError(Return code: 1),11.5977
+MNIST_P95_N3,NnenumError(Return code: 1),9.6373
+MNIST_P94_N33,NnenumError(Return code: 1),11.5307
+MNIST_P43_N45,outofmemory,80.37
+MNIST_P51_N39,outofmemory,83.009
+MNIST_P67_N16,NnenumError(Return code: 1),11.1475
+MNIST_P88_N26,NnenumError(Return code: 1),9.5928
+MNIST_P91_N39,outofmemory,79.554
+MNIST_P16_N25,outofmemory,98.496
+MNIST_P96_N13,outofmemory,77.946
+MNIST_P57_N17,NnenumError(Return code: 1),11.969
+MNIST_P27_N42,unsat,71.7224
+MNIST_P88_N33,NnenumError(Return code: 1),11.5524
+MNIST_P77_N37,unsat,92.9558
+MNIST_P42_N12,NnenumError(Return code: 1),14.0683
+MNIST_P94_N13,outofmemory,72.934
+MNIST_P62_N35,outofmemory,83.64
+MNIST_P73_N31,unsat,115.1455
+MNIST_P95_N16,NnenumError(Return code: 1),12.7611
+MNIST_P21_N7,outofmemory,80.082
+MNIST_P52_N20,NnenumError(Return code: 1),11.9731
+MNIST_P78_N36,outofmemory,85.463
+MNIST_P85_N12,NnenumError(Return code: 1),12.5032
+MNIST_P56_N9,unsat,98.1503
+MNIST_P41_N49,NnenumError(Return code: 1),13.2301
+MNIST_P68_N11,outofmemory,74.495
+MNIST_P96_N17,NnenumError(Return code: 1),11.8609
+MNIST_P61_N45,outofmemory,69.62
+MNIST_P88_N2,unsat,127.8711
+MNIST_P34_N42,unsat,77.205
+MNIST_P65_N29,unsat,77.2816
+MNIST_P88_N22,NnenumError(Return code: 1),12.8646
+MNIST_P79_N39,outofmemory,62.815
+MNIST_P92_N37,unsat,97.1452
+MNIST_P83_N11,outofmemory,56.785
+MNIST_P87_N22,NnenumError(Return code: 1),11.8746
+MNIST_P32_N34,outofmemory,48.049
+MNIST_P25_N36,outofmemory,68.678
+MNIST_P20_N22,NnenumError(Return code: 1),9.0502
+MNIST_P31_N19,NnenumError(Return code: 1),12.1937
+MNIST_P25_N5,NnenumError(Return code: 1),8.9206
+MNIST_P67_N20,NnenumError(Return code: 1),11.575
+MNIST_P66_N9,unsat,86.7418
+MNIST_P33_N27,NnenumError(Return code: 1),9.3859
+MNIST_P96_N22,NnenumError(Return code: 1),10.9644
+MNIST_P69_N24,outofmemory,57.074
+MNIST_P8_N36,outofmemory,80.727
+MNIST_P10_N42,unsat,74.2451
+MNIST_P13_N39,outofmemory,69.477
+MNIST_P50_N35,outofmemory,68.891
+MNIST_P18_N20,NnenumError(Return code: 1),12.1934
+MNIST_P73_N3,NnenumError(Return code: 1),11.4361
+MNIST_P25_N35,unsat,71.4322
+MNIST_P81_N34,outofmemory,62.036
+MNIST_P17_N49,NnenumError(Return code: 1),11.1046
+MNIST_P59_N36,outofmemory,71.645
+MNIST_P60_N3,NnenumError(Return code: 1),11.7451
+MNIST_P45_N3,NnenumError(Return code: 1),12.2653
+MNIST_P88_N31,unsat,120.428
+MNIST_P27_N34,outofmemory,66.804
+MNIST_P61_N37,unsat,89.0975
+MNIST_P95_N21,NnenumError(Return code: 1),11.9513
+MNIST_P83_N25,outofmemory,93.129
+MNIST_P17_N39,outofmemory,61.444
+MNIST_P34_N25,outofmemory,88.017
+MNIST_P93_N21,NnenumError(Return code: 1),12.1909
+MNIST_P79_N31,unsat,120.6218
+MNIST_P24_N33,NnenumError(Return code: 1),12.5094
+MNIST_P56_N5,NnenumError(Return code: 1),11.2738
+MNIST_P34_N4,NnenumError(Return code: 1),11.8375
+MNIST_P47_N10,outofmemory,60.124
+MNIST_P14_N2,unsat,122.7885
+MNIST_P51_N20,NnenumError(Return code: 1),11.1381
+MNIST_P99_N24,outofmemory,53.622
+MNIST_P57_N20,NnenumError(Return code: 1),9.5888
+MNIST_P79_N20,NnenumError(Return code: 1),7.0758
+MNIST_P75_N9,unsat,90.5786
+MNIST_P73_N15,NnenumError(Return code: 1),10.7165
+MNIST_P87_N1,unsat,76.9215
+MNIST_P89_N45,outofmemory,69.795
+MNIST_P60_N46,unsat,97.6186
+MNIST_P69_N14,NnenumError(Return code: 1),9.8342
+MNIST_P78_N12,NnenumError(Return code: 1),10.2557
+MNIST_P67_N47,outofmemory,79.861
+MNIST_P55_N1,unsat,74.7311
+MNIST_P19_N35,outofmemory,62.223
+MNIST_P1_N22,NnenumError(Return code: 1),10.7689
+MNIST_P85_N31,unsat,103.3046
+MNIST_P70_N36,outofmemory,105.286
+MNIST_P35_N17,NnenumError(Return code: 1),9.9075
+MNIST_P51_N5,NnenumError(Return code: 1),11.7337
+MNIST_P84_N40,unsat,75.4097
+MNIST_P84_N41,unsat,200.3789
+MNIST_P57_N44,outofmemory,71.664
+MNIST_P41_N12,NnenumError(Return code: 1),7.5137
+MNIST_P53_N36,outofmemory,90.558
+MNIST_P81_N5,NnenumError(Return code: 1),7.9003
+MNIST_P71_N34,unsat,49.2073
+MNIST_P71_N20,NnenumError(Return code: 1),7.7407
+MNIST_P18_N3,NnenumError(Return code: 1),4.7174
+MNIST_P52_N33,NnenumError(Return code: 1),5.0599
+MNIST_P53_N22,NnenumError(Return code: 1),4.7162
+MNIST_P66_N20,NnenumError(Return code: 1),4.6033
+MNIST_P72_N24,outofmemory,48.046
+MNIST_P6_N45,outofmemory,40.383
+MNIST_P52_N44,outofmemory,37.663
+MNIST_P43_N7,outofmemory,34.672
+MNIST_P47_N35,outofmemory,33.905
+MNIST_P86_N15,NnenumError(Return code: 1),3.5788
+MNIST_P73_N9,unsat,42.5943
+MNIST_P73_N35,outofmemory,35.222
+MNIST_P13_N20,NnenumError(Return code: 1),5.1047
+MNIST_P53_N35,outofmemory,28.377
+MNIST_P22_N2,unsat,50.6486
+MNIST_P33_N35,outofmemory,36.028
+MNIST_P70_N14,NnenumError(Return code: 1),2.1873
+MNIST_P75_N40,unsat,21.8301
+MNIST_P71_N37,unsat,24.8169
+MNIST_P60_N12,NnenumError(Return code: 1),2.1498
+MNIST_P2_N39,outofmemory,22.23
+MNIST_P21_N49,NnenumError(Return code: 1),2.2032
+MNIST_P65_N23,unsat,101.113
+MNIST_P74_N1,unsat,95.9521
+MNIST_P92_N23,unsat,99.7293
+MNIST_P24_N41,unsat,318.3124
+MNIST_P43_N10,outofmemory,48.839
+MNIST_P86_N1,unsat,98.8411
+MNIST_P31_N36,outofmemory,68.345
+MNIST_P60_N5,NnenumError(Return code: 1),15.2953
+MNIST_P66_N26,NnenumError(Return code: 1),15.752
+MNIST_P95_N23,unsat,102.007
+MNIST_P61_N5,NnenumError(Return code: 1),14.6848
+MNIST_P87_N39,outofmemory,50.896
+MNIST_P86_N11,outofmemory,50.497
+MNIST_P91_N19,NnenumError(Return code: 1),13.9439
+MNIST_P20_N34,outofmemory,46.974
+MNIST_P37_N44,outofmemory,50.018
+MNIST_P87_N46,unsat,112.3774
+MNIST_P49_N29,unsat,98.6999
+MNIST_P74_N11,outofmemory,52.04
+MNIST_P46_N23,unsat,99.3838
+MNIST_P28_N22,NnenumError(Return code: 1),15.8431
+MNIST_P17_N47,outofmemory,55.078
+MNIST_P94_N11,outofmemory,50.263
+MNIST_P34_N34,outofmemory,46.661
+MNIST_P48_N19,NnenumError(Return code: 1),13.8229
+MNIST_P20_N21,NnenumError(Return code: 1),12.7476
+MNIST_P86_N17,NnenumError(Return code: 1),10.7151
+MNIST_P39_N14,NnenumError(Return code: 1),12.749
+MNIST_P95_N44,outofmemory,63.794
+MNIST_P31_N5,NnenumError(Return code: 1),12.8358
+MNIST_P30_N33,NnenumError(Return code: 1),14.1109
+MNIST_P47_N49,NnenumError(Return code: 1),12.8334
+MNIST_P93_N10,outofmemory,70.789
+MNIST_P11_N47,outofmemory,81.349
+MNIST_P95_N40,unsat,74.0512
+MNIST_P68_N20,NnenumError(Return code: 1),12.9866
+MNIST_P25_N47,outofmemory,80.179
+MNIST_P31_N29,unsat,77.681
+MNIST_P75_N35,outofmemory,62.524
+MNIST_P66_N39,outofmemory,57.35
+MNIST_P80_N23,unsat,83.5255
+MNIST_P10_N15,NnenumError(Return code: 1),7.6908
+MNIST_P45_N22,NnenumError(Return code: 1),7.5599
+MNIST_P84_N16,NnenumError(Return code: 1),7.3849
+MNIST_P49_N17,NnenumError(Return code: 1),7.0188
+MNIST_P99_N5,NnenumError(Return code: 1),7.2426
+MNIST_P17_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0989
+MNIST_P59_N20,NnenumError(Return code: 1),6.7088
+MNIST_P72_N41,unsat,479.9566
+MNIST_P57_N14,NnenumError(Return code: 1),12.6098
+MNIST_P49_N40,unsat,87.0326
+MNIST_P97_N39,outofmemory,61.884
+MNIST_P27_N3,NnenumError(Return code: 1),13.7709
+MNIST_P39_N41,unsat,425.8687
+MNIST_P3_N26,NnenumError(Return code: 1),12.1089
+MNIST_P98_N22,NnenumError(Return code: 1),11.4924
+MNIST_P36_N18,NnenumError(Return code: 1),12.2726
+MNIST_P26_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0922
+MNIST_P87_N36,outofmemory,82.824
+MNIST_P76_N15,NnenumError(Return code: 1),12.6214
+MNIST_P13_N27,NnenumError(Return code: 1),6.2135
+MNIST_P25_N27,NnenumError(Return code: 1),6.0087
+MNIST_P78_N40,unsat,89.32
+MNIST_P60_N25,outofmemory,103.085
+MNIST_P73_N5,NnenumError(Return code: 1),8.8319
+MNIST_P84_N44,outofmemory,80.224
+MNIST_P92_N13,outofmemory,77.828
+MNIST_P95_N36,outofmemory,115.088
+MNIST_P19_N34,outofmemory,89.349
+MNIST_P45_N29,unsat,101.2678
+MNIST_P61_N29,unsat,100.0868
+MNIST_P69_N35,unsat,103.5155
+MNIST_P90_N40,unsat,96.0213
+MNIST_P23_N27,NnenumError(Return code: 1),11.7837
+MNIST_P44_N17,NnenumError(Return code: 1),11.5455
+MNIST_P88_N19,NnenumError(Return code: 1),11.9805
+MNIST_P71_N36,unsat,147.9304
+MNIST_P13_N35,outofmemory,82.399
+MNIST_P95_N37,unsat,121.4087
+MNIST_P96_N11,outofmemory,66.501
+MNIST_P96_N33,NnenumError(Return code: 1),7.4009
+MNIST_P20_N9,unsat,111.7113
+MNIST_P76_N17,NnenumError(Return code: 1),8.7852
+MNIST_P90_N16,NnenumError(Return code: 1),8.8542
+MNIST_P70_N46,unsat,121.4516
+MNIST_P84_N11,outofmemory,81.48
+MNIST_P33_N41,unsat,399.2699
+MNIST_P79_N15,NnenumError(Return code: 1),12.843
+MNIST_P49_N34,outofmemory,77.312
+MNIST_P52_N35,outofmemory,81.037
+MNIST_P95_N12,NnenumError(Return code: 1),11.5346
+MNIST_P66_N25,outofmemory,160.937
+MNIST_P97_N7,outofmemory,81.449
+MNIST_P71_N2,unsat,177.9095
+MNIST_P49_N36,outofmemory,128.206
+MNIST_P46_N34,outofmemory,67.845
+MNIST_P72_N31,unsat,140.0255
+MNIST_P83_N45,outofmemory,77.086
+MNIST_P94_N23,unsat,93.0429
+MNIST_P96_N18,NnenumError(Return code: 1),10.8681
+MNIST_P61_N9,unsat,115.6704
+MNIST_P37_N38,outofmemory,94.033
+MNIST_P29_N4,NnenumError(Return code: 1),10.1479
+MNIST_P65_N12,NnenumError(Return code: 1),9.915
+MNIST_P6_N10,outofmemory,89.42
+MNIST_P29_N46,unsat,125.5131
+MNIST_P61_N23,unsat,88.0686
+MNIST_P12_N38,outofmemory,88.09
+MNIST_P47_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.2665
+MNIST_P0_N20,NnenumError(Return code: 1),14.7451
+MNIST_P32_N4,NnenumError(Return code: 1),14.2639
+MNIST_P45_N45,outofmemory,69.249
+MNIST_P96_N12,NnenumError(Return code: 1),10.6408
+MNIST_P67_N25,outofmemory,140.538
+MNIST_P51_N19,NnenumError(Return code: 1),9.1097
+MNIST_P43_N20,NnenumError(Return code: 1),9.3924
+MNIST_P86_N47,outofmemory,101.57
+MNIST_P18_N10,outofmemory,91.096
+MNIST_P80_N35,outofmemory,87.269
+MNIST_P54_N46,unsat,109.2595
+MNIST_P82_N31,unsat,121.5606
+MNIST_P99_N14,NnenumError(Return code: 1),11.3965
+MNIST_P98_N1,unsat,80.6053
+MNIST_P52_N24,outofmemory,84.275
+MNIST_P77_N46,unsat,100.4309
+MNIST_P22_N47,outofmemory,97.289
+MNIST_P96_N16,NnenumError(Return code: 1),11.821
+MNIST_P44_N2,unsat,123.7782
+MNIST_P49_N25,outofmemory,123.594
+MNIST_P35_N12,NnenumError(Return code: 1),6.5276
+MNIST_P66_N49,NnenumError(Return code: 1),6.386
+MNIST_P91_N5,NnenumError(Return code: 1),7.21
+MNIST_P69_N29,unsat,60.872
+MNIST_P24_N27,NnenumError(Return code: 1),6.5381
+MNIST_P9_N41,unsat,209.6036
+MNIST_P30_N3,NnenumError(Return code: 1),7.0826
+MNIST_P12_N7,outofmemory,59.126
+MNIST_P25_N45,unsat,54.3148
+MNIST_P27_N1,unsat,54.0054
+MNIST_P56_N42,unsat,58.1055
+MNIST_P44_N16,NnenumError(Return code: 1),6.5654
+MNIST_P67_N29,unsat,58.4445
+MNIST_P0_N34,outofmemory,48.117
+MNIST_P42_N9,unsat,60.2269
+MNIST_P53_N11,outofmemory,50.336
+MNIST_P68_N42,unsat,44.2849
+MNIST_P1_N2,unsat,76.9895
+MNIST_P94_N41,unsat,163.3995
+MNIST_P98_N21,NnenumError(Return code: 1),4.6614
+MNIST_P18_N44,outofmemory,40.745
+MNIST_P20_N3,NnenumError(Return code: 1),5.4486
+MNIST_P49_N38,outofmemory,36.091
+MNIST_P24_N3,NnenumError(Return code: 1),4.7618
+MNIST_P58_N29,unsat,38.3241
+MNIST_P93_N19,NnenumError(Return code: 1),3.1105
+MNIST_P74_N9,unsat,46.5565
+MNIST_P81_N19,NnenumError(Return code: 1),5.1452
+MNIST_P73_N13,outofmemory,34.045
+MNIST_P23_N17,NnenumError(Return code: 1),3.6724
+MNIST_P34_N41,unsat,122.8885
+MNIST_P25_N46,unsat,46.536
+MNIST_P1_N5,NnenumError(Return code: 1),4.3267
+MNIST_P99_N45,unsat,34.5744
+MNIST_P60_N40,unsat,36.8679
+MNIST_P86_N25,outofmemory,52.208
+MNIST_P38_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.091
+MNIST_P86_N18,NnenumError(Return code: 1),3.0211
+MNIST_P60_N20,NnenumError(Return code: 1),2.7258
+MNIST_P22_N14,NnenumError(Return code: 1),2.3666
+MNIST_P49_N12,NnenumError(Return code: 1),2.2072
+MNIST_P12_N1,unsat,23.8745
+MNIST_P39_N24,outofmemory,22.779
+MNIST_P5_N23,unsat,23.5559
+MNIST_P44_N21,NnenumError(Return code: 1),2.3435
+MNIST_P18_N11,outofmemory,23.131
+MNIST_P23_N35,outofmemory,22.074
+MNIST_P35_N2,unsat,39.2846
+MNIST_P57_N16,NnenumError(Return code: 1),2.1632
+MNIST_P24_N26,NnenumError(Return code: 1),2.1945
+MNIST_P66_N24,outofmemory,21.101
+MNIST_P48_N26,NnenumError(Return code: 1),1.9732
+MNIST_P30_N41,unsat,90.0048
+MNIST_P21_N39,outofmemory,22.359
+MNIST_P37_N35,outofmemory,21.155
+MNIST_P80_N17,NnenumError(Return code: 1),19.6883
+MNIST_P76_N42,unsat,90.4507
+MNIST_P39_N40,unsat,86.794
+MNIST_P68_N24,outofmemory,59.557
+MNIST_P16_N37,unsat,106.1991
+MNIST_P26_N44,outofmemory,55.731
+MNIST_P83_N7,outofmemory,56.393
+MNIST_P19_N18,NnenumError(Return code: 1),19.6327
+MNIST_P32_N42,unsat,88.6268
+MNIST_P57_N1,unsat,80.2487
+MNIST_P23_N19,NnenumError(Return code: 1),18.2605
+MNIST_P61_N24,outofmemory,54.311
+MNIST_P44_N15,NnenumError(Return code: 1),19.5786
+MNIST_P74_N31,unsat,130.6301
+MNIST_P51_N25,outofmemory,63.148
+MNIST_P80_N11,outofmemory,55.324
+MNIST_P54_N1,unsat,85.3455
+MNIST_P62_N45,outofmemory,54.04
+MNIST_P64_N23,unsat,91.8562
+MNIST_P95_N27,NnenumError(Return code: 1),19.0462
+MNIST_P3_N12,NnenumError(Return code: 1),19.1162
+MNIST_P45_N33,NnenumError(Return code: 1),18.8853
+MNIST_P37_N48,NnenumError(Return code: 1),18.695
+MNIST_P38_N31,unsat,127.716
+MNIST_P22_N41,unsat,346.8555
+MNIST_P19_N38,outofmemory,75.669
+MNIST_P17_N14,NnenumError(Return code: 1),12.5481
+MNIST_P17_N21,NnenumError(Return code: 1),12.2127
+MNIST_P31_N34,outofmemory,64.627
+MNIST_P68_N7,outofmemory,68.223
+MNIST_P28_N31,unsat,127.1592
+MNIST_P51_N41,unsat,483.9999
+MNIST_P38_N9,unsat,100.9302
+MNIST_P52_N17,NnenumError(Return code: 1),11.7889
+MNIST_P55_N26,NnenumError(Return code: 1),12.9169
+MNIST_P74_N7,outofmemory,69.639
+MNIST_P98_N31,unsat,125.4219
+MNIST_P80_N26,NnenumError(Return code: 1),12.6433
+MNIST_P45_N49,NnenumError(Return code: 1),13.0857
+MNIST_P23_N21,NnenumError(Return code: 1),12.5097
+MNIST_P21_N35,outofmemory,86.056
+MNIST_P33_N7,outofmemory,90.173
+MNIST_P85_N25,outofmemory,114.673
+MNIST_P42_N22,NnenumError(Return code: 1),12.6038
+MNIST_P76_N26,NnenumError(Return code: 1),9.5201
+MNIST_P44_N45,outofmemory,87.784
+MNIST_P80_N38,outofmemory,90.514
+MNIST_P67_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0772
+MNIST_P53_N10,outofmemory,85.246
+MNIST_P43_N26,NnenumError(Return code: 1),6.4245
+MNIST_P99_N18,NnenumError(Return code: 1),8.2903
+MNIST_P26_N42,unsat,89.1714
+MNIST_P23_N29,unsat,85.152
+MNIST_P10_N37,unsat,100.3914
+MNIST_P88_N11,outofmemory,69.278
+MNIST_P7_N1,unsat,88.0344
+MNIST_P54_N26,NnenumError(Return code: 1),12.876
+MNIST_P13_N18,NnenumError(Return code: 1),13.4234
+MNIST_P79_N13,outofmemory,79.185
+MNIST_P80_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0993
+MNIST_P40_N18,NnenumError(Return code: 1),8.9702
+MNIST_P41_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.1003
+MNIST_P66_N21,NnenumError(Return code: 1),8.1029
+MNIST_P42_N40,unsat,91.246
+MNIST_P20_N15,NnenumError(Return code: 1),10.9903
+MNIST_P78_N11,outofmemory,75.006
+MNIST_P5_N2,unsat,162.7285
+MNIST_P87_N4,NnenumError(Return code: 1),11.9917
+MNIST_P30_N38,outofmemory,76.087
+MNIST_P45_N47,outofmemory,81.278
+MNIST_P81_N40,unsat,92.8597
+MNIST_P85_N21,NnenumError(Return code: 1),13.6238
+MNIST_P98_N9,unsat,120.081
+MNIST_P26_N15,NnenumError(Return code: 1),11.5095
+MNIST_P91_N23,unsat,88.6219
+MNIST_P17_N37,unsat,117.533
+MNIST_P92_N5,NnenumError(Return code: 1),9.5803
+MNIST_P85_N34,outofmemory,81.482
+MNIST_P97_N25,outofmemory,122.075
+MNIST_P93_N4,NnenumError(Return code: 1),8.945
+MNIST_P50_N45,outofmemory,76.363
+MNIST_P63_N46,unsat,132.5064
+MNIST_P93_N45,outofmemory,80.4
+MNIST_P99_N42,unsat,91.7044
+MNIST_P73_N44,outofmemory,80.985
+MNIST_P77_N1,outofmemory,89.219
+MNIST_P65_N14,NnenumError(Return code: 1),10.6265
+MNIST_P71_N45,unsat,87.427
+MNIST_P10_N41,unsat,400.9293
+MNIST_P51_N9,unsat,118.5542
+MNIST_P34_N22,NnenumError(Return code: 1),12.1813
+MNIST_P71_N39,outofmemory,81.453
+MNIST_P74_N10,outofmemory,89.198
+MNIST_P66_N37,unsat,108.6657
+MNIST_P97_N38,outofmemory,85.626
+MNIST_P30_N21,NnenumError(Return code: 1),9.341
+MNIST_P50_N12,NnenumError(Return code: 1),8.37
+MNIST_P47_N36,outofmemory,136.024
+MNIST_P46_N48,NnenumError(Return code: 1),11.855
+MNIST_P92_N7,outofmemory,89.735
+MNIST_P25_N15,NnenumError(Return code: 1),12.4456
+MNIST_P71_N44,unsat,91.996
+MNIST_P30_N14,NnenumError(Return code: 1),12.8151
+MNIST_P62_N38,outofmemory,86.716
+MNIST_P67_N9,unsat,115.2819
+MNIST_P96_N23,unsat,87.215
+MNIST_P53_N20,NnenumError(Return code: 1),10.4917
+MNIST_P24_N31,unsat,146.3375
+MNIST_P22_N37,unsat,115.6373
+MNIST_P5_N45,outofmemory,74.342
+MNIST_P83_N42,unsat,88.9653
+MNIST_P72_N39,outofmemory,78.946
+MNIST_P22_N45,outofmemory,72.087
+MNIST_P71_N9,unsat,114.6324
+MNIST_P91_N25,outofmemory,151.687
+MNIST_P54_N40,unsat,92.0137
+MNIST_P46_N31,unsat,146.2372
+MNIST_P81_N25,outofmemory,149.662
+MNIST_P53_N13,outofmemory,74.819
+MNIST_P64_N9,unsat,111.7684
+MNIST_P82_N36,unsat,151.8086
+MNIST_P87_N21,NnenumError(Return code: 1),12.1155
+MNIST_P96_N9,unsat,113.4543
+MNIST_P52_N10,outofmemory,71.704
+MNIST_P55_N39,outofmemory,71.245
+MNIST_P99_N37,unsat,90.9585
+MNIST_P24_N19,NnenumError(Return code: 1),8.3981
+MNIST_P75_N27,NnenumError(Return code: 1),8.6322
+MNIST_P94_N31,unsat,117.0093
+MNIST_P56_N49,NnenumError(Return code: 1),8.0203
+MNIST_P55_N3,NnenumError(Return code: 1),8.2319
+MNIST_P68_N36,unsat,128.7181
+MNIST_P28_N25,outofmemory,116.138
+MNIST_P18_N2,outofmemory,156.892
+MNIST_P55_N41,unsat,203.7034
+MNIST_P34_N17,NnenumError(Return code: 1),7.009
+MNIST_P63_N34,outofmemory,57.691
+MNIST_P80_N48,NnenumError(Return code: 1),7.5203
+MNIST_P84_N21,NnenumError(Return code: 1),7.9577
+MNIST_P35_N42,unsat,63.7149
+MNIST_P37_N39,outofmemory,63.006
+MNIST_P29_N45,outofmemory,58.854
+MNIST_P61_N17,NnenumError(Return code: 1),7.1329
+MNIST_P90_N13,outofmemory,56.814
+MNIST_P89_N40,unsat,59.7347
+MNIST_P87_N42,unsat,46.9135
+MNIST_P51_N38,outofmemory,55.159
+MNIST_P35_N1,unsat,39.2832
+MNIST_P57_N3,NnenumError(Return code: 1),3.7361
+MNIST_P68_N19,NnenumError(Return code: 1),3.3594
+MNIST_P75_N39,outofmemory,32.33
+MNIST_P83_N26,NnenumError(Return code: 1),3.8778
+MNIST_P93_N42,unsat,29.6926
+MNIST_P46_N21,NnenumError(Return code: 1),3.2686
+MNIST_P13_N21,NnenumError(Return code: 1),3.404
+MNIST_P88_N5,NnenumError(Return code: 1),2.5457
+MNIST_P74_N40,unsat,30.5161
+MNIST_P44_N38,outofmemory,31.605
+MNIST_P31_N38,outofmemory,31.577
+MNIST_P19_N20,NnenumError(Return code: 1),2.1936
+MNIST_P22_N40,unsat,26.1508
+MNIST_P56_N1,unsat,21.6196
+MNIST_P99_N23,unsat,24.1167
+MNIST_P97_N48,NnenumError(Return code: 1),2.7107
+MNIST_P65_N37,unsat,29.6012
+MNIST_P12_N25,outofmemory,33.526
+MNIST_P28_N21,NnenumError(Return code: 1),2.5593
+MNIST_P63_N18,NnenumError(Return code: 1),3.2071
+MNIST_P56_N46,unsat,31.82
+MNIST_P27_N2,unsat,49.2209
+MNIST_P48_N27,NnenumError(Return code: 1),2.2814
+MNIST_P32_N27,NnenumError(Return code: 1),2.4602
+MNIST_P76_N23,unsat,29.1781
+MNIST_P29_N41,unsat,99.8421
+MNIST_P50_N18,NnenumError(Return code: 1),2.7294
+MNIST_P59_N5,NnenumError(Return code: 1),2.9596
+MNIST_P56_N25,outofmemory,36.747
+MNIST_P66_N33,NnenumError(Return code: 1),3.3376
+MNIST_P46_N24,outofmemory,24.549
+MNIST_P7_N26,NnenumError(Return code: 1),3.1288
+MNIST_P50_N13,outofmemory,20.828
+MNIST_P33_N42,outofmemory,72.747
+MNIST_P62_N36,outofmemory,86.93
+MNIST_P98_N42,unsat,88.2967
+MNIST_P26_N19,NnenumError(Return code: 1),15.8558
+MNIST_P17_N26,NnenumError(Return code: 1),15.7035
+MNIST_P22_N23,unsat,88.0632
+MNIST_P95_N48,NnenumError(Return code: 1),15.9296
+MNIST_P66_N19,NnenumError(Return code: 1),15.8576
+MNIST_P26_N20,NnenumError(Return code: 1),14.2333
+MNIST_P52_N2,unsat,150.7529
+MNIST_P19_N12,NnenumError(Return code: 1),15.6853
+MNIST_P70_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0285
+MNIST_P82_N41,unsat,452.5484
+MNIST_P94_N38,outofmemory,52.975
+MNIST_P91_N42,unsat,85.2127
+MNIST_P65_N20,NnenumError(Return code: 1),14.7034
+MNIST_P11_N1,unsat,82.0848
+MNIST_P22_N35,outofmemory,49.253
+MNIST_P66_N14,NnenumError(Return code: 1),15.6972
+MNIST_P98_N35,outofmemory,49.423
+MNIST_P92_N36,outofmemory,92.193
+MNIST_P31_N9,unsat,110.1142
+MNIST_P21_N48,NnenumError(Return code: 1),14.6451
+MNIST_P80_N5,NnenumError(Return code: 1),15.5102
+MNIST_P60_N16,NnenumError(Return code: 1),6.8088
+MNIST_P40_N25,outofmemory,106.661
+MNIST_P97_N34,outofmemory,79.237
+MNIST_P59_N27,NnenumError(Return code: 1),6.1042
+MNIST_P85_N7,outofmemory,79.958
+MNIST_P17_N16,NnenumError(Return code: 1),11.578
+MNIST_P23_N16,NnenumError(Return code: 1),9.5688
+MNIST_P41_N7,outofmemory,72.381
+MNIST_P36_N40,unsat,86.9755
+MNIST_P39_N49,NnenumError(Return code: 1),11.1907
+MNIST_P76_N40,unsat,88.7488
+MNIST_P42_N44,outofmemory,76.66
+MNIST_P61_N46,unsat,111.0916
+MNIST_P12_N9,unsat,105.1586
+MNIST_P4_N37,unsat,108.3201
+MNIST_P26_N26,NnenumError(Return code: 1),10.5404
+MNIST_P8_N21,NnenumError(Return code: 1),11.2498
+MNIST_P89_N15,NnenumError(Return code: 1),12.4239
+MNIST_P53_N40,unsat,87.1961
+MNIST_P56_N40,unsat,90.5099
+MNIST_P24_N47,outofmemory,92.201
+MNIST_P89_N37,unsat,106.7266
+MNIST_P67_N18,NnenumError(Return code: 1),12.0833
+MNIST_P59_N37,unsat,119.7724
+MNIST_P53_N48,NnenumError(Return code: 1),11.779
+MNIST_P36_N17,NnenumError(Return code: 1),9.157
+MNIST_P74_N15,NnenumError(Return code: 1),11.5111
+MNIST_P93_N14,NnenumError(Return code: 1),12.5002
+MNIST_P83_N22,NnenumError(Return code: 1),10.2615
+MNIST_P46_N16,NnenumError(Return code: 1),11.913
+MNIST_P87_N41,unsat,482.4114
+MNIST_P77_N9,unsat,115.3351
+MNIST_P70_N47,outofmemory,83.869
+MNIST_P36_N33,NnenumError(Return code: 1),14.7577
+MNIST_P39_N37,unsat,110.0117
+MNIST_P11_N9,unsat,105.4704
+MNIST_P35_N5,NnenumError(Return code: 1),6.8057
+MNIST_P86_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.1079
+MNIST_P89_N4,NnenumError(Return code: 1),9.2487
+MNIST_P72_N21,NnenumError(Return code: 1),10.039
+MNIST_P72_N11,outofmemory,89.664
+MNIST_P29_N38,outofmemory,86.624
+MNIST_P8_N37,unsat,105.7885
+MNIST_P93_N11,outofmemory,89.21
+MNIST_P48_N2,unsat,154.9582
+MNIST_P68_N25,unsat,140.6851
+MNIST_P98_N20,NnenumError(Return code: 1),11.7809
+MNIST_P77_N29,unsat,85.3847
+MNIST_P38_N49,NnenumError(Return code: 1),11.842
+MNIST_P24_N17,NnenumError(Return code: 1),12.415
+MNIST_P50_N17,NnenumError(Return code: 1),12.2749
+MNIST_P49_N16,NnenumError(Return code: 1),7.4068
+MNIST_P40_N12,NnenumError(Return code: 1),8.2177
+MNIST_P28_N49,NnenumError(Return code: 1),8.2016
+MNIST_P78_N44,outofmemory,74.426
+MNIST_P21_N34,outofmemory,73.558
+MNIST_P99_N15,NnenumError(Return code: 1),8.2722
+MNIST_P87_N44,outofmemory,71.829
+MNIST_P68_N48,NnenumError(Return code: 1),8.7935
+MNIST_P49_N23,unsat,82.9167
+MNIST_P72_N16,NnenumError(Return code: 1),10.0272
+MNIST_P43_N44,outofmemory,82.713
+MNIST_P8_N42,outofmemory,94.902
+MNIST_P64_N34,outofmemory,76.703
+MNIST_P73_N20,NnenumError(Return code: 1),10.6677
+MNIST_P41_N42,unsat,83.1471
+MNIST_P92_N33,NnenumError(Return code: 1),10.4224
+MNIST_P2_N34,outofmemory,62.979
+MNIST_P34_N45,outofmemory,72.439
+MNIST_P26_N34,outofmemory,65.43
+MNIST_P68_N46,unsat,116.6432
+MNIST_P39_N33,NnenumError(Return code: 1),8.4093
+MNIST_P45_N12,NnenumError(Return code: 1),8.5398
+MNIST_P84_N5,NnenumError(Return code: 1),8.2996
+MNIST_P70_N41,unsat,482.199
+MNIST_P39_N35,outofmemory,70.321
+MNIST_P9_N42,unsat,87.6805
+MNIST_P39_N5,NnenumError(Return code: 1),8.1293
+MNIST_P15_N9,unsat,117.8118
+MNIST_P47_N23,unsat,96.5254
+MNIST_P99_N40,unsat,91.9502
+MNIST_P43_N2,unsat,174.6738
+MNIST_P26_N11,outofmemory,73.486
+MNIST_P60_N39,outofmemory,74.342
+MNIST_P40_N41,unsat,402.3121
+MNIST_P76_N27,NnenumError(Return code: 1),10.3033
+MNIST_P37_N14,NnenumError(Return code: 1),11.7731
+MNIST_P72_N42,unsat,90.5612
+MNIST_P27_N26,NnenumError(Return code: 1),10.2088
+MNIST_P91_N12,NnenumError(Return code: 1),10.3604
+MNIST_P54_N38,outofmemory,80.651
+MNIST_P21_N1,unsat,83.6745
+MNIST_P70_N49,NnenumError(Return code: 1),10.6039
+MNIST_P46_N2,unsat,173.897
+MNIST_P85_N11,outofmemory,80.703
+MNIST_P26_N25,outofmemory,151.206
+MNIST_P94_N27,NnenumError(Return code: 1),9.5917
+MNIST_P28_N12,NnenumError(Return code: 1),11.4694
+MNIST_P48_N11,outofmemory,84.395
+MNIST_P24_N45,outofmemory,77.317
+MNIST_P48_N14,NnenumError(Return code: 1),8.0256
+MNIST_P0_N41,unsat,379.5561
+MNIST_P88_N15,NnenumError(Return code: 1),9.5674
+MNIST_P38_N46,unsat,118.9128
+MNIST_P9_N34,outofmemory,75.224
+MNIST_P23_N3,NnenumError(Return code: 1),7.5227
+MNIST_P41_N20,NnenumError(Return code: 1),7.2839
+MNIST_P64_N3,NnenumError(Return code: 1),8.8073
+MNIST_P22_N46,unsat,116.7705
+MNIST_P46_N11,outofmemory,80.571
+MNIST_P27_N12,NnenumError(Return code: 1),9.2715
+MNIST_P95_N24,outofmemory,76.504
+MNIST_P75_N44,outofmemory,75.97
+MNIST_P89_N25,outofmemory,166.116
+MNIST_P20_N36,unsat,181.6031
+MNIST_P98_N37,unsat,101.569
+MNIST_P33_N22,NnenumError(Return code: 1),7.3632
+MNIST_P38_N19,NnenumError(Return code: 1),9.8765
+MNIST_P59_N39,outofmemory,77.377
+MNIST_P4_N23,unsat,78.295
+MNIST_P5_N41,unsat,311.3072
+MNIST_P64_N2,unsat,148.0444
+MNIST_P47_N38,outofmemory,81.656
+MNIST_P41_N17,NnenumError(Return code: 1),8.0763
+MNIST_P52_N42,unsat,78.2658
+MNIST_P63_N40,unsat,75.0394
+MNIST_P81_N29,unsat,72.8119
+MNIST_P49_N5,NnenumError(Return code: 1),7.9473
+MNIST_P49_N39,outofmemory,75.594
+MNIST_P58_N18,NnenumError(Return code: 1),8.9445
+MNIST_P25_N49,NnenumError(Return code: 1),8.5051
+MNIST_P21_N15,NnenumError(Return code: 1),6.305
+MNIST_P61_N31,unsat,113.9064
+MNIST_P44_N1,unsat,61.4231
+MNIST_P44_N48,NnenumError(Return code: 1),6.3639
+MNIST_P53_N2,unsat,126.7278
+MNIST_P45_N40,unsat,68.6476
+MNIST_P36_N9,unsat,84.1405
+MNIST_P54_N14,NnenumError(Return code: 1),7.4275
+MNIST_P81_N10,outofmemory,63.766
+MNIST_P24_N40,unsat,64.6921
+MNIST_P79_N24,outofmemory,64.665
+MNIST_P83_N27,NnenumError(Return code: 1),5.9367
+MNIST_P91_N21,NnenumError(Return code: 1),7.46
+MNIST_P64_N15,NnenumError(Return code: 1),6.955
+MNIST_P57_N42,unsat,47.1152
+MNIST_P46_N3,NnenumError(Return code: 1),6.3134
+MNIST_P40_N13,outofmemory,42.929
+MNIST_P59_N42,unsat,36.8879
+MNIST_P63_N33,NnenumError(Return code: 1),2.6095
+MNIST_P67_N37,unsat,49.0944
+MNIST_P31_N3,NnenumError(Return code: 1),4.1376
+MNIST_P20_N17,NnenumError(Return code: 1),4.0495
+MNIST_P99_N20,NnenumError(Return code: 1),3.1434
+MNIST_P3_N41,unsat,203.9042
+MNIST_P26_N46,unsat,56.7098
+MNIST_P80_N29,unsat,44.3906
+MNIST_P63_N31,unsat,60.3101
+MNIST_P4_N14,NnenumError(Return code: 1),5.8674
+MNIST_P58_N44,outofmemory,38.254
+MNIST_P44_N13,outofmemory,38.472
+MNIST_P7_N3,NnenumError(Return code: 1),3.7606
+MNIST_P9_N9,unsat,38.052
+MNIST_P34_N3,NnenumError(Return code: 1),2.8513
+MNIST_P82_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.0645
+MNIST_P89_N19,NnenumError(Return code: 1),2.7509
+MNIST_P89_N44,outofmemory,30.038
+MNIST_P59_N25,outofmemory,45.478
+MNIST_P17_N34,outofmemory,28.983
+MNIST_P67_N23,unsat,32.6859
+MNIST_P98_N46,unsat,42.5808
+MNIST_P66_N18,NnenumError(Return code: 1),2.5908
+MNIST_P73_N37,unsat,40.7049
+MNIST_P26_N9,unsat,40.6784
+MNIST_P97_N10,outofmemory,30.975
+MNIST_P51_N49,NnenumError(Return code: 1),3.4056
+MNIST_P35_N31,unsat,38.4517
+MNIST_P40_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1187
+MNIST_P40_N19,NnenumError(Return code: 1),2.4183
+MNIST_P74_N4,NnenumError(Return code: 1),2.6516
+MNIST_P37_N5,NnenumError(Return code: 1),2.1986
+MNIST_P85_N23,unsat,22.8324
+MNIST_P61_N26,NnenumError(Return code: 1),2.2109
+MNIST_P76_N41,unsat,105.338
+MNIST_P82_N49,NnenumError(Return code: 1),3.0543
+MNIST_P67_N4,NnenumError(Return code: 1),3.1527
+MNIST_P52_N4,NnenumError(Return code: 1),2.9643
+MNIST_P44_N11,outofmemory,26.421
+MNIST_P94_N18,NnenumError(Return code: 1),3.0993
+MNIST_P74_N2,unsat,48.3753
+MNIST_P18_N19,NnenumError(Return code: 1),3.8407
+MNIST_P69_N39,outofmemory,26.2
+MNIST_P91_N38,outofmemory,29.258
+MNIST_P56_N39,outofmemory,22.514
+MNIST_P66_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0251
+MNIST_P89_N10,outofmemory,21.238
+MNIST_P70_N25,outofmemory,73.667
+MNIST_P70_N5,NnenumError(Return code: 1),13.2787
+MNIST_P30_N49,NnenumError(Return code: 1),13.7458
+MNIST_P29_N11,outofmemory,46.946
+MNIST_P40_N27,NnenumError(Return code: 1),13.2089
+MNIST_P40_N34,outofmemory,45.195
+MNIST_P29_N5,NnenumError(Return code: 1),14.2183
+MNIST_P48_N10,outofmemory,45.989
+MNIST_P49_N33,NnenumError(Return code: 1),13.5562
+MNIST_P34_N31,unsat,103.7803
+MNIST_P59_N15,NnenumError(Return code: 1),13.3675
+MNIST_P36_N42,unsat,81.4091
+MNIST_P61_N3,NnenumError(Return code: 1),13.0318
+MNIST_P11_N23,unsat,76.0139
+MNIST_P87_N3,NnenumError(Return code: 1),13.0149
+MNIST_P82_N13,unsat,75.7586
+MNIST_P58_N24,outofmemory,46.304
+MNIST_P75_N12,NnenumError(Return code: 1),13.4212
+MNIST_P58_N27,NnenumError(Return code: 1),13.2945
+MNIST_P76_N36,outofmemory,70.993
+MNIST_P10_N14,NnenumError(Return code: 1),14.3328
+MNIST_P32_N24,outofmemory,45.462
+MNIST_P23_N37,unsat,99.5622
+MNIST_P19_N9,unsat,101.1248
+MNIST_P24_N35,outofmemory,65.58
+MNIST_P64_N20,NnenumError(Return code: 1),8.746
+MNIST_P77_N3,NnenumError(Return code: 1),11.3588
+MNIST_P63_N48,NnenumError(Return code: 1),8.4931
+MNIST_P43_N11,outofmemory,65.389
+MNIST_P59_N47,outofmemory,68.405
+MNIST_P17_N45,outofmemory,61.509
+MNIST_P44_N49,NnenumError(Return code: 1),12.9854
+MNIST_P62_N9,unsat,102.6187
+MNIST_P11_N36,outofmemory,74.595
+MNIST_P35_N10,outofmemory,62.937
+MNIST_P38_N5,NnenumError(Return code: 1),13.0669
+MNIST_P85_N9,unsat,100.6867
+MNIST_P88_N13,outofmemory,61.808
+MNIST_P35_N35,outofmemory,54.233
+MNIST_P33_N48,NnenumError(Return code: 1),10.3714
+MNIST_P47_N46,unsat,95.9859
+MNIST_P88_N16,NnenumError(Return code: 1),6.0503
+MNIST_P36_N21,NnenumError(Return code: 1),5.8177
+MNIST_P8_N26,NnenumError(Return code: 1),5.7217
+MNIST_P80_N24,outofmemory,53.892
+MNIST_P71_N41,unsat,581.858
+MNIST_P75_N2,unsat,156.957
+MNIST_P33_N37,unsat,103.9542
+MNIST_P35_N47,outofmemory,70.121
+MNIST_P32_N11,outofmemory,57.465
+MNIST_P75_N48,NnenumError(Return code: 1),12.036
+MNIST_P31_N7,outofmemory,63.383
+MNIST_P85_N44,outofmemory,55.441
+MNIST_P53_N23,unsat,86.9101
+MNIST_P70_N3,NnenumError(Return code: 1),10.8942
+MNIST_P48_N25,outofmemory,92.129
+MNIST_P49_N44,outofmemory,48.907
+MNIST_P42_N26,NnenumError(Return code: 1),9.7425
+MNIST_P27_N20,NnenumError(Return code: 1),11.8587
+MNIST_P32_N17,NnenumError(Return code: 1),11.065
+MNIST_P28_N24,outofmemory,72.99
+MNIST_P51_N16,NnenumError(Return code: 1),7.9065
+MNIST_P52_N36,unsat,178.1904
+MNIST_P8_N4,NnenumError(Return code: 1),7.9103
+MNIST_P92_N10,outofmemory,66.747
+MNIST_P35_N9,unsat,99.352
+MNIST_P4_N47,outofmemory,85.406
+MNIST_P67_N36,outofmemory,109.668
+MNIST_P72_N13,outofmemory,67.195
+MNIST_P31_N23,unsat,82.4119
+MNIST_P80_N4,NnenumError(Return code: 1),9.3352
+MNIST_P16_N33,NnenumError(Return code: 1),9.3269
+MNIST_P24_N10,outofmemory,69.778
+MNIST_P97_N12,NnenumError(Return code: 1),10.13
+MNIST_P97_N20,NnenumError(Return code: 1),8.6085
+MNIST_P21_N20,NnenumError(Return code: 1),9.9036
+MNIST_P41_N35,outofmemory,64.635
+MNIST_P47_N44,outofmemory,63.288
+MNIST_P40_N5,NnenumError(Return code: 1),10.7277
+MNIST_P15_N1,unsat,81.3886
+MNIST_P22_N12,NnenumError(Return code: 1),9.7902
+MNIST_P45_N41,unsat,461.8453
+MNIST_P88_N36,unsat,198.6581
+MNIST_P1_N9,unsat,103.0391
+MNIST_P66_N38,outofmemory,60.876
+MNIST_P86_N48,NnenumError(Return code: 1),8.1558
+MNIST_P42_N5,NnenumError(Return code: 1),8.2353
+MNIST_P43_N19,NnenumError(Return code: 1),8.8367
+MNIST_P12_N4,NnenumError(Return code: 1),7.9467
+MNIST_P49_N15,NnenumError(Return code: 1),9.2995
+MNIST_P1_N29,unsat,88.4359
+MNIST_P52_N23,unsat,89.4719
+MNIST_P97_N27,NnenumError(Return code: 1),10.2942
+MNIST_P69_N23,unsat,92.062
+MNIST_P74_N33,NnenumError(Return code: 1),8.4771
+MNIST_P81_N21,NnenumError(Return code: 1),9.1859
+MNIST_P67_N41,unsat,412.28
+MNIST_P49_N7,outofmemory,76.408
+MNIST_P19_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0814
+MNIST_P22_N18,NnenumError(Return code: 1),8.268
+MNIST_P58_N3,NnenumError(Return code: 1),8.534
+MNIST_P25_N34,outofmemory,83.006
+MNIST_P97_N9,unsat,107.9324
+MNIST_P83_N5,NnenumError(Return code: 1),9.0164
+MNIST_P83_N12,NnenumError(Return code: 1),8.9895
+MNIST_P48_N21,NnenumError(Return code: 1),9.0171
+MNIST_P84_N12,NnenumError(Return code: 1),10.2033
+MNIST_P79_N10,outofmemory,72.077
+MNIST_P96_N37,unsat,124.1898
+MNIST_P61_N41,unsat,397.3294
+MNIST_P95_N34,outofmemory,78.078
+MNIST_P48_N37,unsat,107.946
+MNIST_P32_N26,NnenumError(Return code: 1),9.8191
+MNIST_P97_N47,outofmemory,86.254
+MNIST_P33_N14,NnenumError(Return code: 1),8.6672
+MNIST_P48_N31,unsat,137.0012
+MNIST_P19_N21,NnenumError(Return code: 1),8.4498
+MNIST_P28_N23,unsat,80.8372
+MNIST_P33_N11,outofmemory,83.539
+MNIST_P99_N36,outofmemory,121.006
+MNIST_P55_N31,unsat,136.118
+MNIST_P32_N16,NnenumError(Return code: 1),9.1122
+MNIST_P84_N4,NnenumError(Return code: 1),9.0583
+MNIST_P13_N4,NnenumError(Return code: 1),9.4563
+MNIST_P93_N33,NnenumError(Return code: 1),9.7539
+MNIST_P34_N46,unsat,107.3801
+MNIST_P72_N5,NnenumError(Return code: 1),9.4384
+MNIST_P89_N5,NnenumError(Return code: 1),8.8594
+MNIST_P31_N25,outofmemory,151.746
+MNIST_P86_N34,outofmemory,71.065
+MNIST_P76_N22,NnenumError(Return code: 1),7.4978
+MNIST_P72_N38,outofmemory,77.311
+MNIST_P50_N5,NnenumError(Return code: 1),8.0475
+MNIST_P27_N13,outofmemory,66.782
+MNIST_P40_N10,outofmemory,63.121
+MNIST_P79_N25,outofmemory,123.156
+MNIST_P91_N31,unsat,115.2448
+MNIST_P77_N13,outofmemory,69.252
+MNIST_P98_N2,unsat,139.9114
+MNIST_P78_N26,NnenumError(Return code: 1),8.3048
+MNIST_P44_N29,unsat,68.5601
+MNIST_P17_N35,outofmemory,72.601
+MNIST_P77_N35,outofmemory,71.074
+MNIST_P65_N39,outofmemory,65.735
+MNIST_P96_N47,outofmemory,82.148
+MNIST_P20_N5,NnenumError(Return code: 1),7.0199
+MNIST_P23_N4,NnenumError(Return code: 1),8.0758
+MNIST_P53_N4,NnenumError(Return code: 1),6.4349
+MNIST_P91_N29,unsat,52.0874
+MNIST_P47_N37,unsat,57.6047
+MNIST_P49_N42,unsat,44.3006
+MNIST_P3_N47,outofmemory,65.21
+MNIST_P38_N26,NnenumError(Return code: 1),5.7843
+MNIST_P39_N45,outofmemory,52.476
+MNIST_P25_N9,unsat,40.8173
+MNIST_P75_N16,NnenumError(Return code: 1),4.6046
+MNIST_P1_N12,NnenumError(Return code: 1),4.4198
+MNIST_P47_N16,NnenumError(Return code: 1),3.4769
+MNIST_P73_N47,outofmemory,38.955
+MNIST_P56_N19,NnenumError(Return code: 1),2.7711
+MNIST_P57_N15,NnenumError(Return code: 1),2.7843
+MNIST_P87_N29,unsat,22.6565
+MNIST_P65_N38,outofmemory,27.192
+MNIST_P15_N12,NnenumError(Return code: 1),2.4934
+MNIST_P90_N4,NnenumError(Return code: 1),2.2547
+MNIST_P83_N37,unsat,27.3157
+MNIST_P76_N34,outofmemory,22.946
+MNIST_P97_N26,NnenumError(Return code: 1),2.4898
+MNIST_P83_N1,unsat,19.9514
+MNIST_P75_N18,NnenumError(Return code: 1),2.7014
+MNIST_P46_N45,outofmemory,21.871
+MNIST_P50_N20,NnenumError(Return code: 1),2.079
+MNIST_P98_N48,NnenumError(Return code: 1),2.2036
+MNIST_P36_N13,outofmemory,20.987
+MNIST_P50_N42,unsat,23.6411
+MNIST_P67_N2,unsat,40.75
+MNIST_P48_N5,NnenumError(Return code: 1),2.8571
+MNIST_P41_N27,NnenumError(Return code: 1),2.1872
+MNIST_P26_N22,NnenumError(Return code: 1),2.3351
+MNIST_P41_N38,outofmemory,22.97
+MNIST_P47_N13,outofmemory,20.71
+MNIST_P88_N12,NnenumError(Return code: 1),2.2208
+MNIST_P30_N27,NnenumError(Return code: 1),2.0379
+MNIST_P10_N13,unsat,19.2725
+MNIST_P95_N25,outofmemory,28.194
+MNIST_P52_N48,NnenumError(Return code: 1),16.1494
+MNIST_P25_N1,unsat,79.7667
+MNIST_P67_N48,NnenumError(Return code: 1),16.8135
+MNIST_P71_N35,unsat,82.7464
+MNIST_P92_N9,unsat,96.9104
+MNIST_P18_N34,outofmemory,53.755
+MNIST_P27_N31,unsat,125.2272
+MNIST_P90_N34,outofmemory,53.955
+MNIST_P79_N48,NnenumError(Return code: 1),16.4156
+MNIST_P92_N39,outofmemory,55.58
+MNIST_P82_N1,unsat,80.4052
+MNIST_P30_N24,outofmemory,54.389
+MNIST_P96_N36,outofmemory,87.289
+MNIST_P49_N3,NnenumError(Return code: 1),15.4709
+MNIST_P97_N49,NnenumError(Return code: 1),17.1784
+MNIST_P19_N15,NnenumError(Return code: 1),17.1658
+MNIST_P71_N17,NnenumError(Return code: 1),16.3578
+MNIST_P65_N47,outofmemory,61.247
+MNIST_P57_N18,NnenumError(Return code: 1),16.4839
+MNIST_P74_N26,NnenumError(Return code: 1),15.2313
+MNIST_P51_N31,unsat,126.5198
+MNIST_P38_N25,outofmemory,87.547
+MNIST_P87_N20,NnenumError(Return code: 1),16.4063
+MNIST_P98_N4,NnenumError(Return code: 1),16.6707
+MNIST_P81_N23,unsat,85.557
+MNIST_P17_N29,unsat,85.4942
+MNIST_P89_N1,unsat,81.612
+MNIST_P80_N40,unsat,83.9079
+MNIST_P55_N33,NnenumError(Return code: 1),13.7408
+MNIST_P27_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.1015
+MNIST_P78_N4,NnenumError(Return code: 1),13.5659
+MNIST_P37_N3,NnenumError(Return code: 1),12.3099
+MNIST_P69_N19,NnenumError(Return code: 1),13.1942
+MNIST_P53_N12,NnenumError(Return code: 1),13.3862
+MNIST_P52_N46,unsat,100.3541
+MNIST_P27_N48,NnenumError(Return code: 1),13.344
+MNIST_P51_N40,unsat,81.8441
+MNIST_P60_N37,unsat,95.897
+MNIST_P21_N46,unsat,96.7759
+MNIST_P78_N10,outofmemory,58.08
+MNIST_P49_N4,NnenumError(Return code: 1),11.7164
+MNIST_P20_N38,outofmemory,51.662
+MNIST_P81_N36,outofmemory,81.393
+MNIST_P15_N33,NnenumError(Return code: 1),9.9237
+MNIST_P31_N27,NnenumError(Return code: 1),8.8504
+MNIST_P26_N10,outofmemory,73.129
+MNIST_P98_N15,NnenumError(Return code: 1),9.9813
+MNIST_P8_N45,outofmemory,73.835
+MNIST_P32_N22,NnenumError(Return code: 1),10.259
+MNIST_P73_N26,NnenumError(Return code: 1),9.0704
+MNIST_P76_N33,NnenumError(Return code: 1),9.9869
+MNIST_P74_N17,NnenumError(Return code: 1),10.084
+MNIST_P65_N16,NnenumError(Return code: 1),7.8248
+MNIST_P57_N23,unsat,61.0623
+MNIST_P88_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0471
+MNIST_P96_N26,NnenumError(Return code: 1),4.7908
+MNIST_P79_N4,NnenumError(Return code: 1),5.0526
+MNIST_P13_N46,unsat,106.1171
+MNIST_P36_N12,NnenumError(Return code: 1),13.5605
+MNIST_P9_N45,outofmemory,53.963
+MNIST_P35_N45,outofmemory,61.777
+MNIST_P86_N20,NnenumError(Return code: 1),11.215
+MNIST_P81_N44,outofmemory,52.41
+MNIST_P24_N38,outofmemory,53.782
+MNIST_P22_N20,NnenumError(Return code: 1),12.6323
+MNIST_P27_N17,NnenumError(Return code: 1),12.6138
+MNIST_P40_N36,outofmemory,63.671
+MNIST_P62_N2,unsat,139.3992
+MNIST_P78_N49,NnenumError(Return code: 1),12.0327
+MNIST_P76_N20,NnenumError(Return code: 1),12.5263
+MNIST_P26_N29,unsat,85.5707
+MNIST_P75_N45,outofmemory,45.692
+MNIST_P40_N29,unsat,76.6846
+MNIST_P80_N18,NnenumError(Return code: 1),12.3516
+MNIST_P60_N42,unsat,83.3795
+MNIST_P80_N21,NnenumError(Return code: 1),8.0122
+MNIST_P40_N15,NnenumError(Return code: 1),6.4899
+MNIST_P23_N23,unsat,78.6701
+MNIST_P59_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.1159
+MNIST_P89_N9,unsat,101.9985
+MNIST_P51_N37,unsat,111.9933
+MNIST_P70_N24,outofmemory,52.053
+MNIST_P67_N1,unsat,86.881
+MNIST_P71_N24,unsat,86.4816
+MNIST_P36_N47,outofmemory,74.525
+MNIST_P13_N37,unsat,107.9621
+MNIST_P82_N12,NnenumError(Return code: 1),11.4931
+MNIST_P40_N45,outofmemory,57.209
+MNIST_P53_N41,unsat,413.6346
+MNIST_P93_N18,NnenumError(Return code: 1),12.314
+MNIST_P26_N5,NnenumError(Return code: 1),12.4308
+MNIST_P18_N15,NnenumError(Return code: 1),12.4504
+MNIST_P47_N3,NnenumError(Return code: 1),11.626
+MNIST_P31_N41,unsat,336.0167
+MNIST_P78_N37,unsat,116.8773
+MNIST_P68_N23,unsat,88.5223
+MNIST_P45_N20,NnenumError(Return code: 1),6.991
+MNIST_P35_N13,outofmemory,67.714
+MNIST_P87_N34,outofmemory,65.797
+MNIST_P75_N23,unsat,87.8846
+MNIST_P80_N2,outofmemory,183.504
+MNIST_P99_N38,outofmemory,83.885
+MNIST_P59_N11,outofmemory,80.445
+MNIST_P24_N5,NnenumError(Return code: 1),10.5222
+MNIST_P90_N24,outofmemory,76.898
+MNIST_P79_N27,NnenumError(Return code: 1),10.2516
+MNIST_P23_N33,NnenumError(Return code: 1),10.8648
+MNIST_P52_N29,unsat,85.9127
+MNIST_P37_N29,unsat,87.3931
+MNIST_P68_N29,unsat,86.1965
+MNIST_P24_N23,unsat,86.1943
+MNIST_P88_N49,NnenumError(Return code: 1),8.3895
+MNIST_P88_N34,outofmemory,63.758
+MNIST_P3_N40,unsat,84.5405
+MNIST_P80_N49,NnenumError(Return code: 1),8.0968
+MNIST_P19_N4,NnenumError(Return code: 1),8.1539
+MNIST_P37_N7,outofmemory,72.051
+MNIST_P61_N27,NnenumError(Return code: 1),9.5473
+MNIST_P42_N42,unsat,79.872
+MNIST_P72_N47,outofmemory,83.712
+MNIST_P80_N22,NnenumError(Return code: 1),9.4599
+MNIST_P78_N14,NnenumError(Return code: 1),10.9604
+MNIST_P39_N34,outofmemory,74.489
+MNIST_P60_N1,unsat,81.8617
+MNIST_P37_N33,NnenumError(Return code: 1),11.0689
+MNIST_P77_N36,outofmemory,116.643
+MNIST_P19_N17,NnenumError(Return code: 1),11.994
+MNIST_P58_N38,outofmemory,71.313
+MNIST_P68_N4,NnenumError(Return code: 1),11.66
+MNIST_P91_N49,NnenumError(Return code: 1),7.8875
+MNIST_P63_N44,outofmemory,75.297
+MNIST_P58_N22,NnenumError(Return code: 1),7.97
+MNIST_P53_N25,outofmemory,107.295
+MNIST_P99_N7,outofmemory,72.001
+MNIST_P96_N46,unsat,110.8394
+MNIST_P16_N20,NnenumError(Return code: 1),6.5861
+MNIST_P87_N2,unsat,147.8066
+MNIST_P35_N22,NnenumError(Return code: 1),8.4235
+MNIST_P65_N22,NnenumError(Return code: 1),8.4082
+MNIST_P1_N33,NnenumError(Return code: 1),8.7982
+MNIST_P20_N20,NnenumError(Return code: 1),7.9104
+MNIST_P1_N36,unsat,152.4283
+MNIST_P40_N4,NnenumError(Return code: 1),12.1245
+MNIST_P57_N45,outofmemory,65.019
+MNIST_P99_N34,outofmemory,64.492
+MNIST_P5_N4,NnenumError(Return code: 1),12.3404
+MNIST_P2_N11,outofmemory,62.673
+MNIST_P34_N20,NnenumError(Return code: 1),8.1022
+MNIST_P83_N41,unsat,251.8898
+MNIST_P18_N7,outofmemory,79.54
+MNIST_P59_N34,outofmemory,73.021
+MNIST_P97_N21,NnenumError(Return code: 1),9.1396
+MNIST_P74_N35,outofmemory,78.511
+MNIST_P54_N34,outofmemory,72.688
+MNIST_P45_N26,NnenumError(Return code: 1),8.1528
+MNIST_P81_N16,NnenumError(Return code: 1),8.5615
+MNIST_P6_N12,NnenumError(Return code: 1),8.1165
+MNIST_P16_N40,unsat,77.2314
+MNIST_P89_N20,NnenumError(Return code: 1),9.173
+MNIST_P57_N29,unsat,75.8017
+MNIST_P83_N48,NnenumError(Return code: 1),11.8086
+MNIST_P56_N8,NnenumTranslatorError(Unknown shape for variable x_0),0.0787
+MNIST_P59_N12,NnenumError(Return code: 1),10.8642
+MNIST_P26_N35,outofmemory,70.865
+MNIST_P45_N16,NnenumError(Return code: 1),10.6701
+MNIST_P42_N36,outofmemory,99.883
+MNIST_P70_N12,NnenumError(Return code: 1),6.9641
+MNIST_P84_N48,NnenumError(Return code: 1),6.9042
+MNIST_P50_N10,outofmemory,68.34
+MNIST_P75_N21,NnenumError(Return code: 1),7.1248
+MNIST_P84_N10,outofmemory,67.388
+MNIST_P58_N16,NnenumError(Return code: 1),6.7966
+MNIST_P27_N49,NnenumError(Return code: 1),8.9041
+MNIST_P41_N24,outofmemory,60.131
+MNIST_P87_N14,NnenumError(Return code: 1),8.6558
+MNIST_P49_N45,outofmemory,88.51
+MNIST_P17_N5,NnenumError(Return code: 1),5.8908
+MNIST_P46_N42,unsat,51.9197
+MNIST_P26_N31,unsat,71.4807
+MNIST_P39_N10,outofmemory,43.316
+MNIST_P72_N33,NnenumError(Return code: 1),5.677
+MNIST_P76_N38,outofmemory,49.171
+MNIST_P38_N22,NnenumError(Return code: 1),5.6622
+MNIST_P59_N44,outofmemory,47.018
+MNIST_P33_N49,NnenumError(Return code: 1),6.5388
+MNIST_P90_N35,outofmemory,40.083
+MNIST_P23_N22,NnenumError(Return code: 1),6.3583
+MNIST_P72_N29,unsat,47.6784
+MNIST_P75_N31,unsat,60.9193
+MNIST_P87_N10,outofmemory,38.824
+MNIST_P55_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.1016
+MNIST_P11_N33,NnenumError(Return code: 1),4.8997
+MNIST_P61_N16,NnenumError(Return code: 1),5.2198
+MNIST_P88_N44,outofmemory,33.842
+MNIST_P3_N14,NnenumError(Return code: 1),3.1012
+MNIST_P59_N1,unsat,25.7425
+MNIST_P58_N4,NnenumError(Return code: 1),2.5609
+MNIST_P58_N7,outofmemory,29.112
+MNIST_P33_N5,NnenumError(Return code: 1),2.1939
+MNIST_P55_N9,unsat,26.4745
+MNIST_P29_N8,NnenumTranslatorError(Invalid property: Comparing expressions with different shapes is not supported),0.093
+MNIST_P48_N33,NnenumError(Return code: 1),2.3998
+MNIST_P85_N20,NnenumError(Return code: 1),2.0766
+MNIST_P17_N22,NnenumError(Return code: 1),2.2426
+MNIST_P70_N21,NnenumError(Return code: 1),2.256
+MNIST_P46_N5,NnenumError(Return code: 1),2.2478
+MNIST_P80_N16,NnenumError(Return code: 1),2.0142
+MNIST_P24_N46,unsat,28.0306
+MNIST_P34_N1,unsat,21.8222
+MNIST_P45_N21,NnenumError(Return code: 1),2.2317
+MNIST_P20_N14,NnenumError(Return code: 1),2.1903
+MNIST_P96_N34,outofmemory,20.924
+MNIST_P19_N10,outofmemory,21.682
+MNIST_P98_N38,outofmemory,23.668
+MNIST_P35_N38,outofmemory,50.123
+MNIST_P36_N29,unsat,83.3815
+MNIST_P79_N34,outofmemory,47.238
+MNIST_P28_N41,unsat,372.0586
+MNIST_P59_N23,unsat,81.5303
+MNIST_P91_N48,NnenumError(Return code: 1),14.874
+MNIST_P11_N12,NnenumError(Return code: 1),15.0683
+MNIST_P51_N17,NnenumError(Return code: 1),14.6443
+MNIST_P16_N14,NnenumError(Return code: 1),13.9652
+MNIST_P2_N4,NnenumError(Return code: 1),13.844
+MNIST_P7_N45,outofmemory,47.206
+MNIST_P26_N17,NnenumError(Return code: 1),14.3404
+MNIST_P72_N23,unsat,83.9324
+MNIST_P22_N27,NnenumError(Return code: 1),15.3072
+MNIST_P29_N26,NnenumError(Return code: 1),14.091
+MNIST_P47_N2,unsat,144.2732
+MNIST_P38_N33,NnenumError(Return code: 1),15.1586
+MNIST_P46_N19,NnenumError(Return code: 1),15.1123
+MNIST_P45_N13,outofmemory,47.723
+MNIST_P96_N45,outofmemory,46.718
+MNIST_P38_N23,unsat,83.0852
+MNIST_P80_N9,unsat,102.1069
+MNIST_P56_N31,unsat,119.9295
+MNIST_P29_N34,outofmemory,47.27
+MNIST_P65_N36,outofmemory,113.035
+MNIST_P31_N15,NnenumError(Return code: 1),10.8245
+MNIST_P79_N36,outofmemory,100.524
+MNIST_P81_N33,NnenumError(Return code: 1),13.5557
+MNIST_P39_N9,unsat,106.9263
+MNIST_P74_N49,NnenumError(Return code: 1),13.2209
+MNIST_P79_N49,NnenumError(Return code: 1),13.4323
+MNIST_P29_N9,unsat,99.3167
+MNIST_P85_N1,unsat,79.312
+MNIST_P60_N22,NnenumError(Return code: 1),13.8809
+MNIST_P47_N26,NnenumError(Return code: 1),12.6162
+MNIST_P47_N22,NnenumError(Return code: 1),9.9022
+MNIST_P19_N27,NnenumError(Return code: 1),11.7828
+MNIST_P89_N39,outofmemory,77.332
+MNIST_P15_N17,NnenumError(Return code: 1),11.4105
+MNIST_P79_N41,unsat,498.2094
+MNIST_P88_N27,NnenumError(Return code: 1),6.8983
+MNIST_P12_N36,outofmemory,95.602
+MNIST_P30_N13,outofmemory,57.538
+MNIST_P54_N7,outofmemory,72.271
+MNIST_P35_N7,outofmemory,71.326
+MNIST_P25_N13,unsat,85.8532
+MNIST_P32_N37,unsat,104.3905
+MNIST_P66_N1,unsat,84.2043
+MNIST_P63_N27,NnenumError(Return code: 1),9.8369
+MNIST_P41_N21,NnenumError(Return code: 1),9.1726
+MNIST_P30_N46,unsat,106.9275
+MNIST_P33_N23,outofmemory,108.034
+MNIST_P61_N19,NnenumError(Return code: 1),11.2472
+MNIST_P96_N27,NnenumError(Return code: 1),10.3977
+MNIST_P39_N7,outofmemory,62.461
+MNIST_P78_N48,NnenumError(Return code: 1),10.1942
+MNIST_P68_N15,NnenumError(Return code: 1),9.3077
+MNIST_P60_N15,NnenumError(Return code: 1),7.7122
+MNIST_P29_N21,NnenumError(Return code: 1),7.851
+MNIST_P99_N21,NnenumError(Return code: 1),8.0255
+MNIST_P24_N39,outofmemory,67.542
+MNIST_P57_N48,NnenumError(Return code: 1),9.8327
+MNIST_P69_N3,NnenumError(Return code: 1),9.1125
+MNIST_P41_N23,unsat,84.15
+MNIST_P65_N17,NnenumError(Return code: 1),10.0884
+MNIST_P70_N19,NnenumError(Return code: 1),9.9997
+MNIST_P95_N19,NnenumError(Return code: 1),9.9152
+MNIST_P31_N17,NnenumError(Return code: 1),9.1987
+MNIST_P70_N26,NnenumError(Return code: 1),8.9674
+MNIST_P30_N35,outofmemory,66.96
+MNIST_P69_N49,NnenumError(Return code: 1),9.0717
+MNIST_P96_N35,outofmemory,59.133
+MNIST_P11_N20,NnenumError(Return code: 1),8.2372
+MNIST_P58_N17,NnenumError(Return code: 1),9.1796
+MNIST_P78_N34,outofmemory,57.743
+MNIST_P11_N48,NnenumError(Return code: 1),9.5934
+MNIST_P45_N35,outofmemory,60.444
+MNIST_P49_N49,NnenumError(Return code: 1),11.2164
+MNIST_P58_N20,NnenumError(Return code: 1),9.7702
+MNIST_P42_N16,NnenumError(Return code: 1),10.3584
+MNIST_P63_N42,unsat,78.4211
+MNIST_P61_N11,outofmemory,59.774
+MNIST_P73_N1,outofmemory,60.98
+MNIST_P19_N26,NnenumError(Return code: 1),7.1884
+MNIST_P79_N18,NnenumError(Return code: 1),7.5222
+MNIST_P67_N38,outofmemory,60.443
+MNIST_P29_N14,NnenumError(Return code: 1),7.9527
+MNIST_P58_N42,unsat,84.1235
+MNIST_P25_N24,outofmemory,100.851
+MNIST_P20_N19,NnenumError(Return code: 1),9.6054
+MNIST_P4_N18,NnenumError(Return code: 1),10.1351
+MNIST_P70_N11,outofmemory,62.171
+MNIST_P51_N42,unsat,82.5257
+MNIST_P75_N4,NnenumError(Return code: 1),7.9252
+MNIST_P59_N41,unsat,352.7563
+MNIST_P49_N47,outofmemory,72.938
+MNIST_P29_N39,outofmemory,62.089
+MNIST_P69_N5,NnenumError(Return code: 1),9.3131
+MNIST_P93_N17,NnenumError(Return code: 1),8.8999
+MNIST_P79_N16,NnenumError(Return code: 1),8.7026
+MNIST_P97_N15,NnenumError(Return code: 1),10.2614
+MNIST_P58_N40,unsat,85.1795
+MNIST_P4_N26,NnenumError(Return code: 1),9.6527
+MNIST_P74_N29,unsat,85.4129
+MNIST_P63_N10,outofmemory,69.12
+MNIST_P55_N15,NnenumError(Return code: 1),9.558
+MNIST_P27_N45,outofmemory,65.434
+MNIST_P68_N12,NnenumError(Return code: 1),9.0188
+MNIST_P18_N26,NnenumError(Return code: 1),7.415
+MNIST_P73_N29,unsat,88.2777
+MNIST_P94_N5,NnenumError(Return code: 1),9.5057
+MNIST_P15_N38,outofmemory,68.443
+MNIST_P83_N20,NnenumError(Return code: 1),9.3062
+MNIST_P74_N41,unsat,289.3833
+MNIST_P93_N9,unsat,110.5344
+MNIST_P98_N39,outofmemory,64.002
+MNIST_P38_N2,unsat,180.4101
+MNIST_P71_N14,NnenumError(Return code: 1),10.2949
+MNIST_P25_N38,outofmemory,68.045
+MNIST_P85_N47,outofmemory,73.166
+MNIST_P98_N25,outofmemory,163.425
+MNIST_P72_N34,outofmemory,71.498
+MNIST_P82_N34,outofmemory,73.119
+MNIST_P73_N46,unsat,120.6195
+MNIST_P84_N1,unsat,78.9134
+MNIST_P22_N5,NnenumError(Return code: 1),8.0326
+MNIST_P36_N2,unsat,168.1449
+MNIST_P49_N37,unsat,110.4612
+MNIST_P97_N31,unsat,141.176
+MNIST_P94_N15,NnenumError(Return code: 1),9.4916
+MNIST_P66_N44,outofmemory,70.593
+MNIST_P43_N38,outofmemory,82.187
+MNIST_P18_N46,unsat,109.3164
+MNIST_P86_N44,outofmemory,81.68
+MNIST_P35_N34,outofmemory,81.305
+MNIST_P21_N42,unsat,76.5839
+MNIST_P64_N25,outofmemory,128.743
+MNIST_P45_N25,outofmemory,147.893
+MNIST_P81_N11,outofmemory,84.547
+MNIST_P7_N7,outofmemory,89.7
+MNIST_P13_N47,outofmemory,101.093
+MNIST_P76_N47,outofmemory,91.816
+MNIST_P1_N1,unsat,58.0012
+MNIST_P79_N44,outofmemory,68.801
+MNIST_P90_N11,outofmemory,70.786
+MNIST_P74_N24,outofmemory,68.207
+MNIST_P4_N11,outofmemory,62.746
+MNIST_P76_N46,unsat,36.406
+MNIST_P47_N48,NnenumError(Return code: 1),4.6731
+MNIST_P83_N44,outofmemory,46.043
+MNIST_P32_N7,outofmemory,44.563
+MNIST_P79_N17,NnenumError(Return code: 1),7.3357
+MNIST_P18_N1,unsat,32.6418
+MNIST_P60_N48,NnenumError(Return code: 1),8.4595
+MNIST_P21_N36,outofmemory,59.294
+MNIST_P24_N18,NnenumError(Return code: 1),8.3831
+MNIST_P32_N14,NnenumError(Return code: 1),7.7909
+MNIST_P98_N7,outofmemory,43.357
+MNIST_P68_N38,outofmemory,42.519
+MNIST_P50_N2,unsat,51.6526
+MNIST_P16_N46,unsat,39.7612
+MNIST_P71_N38,outofmemory,43.263
+MNIST_P69_N16,NnenumError(Return code: 1),6.8095
+MNIST_P62_N37,unsat,39.5291
+MNIST_P13_N29,unsat,33.9098
+MNIST_P82_N9,unsat,25.5603
+MNIST_P74_N21,NnenumError(Return code: 1),2.6568
+MNIST_P63_N8,VerificationRunnerError(IndexError),
+MNIST_P44_N8,VerificationRunnerError(IndexError),
+MNIST_P87_N8,VerificationRunnerError(IndexError),
+MNIST_P18_N8,VerificationRunnerError(IndexError),
+MNIST_P90_N8,VerificationRunnerError(IndexError),
+MNIST_P32_N8,VerificationRunnerError(IndexError),
+MNIST_P51_N8,VerificationRunnerError(IndexError),
+MNIST_P93_N8,VerificationRunnerError(IndexError),
+MNIST_P30_N8,VerificationRunnerError(IndexError),
+MNIST_P76_N8,VerificationRunnerError(IndexError),
+MNIST_P68_N8,VerificationRunnerError(IndexError),

@@ -1,0 +1,4201 @@
+ProblemId,Result,TotalTime
+CIFAR_P9_N14,MarabouError(Return code: 1),5.8989
+CIFAR_P23_N5,outofmemory,158.096
+CIFAR_P16_N16,MarabouError(Return code: 1),5.6139
+CIFAR_P25_N47,MarabouError(Return code: 1),4.5231
+CIFAR_P51_N25,outofmemory,153.214
+CIFAR_P62_N4,timeout,3600.005
+CIFAR_P87_N17,timeout,3600.006
+CIFAR_P67_N7,MarabouError(Return code: 1),4.531
+CIFAR_P55_N33,MarabouError(Return code: 1),6.0523
+CIFAR_P33_N4,timeout,3600.021
+CIFAR_P42_N37,MarabouError(Return code: 1),5.9058
+CIFAR_P35_N21,MarabouError(Return code: 1),4.6239
+CIFAR_P59_N7,MarabouError(Return code: 1),6.5409
+CIFAR_P34_N21,MarabouError(Return code: 1),4.5157
+CIFAR_P42_N38,MarabouError(Return code: 1),5.9793
+CIFAR_P75_N6,MarabouError(Return code: 1),4.704
+CIFAR_P57_N26,MarabouError(Return code: 1),6.5383
+CIFAR_P43_N7,MarabouError(Return code: 1),6.088
+CIFAR_P9_N44,MarabouError(Return code: 1),5.2386
+CIFAR_P72_N15,outofmemory,104.154
+CIFAR_P73_N3,outofmemory,53.668
+CIFAR_P79_N33,MarabouError(Return code: 1),6.4756
+CIFAR_P56_N7,MarabouError(Return code: 1),4.8734
+CIFAR_P33_N27,MarabouError(Return code: 1),6.4887
+CIFAR_P32_N18,unsat,90.0665
+CIFAR_P97_N26,MarabouError(Return code: 1),4.2166
+CIFAR_P5_N42,timeout,3600.008
+CIFAR_P27_N43,MarabouError(Return code: 1),3.9623
+CIFAR_P30_N22,MarabouError(Return code: 1),3.9522
+CIFAR_P85_N18,unsat,86.7625
+CIFAR_P14_N26,MarabouError(Return code: 1),4.1917
+CIFAR_P90_N29,timeout,3600.018
+CIFAR_P89_N43,MarabouError(Return code: 1),4.1337
+CIFAR_P35_N45,MarabouError(Return code: 1),3.2484
+CIFAR_P56_N26,MarabouError(Return code: 1),4.1558
+CIFAR_P77_N29,timeout,3600.012
+CIFAR_P53_N17,timeout,3600.004
+CIFAR_P55_N31,MarabouError(Return code: 1),4.2863
+CIFAR_P58_N30,MarabouError(Return code: 1),3.8545
+CIFAR_P14_N15,outofmemory,112.456
+CIFAR_P18_N47,MarabouError(Return code: 1),3.1803
+CIFAR_P50_N20,MarabouError(Return code: 1),2.7072
+CIFAR_P57_N13,unsat,126.5188
+CIFAR_P73_N5,outofmemory,142.564
+CIFAR_P14_N22,MarabouError(Return code: 1),2.5358
+CIFAR_P73_N29,timeout,3600.019
+CIFAR_P42_N23,MarabouError(Return code: 1),3.043
+CIFAR_P45_N34,unsat,81.9411
+CIFAR_P49_N19,MarabouError(Return code: 1),2.7222
+CIFAR_P24_N17,timeout,3600.02
+CIFAR_P64_N44,MarabouError(Return code: 1),2.987
+CIFAR_P70_N15,outofmemory,100.996
+CIFAR_P75_N31,MarabouError(Return code: 1),2.5758
+CIFAR_P24_N46,MarabouError(Return code: 1),2.0122
+CIFAR_P80_N25,outofmemory,135.796
+CIFAR_P38_N30,MarabouError(Return code: 1),2.5697
+CIFAR_P84_N13,unsat,125.1565
+CIFAR_P11_N8,timeout,3600.007
+CIFAR_P49_N13,unsat,121.6987
+CIFAR_P90_N20,MarabouError(Return code: 1),2.3865
+CIFAR_P99_N41,MarabouError(Return code: 1),2.4233
+CIFAR_P45_N1,MarabouError(Return code: 1),2.2231
+CIFAR_P86_N13,unsat,117.7459
+CIFAR_P30_N4,timeout,3600.008
+CIFAR_P72_N3,outofmemory,42.282
+CIFAR_P74_N30,MarabouError(Return code: 1),2.073
+CIFAR_P21_N19,MarabouError(Return code: 1),2.2978
+CIFAR_P92_N34,unsat,74.6818
+CIFAR_P6_N4,timeout,3600.015
+CIFAR_P48_N6,MarabouError(Return code: 1),2.1334
+CIFAR_P79_N13,unsat,112.8249
+CIFAR_P42_N13,unsat,113.8749
+CIFAR_P4_N1,MarabouError(Return code: 1),2.4599
+CIFAR_P18_N20,MarabouError(Return code: 1),2.2953
+CIFAR_P86_N42,timeout,3600.016
+CIFAR_P13_N3,outofmemory,40.711
+CIFAR_P1_N22,MarabouError(Return code: 1),2.1363
+CIFAR_P8_N3,outofmemory,37.734
+CIFAR_P11_N19,MarabouError(Return code: 1),2.2778
+CIFAR_P32_N45,MarabouError(Return code: 1),2.1807
+CIFAR_P97_N19,MarabouError(Return code: 1),1.5146
+CIFAR_P72_N14,MarabouError(Return code: 1),1.4637
+CIFAR_P36_N21,MarabouError(Return code: 1),1.8615
+CIFAR_P61_N34,unsat,68.055
+CIFAR_P96_N15,outofmemory,78.705
+CIFAR_P44_N43,MarabouError(Return code: 1),1.7166
+CIFAR_P50_N8,timeout,3600.019
+CIFAR_P74_N4,timeout,3600.001
+CIFAR_P5_N37,MarabouError(Return code: 1),1.6257
+CIFAR_P20_N35,MarabouError(Return code: 1),1.6423
+CIFAR_P51_N6,MarabouError(Return code: 1),1.6214
+CIFAR_P5_N8,timeout,3600.025
+CIFAR_P87_N25,outofmemory,114.598
+CIFAR_P83_N33,MarabouError(Return code: 1),1.5621
+CIFAR_P97_N21,MarabouError(Return code: 1),1.4558
+CIFAR_P50_N15,outofmemory,74.046
+CIFAR_P96_N8,timeout,3600.019
+CIFAR_P35_N2,outofmemory,75.198
+CIFAR_P72_N37,MarabouError(Return code: 1),1.4543
+CIFAR_P29_N35,MarabouError(Return code: 1),1.2889
+CIFAR_P76_N34,unsat,64.463
+CIFAR_P19_N8,timeout,3600.017
+CIFAR_P41_N38,MarabouError(Return code: 1),1.5189
+CIFAR_P95_N26,MarabouError(Return code: 1),1.3812
+CIFAR_P67_N37,MarabouError(Return code: 1),1.2422
+CIFAR_P66_N23,MarabouError(Return code: 1),1.4282
+CIFAR_P87_N28,MarabouError(Return code: 1),1.3265
+CIFAR_P15_N21,MarabouError(Return code: 1),1.3945
+CIFAR_P23_N47,MarabouError(Return code: 1),1.2333
+CIFAR_P89_N13,unsat,101.8642
+CIFAR_P14_N2,outofmemory,73.389
+CIFAR_P84_N38,MarabouError(Return code: 1),1.3578
+CIFAR_P92_N27,MarabouError(Return code: 1),1.1718
+CIFAR_P21_N26,MarabouError(Return code: 1),1.4365
+CIFAR_P98_N7,MarabouError(Return code: 1),1.2716
+CIFAR_P78_N15,outofmemory,74.406
+CIFAR_P74_N15,outofmemory,73.268
+CIFAR_P20_N28,MarabouError(Return code: 1),1.2924
+CIFAR_P48_N33,MarabouError(Return code: 1),1.2816
+CIFAR_P58_N26,MarabouError(Return code: 1),1.2952
+CIFAR_P59_N20,MarabouError(Return code: 1),1.4504
+CIFAR_P69_N13,unsat,102.2189
+CIFAR_P93_N19,MarabouError(Return code: 1),1.3457
+CIFAR_P6_N33,MarabouError(Return code: 1),1.3025
+CIFAR_P97_N12,MarabouError(Return code: 1),1.2259
+CIFAR_P61_N46,MarabouError(Return code: 1),1.3063
+CIFAR_P41_N42,timeout,3600.02
+CIFAR_P89_N12,MarabouError(Return code: 1),1.2827
+CIFAR_P0_N19,MarabouError(Return code: 1),1.1902
+CIFAR_P12_N8,timeout,3600.012
+CIFAR_P40_N38,MarabouError(Return code: 1),1.2641
+CIFAR_P41_N14,MarabouError(Return code: 1),1.295
+CIFAR_P71_N21,MarabouError(Return code: 1),1.3425
+CIFAR_P79_N30,MarabouError(Return code: 1),1.3278
+CIFAR_P47_N27,MarabouError(Return code: 1),1.3686
+CIFAR_P67_N20,MarabouError(Return code: 1),1.3307
+CIFAR_P75_N3,outofmemory,30.718
+CIFAR_P9_N15,outofmemory,71.912
+CIFAR_P23_N24,MarabouError(Return code: 1),1.3008
+CIFAR_P2_N31,MarabouError(Return code: 1),1.3295
+CIFAR_P17_N33,MarabouError(Return code: 1),1.2854
+CIFAR_P22_N42,timeout,3600.002
+CIFAR_P96_N25,outofmemory,109.791
+CIFAR_P2_N25,outofmemory,104.646
+CIFAR_P97_N35,MarabouError(Return code: 1),1.1824
+CIFAR_P84_N22,MarabouError(Return code: 1),1.2049
+CIFAR_P3_N26,MarabouError(Return code: 1),1.2762
+CIFAR_P25_N18,unsat,65.3305
+CIFAR_P59_N19,MarabouError(Return code: 1),1.1864
+CIFAR_P46_N34,unsat,64.2673
+CIFAR_P68_N7,MarabouError(Return code: 1),1.4978
+CIFAR_P52_N42,timeout,3600.016
+CIFAR_P67_N24,MarabouError(Return code: 1),1.3968
+CIFAR_P89_N45,MarabouError(Return code: 1),1.44
+CIFAR_P17_N24,MarabouError(Return code: 1),1.4304
+CIFAR_P3_N7,MarabouError(Return code: 1),1.3046
+CIFAR_P20_N47,MarabouError(Return code: 1),1.2131
+CIFAR_P67_N15,outofmemory,72.277
+CIFAR_P68_N1,MarabouError(Return code: 1),1.2698
+CIFAR_P69_N24,MarabouError(Return code: 1),1.303
+CIFAR_P81_N47,MarabouError(Return code: 1),1.1084
+CIFAR_P82_N15,outofmemory,75.355
+CIFAR_P40_N29,timeout,3600.016
+CIFAR_P43_N22,MarabouError(Return code: 1),1.2668
+CIFAR_P57_N19,MarabouError(Return code: 1),1.3607
+CIFAR_P68_N4,timeout,3600.007
+CIFAR_P85_N13,unsat,104.2611
+CIFAR_P86_N25,outofmemory,115.082
+CIFAR_P94_N24,MarabouError(Return code: 1),1.3391
+CIFAR_P85_N34,unsat,65.9889
+CIFAR_P25_N8,timeout,3600.009
+CIFAR_P13_N6,MarabouError(Return code: 1),1.5735
+CIFAR_P88_N15,outofmemory,75.918
+CIFAR_P50_N18,unsat,66.6714
+CIFAR_P35_N7,MarabouError(Return code: 1),1.4638
+CIFAR_P52_N7,MarabouError(Return code: 1),1.2942
+CIFAR_P63_N5,outofmemory,112.087
+CIFAR_P39_N20,MarabouError(Return code: 1),1.4307
+CIFAR_P21_N34,unsat,66.1729
+CIFAR_P4_N24,MarabouError(Return code: 1),1.3914
+CIFAR_P42_N17,timeout,3600.02
+CIFAR_P47_N44,MarabouError(Return code: 1),1.3669
+CIFAR_P50_N2,outofmemory,74.53
+CIFAR_P33_N30,MarabouError(Return code: 1),1.3239
+CIFAR_P36_N22,MarabouError(Return code: 1),1.2236
+CIFAR_P39_N16,MarabouError(Return code: 1),1.2583
+CIFAR_P60_N43,MarabouError(Return code: 1),1.3658
+CIFAR_P66_N4,timeout,3600.003
+CIFAR_P77_N2,outofmemory,76.822
+CIFAR_P3_N47,MarabouError(Return code: 1),1.2588
+CIFAR_P9_N20,MarabouError(Return code: 1),1.2597
+CIFAR_P97_N30,MarabouError(Return code: 1),1.3878
+CIFAR_P70_N31,MarabouError(Return code: 1),1.4665
+CIFAR_P73_N26,MarabouError(Return code: 1),1.3629
+CIFAR_P98_N18,unsat,66.5271
+CIFAR_P58_N45,MarabouError(Return code: 1),1.4684
+CIFAR_P21_N24,MarabouError(Return code: 1),1.3885
+CIFAR_P29_N9,MarabouError(Return code: 1),1.8849
+CIFAR_P1_N17,timeout,3600.002
+CIFAR_P87_N3,outofmemory,31.28
+CIFAR_P39_N5,outofmemory,110.885
+CIFAR_P97_N32,unsat,105.6243
+CIFAR_P19_N3,outofmemory,31.104
+CIFAR_P48_N38,MarabouError(Return code: 1),1.4593
+CIFAR_P85_N24,MarabouError(Return code: 1),1.268
+CIFAR_P66_N22,MarabouError(Return code: 1),1.1884
+CIFAR_P78_N9,MarabouError(Return code: 1),1.9911
+CIFAR_P6_N25,outofmemory,112.15
+CIFAR_P66_N17,timeout,3600.006
+CIFAR_P21_N32,unsat,104.3151
+CIFAR_P12_N26,MarabouError(Return code: 1),1.5152
+CIFAR_P87_N23,MarabouError(Return code: 1),1.4342
+CIFAR_P27_N13,unsat,105.6257
+CIFAR_P28_N21,MarabouError(Return code: 1),1.3972
+CIFAR_P49_N4,timeout,3600.003
+CIFAR_P18_N6,MarabouError(Return code: 1),1.4571
+CIFAR_P52_N35,MarabouError(Return code: 1),1.2136
+CIFAR_P68_N34,unsat,66.9492
+CIFAR_P26_N2,outofmemory,76.561
+CIFAR_P75_N14,MarabouError(Return code: 1),1.3912
+CIFAR_P98_N5,outofmemory,128.092
+CIFAR_P56_N25,outofmemory,120.449
+CIFAR_P43_N25,outofmemory,120.324
+CIFAR_P36_N26,MarabouError(Return code: 1),1.5393
+CIFAR_P55_N16,MarabouError(Return code: 1),1.4414
+CIFAR_P88_N7,MarabouError(Return code: 1),1.4346
+CIFAR_P1_N24,MarabouError(Return code: 1),1.6222
+CIFAR_P3_N22,MarabouError(Return code: 1),1.7819
+CIFAR_P13_N26,MarabouError(Return code: 1),1.4367
+CIFAR_P63_N9,MarabouError(Return code: 1),2.3933
+CIFAR_P73_N30,MarabouError(Return code: 1),1.912
+CIFAR_P45_N46,MarabouError(Return code: 1),1.6341
+CIFAR_P0_N27,MarabouError(Return code: 1),1.379
+CIFAR_P73_N42,timeout,3600.009
+CIFAR_P0_N21,MarabouError(Return code: 1),1.8278
+CIFAR_P4_N45,MarabouError(Return code: 1),1.3264
+CIFAR_P11_N22,MarabouError(Return code: 1),1.5687
+CIFAR_P0_N23,MarabouError(Return code: 1),1.6188
+CIFAR_P50_N38,MarabouError(Return code: 1),1.7326
+CIFAR_P13_N35,MarabouError(Return code: 1),1.4296
+CIFAR_P43_N18,unsat,67.9693
+CIFAR_P25_N29,timeout,3600.02
+CIFAR_P77_N9,MarabouError(Return code: 1),2.1873
+CIFAR_P33_N22,MarabouError(Return code: 1),1.5942
+CIFAR_P36_N15,outofmemory,76.079
+CIFAR_P89_N38,MarabouError(Return code: 1),1.673
+CIFAR_P91_N22,MarabouError(Return code: 1),1.5706
+CIFAR_P36_N5,outofmemory,140.441
+CIFAR_P16_N9,MarabouError(Return code: 1),1.981
+CIFAR_P48_N2,outofmemory,73.975
+CIFAR_P54_N14,MarabouError(Return code: 1),1.5675
+CIFAR_P69_N44,MarabouError(Return code: 1),1.7671
+CIFAR_P9_N4,timeout,3600.012
+CIFAR_P29_N2,outofmemory,75.967
+CIFAR_P34_N47,MarabouError(Return code: 1),1.7947
+CIFAR_P56_N6,MarabouError(Return code: 1),1.4905
+CIFAR_P10_N18,unsat,67.1501
+CIFAR_P6_N31,MarabouError(Return code: 1),1.3131
+CIFAR_P55_N34,unsat,67.8221
+CIFAR_P32_N16,MarabouError(Return code: 1),1.2755
+CIFAR_P27_N7,MarabouError(Return code: 1),1.3653
+CIFAR_P52_N44,MarabouError(Return code: 1),1.5859
+CIFAR_P67_N29,timeout,3600.004
+CIFAR_P89_N21,MarabouError(Return code: 1),1.5779
+CIFAR_P70_N25,outofmemory,113.936
+CIFAR_P24_N41,MarabouError(Return code: 1),1.6278
+CIFAR_P80_N22,MarabouError(Return code: 1),1.2926
+CIFAR_P53_N34,unsat,67.7509
+CIFAR_P89_N24,MarabouError(Return code: 1),1.611
+CIFAR_P24_N42,timeout,3600.022
+CIFAR_P25_N42,timeout,3600.009
+CIFAR_P10_N29,timeout,3600.004
+CIFAR_P77_N7,MarabouError(Return code: 1),1.3224
+CIFAR_P77_N41,MarabouError(Return code: 1),1.2569
+CIFAR_P81_N26,MarabouError(Return code: 1),1.3462
+CIFAR_P34_N15,outofmemory,75.271
+CIFAR_P2_N30,MarabouError(Return code: 1),1.4329
+CIFAR_P13_N19,MarabouError(Return code: 1),1.2672
+CIFAR_P67_N38,MarabouError(Return code: 1),1.4233
+CIFAR_P7_N28,MarabouError(Return code: 1),1.3639
+CIFAR_P19_N24,MarabouError(Return code: 1),1.4746
+CIFAR_P32_N20,MarabouError(Return code: 1),1.2425
+CIFAR_P32_N24,MarabouError(Return code: 1),1.4819
+CIFAR_P55_N14,MarabouError(Return code: 1),1.5182
+CIFAR_P40_N25,outofmemory,126.263
+CIFAR_P74_N47,MarabouError(Return code: 1),1.1489
+CIFAR_P99_N19,MarabouError(Return code: 1),1.3396
+CIFAR_P55_N13,unsat,103.4842
+CIFAR_P90_N41,MarabouError(Return code: 1),1.378
+CIFAR_P72_N33,MarabouError(Return code: 1),1.2737
+CIFAR_P34_N33,MarabouError(Return code: 1),1.3387
+CIFAR_P13_N12,MarabouError(Return code: 1),1.3032
+CIFAR_P38_N4,timeout,3600.013
+CIFAR_P62_N14,MarabouError(Return code: 1),1.3446
+CIFAR_P64_N23,MarabouError(Return code: 1),1.3018
+CIFAR_P88_N18,unsat,67.4888
+CIFAR_P17_N16,MarabouError(Return code: 1),1.2218
+CIFAR_P36_N31,MarabouError(Return code: 1),1.6287
+CIFAR_P23_N44,MarabouError(Return code: 1),1.2284
+CIFAR_P23_N37,MarabouError(Return code: 1),1.3256
+CIFAR_P88_N46,MarabouError(Return code: 1),1.3589
+CIFAR_P76_N24,MarabouError(Return code: 1),1.492
+CIFAR_P89_N37,MarabouError(Return code: 1),1.2755
+CIFAR_P86_N4,timeout,3600.014
+CIFAR_P90_N21,MarabouError(Return code: 1),1.8117
+CIFAR_P4_N8,timeout,3600.017
+CIFAR_P34_N37,MarabouError(Return code: 1),1.306
+CIFAR_P24_N47,MarabouError(Return code: 1),1.2647
+CIFAR_P1_N14,MarabouError(Return code: 1),1.308
+CIFAR_P72_N45,MarabouError(Return code: 1),1.3217
+CIFAR_P58_N25,outofmemory,125.797
+CIFAR_P3_N35,MarabouError(Return code: 1),1.1306
+CIFAR_P91_N1,MarabouError(Return code: 1),1.3719
+CIFAR_P89_N9,MarabouError(Return code: 1),1.7588
+CIFAR_P41_N2,outofmemory,69.897
+CIFAR_P63_N1,MarabouError(Return code: 1),1.3129
+CIFAR_P41_N16,MarabouError(Return code: 1),1.1921
+CIFAR_P58_N37,MarabouError(Return code: 1),1.3134
+CIFAR_P63_N7,MarabouError(Return code: 1),1.2748
+CIFAR_P70_N33,MarabouError(Return code: 1),1.3602
+CIFAR_P89_N46,MarabouError(Return code: 1),1.2315
+CIFAR_P40_N9,MarabouError(Return code: 1),1.9842
+CIFAR_P60_N42,timeout,3600.017
+CIFAR_P44_N41,MarabouError(Return code: 1),1.2761
+CIFAR_P6_N2,outofmemory,74.914
+CIFAR_P47_N25,outofmemory,109.175
+CIFAR_P39_N28,MarabouError(Return code: 1),1.3054
+CIFAR_P13_N5,outofmemory,104.874
+CIFAR_P70_N13,unsat,100.0248
+CIFAR_P97_N27,MarabouError(Return code: 1),1.1702
+CIFAR_P9_N29,timeout,3600.005
+CIFAR_P28_N27,MarabouError(Return code: 1),1.2103
+CIFAR_P77_N31,MarabouError(Return code: 1),1.2663
+CIFAR_P79_N24,MarabouError(Return code: 1),1.3274
+CIFAR_P64_N45,MarabouError(Return code: 1),1.2934
+CIFAR_P43_N16,MarabouError(Return code: 1),1.1236
+CIFAR_P11_N12,MarabouError(Return code: 1),1.1937
+CIFAR_P66_N35,MarabouError(Return code: 1),1.1646
+CIFAR_P97_N31,MarabouError(Return code: 1),1.4792
+CIFAR_P1_N2,outofmemory,70.627
+CIFAR_P39_N30,MarabouError(Return code: 1),1.3861
+CIFAR_P47_N23,MarabouError(Return code: 1),1.328
+CIFAR_P40_N35,MarabouError(Return code: 1),1.2407
+CIFAR_P99_N2,outofmemory,69.026
+CIFAR_P85_N45,MarabouError(Return code: 1),1.4144
+CIFAR_P33_N43,MarabouError(Return code: 1),1.3057
+CIFAR_P94_N45,MarabouError(Return code: 1),1.3593
+CIFAR_P39_N23,MarabouError(Return code: 1),1.2475
+CIFAR_P66_N46,MarabouError(Return code: 1),1.3922
+CIFAR_P71_N37,MarabouError(Return code: 1),1.3554
+CIFAR_P47_N35,MarabouError(Return code: 1),1.123
+CIFAR_P44_N14,MarabouError(Return code: 1),1.3025
+CIFAR_P16_N20,MarabouError(Return code: 1),1.3222
+CIFAR_P24_N25,outofmemory,115.704
+CIFAR_P76_N32,unsat,101.1005
+CIFAR_P18_N5,outofmemory,104.189
+CIFAR_P68_N15,outofmemory,78.674
+CIFAR_P34_N43,MarabouError(Return code: 1),1.2601
+CIFAR_P11_N24,MarabouError(Return code: 1),1.2762
+CIFAR_P38_N34,unsat,64.1303
+CIFAR_P53_N37,MarabouError(Return code: 1),1.3487
+CIFAR_P60_N24,MarabouError(Return code: 1),1.3351
+CIFAR_P66_N47,MarabouError(Return code: 1),1.2113
+CIFAR_P83_N5,outofmemory,106.788
+CIFAR_P92_N37,MarabouError(Return code: 1),1.2714
+CIFAR_P89_N29,timeout,3600.008
+CIFAR_P98_N14,MarabouError(Return code: 1),1.3584
+CIFAR_P62_N44,MarabouError(Return code: 1),1.4454
+CIFAR_P71_N44,MarabouError(Return code: 1),1.3756
+CIFAR_P8_N27,MarabouError(Return code: 1),1.1927
+CIFAR_P11_N23,MarabouError(Return code: 1),1.2931
+CIFAR_P70_N8,timeout,3600.012
+CIFAR_P50_N32,unsat,98.5615
+CIFAR_P93_N17,timeout,3600.021
+CIFAR_P2_N22,MarabouError(Return code: 1),1.2512
+CIFAR_P97_N24,MarabouError(Return code: 1),1.2244
+CIFAR_P12_N6,MarabouError(Return code: 1),1.2546
+CIFAR_P27_N32,unsat,102.2129
+CIFAR_P89_N26,MarabouError(Return code: 1),1.321
+CIFAR_P84_N37,MarabouError(Return code: 1),1.2277
+CIFAR_P85_N1,MarabouError(Return code: 1),1.2798
+CIFAR_P97_N18,unsat,63.8174
+CIFAR_P89_N22,MarabouError(Return code: 1),1.1947
+CIFAR_P96_N27,MarabouError(Return code: 1),1.1207
+CIFAR_P89_N18,unsat,63.42
+CIFAR_P62_N33,MarabouError(Return code: 1),1.2418
+CIFAR_P76_N43,MarabouError(Return code: 1),1.2301
+CIFAR_P44_N47,MarabouError(Return code: 1),1.2125
+CIFAR_P20_N14,MarabouError(Return code: 1),1.2767
+CIFAR_P29_N16,MarabouError(Return code: 1),1.1654
+CIFAR_P10_N13,unsat,98.0001
+CIFAR_P80_N16,MarabouError(Return code: 1),1.138
+CIFAR_P27_N34,unsat,62.5126
+CIFAR_P18_N35,MarabouError(Return code: 1),1.1146
+CIFAR_P82_N37,MarabouError(Return code: 1),1.2024
+CIFAR_P18_N15,outofmemory,78.71
+CIFAR_P35_N17,timeout,3600.0
+CIFAR_P14_N14,MarabouError(Return code: 1),1.2641
+CIFAR_P36_N13,unsat,100.2361
+CIFAR_P52_N43,MarabouError(Return code: 1),1.3913
+CIFAR_P69_N25,outofmemory,188.308
+CIFAR_P73_N8,timeout,3600.005
+CIFAR_P32_N28,MarabouError(Return code: 1),1.3362
+CIFAR_P40_N22,MarabouError(Return code: 1),1.283
+CIFAR_P40_N37,MarabouError(Return code: 1),1.3166
+CIFAR_P10_N37,MarabouError(Return code: 1),1.2977
+CIFAR_P94_N5,outofmemory,109.623
+CIFAR_P21_N23,MarabouError(Return code: 1),1.2943
+CIFAR_P41_N8,timeout,3600.021
+CIFAR_P23_N21,MarabouError(Return code: 1),1.2869
+CIFAR_P20_N15,outofmemory,68.969
+CIFAR_P32_N8,timeout,3600.001
+CIFAR_P33_N34,unsat,64.9582
+CIFAR_P38_N41,MarabouError(Return code: 1),1.3558
+CIFAR_P25_N17,timeout,3600.02
+CIFAR_P75_N16,MarabouError(Return code: 1),1.164
+CIFAR_P99_N20,MarabouError(Return code: 1),1.3435
+CIFAR_P93_N45,MarabouError(Return code: 1),1.2236
+CIFAR_P49_N37,MarabouError(Return code: 1),1.2011
+CIFAR_P12_N25,outofmemory,113.15
+CIFAR_P64_N7,MarabouError(Return code: 1),1.2877
+CIFAR_P44_N22,MarabouError(Return code: 1),1.1421
+CIFAR_P29_N42,timeout,3600.017
+CIFAR_P22_N46,MarabouError(Return code: 1),1.3375
+CIFAR_P45_N17,timeout,3600.015
+CIFAR_P88_N20,MarabouError(Return code: 1),1.4201
+CIFAR_P40_N43,MarabouError(Return code: 1),1.212
+CIFAR_P8_N43,MarabouError(Return code: 1),1.2553
+CIFAR_P8_N24,MarabouError(Return code: 1),1.2944
+CIFAR_P70_N47,MarabouError(Return code: 1),1.1486
+CIFAR_P93_N18,unsat,63.0247
+CIFAR_P86_N23,MarabouError(Return code: 1),1.3407
+CIFAR_P83_N22,MarabouError(Return code: 1),1.1589
+CIFAR_P89_N47,MarabouError(Return code: 1),1.1207
+CIFAR_P2_N41,MarabouError(Return code: 1),1.2736
+CIFAR_P60_N5,outofmemory,110.407
+CIFAR_P42_N32,unsat,103.5989
+CIFAR_P17_N28,MarabouError(Return code: 1),1.3139
+CIFAR_P44_N1,MarabouError(Return code: 1),1.4617
+CIFAR_P48_N12,MarabouError(Return code: 1),1.0881
+CIFAR_P54_N46,MarabouError(Return code: 1),1.4139
+CIFAR_P55_N30,MarabouError(Return code: 1),1.3344
+CIFAR_P51_N34,unsat,65.0938
+CIFAR_P53_N26,MarabouError(Return code: 1),1.2789
+CIFAR_P18_N31,MarabouError(Return code: 1),1.3388
+CIFAR_P19_N46,MarabouError(Return code: 1),1.2578
+CIFAR_P89_N1,MarabouError(Return code: 1),1.2695
+CIFAR_P15_N41,MarabouError(Return code: 1),1.2446
+CIFAR_P1_N13,unsat,103.0784
+CIFAR_P12_N29,timeout,3600.016
+CIFAR_P17_N20,MarabouError(Return code: 1),1.3469
+CIFAR_P63_N23,MarabouError(Return code: 1),1.3034
+CIFAR_P63_N24,MarabouError(Return code: 1),1.4034
+CIFAR_P81_N4,timeout,3600.021
+CIFAR_P23_N41,MarabouError(Return code: 1),1.6329
+CIFAR_P32_N37,MarabouError(Return code: 1),1.5912
+CIFAR_P6_N20,MarabouError(Return code: 1),1.4784
+CIFAR_P70_N17,timeout,3600.004
+CIFAR_P20_N21,MarabouError(Return code: 1),1.3518
+CIFAR_P72_N42,timeout,3600.02
+CIFAR_P26_N43,MarabouError(Return code: 1),1.3199
+CIFAR_P90_N34,unsat,64.1315
+CIFAR_P80_N44,MarabouError(Return code: 1),1.4368
+CIFAR_P1_N28,MarabouError(Return code: 1),1.3709
+CIFAR_P99_N17,timeout,3600.015
+CIFAR_P9_N30,MarabouError(Return code: 1),1.4055
+CIFAR_P42_N6,MarabouError(Return code: 1),1.3446
+CIFAR_P6_N9,MarabouError(Return code: 1),1.7186
+CIFAR_P35_N30,MarabouError(Return code: 1),1.4189
+CIFAR_P44_N13,unsat,103.8314
+CIFAR_P37_N37,MarabouError(Return code: 1),1.2801
+CIFAR_P58_N21,MarabouError(Return code: 1),1.5102
+CIFAR_P78_N12,MarabouError(Return code: 1),1.1956
+CIFAR_P21_N1,MarabouError(Return code: 1),1.4236
+CIFAR_P52_N3,outofmemory,30.651
+CIFAR_P58_N43,MarabouError(Return code: 1),1.5476
+CIFAR_P74_N22,MarabouError(Return code: 1),1.2292
+CIFAR_P84_N20,MarabouError(Return code: 1),1.3647
+CIFAR_P0_N30,MarabouError(Return code: 1),1.4502
+CIFAR_P88_N5,outofmemory,114.773
+CIFAR_P32_N6,MarabouError(Return code: 1),1.4271
+CIFAR_P99_N32,unsat,101.4044
+CIFAR_P43_N5,outofmemory,108.112
+CIFAR_P1_N7,MarabouError(Return code: 1),1.2565
+CIFAR_P91_N6,MarabouError(Return code: 1),1.4105
+CIFAR_P99_N27,MarabouError(Return code: 1),1.2467
+CIFAR_P32_N44,MarabouError(Return code: 1),1.3654
+CIFAR_P8_N6,MarabouError(Return code: 1),1.3971
+CIFAR_P62_N23,MarabouError(Return code: 1),1.2639
+CIFAR_P73_N43,MarabouError(Return code: 1),1.2763
+CIFAR_P64_N19,MarabouError(Return code: 1),1.2191
+CIFAR_P41_N47,MarabouError(Return code: 1),1.267
+CIFAR_P99_N21,MarabouError(Return code: 1),1.372
+CIFAR_P15_N42,timeout,3600.016
+CIFAR_P43_N47,MarabouError(Return code: 1),1.1898
+CIFAR_P81_N27,MarabouError(Return code: 1),1.1805
+CIFAR_P44_N30,MarabouError(Return code: 1),1.373
+CIFAR_P45_N16,MarabouError(Return code: 1),1.4168
+CIFAR_P2_N17,timeout,3600.018
+CIFAR_P12_N5,outofmemory,111.835
+CIFAR_P56_N34,unsat,62.7609
+CIFAR_P51_N43,MarabouError(Return code: 1),1.3067
+CIFAR_P56_N19,MarabouError(Return code: 1),1.3621
+CIFAR_P73_N44,MarabouError(Return code: 1),1.2854
+CIFAR_P91_N8,timeout,3600.015
+CIFAR_P94_N26,MarabouError(Return code: 1),1.4609
+CIFAR_P30_N15,outofmemory,76.637
+CIFAR_P37_N42,timeout,3600.004
+CIFAR_P32_N22,MarabouError(Return code: 1),1.2108
+CIFAR_P1_N23,MarabouError(Return code: 1),1.2822
+CIFAR_P9_N41,MarabouError(Return code: 1),1.2136
+CIFAR_P26_N24,MarabouError(Return code: 1),1.2837
+CIFAR_P33_N19,MarabouError(Return code: 1),1.1898
+CIFAR_P49_N1,MarabouError(Return code: 1),1.3921
+CIFAR_P73_N6,MarabouError(Return code: 1),1.3318
+CIFAR_P8_N5,outofmemory,111.925
+CIFAR_P77_N12,MarabouError(Return code: 1),1.1391
+CIFAR_P51_N23,MarabouError(Return code: 1),1.3012
+CIFAR_P9_N18,unsat,63.4775
+CIFAR_P26_N16,MarabouError(Return code: 1),1.1619
+CIFAR_P25_N2,outofmemory,72.484
+CIFAR_P35_N12,MarabouError(Return code: 1),1.2076
+CIFAR_P58_N18,unsat,65.0545
+CIFAR_P80_N45,MarabouError(Return code: 1),1.2954
+CIFAR_P81_N12,MarabouError(Return code: 1),1.2568
+CIFAR_P14_N18,unsat,64.9795
+CIFAR_P56_N37,MarabouError(Return code: 1),1.2997
+CIFAR_P93_N29,timeout,3600.005
+CIFAR_P3_N46,MarabouError(Return code: 1),1.4166
+CIFAR_P3_N19,MarabouError(Return code: 1),1.1909
+CIFAR_P36_N23,MarabouError(Return code: 1),1.4838
+CIFAR_P7_N35,MarabouError(Return code: 1),1.1101
+CIFAR_P89_N15,outofmemory,75.704
+CIFAR_P93_N21,MarabouError(Return code: 1),1.3105
+CIFAR_P80_N21,MarabouError(Return code: 1),1.3219
+CIFAR_P52_N23,MarabouError(Return code: 1),1.3471
+CIFAR_P71_N23,MarabouError(Return code: 1),1.3269
+CIFAR_P90_N12,MarabouError(Return code: 1),1.1674
+CIFAR_P9_N23,MarabouError(Return code: 1),1.4628
+CIFAR_P33_N17,timeout,3600.015
+CIFAR_P39_N37,MarabouError(Return code: 1),1.3676
+CIFAR_P17_N34,unsat,64.4633
+CIFAR_P47_N1,MarabouError(Return code: 1),1.3173
+CIFAR_P59_N47,MarabouError(Return code: 1),1.1257
+CIFAR_P66_N18,unsat,65.6517
+CIFAR_P23_N6,MarabouError(Return code: 1),1.2363
+CIFAR_P65_N3,outofmemory,29.739
+CIFAR_P22_N43,MarabouError(Return code: 1),1.2781
+CIFAR_P62_N28,MarabouError(Return code: 1),1.2467
+CIFAR_P72_N34,unsat,64.3819
+CIFAR_P6_N5,outofmemory,107.795
+CIFAR_P79_N28,MarabouError(Return code: 1),1.4559
+CIFAR_P85_N38,MarabouError(Return code: 1),1.5775
+CIFAR_P88_N2,outofmemory,78.369
+CIFAR_P39_N45,MarabouError(Return code: 1),1.3274
+CIFAR_P77_N1,MarabouError(Return code: 1),1.292
+CIFAR_P97_N22,MarabouError(Return code: 1),1.2384
+CIFAR_P16_N19,MarabouError(Return code: 1),1.3502
+CIFAR_P73_N7,MarabouError(Return code: 1),1.3058
+CIFAR_P99_N44,MarabouError(Return code: 1),1.2385
+CIFAR_P25_N7,MarabouError(Return code: 1),1.3904
+CIFAR_P95_N21,MarabouError(Return code: 1),1.2843
+CIFAR_P69_N17,timeout,3600.016
+CIFAR_P49_N26,MarabouError(Return code: 1),1.4192
+CIFAR_P96_N18,unsat,63.3678
+CIFAR_P47_N42,timeout,3600.001
+CIFAR_P16_N35,MarabouError(Return code: 1),1.1403
+CIFAR_P49_N42,timeout,3600.023
+CIFAR_P74_N25,outofmemory,108.985
+CIFAR_P45_N15,outofmemory,72.214
+CIFAR_P14_N6,MarabouError(Return code: 1),1.4938
+CIFAR_P83_N37,MarabouError(Return code: 1),1.2553
+CIFAR_P5_N7,MarabouError(Return code: 1),1.3391
+CIFAR_P49_N21,MarabouError(Return code: 1),1.2387
+CIFAR_P11_N3,outofmemory,29.336
+CIFAR_P10_N15,outofmemory,69.557
+CIFAR_P20_N44,MarabouError(Return code: 1),1.4216
+CIFAR_P91_N46,MarabouError(Return code: 1),1.2854
+CIFAR_P10_N20,MarabouError(Return code: 1),1.31
+CIFAR_P70_N43,MarabouError(Return code: 1),1.3748
+CIFAR_P59_N18,unsat,63.2007
+CIFAR_P93_N37,MarabouError(Return code: 1),1.3158
+CIFAR_P23_N33,MarabouError(Return code: 1),1.2543
+CIFAR_P79_N8,timeout,3600.01
+CIFAR_P45_N13,unsat,99.9923
+CIFAR_P33_N9,MarabouError(Return code: 1),1.7353
+CIFAR_P73_N24,MarabouError(Return code: 1),1.2003
+CIFAR_P42_N16,MarabouError(Return code: 1),1.2498
+CIFAR_P20_N30,MarabouError(Return code: 1),1.3959
+CIFAR_P86_N18,unsat,62.8874
+CIFAR_P7_N9,MarabouError(Return code: 1),1.7067
+CIFAR_P92_N33,MarabouError(Return code: 1),1.3098
+CIFAR_P11_N45,MarabouError(Return code: 1),1.2272
+CIFAR_P61_N24,MarabouError(Return code: 1),1.3081
+CIFAR_P74_N35,MarabouError(Return code: 1),1.2034
+CIFAR_P22_N13,unsat,99.6078
+CIFAR_P48_N37,MarabouError(Return code: 1),1.2441
+CIFAR_P61_N5,outofmemory,107.864
+CIFAR_P9_N22,MarabouError(Return code: 1),1.1719
+CIFAR_P13_N46,MarabouError(Return code: 1),1.3414
+CIFAR_P34_N20,MarabouError(Return code: 1),1.2164
+CIFAR_P88_N43,MarabouError(Return code: 1),1.2934
+CIFAR_P90_N38,MarabouError(Return code: 1),1.3573
+CIFAR_P36_N33,MarabouError(Return code: 1),1.3067
+CIFAR_P56_N22,MarabouError(Return code: 1),1.1384
+CIFAR_P23_N9,MarabouError(Return code: 1),1.7931
+CIFAR_P19_N47,MarabouError(Return code: 1),1.1243
+CIFAR_P25_N44,MarabouError(Return code: 1),1.3719
+CIFAR_P6_N24,MarabouError(Return code: 1),1.3274
+CIFAR_P19_N23,MarabouError(Return code: 1),1.3409
+CIFAR_P42_N5,outofmemory,114.181
+CIFAR_P48_N45,MarabouError(Return code: 1),1.328
+CIFAR_P8_N7,MarabouError(Return code: 1),1.2277
+CIFAR_P59_N37,MarabouError(Return code: 1),1.4877
+CIFAR_P6_N37,MarabouError(Return code: 1),1.2494
+CIFAR_P22_N27,MarabouError(Return code: 1),1.1999
+CIFAR_P19_N13,unsat,101.6628
+CIFAR_P29_N8,timeout,3600.006
+CIFAR_P77_N6,MarabouError(Return code: 1),1.3266
+CIFAR_P55_N43,MarabouError(Return code: 1),1.3064
+CIFAR_P73_N20,MarabouError(Return code: 1),1.2126
+CIFAR_P82_N21,MarabouError(Return code: 1),1.3153
+CIFAR_P64_N3,outofmemory,31.354
+CIFAR_P64_N35,MarabouError(Return code: 1),1.1206
+CIFAR_P27_N44,MarabouError(Return code: 1),1.4491
+CIFAR_P70_N38,MarabouError(Return code: 1),1.28
+CIFAR_P57_N38,MarabouError(Return code: 1),1.2296
+CIFAR_P37_N8,timeout,3600.0
+CIFAR_P97_N3,outofmemory,30.857
+CIFAR_P71_N33,MarabouError(Return code: 1),1.3362
+CIFAR_P2_N19,MarabouError(Return code: 1),1.222
+CIFAR_P26_N23,MarabouError(Return code: 1),1.2779
+CIFAR_P3_N3,outofmemory,33.427
+CIFAR_P84_N41,MarabouError(Return code: 1),1.2779
+CIFAR_P91_N41,MarabouError(Return code: 1),1.2986
+CIFAR_P10_N44,MarabouError(Return code: 1),1.2921
+CIFAR_P6_N46,MarabouError(Return code: 1),1.2959
+CIFAR_P85_N22,MarabouError(Return code: 1),1.1831
+CIFAR_P3_N33,MarabouError(Return code: 1),1.308
+CIFAR_P40_N18,unsat,62.4601
+CIFAR_P40_N45,MarabouError(Return code: 1),1.4453
+CIFAR_P74_N16,MarabouError(Return code: 1),1.1485
+CIFAR_P92_N6,MarabouError(Return code: 1),1.39
+CIFAR_P23_N13,unsat,100.0998
+CIFAR_P39_N44,MarabouError(Return code: 1),1.2344
+CIFAR_P99_N6,MarabouError(Return code: 1),1.34
+CIFAR_P25_N46,MarabouError(Return code: 1),1.3162
+CIFAR_P86_N21,MarabouError(Return code: 1),1.2561
+CIFAR_P96_N2,outofmemory,69.473
+CIFAR_P92_N9,MarabouError(Return code: 1),1.6619
+CIFAR_P59_N45,MarabouError(Return code: 1),1.3628
+CIFAR_P88_N3,outofmemory,29.31
+CIFAR_P15_N25,outofmemory,104.319
+CIFAR_P28_N5,outofmemory,116.51
+CIFAR_P59_N42,timeout,3600.016
+CIFAR_P20_N1,MarabouError(Return code: 1),1.3151
+CIFAR_P83_N6,MarabouError(Return code: 1),1.3373
+CIFAR_P46_N15,outofmemory,69.638
+CIFAR_P48_N35,MarabouError(Return code: 1),1.1095
+CIFAR_P70_N23,MarabouError(Return code: 1),1.2309
+CIFAR_P37_N25,outofmemory,103.25
+CIFAR_P0_N16,MarabouError(Return code: 1),1.17
+CIFAR_P6_N38,MarabouError(Return code: 1),1.2679
+CIFAR_P92_N42,timeout,3600.007
+CIFAR_P28_N9,MarabouError(Return code: 1),1.7379
+CIFAR_P7_N14,MarabouError(Return code: 1),1.2123
+CIFAR_P48_N42,timeout,3600.012
+CIFAR_P46_N35,MarabouError(Return code: 1),1.2249
+CIFAR_P86_N19,MarabouError(Return code: 1),1.1229
+CIFAR_P2_N12,MarabouError(Return code: 1),1.1474
+CIFAR_P88_N19,MarabouError(Return code: 1),1.1981
+CIFAR_P52_N8,timeout,3600.001
+CIFAR_P78_N45,MarabouError(Return code: 1),1.2631
+CIFAR_P87_N8,timeout,3600.001
+CIFAR_P98_N23,MarabouError(Return code: 1),1.3029
+CIFAR_P94_N3,outofmemory,31.404
+CIFAR_P30_N6,MarabouError(Return code: 1),1.2695
+CIFAR_P72_N38,MarabouError(Return code: 1),1.4112
+CIFAR_P86_N5,outofmemory,108.757
+CIFAR_P78_N43,MarabouError(Return code: 1),1.2785
+CIFAR_P83_N27,MarabouError(Return code: 1),1.2279
+CIFAR_P53_N33,MarabouError(Return code: 1),1.2968
+CIFAR_P96_N38,MarabouError(Return code: 1),1.3907
+CIFAR_P89_N20,MarabouError(Return code: 1),1.2658
+CIFAR_P34_N27,MarabouError(Return code: 1),1.0495
+CIFAR_P50_N7,MarabouError(Return code: 1),1.2845
+CIFAR_P89_N30,MarabouError(Return code: 1),1.2999
+CIFAR_P65_N24,MarabouError(Return code: 1),1.208
+CIFAR_P20_N24,MarabouError(Return code: 1),1.316
+CIFAR_P68_N13,unsat,98.8843
+CIFAR_P69_N5,outofmemory,107.327
+CIFAR_P56_N47,MarabouError(Return code: 1),1.1324
+CIFAR_P7_N32,unsat,106.1155
+CIFAR_P91_N43,MarabouError(Return code: 1),1.2553
+CIFAR_P29_N30,MarabouError(Return code: 1),1.3512
+CIFAR_P74_N44,MarabouError(Return code: 1),1.4364
+CIFAR_P66_N44,MarabouError(Return code: 1),1.3144
+CIFAR_P9_N3,outofmemory,31.823
+CIFAR_P22_N12,MarabouError(Return code: 1),1.2226
+CIFAR_P85_N4,timeout,3600.018
+CIFAR_P15_N9,MarabouError(Return code: 1),1.6651
+CIFAR_P4_N9,MarabouError(Return code: 1),1.6891
+CIFAR_P37_N13,unsat,101.7068
+CIFAR_P80_N3,outofmemory,30.633
+CIFAR_P95_N25,outofmemory,116.432
+CIFAR_P59_N43,MarabouError(Return code: 1),1.3983
+CIFAR_P28_N38,MarabouError(Return code: 1),1.4292
+CIFAR_P96_N9,MarabouError(Return code: 1),1.8535
+CIFAR_P6_N30,MarabouError(Return code: 1),1.4596
+CIFAR_P10_N19,MarabouError(Return code: 1),1.1917
+CIFAR_P25_N20,MarabouError(Return code: 1),1.3731
+CIFAR_P99_N24,MarabouError(Return code: 1),1.4597
+CIFAR_P13_N13,unsat,102.4947
+CIFAR_P70_N19,MarabouError(Return code: 1),1.2644
+CIFAR_P7_N2,outofmemory,72.525
+CIFAR_P59_N13,unsat,101.8735
+CIFAR_P37_N18,unsat,64.8331
+CIFAR_P93_N13,unsat,102.9325
+CIFAR_P5_N6,MarabouError(Return code: 1),1.6011
+CIFAR_P92_N17,timeout,3600.014
+CIFAR_P25_N3,outofmemory,31.96
+CIFAR_P49_N14,MarabouError(Return code: 1),1.3697
+CIFAR_P41_N20,MarabouError(Return code: 1),1.3089
+CIFAR_P38_N31,MarabouError(Return code: 1),1.4937
+CIFAR_P65_N38,MarabouError(Return code: 1),1.5155
+CIFAR_P79_N1,MarabouError(Return code: 1),1.3428
+CIFAR_P10_N47,MarabouError(Return code: 1),1.1762
+CIFAR_P67_N30,MarabouError(Return code: 1),1.3874
+CIFAR_P97_N13,unsat,104.0961
+CIFAR_P98_N35,MarabouError(Return code: 1),1.3744
+CIFAR_P53_N42,timeout,3600.002
+CIFAR_P0_N28,MarabouError(Return code: 1),1.3165
+CIFAR_P72_N25,outofmemory,111.088
+CIFAR_P29_N23,MarabouError(Return code: 1),1.2988
+CIFAR_P79_N31,MarabouError(Return code: 1),1.355
+CIFAR_P6_N23,MarabouError(Return code: 1),1.2374
+CIFAR_P68_N31,MarabouError(Return code: 1),1.3634
+CIFAR_P30_N9,MarabouError(Return code: 1),1.9472
+CIFAR_P97_N8,timeout,3600.006
+CIFAR_P38_N5,outofmemory,109.819
+CIFAR_P46_N46,MarabouError(Return code: 1),1.3125
+CIFAR_P77_N33,MarabouError(Return code: 1),1.2968
+CIFAR_P85_N35,MarabouError(Return code: 1),1.3588
+CIFAR_P21_N3,outofmemory,30.888
+CIFAR_P4_N12,MarabouError(Return code: 1),1.2155
+CIFAR_P84_N21,MarabouError(Return code: 1),1.5173
+CIFAR_P29_N6,MarabouError(Return code: 1),1.3544
+CIFAR_P52_N15,outofmemory,71.448
+CIFAR_P80_N24,MarabouError(Return code: 1),1.3322
+CIFAR_P16_N28,MarabouError(Return code: 1),1.4368
+CIFAR_P94_N17,timeout,3600.01
+CIFAR_P53_N41,MarabouError(Return code: 1),1.3319
+CIFAR_P41_N21,MarabouError(Return code: 1),1.5296
+CIFAR_P12_N23,MarabouError(Return code: 1),1.3104
+CIFAR_P58_N23,MarabouError(Return code: 1),1.3502
+CIFAR_P30_N31,MarabouError(Return code: 1),1.3206
+CIFAR_P39_N1,MarabouError(Return code: 1),1.4357
+CIFAR_P68_N9,MarabouError(Return code: 1),1.7443
+CIFAR_P34_N8,timeout,3600.012
+CIFAR_P47_N2,outofmemory,72.501
+CIFAR_P57_N14,MarabouError(Return code: 1),1.3781
+CIFAR_P13_N9,MarabouError(Return code: 1),1.8393
+CIFAR_P69_N42,timeout,3600.007
+CIFAR_P86_N37,MarabouError(Return code: 1),1.3224
+CIFAR_P5_N26,MarabouError(Return code: 1),1.4175
+CIFAR_P97_N25,outofmemory,107.439
+CIFAR_P8_N33,MarabouError(Return code: 1),1.3891
+CIFAR_P5_N31,MarabouError(Return code: 1),1.3458
+CIFAR_P34_N28,MarabouError(Return code: 1),1.3533
+CIFAR_P25_N37,MarabouError(Return code: 1),1.3421
+CIFAR_P4_N6,MarabouError(Return code: 1),1.4197
+CIFAR_P11_N5,outofmemory,117.249
+CIFAR_P16_N4,timeout,3600.008
+CIFAR_P18_N22,MarabouError(Return code: 1),1.1726
+CIFAR_P11_N43,MarabouError(Return code: 1),1.2614
+CIFAR_P29_N21,MarabouError(Return code: 1),1.2969
+CIFAR_P75_N25,outofmemory,105.19
+CIFAR_P96_N28,MarabouError(Return code: 1),1.4482
+CIFAR_P1_N15,outofmemory,70.37
+CIFAR_P98_N17,timeout,3600.018
+CIFAR_P42_N18,unsat,63.5862
+CIFAR_P48_N14,MarabouError(Return code: 1),1.2484
+CIFAR_P98_N16,MarabouError(Return code: 1),1.1742
+CIFAR_P67_N35,MarabouError(Return code: 1),1.1642
+CIFAR_P75_N21,MarabouError(Return code: 1),1.4735
+CIFAR_P36_N34,unsat,64.7741
+CIFAR_P75_N32,unsat,103.1972
+CIFAR_P21_N20,MarabouError(Return code: 1),1.3276
+CIFAR_P0_N17,timeout,3600.022
+CIFAR_P35_N37,MarabouError(Return code: 1),1.2262
+CIFAR_P84_N28,MarabouError(Return code: 1),1.3122
+CIFAR_P48_N46,MarabouError(Return code: 1),1.3166
+CIFAR_P70_N20,MarabouError(Return code: 1),1.3418
+CIFAR_P89_N23,MarabouError(Return code: 1),1.2301
+CIFAR_P59_N34,unsat,64.8752
+CIFAR_P78_N42,timeout,3600.016
+CIFAR_P31_N21,MarabouError(Return code: 1),1.2824
+CIFAR_P71_N18,unsat,65.9155
+CIFAR_P1_N8,timeout,3600.002
+CIFAR_P8_N25,outofmemory,110.466
+CIFAR_P97_N28,MarabouError(Return code: 1),1.3337
+CIFAR_P33_N6,MarabouError(Return code: 1),1.4831
+CIFAR_P21_N35,MarabouError(Return code: 1),1.1734
+CIFAR_P21_N47,MarabouError(Return code: 1),1.2386
+CIFAR_P52_N16,MarabouError(Return code: 1),1.1218
+CIFAR_P55_N3,outofmemory,30.94
+CIFAR_P7_N30,MarabouError(Return code: 1),1.3867
+CIFAR_P33_N44,MarabouError(Return code: 1),1.2683
+CIFAR_P43_N2,outofmemory,70.229
+CIFAR_P19_N26,MarabouError(Return code: 1),1.4174
+CIFAR_P26_N19,MarabouError(Return code: 1),1.2539
+CIFAR_P94_N37,MarabouError(Return code: 1),1.4255
+CIFAR_P99_N38,MarabouError(Return code: 1),1.4417
+CIFAR_P43_N29,timeout,3600.017
+CIFAR_P20_N19,MarabouError(Return code: 1),1.2528
+CIFAR_P73_N1,MarabouError(Return code: 1),1.2942
+CIFAR_P91_N12,MarabouError(Return code: 1),1.2
+CIFAR_P5_N16,MarabouError(Return code: 1),1.2203
+CIFAR_P82_N1,MarabouError(Return code: 1),1.3091
+CIFAR_P0_N29,timeout,3600.019
+CIFAR_P18_N43,MarabouError(Return code: 1),1.2906
+CIFAR_P45_N25,outofmemory,113.28
+CIFAR_P79_N43,MarabouError(Return code: 1),1.4053
+CIFAR_P49_N43,MarabouError(Return code: 1),1.3552
+CIFAR_P1_N6,MarabouError(Return code: 1),1.3586
+CIFAR_P29_N26,MarabouError(Return code: 1),1.2851
+CIFAR_P40_N6,MarabouError(Return code: 1),1.3172
+CIFAR_P62_N45,MarabouError(Return code: 1),1.2814
+CIFAR_P42_N25,outofmemory,110.492
+CIFAR_P89_N8,timeout,3600.021
+CIFAR_P86_N45,MarabouError(Return code: 1),1.2833
+CIFAR_P38_N46,MarabouError(Return code: 1),1.2871
+CIFAR_P12_N31,MarabouError(Return code: 1),1.3592
+CIFAR_P62_N9,MarabouError(Return code: 1),1.8226
+CIFAR_P55_N44,MarabouError(Return code: 1),1.3262
+CIFAR_P65_N44,MarabouError(Return code: 1),1.2985
+CIFAR_P78_N6,MarabouError(Return code: 1),1.2461
+CIFAR_P88_N44,MarabouError(Return code: 1),1.3669
+CIFAR_P9_N31,MarabouError(Return code: 1),1.227
+CIFAR_P93_N25,outofmemory,128.471
+CIFAR_P56_N43,MarabouError(Return code: 1),1.29
+CIFAR_P9_N25,outofmemory,111.635
+CIFAR_P47_N19,MarabouError(Return code: 1),1.2235
+CIFAR_P40_N24,MarabouError(Return code: 1),1.2648
+CIFAR_P88_N38,MarabouError(Return code: 1),1.3093
+CIFAR_P9_N5,outofmemory,105.834
+CIFAR_P59_N22,MarabouError(Return code: 1),1.2774
+CIFAR_P82_N20,MarabouError(Return code: 1),1.3274
+CIFAR_P20_N46,MarabouError(Return code: 1),1.366
+CIFAR_P31_N43,MarabouError(Return code: 1),1.2509
+CIFAR_P44_N18,unsat,64.4803
+CIFAR_P90_N4,timeout,3600.002
+CIFAR_P45_N6,MarabouError(Return code: 1),1.3618
+CIFAR_P24_N18,unsat,62.5283
+CIFAR_P34_N9,MarabouError(Return code: 1),1.6778
+CIFAR_P37_N4,timeout,3600.001
+CIFAR_P65_N25,outofmemory,106.674
+CIFAR_P82_N8,timeout,3600.01
+CIFAR_P62_N37,MarabouError(Return code: 1),1.2158
+CIFAR_P91_N3,outofmemory,29.251
+CIFAR_P90_N25,outofmemory,111.751
+CIFAR_P94_N32,unsat,99.7098
+CIFAR_P31_N5,outofmemory,106.06
+CIFAR_P86_N16,MarabouError(Return code: 1),1.1518
+CIFAR_P64_N15,outofmemory,68.481
+CIFAR_P40_N20,MarabouError(Return code: 1),1.2312
+CIFAR_P69_N23,MarabouError(Return code: 1),1.2925
+CIFAR_P75_N35,MarabouError(Return code: 1),1.107
+CIFAR_P11_N6,MarabouError(Return code: 1),1.4298
+CIFAR_P81_N37,MarabouError(Return code: 1),1.2171
+CIFAR_P93_N30,MarabouError(Return code: 1),1.3599
+CIFAR_P96_N47,MarabouError(Return code: 1),1.1807
+CIFAR_P46_N21,MarabouError(Return code: 1),1.2397
+CIFAR_P23_N35,MarabouError(Return code: 1),1.2134
+CIFAR_P30_N20,MarabouError(Return code: 1),1.3323
+CIFAR_P89_N7,MarabouError(Return code: 1),1.2482
+CIFAR_P7_N19,MarabouError(Return code: 1),1.2388
+CIFAR_P87_N41,MarabouError(Return code: 1),1.3426
+CIFAR_P0_N33,MarabouError(Return code: 1),1.2669
+CIFAR_P36_N32,unsat,98.1544
+CIFAR_P67_N19,MarabouError(Return code: 1),1.2593
+CIFAR_P8_N16,MarabouError(Return code: 1),1.0995
+CIFAR_P29_N41,MarabouError(Return code: 1),1.3824
+CIFAR_P68_N22,MarabouError(Return code: 1),1.1159
+CIFAR_P86_N35,MarabouError(Return code: 1),1.2198
+CIFAR_P29_N25,outofmemory,106.442
+CIFAR_P31_N34,unsat,63.376
+CIFAR_P75_N26,MarabouError(Return code: 1),1.4827
+CIFAR_P91_N5,outofmemory,120.495
+CIFAR_P10_N25,outofmemory,116.039
+CIFAR_P8_N35,MarabouError(Return code: 1),1.1805
+CIFAR_P6_N1,MarabouError(Return code: 1),1.3468
+CIFAR_P10_N28,MarabouError(Return code: 1),1.2943
+CIFAR_P52_N26,MarabouError(Return code: 1),1.2723
+CIFAR_P49_N20,MarabouError(Return code: 1),1.3333
+CIFAR_P70_N41,MarabouError(Return code: 1),1.2747
+CIFAR_P56_N24,MarabouError(Return code: 1),1.2791
+CIFAR_P12_N3,outofmemory,30.022
+CIFAR_P63_N33,MarabouError(Return code: 1),1.298
+CIFAR_P82_N17,timeout,3600.008
+CIFAR_P92_N29,timeout,3600.015
+CIFAR_P90_N17,timeout,3600.006
+CIFAR_P54_N2,outofmemory,69.312
+CIFAR_P13_N14,MarabouError(Return code: 1),1.2798
+CIFAR_P67_N27,MarabouError(Return code: 1),1.1502
+CIFAR_P29_N14,MarabouError(Return code: 1),1.2686
+CIFAR_P23_N17,timeout,3600.003
+CIFAR_P42_N30,MarabouError(Return code: 1),1.2953
+CIFAR_P30_N47,MarabouError(Return code: 1),1.2168
+CIFAR_P63_N26,MarabouError(Return code: 1),1.2617
+CIFAR_P41_N3,outofmemory,29.842
+CIFAR_P84_N18,unsat,63.1365
+CIFAR_P33_N31,MarabouError(Return code: 1),1.272
+CIFAR_P88_N30,MarabouError(Return code: 1),1.3146
+CIFAR_P88_N32,unsat,100.4418
+CIFAR_P64_N29,timeout,3600.004
+CIFAR_P2_N3,outofmemory,30.116
+CIFAR_P39_N35,MarabouError(Return code: 1),1.1733
+CIFAR_P45_N41,MarabouError(Return code: 1),1.2456
+CIFAR_P8_N13,unsat,96.8261
+CIFAR_P30_N42,timeout,3600.018
+CIFAR_P27_N30,MarabouError(Return code: 1),1.331
+CIFAR_P58_N34,unsat,63.4124
+CIFAR_P35_N22,MarabouError(Return code: 1),1.1041
+CIFAR_P64_N32,unsat,100.437
+CIFAR_P45_N45,MarabouError(Return code: 1),1.3674
+CIFAR_P4_N25,outofmemory,113.075
+CIFAR_P79_N37,MarabouError(Return code: 1),1.3392
+CIFAR_P95_N4,timeout,3600.002
+CIFAR_P99_N12,MarabouError(Return code: 1),1.1925
+CIFAR_P59_N17,timeout,3600.002
+CIFAR_P40_N44,MarabouError(Return code: 1),1.454
+CIFAR_P74_N28,MarabouError(Return code: 1),1.2743
+CIFAR_P18_N23,MarabouError(Return code: 1),1.3842
+CIFAR_P39_N6,MarabouError(Return code: 1),1.3912
+CIFAR_P83_N23,MarabouError(Return code: 1),1.3615
+CIFAR_P30_N19,MarabouError(Return code: 1),1.2444
+CIFAR_P40_N34,unsat,65.8641
+CIFAR_P64_N34,unsat,63.6991
+CIFAR_P28_N18,unsat,65.2259
+CIFAR_P76_N6,MarabouError(Return code: 1),1.2844
+CIFAR_P81_N25,outofmemory,110.942
+CIFAR_P40_N23,MarabouError(Return code: 1),1.3643
+CIFAR_P92_N30,MarabouError(Return code: 1),1.4583
+CIFAR_P95_N3,outofmemory,31.407
+CIFAR_P42_N3,outofmemory,30.476
+CIFAR_P43_N42,timeout,3600.016
+CIFAR_P69_N33,MarabouError(Return code: 1),1.3718
+CIFAR_P58_N22,MarabouError(Return code: 1),1.1528
+CIFAR_P34_N4,timeout,3600.019
+CIFAR_P3_N43,MarabouError(Return code: 1),1.4007
+CIFAR_P33_N42,timeout,3600.02
+CIFAR_P36_N8,timeout,3600.017
+CIFAR_P88_N16,MarabouError(Return code: 1),1.2329
+CIFAR_P80_N47,MarabouError(Return code: 1),1.3032
+CIFAR_P82_N46,MarabouError(Return code: 1),1.3053
+CIFAR_P48_N31,MarabouError(Return code: 1),1.3341
+CIFAR_P22_N47,MarabouError(Return code: 1),1.2132
+CIFAR_P22_N41,MarabouError(Return code: 1),1.2568
+CIFAR_P43_N3,outofmemory,31.847
+CIFAR_P22_N2,outofmemory,70.833
+CIFAR_P69_N31,MarabouError(Return code: 1),1.3068
+CIFAR_P73_N46,MarabouError(Return code: 1),1.36
+CIFAR_P73_N47,MarabouError(Return code: 1),1.2366
+CIFAR_P32_N19,MarabouError(Return code: 1),1.1314
+CIFAR_P84_N7,MarabouError(Return code: 1),1.288
+CIFAR_P47_N15,outofmemory,71.066
+CIFAR_P95_N29,timeout,3600.014
+CIFAR_P81_N32,unsat,98.4906
+CIFAR_P47_N32,unsat,98.846
+CIFAR_P29_N47,MarabouError(Return code: 1),1.2373
+CIFAR_P32_N43,MarabouError(Return code: 1),1.274
+CIFAR_P11_N30,MarabouError(Return code: 1),1.378
+CIFAR_P28_N4,timeout,3600.018
+CIFAR_P80_N4,timeout,3600.001
+CIFAR_P14_N29,timeout,3600.019
+CIFAR_P43_N27,MarabouError(Return code: 1),1.0978
+CIFAR_P85_N29,timeout,3600.011
+CIFAR_P17_N9,MarabouError(Return code: 1),1.8643
+CIFAR_P34_N22,MarabouError(Return code: 1),1.172
+CIFAR_P21_N18,unsat,63.1184
+CIFAR_P66_N41,MarabouError(Return code: 1),1.3176
+CIFAR_P22_N21,MarabouError(Return code: 1),1.3849
+CIFAR_P35_N42,timeout,3600.007
+CIFAR_P54_N30,MarabouError(Return code: 1),1.2929
+CIFAR_P11_N2,outofmemory,69.055
+CIFAR_P83_N17,timeout,3600.006
+CIFAR_P23_N23,MarabouError(Return code: 1),1.2696
+CIFAR_P5_N28,MarabouError(Return code: 1),1.3651
+CIFAR_P18_N19,MarabouError(Return code: 1),1.2322
+CIFAR_P53_N19,MarabouError(Return code: 1),1.2044
+CIFAR_P82_N34,unsat,64.474
+CIFAR_P10_N43,MarabouError(Return code: 1),1.4291
+CIFAR_P11_N15,outofmemory,71.548
+CIFAR_P17_N42,timeout,3600.002
+CIFAR_P6_N27,MarabouError(Return code: 1),1.0637
+CIFAR_P38_N8,timeout,3600.011
+CIFAR_P90_N45,MarabouError(Return code: 1),1.3558
+CIFAR_P97_N23,MarabouError(Return code: 1),1.2992
+CIFAR_P92_N2,outofmemory,68.389
+CIFAR_P20_N45,MarabouError(Return code: 1),1.2991
+CIFAR_P4_N15,outofmemory,71.014
+CIFAR_P24_N22,MarabouError(Return code: 1),1.0977
+CIFAR_P36_N17,timeout,3600.005
+CIFAR_P30_N30,MarabouError(Return code: 1),1.4146
+CIFAR_P47_N28,MarabouError(Return code: 1),1.2628
+CIFAR_P3_N30,MarabouError(Return code: 1),1.3134
+CIFAR_P21_N30,MarabouError(Return code: 1),1.2747
+CIFAR_P84_N32,unsat,97.904
+CIFAR_P61_N33,MarabouError(Return code: 1),1.3001
+CIFAR_P37_N2,outofmemory,70.608
+CIFAR_P18_N27,MarabouError(Return code: 1),1.1254
+CIFAR_P76_N38,MarabouError(Return code: 1),1.3391
+CIFAR_P66_N26,MarabouError(Return code: 1),1.2805
+CIFAR_P71_N32,unsat,98.607
+CIFAR_P21_N8,timeout,3600.012
+CIFAR_P39_N13,unsat,98.076
+CIFAR_P16_N47,MarabouError(Return code: 1),1.1394
+CIFAR_P4_N47,MarabouError(Return code: 1),1.1167
+CIFAR_P79_N9,MarabouError(Return code: 1),1.8573
+CIFAR_P32_N31,MarabouError(Return code: 1),1.3278
+CIFAR_P8_N1,MarabouError(Return code: 1),1.3086
+CIFAR_P31_N33,MarabouError(Return code: 1),1.2538
+CIFAR_P14_N33,MarabouError(Return code: 1),1.2864
+CIFAR_P43_N37,MarabouError(Return code: 1),1.2066
+CIFAR_P13_N47,MarabouError(Return code: 1),1.1195
+CIFAR_P74_N13,unsat,98.4156
+CIFAR_P75_N47,MarabouError(Return code: 1),1.1281
+CIFAR_P44_N38,MarabouError(Return code: 1),1.3468
+CIFAR_P4_N28,MarabouError(Return code: 1),1.3583
+CIFAR_P31_N47,MarabouError(Return code: 1),1.1197
+CIFAR_P81_N42,timeout,3600.007
+CIFAR_P47_N47,MarabouError(Return code: 1),1.1764
+CIFAR_P97_N38,MarabouError(Return code: 1),1.2874
+CIFAR_P56_N33,MarabouError(Return code: 1),1.2755
+CIFAR_P23_N14,MarabouError(Return code: 1),1.3097
+CIFAR_P46_N1,MarabouError(Return code: 1),1.3778
+CIFAR_P95_N37,MarabouError(Return code: 1),1.3051
+CIFAR_P83_N26,MarabouError(Return code: 1),1.463
+CIFAR_P14_N34,unsat,62.9087
+CIFAR_P90_N15,outofmemory,71.575
+CIFAR_P70_N5,outofmemory,113.831
+CIFAR_P80_N46,MarabouError(Return code: 1),1.2601
+CIFAR_P9_N17,timeout,3600.008
+CIFAR_P55_N26,MarabouError(Return code: 1),1.3269
+CIFAR_P59_N9,MarabouError(Return code: 1),1.7145
+CIFAR_P35_N8,timeout,3600.021
+CIFAR_P83_N38,MarabouError(Return code: 1),1.2421
+CIFAR_P77_N17,timeout,3600.02
+CIFAR_P31_N30,MarabouError(Return code: 1),1.3474
+CIFAR_P50_N4,timeout,3600.033
+CIFAR_P17_N18,unsat,62.7356
+CIFAR_P97_N42,timeout,3600.02
+CIFAR_P43_N34,unsat,62.3317
+CIFAR_P11_N13,unsat,97.4596
+CIFAR_P20_N27,MarabouError(Return code: 1),1.1139
+CIFAR_P84_N2,outofmemory,71.722
+CIFAR_P67_N25,outofmemory,105.125
+CIFAR_P73_N22,MarabouError(Return code: 1),1.113
+CIFAR_P42_N4,timeout,3600.001
+CIFAR_P49_N45,MarabouError(Return code: 1),1.2372
+CIFAR_P48_N44,MarabouError(Return code: 1),1.3387
+CIFAR_P69_N14,MarabouError(Return code: 1),1.337
+CIFAR_P32_N34,unsat,64.0388
+CIFAR_P48_N30,MarabouError(Return code: 1),1.4363
+CIFAR_P90_N19,MarabouError(Return code: 1),1.2206
+CIFAR_P64_N1,MarabouError(Return code: 1),1.2235
+CIFAR_P81_N30,MarabouError(Return code: 1),1.3123
+CIFAR_P93_N20,MarabouError(Return code: 1),1.3236
+CIFAR_P60_N47,MarabouError(Return code: 1),1.188
+CIFAR_P9_N19,MarabouError(Return code: 1),1.2486
+CIFAR_P37_N43,MarabouError(Return code: 1),1.4031
+CIFAR_P33_N1,MarabouError(Return code: 1),1.3885
+CIFAR_P60_N20,MarabouError(Return code: 1),1.498
+CIFAR_P11_N7,MarabouError(Return code: 1),1.3341
+CIFAR_P19_N25,outofmemory,105.232
+CIFAR_P38_N47,MarabouError(Return code: 1),1.2465
+CIFAR_P33_N12,MarabouError(Return code: 1),1.2583
+CIFAR_P60_N17,timeout,3600.013
+CIFAR_P80_N42,timeout,3600.01
+CIFAR_P67_N13,unsat,100.2711
+CIFAR_P99_N43,MarabouError(Return code: 1),1.3105
+CIFAR_P90_N7,MarabouError(Return code: 1),1.3643
+CIFAR_P47_N17,timeout,3600.015
+CIFAR_P65_N4,timeout,3600.021
+CIFAR_P23_N19,MarabouError(Return code: 1),1.1441
+CIFAR_P28_N29,timeout,3600.005
+CIFAR_P8_N30,MarabouError(Return code: 1),1.3283
+CIFAR_P36_N20,MarabouError(Return code: 1),1.2073
+CIFAR_P54_N24,MarabouError(Return code: 1),1.3403
+CIFAR_P98_N26,MarabouError(Return code: 1),1.2832
+CIFAR_P39_N14,MarabouError(Return code: 1),1.359
+CIFAR_P71_N2,outofmemory,69.408
+CIFAR_P24_N37,MarabouError(Return code: 1),1.3224
+CIFAR_P77_N3,outofmemory,29.08
+CIFAR_P25_N6,MarabouError(Return code: 1),1.34
+CIFAR_P87_N38,MarabouError(Return code: 1),1.4337
+CIFAR_P83_N32,unsat,103.4951
+CIFAR_P37_N22,MarabouError(Return code: 1),1.1656
+CIFAR_P50_N23,MarabouError(Return code: 1),1.3782
+CIFAR_P76_N17,timeout,3600.01
+CIFAR_P40_N12,MarabouError(Return code: 1),1.2316
+CIFAR_P90_N28,MarabouError(Return code: 1),1.335
+CIFAR_P38_N24,MarabouError(Return code: 1),1.2377
+CIFAR_P72_N12,MarabouError(Return code: 1),1.2155
+CIFAR_P22_N30,MarabouError(Return code: 1),1.3595
+CIFAR_P28_N32,unsat,98.7788
+CIFAR_P94_N31,MarabouError(Return code: 1),1.2603
+CIFAR_P47_N38,MarabouError(Return code: 1),1.3773
+CIFAR_P61_N22,MarabouError(Return code: 1),1.1829
+CIFAR_P26_N35,MarabouError(Return code: 1),1.1144
+CIFAR_P44_N26,MarabouError(Return code: 1),1.36
+CIFAR_P39_N32,unsat,99.9856
+CIFAR_P46_N5,outofmemory,126.378
+CIFAR_P40_N42,timeout,3600.016
+CIFAR_P87_N44,MarabouError(Return code: 1),1.2527
+CIFAR_P39_N7,MarabouError(Return code: 1),1.2873
+CIFAR_P68_N35,MarabouError(Return code: 1),1.1668
+CIFAR_P10_N33,MarabouError(Return code: 1),1.3071
+CIFAR_P79_N2,outofmemory,71.754
+CIFAR_P53_N12,MarabouError(Return code: 1),1.1244
+CIFAR_P91_N25,outofmemory,109.646
+CIFAR_P15_N28,MarabouError(Return code: 1),1.3603
+CIFAR_P5_N25,outofmemory,109.034
+CIFAR_P5_N32,unsat,99.0401
+CIFAR_P64_N38,MarabouError(Return code: 1),1.3669
+CIFAR_P6_N17,timeout,3600.006
+CIFAR_P30_N27,MarabouError(Return code: 1),1.0788
+CIFAR_P53_N30,MarabouError(Return code: 1),1.3718
+CIFAR_P47_N4,timeout,3600.016
+CIFAR_P41_N27,MarabouError(Return code: 1),1.0889
+CIFAR_P84_N25,outofmemory,108.788
+CIFAR_P93_N31,MarabouError(Return code: 1),1.3135
+CIFAR_P57_N43,MarabouError(Return code: 1),1.2408
+CIFAR_P99_N14,MarabouError(Return code: 1),1.3339
+CIFAR_P69_N3,outofmemory,30.148
+CIFAR_P4_N14,MarabouError(Return code: 1),1.3801
+CIFAR_P80_N32,unsat,101.9723
+CIFAR_P49_N6,MarabouError(Return code: 1),1.2856
+CIFAR_P65_N12,MarabouError(Return code: 1),1.2063
+CIFAR_P81_N2,outofmemory,72.742
+CIFAR_P74_N6,MarabouError(Return code: 1),1.3241
+CIFAR_P17_N1,MarabouError(Return code: 1),1.3252
+CIFAR_P60_N30,MarabouError(Return code: 1),1.3212
+CIFAR_P80_N43,MarabouError(Return code: 1),1.4253
+CIFAR_P17_N26,MarabouError(Return code: 1),1.2394
+CIFAR_P98_N46,MarabouError(Return code: 1),1.5588
+CIFAR_P40_N32,unsat,102.2505
+CIFAR_P50_N34,unsat,63.4392
+CIFAR_P67_N28,MarabouError(Return code: 1),1.3672
+CIFAR_P77_N5,outofmemory,114.906
+CIFAR_P16_N13,unsat,102.4516
+CIFAR_P16_N31,MarabouError(Return code: 1),1.4927
+CIFAR_P59_N21,MarabouError(Return code: 1),1.2612
+CIFAR_P67_N23,MarabouError(Return code: 1),1.2768
+CIFAR_P95_N15,outofmemory,71.033
+CIFAR_P22_N16,MarabouError(Return code: 1),1.346
+CIFAR_P35_N29,timeout,3600.014
+CIFAR_P44_N25,outofmemory,115.177
+CIFAR_P26_N1,MarabouError(Return code: 1),1.3314
+CIFAR_P31_N29,timeout,3600.012
+CIFAR_P90_N6,MarabouError(Return code: 1),1.3287
+CIFAR_P10_N26,MarabouError(Return code: 1),1.3813
+CIFAR_P26_N22,MarabouError(Return code: 1),1.2559
+CIFAR_P47_N7,MarabouError(Return code: 1),1.452
+CIFAR_P76_N29,timeout,3600.005
+CIFAR_P90_N13,unsat,101.6916
+CIFAR_P73_N13,unsat,100.5116
+CIFAR_P17_N44,MarabouError(Return code: 1),1.2289
+CIFAR_P50_N41,MarabouError(Return code: 1),1.3292
+CIFAR_P60_N32,unsat,98.8446
+CIFAR_P70_N3,outofmemory,30.827
+CIFAR_P9_N9,MarabouError(Return code: 1),1.7668
+CIFAR_P35_N6,MarabouError(Return code: 1),1.3804
+CIFAR_P68_N5,outofmemory,109.069
+CIFAR_P1_N1,MarabouError(Return code: 1),1.2999
+CIFAR_P40_N3,outofmemory,30.615
+CIFAR_P16_N2,outofmemory,68.498
+CIFAR_P20_N22,MarabouError(Return code: 1),1.1951
+CIFAR_P71_N35,MarabouError(Return code: 1),1.1703
+CIFAR_P74_N19,MarabouError(Return code: 1),1.3247
+CIFAR_P76_N19,MarabouError(Return code: 1),1.1888
+CIFAR_P94_N34,unsat,62.7721
+CIFAR_P51_N37,MarabouError(Return code: 1),1.2228
+CIFAR_P76_N15,outofmemory,71.414
+CIFAR_P68_N46,MarabouError(Return code: 1),1.3428
+CIFAR_P78_N28,MarabouError(Return code: 1),1.3511
+CIFAR_P62_N21,MarabouError(Return code: 1),1.2914
+CIFAR_P64_N42,timeout,3600.015
+CIFAR_P86_N33,MarabouError(Return code: 1),1.2999
+CIFAR_P65_N46,MarabouError(Return code: 1),1.2168
+CIFAR_P47_N12,MarabouError(Return code: 1),1.0801
+CIFAR_P85_N32,unsat,101.3723
+CIFAR_P17_N6,MarabouError(Return code: 1),1.2703
+CIFAR_P53_N2,outofmemory,76.666
+CIFAR_P91_N24,MarabouError(Return code: 1),1.3687
+CIFAR_P15_N24,MarabouError(Return code: 1),1.2911
+CIFAR_P27_N27,MarabouError(Return code: 1),1.1988
+CIFAR_P86_N38,MarabouError(Return code: 1),1.2833
+CIFAR_P28_N25,outofmemory,110.693
+CIFAR_P28_N34,unsat,62.7294
+CIFAR_P33_N14,MarabouError(Return code: 1),1.3227
+CIFAR_P10_N31,MarabouError(Return code: 1),1.3683
+CIFAR_P61_N41,MarabouError(Return code: 1),1.2757
+CIFAR_P94_N25,outofmemory,109.522
+CIFAR_P8_N20,MarabouError(Return code: 1),1.3102
+CIFAR_P10_N41,MarabouError(Return code: 1),1.3372
+CIFAR_P66_N20,MarabouError(Return code: 1),1.349
+CIFAR_P60_N45,MarabouError(Return code: 1),1.2798
+CIFAR_P69_N38,MarabouError(Return code: 1),1.4171
+CIFAR_P28_N41,MarabouError(Return code: 1),1.371
+CIFAR_P16_N6,MarabouError(Return code: 1),1.2947
+CIFAR_P63_N13,unsat,103.1263
+CIFAR_P68_N3,outofmemory,31.014
+CIFAR_P66_N42,timeout,3600.009
+CIFAR_P8_N34,unsat,63.5889
+CIFAR_P15_N18,unsat,65.1231
+CIFAR_P62_N47,MarabouError(Return code: 1),1.146
+CIFAR_P81_N23,MarabouError(Return code: 1),1.2182
+CIFAR_P88_N21,MarabouError(Return code: 1),1.3045
+CIFAR_P88_N24,MarabouError(Return code: 1),1.2294
+CIFAR_P79_N14,MarabouError(Return code: 1),1.393
+CIFAR_P34_N14,MarabouError(Return code: 1),1.2528
+CIFAR_P13_N30,MarabouError(Return code: 1),1.4431
+CIFAR_P15_N22,MarabouError(Return code: 1),1.2015
+CIFAR_P81_N7,MarabouError(Return code: 1),1.3225
+CIFAR_P4_N2,outofmemory,70.672
+CIFAR_P29_N5,outofmemory,105.042
+CIFAR_P51_N32,unsat,98.8808
+CIFAR_P98_N15,outofmemory,70.808
+CIFAR_P50_N33,MarabouError(Return code: 1),1.3151
+CIFAR_P58_N44,MarabouError(Return code: 1),1.2724
+CIFAR_P26_N47,MarabouError(Return code: 1),1.0763
+CIFAR_P2_N6,MarabouError(Return code: 1),1.3374
+CIFAR_P93_N46,MarabouError(Return code: 1),1.3446
+CIFAR_P43_N8,timeout,3600.02
+CIFAR_P3_N6,MarabouError(Return code: 1),1.3472
+CIFAR_P25_N26,MarabouError(Return code: 1),1.1975
+CIFAR_P2_N20,MarabouError(Return code: 1),1.2642
+CIFAR_P76_N33,MarabouError(Return code: 1),1.3065
+CIFAR_P85_N26,MarabouError(Return code: 1),1.1977
+CIFAR_P92_N4,timeout,3600.009
+CIFAR_P33_N32,unsat,98.5936
+CIFAR_P40_N15,outofmemory,78.324
+CIFAR_P53_N29,timeout,3600.009
+CIFAR_P39_N34,unsat,63.3252
+CIFAR_P24_N26,MarabouError(Return code: 1),1.331
+CIFAR_P71_N41,MarabouError(Return code: 1),1.3609
+CIFAR_P24_N12,MarabouError(Return code: 1),1.1647
+CIFAR_P74_N45,MarabouError(Return code: 1),1.4472
+CIFAR_P84_N9,MarabouError(Return code: 1),1.7739
+CIFAR_P92_N25,outofmemory,107.968
+CIFAR_P73_N14,MarabouError(Return code: 1),1.2781
+CIFAR_P93_N15,outofmemory,75.044
+CIFAR_P29_N4,timeout,3600.001
+CIFAR_P96_N6,MarabouError(Return code: 1),1.3977
+CIFAR_P2_N42,timeout,3600.012
+CIFAR_P18_N41,MarabouError(Return code: 1),1.3652
+CIFAR_P6_N44,MarabouError(Return code: 1),1.3271
+CIFAR_P43_N9,MarabouError(Return code: 1),1.8563
+CIFAR_P44_N20,MarabouError(Return code: 1),1.254
+CIFAR_P45_N29,timeout,3600.013
+CIFAR_P39_N2,outofmemory,71.77
+CIFAR_P69_N7,MarabouError(Return code: 1),1.2801
+CIFAR_P34_N45,MarabouError(Return code: 1),1.2811
+CIFAR_P59_N2,outofmemory,69.885
+CIFAR_P73_N16,MarabouError(Return code: 1),1.2071
+CIFAR_P66_N2,outofmemory,69.078
+CIFAR_P7_N8,timeout,3600.007
+CIFAR_P7_N15,outofmemory,71.363
+CIFAR_P8_N42,timeout,3600.023
+CIFAR_P73_N38,MarabouError(Return code: 1),1.2929
+CIFAR_P53_N3,outofmemory,30.851
+CIFAR_P45_N5,outofmemory,106.872
+CIFAR_P0_N14,MarabouError(Return code: 1),1.2537
+CIFAR_P67_N21,MarabouError(Return code: 1),1.261
+CIFAR_P22_N6,MarabouError(Return code: 1),1.2882
+CIFAR_P74_N9,MarabouError(Return code: 1),1.7615
+CIFAR_P79_N47,MarabouError(Return code: 1),1.1592
+CIFAR_P19_N37,MarabouError(Return code: 1),1.1855
+CIFAR_P61_N30,MarabouError(Return code: 1),1.2727
+CIFAR_P62_N22,MarabouError(Return code: 1),1.1405
+CIFAR_P93_N38,MarabouError(Return code: 1),1.346
+CIFAR_P5_N34,unsat,64.0562
+CIFAR_P68_N43,MarabouError(Return code: 1),1.3333
+CIFAR_P44_N16,MarabouError(Return code: 1),1.0914
+CIFAR_P10_N27,MarabouError(Return code: 1),1.0854
+CIFAR_P0_N15,outofmemory,75.298
+CIFAR_P85_N19,MarabouError(Return code: 1),1.145
+CIFAR_P38_N1,MarabouError(Return code: 1),1.2687
+CIFAR_P67_N5,outofmemory,105.393
+CIFAR_P92_N5,outofmemory,108.609
+CIFAR_P16_N33,MarabouError(Return code: 1),1.2855
+CIFAR_P64_N31,MarabouError(Return code: 1),1.3201
+CIFAR_P11_N9,MarabouError(Return code: 1),1.782
+CIFAR_P20_N23,MarabouError(Return code: 1),1.2935
+CIFAR_P69_N43,MarabouError(Return code: 1),1.3401
+CIFAR_P79_N23,MarabouError(Return code: 1),1.4597
+CIFAR_P10_N24,MarabouError(Return code: 1),1.3103
+CIFAR_P86_N9,MarabouError(Return code: 1),1.8633
+CIFAR_P62_N43,MarabouError(Return code: 1),1.3716
+CIFAR_P1_N4,timeout,3600.02
+CIFAR_P12_N30,MarabouError(Return code: 1),1.6065
+CIFAR_P61_N47,MarabouError(Return code: 1),1.2153
+CIFAR_P64_N16,MarabouError(Return code: 1),1.284
+CIFAR_P70_N2,outofmemory,71.615
+CIFAR_P75_N15,outofmemory,75.938
+CIFAR_P84_N35,MarabouError(Return code: 1),1.2651
+CIFAR_P7_N4,timeout,3600.003
+CIFAR_P21_N45,MarabouError(Return code: 1),1.3369
+CIFAR_P15_N33,MarabouError(Return code: 1),1.4453
+CIFAR_P60_N26,MarabouError(Return code: 1),1.3427
+CIFAR_P55_N18,unsat,63.4699
+CIFAR_P72_N20,MarabouError(Return code: 1),1.2711
+CIFAR_P40_N21,MarabouError(Return code: 1),1.3682
+CIFAR_P7_N17,timeout,3600.016
+CIFAR_P26_N34,unsat,63.6552
+CIFAR_P67_N8,timeout,3600.002
+CIFAR_P14_N1,MarabouError(Return code: 1),1.2701
+CIFAR_P44_N3,outofmemory,32.7
+CIFAR_P6_N32,unsat,99.4729
+CIFAR_P50_N3,outofmemory,30.256
+CIFAR_P66_N45,MarabouError(Return code: 1),1.2868
+CIFAR_P69_N8,timeout,3600.008
+CIFAR_P83_N3,outofmemory,30.411
+CIFAR_P94_N46,MarabouError(Return code: 1),1.3842
+CIFAR_P42_N46,MarabouError(Return code: 1),1.3065
+CIFAR_P98_N24,MarabouError(Return code: 1),1.2341
+CIFAR_P5_N3,outofmemory,29.693
+CIFAR_P41_N15,outofmemory,72.458
+CIFAR_P82_N13,unsat,103.4415
+CIFAR_P76_N25,outofmemory,108.287
+CIFAR_P16_N46,MarabouError(Return code: 1),1.3514
+CIFAR_P0_N6,MarabouError(Return code: 1),1.3267
+CIFAR_P52_N19,MarabouError(Return code: 1),1.2967
+CIFAR_P54_N38,MarabouError(Return code: 1),1.3195
+CIFAR_P90_N32,unsat,98.9204
+CIFAR_P80_N19,MarabouError(Return code: 1),1.1783
+CIFAR_P73_N28,MarabouError(Return code: 1),1.346
+CIFAR_P70_N46,MarabouError(Return code: 1),1.2468
+CIFAR_P96_N12,MarabouError(Return code: 1),1.2756
+CIFAR_P31_N20,MarabouError(Return code: 1),1.3567
+CIFAR_P26_N21,MarabouError(Return code: 1),1.2906
+CIFAR_P95_N18,unsat,67.435
+CIFAR_P91_N44,MarabouError(Return code: 1),1.6053
+CIFAR_P95_N44,MarabouError(Return code: 1),1.4035
+CIFAR_P61_N2,outofmemory,71.829
+CIFAR_P53_N35,MarabouError(Return code: 1),1.3697
+CIFAR_P92_N31,MarabouError(Return code: 1),1.3319
+CIFAR_P24_N16,MarabouError(Return code: 1),1.1964
+CIFAR_P58_N7,MarabouError(Return code: 1),1.2501
+CIFAR_P64_N18,unsat,63.8566
+CIFAR_P21_N2,outofmemory,76.147
+CIFAR_P73_N23,MarabouError(Return code: 1),1.3894
+CIFAR_P84_N26,MarabouError(Return code: 1),1.4889
+CIFAR_P94_N14,MarabouError(Return code: 1),1.3763
+CIFAR_P19_N14,MarabouError(Return code: 1),1.4393
+CIFAR_P50_N46,MarabouError(Return code: 1),1.5227
+CIFAR_P81_N29,timeout,3600.016
+CIFAR_P57_N46,MarabouError(Return code: 1),1.4125
+CIFAR_P38_N6,MarabouError(Return code: 1),1.4546
+CIFAR_P72_N17,timeout,3600.011
+CIFAR_P8_N4,timeout,3600.004
+CIFAR_P90_N33,MarabouError(Return code: 1),1.2383
+CIFAR_P24_N45,MarabouError(Return code: 1),1.3276
+CIFAR_P63_N41,MarabouError(Return code: 1),1.2762
+CIFAR_P57_N21,MarabouError(Return code: 1),1.2436
+CIFAR_P14_N9,MarabouError(Return code: 1),1.7298
+CIFAR_P39_N26,MarabouError(Return code: 1),1.2798
+CIFAR_P63_N47,MarabouError(Return code: 1),1.2482
+CIFAR_P89_N4,timeout,3600.023
+CIFAR_P84_N44,MarabouError(Return code: 1),1.2607
+CIFAR_P17_N46,MarabouError(Return code: 1),1.2414
+CIFAR_P46_N6,MarabouError(Return code: 1),1.4285
+CIFAR_P46_N43,MarabouError(Return code: 1),1.324
+CIFAR_P38_N13,unsat,101.0219
+CIFAR_P25_N28,MarabouError(Return code: 1),1.2105
+CIFAR_P75_N28,MarabouError(Return code: 1),1.3067
+CIFAR_P27_N28,MarabouError(Return code: 1),1.276
+CIFAR_P22_N28,MarabouError(Return code: 1),1.249
+CIFAR_P57_N45,MarabouError(Return code: 1),1.2141
+CIFAR_P83_N45,MarabouError(Return code: 1),1.3561
+CIFAR_P86_N32,unsat,101.3162
+CIFAR_P72_N19,MarabouError(Return code: 1),1.1504
+CIFAR_P41_N32,unsat,99.2791
+CIFAR_P12_N13,unsat,102.2268
+CIFAR_P5_N23,MarabouError(Return code: 1),1.3103
+CIFAR_P81_N21,MarabouError(Return code: 1),1.318
+CIFAR_P18_N32,unsat,100.9043
+CIFAR_P31_N44,MarabouError(Return code: 1),1.3849
+CIFAR_P37_N24,MarabouError(Return code: 1),1.277
+CIFAR_P87_N43,MarabouError(Return code: 1),1.3762
+CIFAR_P76_N45,MarabouError(Return code: 1),1.3424
+CIFAR_P31_N17,timeout,3600.018
+CIFAR_P57_N34,unsat,62.7345
+CIFAR_P55_N9,MarabouError(Return code: 1),1.8325
+CIFAR_P66_N28,MarabouError(Return code: 1),1.2936
+CIFAR_P89_N44,MarabouError(Return code: 1),1.3792
+CIFAR_P74_N29,timeout,3600.01
+CIFAR_P40_N1,MarabouError(Return code: 1),1.4132
+CIFAR_P68_N12,MarabouError(Return code: 1),1.1568
+CIFAR_P34_N31,MarabouError(Return code: 1),1.3235
+CIFAR_P85_N17,timeout,3600.013
+CIFAR_P86_N6,MarabouError(Return code: 1),1.3751
+CIFAR_P19_N33,MarabouError(Return code: 1),1.2871
+CIFAR_P27_N9,MarabouError(Return code: 1),1.7812
+CIFAR_P18_N8,timeout,3600.004
+CIFAR_P73_N35,MarabouError(Return code: 1),1.1605
+CIFAR_P51_N33,MarabouError(Return code: 1),1.2863
+CIFAR_P8_N17,timeout,3600.024
+CIFAR_P30_N45,MarabouError(Return code: 1),1.2931
+CIFAR_P38_N12,MarabouError(Return code: 1),1.0876
+CIFAR_P60_N23,MarabouError(Return code: 1),1.2956
+CIFAR_P97_N16,MarabouError(Return code: 1),1.0985
+CIFAR_P65_N9,MarabouError(Return code: 1),1.808
+CIFAR_P30_N34,unsat,61.9531
+CIFAR_P45_N27,MarabouError(Return code: 1),1.1018
+CIFAR_P81_N43,MarabouError(Return code: 1),1.2026
+CIFAR_P76_N41,MarabouError(Return code: 1),1.2069
+CIFAR_P94_N21,MarabouError(Return code: 1),1.3508
+CIFAR_P21_N27,MarabouError(Return code: 1),1.0839
+CIFAR_P21_N13,unsat,99.4885
+CIFAR_P86_N30,MarabouError(Return code: 1),1.372
+CIFAR_P74_N21,MarabouError(Return code: 1),1.3249
+CIFAR_P15_N23,MarabouError(Return code: 1),1.3158
+CIFAR_P26_N3,outofmemory,31.837
+CIFAR_P69_N22,MarabouError(Return code: 1),1.1694
+CIFAR_P65_N42,timeout,3600.019
+CIFAR_P79_N32,unsat,97.9588
+CIFAR_P96_N5,outofmemory,109.231
+CIFAR_P29_N19,MarabouError(Return code: 1),1.147
+CIFAR_P25_N15,outofmemory,82.488
+CIFAR_P46_N25,outofmemory,115.07
+CIFAR_P92_N22,MarabouError(Return code: 1),1.1557
+CIFAR_P26_N25,outofmemory,115.535
+CIFAR_P68_N19,MarabouError(Return code: 1),1.2421
+CIFAR_P78_N41,MarabouError(Return code: 1),1.3259
+CIFAR_P39_N42,timeout,3600.021
+CIFAR_P7_N7,MarabouError(Return code: 1),1.3338
+CIFAR_P20_N9,MarabouError(Return code: 1),1.687
+CIFAR_P35_N23,MarabouError(Return code: 1),1.2697
+CIFAR_P69_N1,MarabouError(Return code: 1),1.322
+CIFAR_P18_N45,MarabouError(Return code: 1),1.3288
+CIFAR_P44_N5,outofmemory,123.695
+CIFAR_P66_N31,MarabouError(Return code: 1),1.2316
+CIFAR_P37_N41,MarabouError(Return code: 1),1.3407
+CIFAR_P52_N34,unsat,63.4937
+CIFAR_P37_N27,MarabouError(Return code: 1),1.2785
+CIFAR_P73_N2,outofmemory,71.622
+CIFAR_P32_N2,outofmemory,74.768
+CIFAR_P71_N19,MarabouError(Return code: 1),1.3049
+CIFAR_P85_N2,outofmemory,76.121
+CIFAR_P23_N12,MarabouError(Return code: 1),1.2287
+CIFAR_P78_N24,MarabouError(Return code: 1),1.2816
+CIFAR_P82_N35,MarabouError(Return code: 1),1.1238
+CIFAR_P21_N16,MarabouError(Return code: 1),1.212
+CIFAR_P5_N38,MarabouError(Return code: 1),1.2306
+CIFAR_P91_N4,timeout,3600.019
+CIFAR_P93_N12,MarabouError(Return code: 1),1.1021
+CIFAR_P67_N33,MarabouError(Return code: 1),1.2702
+CIFAR_P95_N8,timeout,3600.011
+CIFAR_P90_N1,MarabouError(Return code: 1),1.2473
+CIFAR_P0_N2,outofmemory,71.033
+CIFAR_P15_N12,MarabouError(Return code: 1),1.1912
+CIFAR_P14_N21,MarabouError(Return code: 1),1.2906
+CIFAR_P15_N29,timeout,3600.02
+CIFAR_P71_N12,MarabouError(Return code: 1),1.1898
+CIFAR_P0_N12,MarabouError(Return code: 1),1.1654
+CIFAR_P55_N12,MarabouError(Return code: 1),1.3901
+CIFAR_P63_N15,outofmemory,70.249
+CIFAR_P95_N13,unsat,102.9036
+CIFAR_P43_N13,unsat,102.6599
+CIFAR_P27_N17,timeout,3600.01
+CIFAR_P77_N18,unsat,64.3315
+CIFAR_P81_N41,MarabouError(Return code: 1),1.2013
+CIFAR_P91_N20,MarabouError(Return code: 1),1.2356
+CIFAR_P83_N4,timeout,3600.003
+CIFAR_P72_N8,timeout,3600.016
+CIFAR_P6_N47,MarabouError(Return code: 1),1.1687
+CIFAR_P8_N44,MarabouError(Return code: 1),1.2177
+CIFAR_P16_N38,MarabouError(Return code: 1),1.3439
+CIFAR_P86_N43,MarabouError(Return code: 1),1.3769
+CIFAR_P59_N3,outofmemory,32.648
+CIFAR_P61_N23,MarabouError(Return code: 1),1.2138
+CIFAR_P19_N2,outofmemory,72.76
+CIFAR_P52_N2,outofmemory,68.733
+CIFAR_P80_N38,MarabouError(Return code: 1),1.2502
+CIFAR_P9_N42,timeout,3600.001
+CIFAR_P10_N17,timeout,3600.001
+CIFAR_P15_N27,MarabouError(Return code: 1),1.1419
+CIFAR_P23_N3,outofmemory,29.623
+CIFAR_P33_N33,MarabouError(Return code: 1),1.3556
+CIFAR_P45_N20,MarabouError(Return code: 1),1.3633
+CIFAR_P2_N28,MarabouError(Return code: 1),1.3151
+CIFAR_P6_N42,timeout,3600.007
+CIFAR_P87_N31,MarabouError(Return code: 1),1.2844
+CIFAR_P31_N27,MarabouError(Return code: 1),1.0969
+CIFAR_P67_N46,MarabouError(Return code: 1),1.3909
+CIFAR_P56_N15,outofmemory,69.263
+CIFAR_P41_N5,outofmemory,107.881
+CIFAR_P79_N29,timeout,3600.001
+CIFAR_P83_N12,MarabouError(Return code: 1),1.2071
+CIFAR_P81_N5,outofmemory,122.527
+CIFAR_P31_N26,MarabouError(Return code: 1),1.2631
+CIFAR_P67_N12,MarabouError(Return code: 1),1.1937
+CIFAR_P88_N23,MarabouError(Return code: 1),1.2825
+CIFAR_P18_N25,outofmemory,104.782
+CIFAR_P25_N4,timeout,3600.001
+CIFAR_P35_N38,MarabouError(Return code: 1),1.3017
+CIFAR_P71_N6,MarabouError(Return code: 1),1.394
+CIFAR_P64_N43,MarabouError(Return code: 1),1.2292
+CIFAR_P21_N12,MarabouError(Return code: 1),1.132
+CIFAR_P47_N24,MarabouError(Return code: 1),1.2999
+CIFAR_P51_N13,unsat,99.039
+CIFAR_P26_N31,MarabouError(Return code: 1),1.3417
+CIFAR_P37_N44,MarabouError(Return code: 1),1.3108
+CIFAR_P9_N47,MarabouError(Return code: 1),1.0964
+CIFAR_P82_N26,MarabouError(Return code: 1),1.2492
+CIFAR_P59_N25,outofmemory,106.578
+CIFAR_P40_N33,MarabouError(Return code: 1),1.2872
+CIFAR_P85_N27,MarabouError(Return code: 1),1.1488
+CIFAR_P48_N29,timeout,3600.001
+CIFAR_P54_N25,outofmemory,106.117
+CIFAR_P92_N32,unsat,100.1129
+CIFAR_P78_N4,timeout,3600.006
+CIFAR_P28_N26,MarabouError(Return code: 1),1.3584
+CIFAR_P89_N34,unsat,63.0967
+CIFAR_P20_N42,timeout,3600.023
+CIFAR_P31_N37,MarabouError(Return code: 1),1.2272
+CIFAR_P2_N4,timeout,3600.02
+CIFAR_P28_N22,MarabouError(Return code: 1),1.1935
+CIFAR_P37_N14,MarabouError(Return code: 1),1.3867
+CIFAR_P38_N38,MarabouError(Return code: 1),1.3493
+CIFAR_P92_N19,MarabouError(Return code: 1),1.3566
+CIFAR_P11_N42,timeout,3600.006
+CIFAR_P29_N45,MarabouError(Return code: 1),1.408
+CIFAR_P35_N25,outofmemory,109.114
+CIFAR_P75_N29,timeout,3600.019
+CIFAR_P81_N15,outofmemory,72.433
+CIFAR_P88_N13,unsat,100.5235
+CIFAR_P94_N20,MarabouError(Return code: 1),1.2485
+CIFAR_P16_N8,timeout,3600.016
+CIFAR_P60_N12,MarabouError(Return code: 1),1.1845
+CIFAR_P68_N42,timeout,3600.006
+CIFAR_P58_N17,timeout,3600.013
+CIFAR_P47_N13,unsat,99.1954
+CIFAR_P14_N31,MarabouError(Return code: 1),1.2856
+CIFAR_P27_N1,MarabouError(Return code: 1),1.3235
+CIFAR_P56_N29,timeout,3600.002
+CIFAR_P55_N32,unsat,104.9979
+CIFAR_P5_N41,MarabouError(Return code: 1),1.3235
+CIFAR_P30_N25,outofmemory,110.812
+CIFAR_P12_N44,MarabouError(Return code: 1),1.2412
+CIFAR_P61_N26,MarabouError(Return code: 1),1.3364
+CIFAR_P36_N35,MarabouError(Return code: 1),1.2492
+CIFAR_P35_N15,outofmemory,71.307
+CIFAR_P67_N34,unsat,63.2777
+CIFAR_P82_N42,timeout,3600.004
+CIFAR_P36_N43,MarabouError(Return code: 1),1.2649
+CIFAR_P36_N38,MarabouError(Return code: 1),1.3553
+CIFAR_P4_N41,MarabouError(Return code: 1),1.3507
+CIFAR_P83_N34,unsat,63.0916
+CIFAR_P39_N29,timeout,3600.014
+CIFAR_P51_N4,timeout,3600.021
+CIFAR_P95_N38,MarabouError(Return code: 1),1.2416
+CIFAR_P94_N2,outofmemory,70.647
+CIFAR_P68_N6,MarabouError(Return code: 1),1.3868
+CIFAR_P58_N41,MarabouError(Return code: 1),1.1917
+CIFAR_P61_N28,MarabouError(Return code: 1),1.3999
+CIFAR_P78_N32,unsat,97.6992
+CIFAR_P22_N7,MarabouError(Return code: 1),1.3226
+CIFAR_P36_N25,outofmemory,108.051
+CIFAR_P76_N20,MarabouError(Return code: 1),1.2166
+CIFAR_P52_N13,unsat,99.8008
+CIFAR_P87_N1,MarabouError(Return code: 1),1.4126
+CIFAR_P83_N9,MarabouError(Return code: 1),1.6872
+CIFAR_P1_N9,MarabouError(Return code: 1),1.8517
+CIFAR_P41_N7,MarabouError(Return code: 1),1.2809
+CIFAR_P80_N13,unsat,104.9652
+CIFAR_P34_N18,unsat,64.1084
+CIFAR_P69_N19,MarabouError(Return code: 1),1.1831
+CIFAR_P82_N14,MarabouError(Return code: 1),1.4713
+CIFAR_P90_N5,outofmemory,107.182
+CIFAR_P23_N29,timeout,3600.009
+CIFAR_P34_N12,MarabouError(Return code: 1),1.2
+CIFAR_P11_N4,timeout,3600.02
+CIFAR_P1_N43,MarabouError(Return code: 1),1.3891
+CIFAR_P69_N9,MarabouError(Return code: 1),1.742
+CIFAR_P32_N13,unsat,99.9852
+CIFAR_P99_N26,MarabouError(Return code: 1),1.2762
+CIFAR_P19_N29,timeout,3600.012
+CIFAR_P93_N24,MarabouError(Return code: 1),1.3054
+CIFAR_P32_N42,timeout,3600.014
+CIFAR_P96_N14,MarabouError(Return code: 1),1.3822
+CIFAR_P24_N14,MarabouError(Return code: 1),1.2524
+CIFAR_P67_N16,MarabouError(Return code: 1),1.2784
+CIFAR_P4_N30,MarabouError(Return code: 1),1.3522
+CIFAR_P27_N22,MarabouError(Return code: 1),1.1503
+CIFAR_P48_N47,MarabouError(Return code: 1),1.113
+CIFAR_P55_N37,MarabouError(Return code: 1),1.2339
+CIFAR_P97_N4,timeout,3600.021
+CIFAR_P46_N29,timeout,3600.021
+CIFAR_P49_N16,MarabouError(Return code: 1),1.1271
+CIFAR_P4_N7,MarabouError(Return code: 1),1.3307
+CIFAR_P33_N7,MarabouError(Return code: 1),1.2686
+CIFAR_P91_N32,unsat,100.2884
+CIFAR_P3_N37,MarabouError(Return code: 1),1.2603
+CIFAR_P28_N43,MarabouError(Return code: 1),1.2543
+CIFAR_P44_N2,outofmemory,69.202
+CIFAR_P71_N9,MarabouError(Return code: 1),1.7393
+CIFAR_P29_N20,MarabouError(Return code: 1),1.2647
+CIFAR_P65_N43,MarabouError(Return code: 1),1.346
+CIFAR_P72_N41,MarabouError(Return code: 1),1.3972
+CIFAR_P61_N15,outofmemory,72.698
+CIFAR_P81_N20,MarabouError(Return code: 1),1.2215
+CIFAR_P21_N9,MarabouError(Return code: 1),1.7583
+CIFAR_P81_N46,MarabouError(Return code: 1),1.2614
+CIFAR_P60_N28,MarabouError(Return code: 1),1.2562
+CIFAR_P64_N9,MarabouError(Return code: 1),1.7038
+CIFAR_P56_N2,outofmemory,68.893
+CIFAR_P2_N8,timeout,3600.006
+CIFAR_P8_N15,outofmemory,69.209
+CIFAR_P50_N6,MarabouError(Return code: 1),1.295
+CIFAR_P9_N1,MarabouError(Return code: 1),1.3322
+CIFAR_P33_N35,MarabouError(Return code: 1),1.1807
+CIFAR_P36_N27,MarabouError(Return code: 1),1.0654
+CIFAR_P51_N47,MarabouError(Return code: 1),1.1223
+CIFAR_P46_N3,outofmemory,29.83
+CIFAR_P9_N33,MarabouError(Return code: 1),1.3667
+CIFAR_P18_N7,MarabouError(Return code: 1),1.2931
+CIFAR_P21_N28,MarabouError(Return code: 1),1.2417
+CIFAR_P60_N19,MarabouError(Return code: 1),1.2505
+CIFAR_P88_N45,MarabouError(Return code: 1),1.2654
+CIFAR_P71_N13,unsat,97.5526
+CIFAR_P43_N46,MarabouError(Return code: 1),1.2954
+CIFAR_P63_N12,MarabouError(Return code: 1),1.0892
+CIFAR_P99_N29,timeout,3600.01
+CIFAR_P40_N5,outofmemory,124.663
+CIFAR_P96_N19,MarabouError(Return code: 1),1.2636
+CIFAR_P98_N28,MarabouError(Return code: 1),1.3963
+CIFAR_P23_N45,MarabouError(Return code: 1),1.3944
+CIFAR_P39_N24,MarabouError(Return code: 1),1.2269
+CIFAR_P74_N17,timeout,3600.018
+CIFAR_P91_N35,MarabouError(Return code: 1),1.1452
+CIFAR_P26_N7,MarabouError(Return code: 1),1.2661
+CIFAR_P49_N9,MarabouError(Return code: 1),1.7355
+CIFAR_P62_N15,outofmemory,68.899
+CIFAR_P79_N12,MarabouError(Return code: 1),1.2089
+CIFAR_P35_N18,unsat,63.36
+CIFAR_P92_N28,MarabouError(Return code: 1),1.1934
+CIFAR_P93_N26,MarabouError(Return code: 1),1.3314
+CIFAR_P5_N13,unsat,98.545
+CIFAR_P16_N21,MarabouError(Return code: 1),1.3117
+CIFAR_P17_N7,MarabouError(Return code: 1),1.3664
+CIFAR_P40_N41,MarabouError(Return code: 1),1.246
+CIFAR_P65_N2,outofmemory,69.968
+CIFAR_P88_N14,MarabouError(Return code: 1),1.2307
+CIFAR_P39_N3,outofmemory,30.897
+CIFAR_P13_N1,MarabouError(Return code: 1),1.3262
+CIFAR_P58_N16,MarabouError(Return code: 1),1.2311
+CIFAR_P30_N7,MarabouError(Return code: 1),1.3937
+CIFAR_P60_N37,MarabouError(Return code: 1),1.2899
+CIFAR_P0_N4,timeout,3600.011
+CIFAR_P44_N31,MarabouError(Return code: 1),1.3549
+CIFAR_P85_N5,outofmemory,107.808
+CIFAR_P65_N41,MarabouError(Return code: 1),1.2409
+CIFAR_P85_N31,MarabouError(Return code: 1),1.3293
+CIFAR_P79_N16,MarabouError(Return code: 1),1.1123
+CIFAR_P5_N30,MarabouError(Return code: 1),1.4118
+CIFAR_P17_N13,unsat,101.9852
+CIFAR_P19_N30,MarabouError(Return code: 1),1.4384
+CIFAR_P68_N20,MarabouError(Return code: 1),1.2954
+CIFAR_P84_N42,timeout,3600.009
+CIFAR_P5_N20,MarabouError(Return code: 1),1.3248
+CIFAR_P53_N8,timeout,3600.006
+CIFAR_P87_N16,MarabouError(Return code: 1),1.1051
+CIFAR_P24_N29,timeout,3600.003
+CIFAR_P45_N3,outofmemory,29.559
+CIFAR_P56_N16,MarabouError(Return code: 1),1.2174
+CIFAR_P9_N7,MarabouError(Return code: 1),1.2775
+CIFAR_P28_N28,MarabouError(Return code: 1),1.3136
+CIFAR_P86_N15,outofmemory,72.286
+CIFAR_P92_N46,MarabouError(Return code: 1),1.3644
+CIFAR_P17_N12,MarabouError(Return code: 1),1.1537
+CIFAR_P98_N13,unsat,99.1625
+CIFAR_P11_N25,outofmemory,115.559
+CIFAR_P15_N8,timeout,3600.013
+CIFAR_P81_N38,MarabouError(Return code: 1),1.3092
+CIFAR_P68_N25,outofmemory,123.838
+CIFAR_P19_N12,MarabouError(Return code: 1),1.1662
+CIFAR_P42_N24,MarabouError(Return code: 1),1.3307
+CIFAR_P33_N28,MarabouError(Return code: 1),1.3312
+CIFAR_P64_N5,outofmemory,105.707
+CIFAR_P63_N21,MarabouError(Return code: 1),1.2425
+CIFAR_P90_N44,MarabouError(Return code: 1),1.2284
+CIFAR_P23_N43,MarabouError(Return code: 1),1.2214
+CIFAR_P46_N20,MarabouError(Return code: 1),1.2976
+CIFAR_P23_N31,MarabouError(Return code: 1),1.3227
+CIFAR_P68_N14,MarabouError(Return code: 1),1.332
+CIFAR_P20_N25,outofmemory,104.524
+CIFAR_P43_N4,timeout,3600.019
+CIFAR_P63_N35,MarabouError(Return code: 1),1.204
+CIFAR_P90_N3,outofmemory,33.137
+CIFAR_P3_N41,MarabouError(Return code: 1),1.3149
+CIFAR_P4_N21,MarabouError(Return code: 1),1.4113
+CIFAR_P50_N25,outofmemory,111.678
+CIFAR_P84_N3,outofmemory,29.892
+CIFAR_P78_N17,timeout,3600.021
+CIFAR_P84_N15,outofmemory,71.164
+CIFAR_P14_N13,unsat,99.9872
+CIFAR_P11_N47,MarabouError(Return code: 1),1.1045
+CIFAR_P16_N30,MarabouError(Return code: 1),1.2784
+CIFAR_P13_N33,MarabouError(Return code: 1),1.3829
+CIFAR_P48_N20,MarabouError(Return code: 1),1.3209
+CIFAR_P18_N33,MarabouError(Return code: 1),1.2827
+CIFAR_P59_N32,unsat,102.3371
+CIFAR_P82_N19,MarabouError(Return code: 1),1.1566
+CIFAR_P10_N45,MarabouError(Return code: 1),1.3838
+CIFAR_P9_N24,MarabouError(Return code: 1),1.2694
+CIFAR_P45_N21,MarabouError(Return code: 1),1.5
+CIFAR_P65_N15,outofmemory,70.261
+CIFAR_P26_N18,unsat,63.4239
+CIFAR_P50_N21,MarabouError(Return code: 1),1.2933
+CIFAR_P52_N1,MarabouError(Return code: 1),1.3732
+CIFAR_P58_N8,timeout,3600.022
+CIFAR_P68_N41,MarabouError(Return code: 1),1.2274
+CIFAR_P4_N19,MarabouError(Return code: 1),1.1828
+CIFAR_P79_N7,MarabouError(Return code: 1),1.2876
+CIFAR_P15_N47,MarabouError(Return code: 1),1.3399
+CIFAR_P55_N41,MarabouError(Return code: 1),1.263
+CIFAR_P59_N8,timeout,3600.021
+CIFAR_P39_N31,MarabouError(Return code: 1),1.4263
+CIFAR_P82_N22,MarabouError(Return code: 1),1.151
+CIFAR_P71_N26,MarabouError(Return code: 1),1.2774
+CIFAR_P14_N42,timeout,3600.015
+CIFAR_P2_N18,unsat,63.3075
+CIFAR_P85_N43,MarabouError(Return code: 1),1.3202
+CIFAR_P3_N23,MarabouError(Return code: 1),1.3133
+CIFAR_P20_N13,unsat,98.8361
+CIFAR_P24_N32,unsat,103.5519
+CIFAR_P35_N28,MarabouError(Return code: 1),1.3793
+CIFAR_P77_N35,MarabouError(Return code: 1),1.1957
+CIFAR_P94_N7,MarabouError(Return code: 1),1.2901
+CIFAR_P99_N22,MarabouError(Return code: 1),1.1677
+CIFAR_P33_N25,outofmemory,113.843
+CIFAR_P45_N35,MarabouError(Return code: 1),1.1008
+CIFAR_P60_N13,unsat,98.8531
+CIFAR_P83_N24,MarabouError(Return code: 1),1.2541
+CIFAR_P42_N43,MarabouError(Return code: 1),1.208
+CIFAR_P29_N17,timeout,3600.008
+CIFAR_P92_N24,MarabouError(Return code: 1),1.2803
+CIFAR_P54_N45,MarabouError(Return code: 1),1.2311
+CIFAR_P78_N16,MarabouError(Return code: 1),1.1597
+CIFAR_P91_N15,outofmemory,71.428
+CIFAR_P94_N44,MarabouError(Return code: 1),1.2744
+CIFAR_P96_N45,MarabouError(Return code: 1),1.3043
+CIFAR_P41_N9,MarabouError(Return code: 1),1.7255
+CIFAR_P7_N22,MarabouError(Return code: 1),1.3195
+CIFAR_P0_N7,MarabouError(Return code: 1),1.2301
+CIFAR_P63_N30,MarabouError(Return code: 1),1.3699
+CIFAR_P42_N15,outofmemory,70.003
+CIFAR_P12_N20,MarabouError(Return code: 1),1.331
+CIFAR_P85_N20,MarabouError(Return code: 1),1.2786
+CIFAR_P92_N18,unsat,63.6777
+CIFAR_P52_N29,timeout,3600.0
+CIFAR_P99_N8,timeout,3600.007
+CIFAR_P95_N23,MarabouError(Return code: 1),1.3249
+CIFAR_P10_N14,MarabouError(Return code: 1),1.2606
+CIFAR_P27_N24,MarabouError(Return code: 1),1.2373
+CIFAR_P26_N6,MarabouError(Return code: 1),1.4256
+CIFAR_P28_N6,MarabouError(Return code: 1),1.3726
+CIFAR_P31_N6,MarabouError(Return code: 1),1.4231
+CIFAR_P73_N25,outofmemory,110.921
+CIFAR_P70_N1,MarabouError(Return code: 1),1.2595
+CIFAR_P82_N47,MarabouError(Return code: 1),1.2396
+CIFAR_P13_N43,MarabouError(Return code: 1),1.2054
+CIFAR_P35_N24,MarabouError(Return code: 1),1.2664
+CIFAR_P84_N24,MarabouError(Return code: 1),1.2002
+CIFAR_P71_N30,MarabouError(Return code: 1),1.2636
+CIFAR_P78_N37,MarabouError(Return code: 1),1.2174
+CIFAR_P79_N17,timeout,3600.011
+CIFAR_P83_N25,outofmemory,103.705
+CIFAR_P30_N2,outofmemory,70.053
+CIFAR_P99_N25,outofmemory,111.388
+CIFAR_P26_N13,unsat,102.0972
+CIFAR_P86_N8,timeout,3600.011
+CIFAR_P50_N22,MarabouError(Return code: 1),1.2558
+CIFAR_P72_N27,MarabouError(Return code: 1),1.0685
+CIFAR_P56_N5,outofmemory,116.471
+CIFAR_P28_N33,MarabouError(Return code: 1),1.292
+CIFAR_P39_N21,MarabouError(Return code: 1),1.3772
+CIFAR_P49_N18,unsat,64.0755
+CIFAR_P99_N16,MarabouError(Return code: 1),1.2543
+CIFAR_P60_N14,MarabouError(Return code: 1),1.2698
+CIFAR_P93_N16,MarabouError(Return code: 1),1.2221
+CIFAR_P37_N47,MarabouError(Return code: 1),1.2382
+CIFAR_P92_N15,outofmemory,78.152
+CIFAR_P55_N23,MarabouError(Return code: 1),1.3077
+CIFAR_P85_N9,MarabouError(Return code: 1),1.977
+CIFAR_P75_N12,MarabouError(Return code: 1),1.1544
+CIFAR_P19_N43,MarabouError(Return code: 1),1.5021
+CIFAR_P23_N4,timeout,3600.013
+CIFAR_P63_N8,timeout,3600.006
+CIFAR_P23_N22,MarabouError(Return code: 1),1.4588
+CIFAR_P30_N37,MarabouError(Return code: 1),1.3104
+CIFAR_P47_N43,MarabouError(Return code: 1),1.3022
+CIFAR_P38_N43,MarabouError(Return code: 1),1.294
+CIFAR_P5_N4,timeout,3600.008
+CIFAR_P88_N37,MarabouError(Return code: 1),1.4232
+CIFAR_P8_N46,MarabouError(Return code: 1),1.3268
+CIFAR_P40_N19,MarabouError(Return code: 1),1.1627
+CIFAR_P39_N41,MarabouError(Return code: 1),1.2594
+CIFAR_P14_N30,MarabouError(Return code: 1),1.3323
+CIFAR_P89_N25,outofmemory,105.248
+CIFAR_P86_N28,MarabouError(Return code: 1),1.3372
+CIFAR_P42_N9,MarabouError(Return code: 1),1.691
+CIFAR_P38_N27,MarabouError(Return code: 1),1.1596
+CIFAR_P30_N23,MarabouError(Return code: 1),1.4189
+CIFAR_P24_N19,MarabouError(Return code: 1),1.309
+CIFAR_P88_N33,MarabouError(Return code: 1),1.4148
+CIFAR_P42_N1,MarabouError(Return code: 1),1.2576
+CIFAR_P59_N27,MarabouError(Return code: 1),1.08
+CIFAR_P51_N44,MarabouError(Return code: 1),1.3226
+CIFAR_P0_N5,outofmemory,105.986
+CIFAR_P3_N44,MarabouError(Return code: 1),1.2768
+CIFAR_P63_N6,MarabouError(Return code: 1),1.4053
+CIFAR_P51_N46,MarabouError(Return code: 1),1.3026
+CIFAR_P77_N32,unsat,100.2662
+CIFAR_P84_N47,MarabouError(Return code: 1),1.1329
+CIFAR_P85_N47,MarabouError(Return code: 1),1.3096
+CIFAR_P29_N43,MarabouError(Return code: 1),1.37
+CIFAR_P5_N46,MarabouError(Return code: 1),1.2905
+CIFAR_P25_N21,MarabouError(Return code: 1),1.3346
+CIFAR_P76_N18,unsat,63.1905
+CIFAR_P85_N25,outofmemory,110.144
+CIFAR_P69_N4,timeout,3600.009
+CIFAR_P17_N45,MarabouError(Return code: 1),1.2287
+CIFAR_P58_N5,outofmemory,105.783
+CIFAR_P49_N46,MarabouError(Return code: 1),1.2961
+CIFAR_P61_N29,timeout,3600.017
+CIFAR_P95_N33,MarabouError(Return code: 1),1.2498
+CIFAR_P6_N29,timeout,3600.02
+CIFAR_P14_N20,MarabouError(Return code: 1),1.271
+CIFAR_P82_N2,outofmemory,69.607
+CIFAR_P15_N4,timeout,3600.021
+CIFAR_P80_N18,unsat,62.132
+CIFAR_P27_N21,MarabouError(Return code: 1),1.2934
+CIFAR_P39_N15,outofmemory,69.366
+CIFAR_P22_N44,MarabouError(Return code: 1),1.229
+CIFAR_P54_N33,MarabouError(Return code: 1),1.3448
+CIFAR_P78_N26,MarabouError(Return code: 1),1.3113
+CIFAR_P42_N31,MarabouError(Return code: 1),1.2218
+CIFAR_P69_N35,MarabouError(Return code: 1),1.1458
+CIFAR_P89_N41,MarabouError(Return code: 1),1.4125
+CIFAR_P31_N45,MarabouError(Return code: 1),1.216
+CIFAR_P17_N47,MarabouError(Return code: 1),1.1501
+CIFAR_P11_N18,unsat,64.3849
+CIFAR_P51_N31,MarabouError(Return code: 1),1.2783
+CIFAR_P64_N46,MarabouError(Return code: 1),1.4034
+CIFAR_P46_N14,MarabouError(Return code: 1),1.3331
+CIFAR_P51_N30,MarabouError(Return code: 1),1.3307
+CIFAR_P83_N31,MarabouError(Return code: 1),1.3083
+CIFAR_P41_N41,MarabouError(Return code: 1),1.4713
+CIFAR_P83_N18,unsat,63.0288
+CIFAR_P57_N31,MarabouError(Return code: 1),1.1866
+CIFAR_P72_N21,MarabouError(Return code: 1),1.2283
+CIFAR_P38_N2,outofmemory,68.136
+CIFAR_P97_N5,outofmemory,106.489
+CIFAR_P42_N26,MarabouError(Return code: 1),1.2508
+CIFAR_P13_N41,MarabouError(Return code: 1),1.1915
+CIFAR_P51_N20,MarabouError(Return code: 1),1.287
+CIFAR_P65_N1,MarabouError(Return code: 1),1.2017
+CIFAR_P80_N27,MarabouError(Return code: 1),1.0948
+CIFAR_P5_N21,MarabouError(Return code: 1),1.2063
+CIFAR_P0_N20,MarabouError(Return code: 1),1.3096
+CIFAR_P3_N5,outofmemory,105.07
+CIFAR_P74_N34,unsat,62.9838
+CIFAR_P50_N9,MarabouError(Return code: 1),1.6864
+CIFAR_P38_N23,MarabouError(Return code: 1),1.2562
+CIFAR_P12_N12,MarabouError(Return code: 1),1.1718
+CIFAR_P97_N9,MarabouError(Return code: 1),1.7559
+CIFAR_P3_N42,timeout,3600.009
+CIFAR_P59_N6,MarabouError(Return code: 1),1.3342
+CIFAR_P20_N31,MarabouError(Return code: 1),1.2072
+CIFAR_P71_N3,outofmemory,29.553
+CIFAR_P83_N1,MarabouError(Return code: 1),1.4348
+CIFAR_P62_N6,MarabouError(Return code: 1),1.2813
+CIFAR_P10_N23,MarabouError(Return code: 1),1.3986
+CIFAR_P43_N28,MarabouError(Return code: 1),1.2493
+CIFAR_P25_N5,outofmemory,105.464
+CIFAR_P46_N22,MarabouError(Return code: 1),1.1647
+CIFAR_P37_N15,outofmemory,80.106
+CIFAR_P58_N28,MarabouError(Return code: 1),1.2796
+CIFAR_P46_N8,timeout,3600.01
+CIFAR_P50_N45,MarabouError(Return code: 1),1.3242
+CIFAR_P65_N28,MarabouError(Return code: 1),1.225
+CIFAR_P29_N1,MarabouError(Return code: 1),1.403
+CIFAR_P37_N28,MarabouError(Return code: 1),1.3451
+CIFAR_P47_N18,unsat,63.6907
+CIFAR_P28_N1,MarabouError(Return code: 1),1.2632
+CIFAR_P51_N29,timeout,3600.003
+CIFAR_P53_N24,MarabouError(Return code: 1),1.2858
+CIFAR_P22_N19,MarabouError(Return code: 1),1.1876
+CIFAR_P79_N5,outofmemory,108.237
+CIFAR_P87_N19,MarabouError(Return code: 1),1.1761
+CIFAR_P80_N26,MarabouError(Return code: 1),1.2631
+CIFAR_P28_N42,timeout,3600.012
+CIFAR_P81_N1,MarabouError(Return code: 1),1.2654
+CIFAR_P54_N3,outofmemory,29.887
+CIFAR_P61_N38,MarabouError(Return code: 1),1.3076
+CIFAR_P78_N25,outofmemory,110.115
+CIFAR_P26_N14,MarabouError(Return code: 1),1.342
+CIFAR_P33_N2,outofmemory,70.058
+CIFAR_P49_N33,MarabouError(Return code: 1),1.3229
+CIFAR_P60_N2,outofmemory,68.945
+CIFAR_P64_N8,timeout,3600.015
+CIFAR_P66_N29,timeout,3600.024
+CIFAR_P0_N35,MarabouError(Return code: 1),1.1694
+CIFAR_P28_N47,MarabouError(Return code: 1),1.1587
+CIFAR_P62_N42,timeout,3600.022
+CIFAR_P99_N35,MarabouError(Return code: 1),1.1393
+CIFAR_P21_N17,timeout,3600.005
+CIFAR_P31_N41,MarabouError(Return code: 1),1.2821
+CIFAR_P12_N24,MarabouError(Return code: 1),1.2288
+CIFAR_P0_N34,unsat,64.6393
+CIFAR_P33_N38,MarabouError(Return code: 1),1.2298
+CIFAR_P49_N12,MarabouError(Return code: 1),1.166
+CIFAR_P72_N13,unsat,97.9037
+CIFAR_P94_N33,MarabouError(Return code: 1),1.2905
+CIFAR_P26_N41,MarabouError(Return code: 1),1.3143
+CIFAR_P13_N18,unsat,62.2455
+CIFAR_P13_N42,timeout,3600.019
+CIFAR_P23_N20,MarabouError(Return code: 1),1.2707
+CIFAR_P38_N37,MarabouError(Return code: 1),1.3831
+CIFAR_P52_N25,outofmemory,111.005
+CIFAR_P79_N38,MarabouError(Return code: 1),1.4085
+CIFAR_P9_N38,MarabouError(Return code: 1),1.2372
+CIFAR_P48_N18,unsat,62.8171
+CIFAR_P45_N33,MarabouError(Return code: 1),1.3326
+CIFAR_P82_N12,MarabouError(Return code: 1),1.1626
+CIFAR_P98_N3,outofmemory,29.466
+CIFAR_P11_N16,MarabouError(Return code: 1),1.1422
+CIFAR_P54_N8,timeout,3600.017
+CIFAR_P97_N29,timeout,3600.009
+CIFAR_P18_N12,MarabouError(Return code: 1),1.1054
+CIFAR_P69_N29,timeout,3600.009
+CIFAR_P62_N3,outofmemory,29.943
+CIFAR_P73_N15,outofmemory,71.739
+CIFAR_P23_N38,MarabouError(Return code: 1),1.2865
+CIFAR_P25_N23,MarabouError(Return code: 1),1.271
+CIFAR_P60_N29,timeout,3600.01
+CIFAR_P82_N6,MarabouError(Return code: 1),1.3005
+CIFAR_P25_N12,MarabouError(Return code: 1),1.145
+CIFAR_P75_N45,MarabouError(Return code: 1),1.2904
+CIFAR_P51_N35,MarabouError(Return code: 1),1.2611
+CIFAR_P11_N41,MarabouError(Return code: 1),1.2293
+CIFAR_P64_N20,MarabouError(Return code: 1),1.3127
+CIFAR_P52_N20,MarabouError(Return code: 1),1.2854
+CIFAR_P24_N6,MarabouError(Return code: 1),1.3712
+CIFAR_P14_N8,timeout,3600.009
+CIFAR_P88_N31,MarabouError(Return code: 1),1.3115
+CIFAR_P79_N19,MarabouError(Return code: 1),1.1382
+CIFAR_P1_N32,unsat,99.0242
+CIFAR_P23_N42,timeout,3600.008
+CIFAR_P71_N31,MarabouError(Return code: 1),1.2688
+CIFAR_P61_N25,outofmemory,103.661
+CIFAR_P3_N21,MarabouError(Return code: 1),1.244
+CIFAR_P7_N41,MarabouError(Return code: 1),1.265
+CIFAR_P30_N29,timeout,3600.004
+CIFAR_P11_N26,MarabouError(Return code: 1),1.2596
+CIFAR_P28_N17,timeout,3600.005
+CIFAR_P36_N2,outofmemory,74.651
+CIFAR_P88_N35,MarabouError(Return code: 1),1.2684
+CIFAR_P14_N37,MarabouError(Return code: 1),1.408
+CIFAR_P4_N3,outofmemory,29.911
+CIFAR_P35_N4,timeout,3600.021
+CIFAR_P37_N19,MarabouError(Return code: 1),1.1865
+CIFAR_P27_N14,MarabouError(Return code: 1),1.3684
+CIFAR_P53_N44,MarabouError(Return code: 1),1.3368
+CIFAR_P55_N24,MarabouError(Return code: 1),1.2584
+CIFAR_P66_N43,MarabouError(Return code: 1),1.3743
+CIFAR_P27_N45,MarabouError(Return code: 1),1.2729
+CIFAR_P1_N34,unsat,65.0794
+CIFAR_P21_N38,MarabouError(Return code: 1),1.3016
+CIFAR_P75_N1,MarabouError(Return code: 1),1.2542
+CIFAR_P36_N47,MarabouError(Return code: 1),1.1
+CIFAR_P7_N33,MarabouError(Return code: 1),1.3076
+CIFAR_P23_N28,MarabouError(Return code: 1),1.4017
+CIFAR_P82_N18,unsat,65.9456
+CIFAR_P4_N20,MarabouError(Return code: 1),1.3255
+CIFAR_P24_N33,MarabouError(Return code: 1),1.2662
+CIFAR_P93_N4,timeout,3600.021
+CIFAR_P27_N26,MarabouError(Return code: 1),1.3017
+CIFAR_P8_N26,MarabouError(Return code: 1),1.3402
+CIFAR_P35_N9,MarabouError(Return code: 1),1.8715
+CIFAR_P33_N20,MarabouError(Return code: 1),1.3672
+CIFAR_P74_N27,MarabouError(Return code: 1),1.1672
+CIFAR_P92_N43,MarabouError(Return code: 1),1.3822
+CIFAR_P98_N6,MarabouError(Return code: 1),1.3816
+CIFAR_P27_N8,timeout,3600.009
+CIFAR_P61_N45,MarabouError(Return code: 1),1.3895
+CIFAR_P8_N2,outofmemory,67.776
+CIFAR_P49_N23,MarabouError(Return code: 1),1.2939
+CIFAR_P25_N22,MarabouError(Return code: 1),1.0872
+CIFAR_P67_N47,MarabouError(Return code: 1),1.1407
+CIFAR_P9_N27,MarabouError(Return code: 1),1.141
+CIFAR_P52_N24,MarabouError(Return code: 1),1.3218
+CIFAR_P61_N3,outofmemory,30.42
+CIFAR_P75_N41,MarabouError(Return code: 1),1.3234
+CIFAR_P51_N24,MarabouError(Return code: 1),1.2702
+CIFAR_P65_N35,MarabouError(Return code: 1),1.3175
+CIFAR_P49_N35,MarabouError(Return code: 1),1.26
+CIFAR_P73_N17,timeout,3600.009
+CIFAR_P13_N31,MarabouError(Return code: 1),1.3184
+CIFAR_P85_N41,MarabouError(Return code: 1),1.4365
+CIFAR_P28_N20,MarabouError(Return code: 1),1.258
+CIFAR_P99_N28,MarabouError(Return code: 1),1.4783
+CIFAR_P74_N8,timeout,3600.006
+CIFAR_P56_N12,MarabouError(Return code: 1),1.0879
+CIFAR_P20_N26,MarabouError(Return code: 1),1.2533
+CIFAR_P7_N21,MarabouError(Return code: 1),1.3553
+CIFAR_P21_N22,MarabouError(Return code: 1),1.1455
+CIFAR_P46_N41,MarabouError(Return code: 1),1.3934
+CIFAR_P77_N21,MarabouError(Return code: 1),1.322
+CIFAR_P30_N43,MarabouError(Return code: 1),1.3227
+CIFAR_P12_N43,MarabouError(Return code: 1),1.2981
+CIFAR_P95_N31,MarabouError(Return code: 1),1.3125
+CIFAR_P72_N16,MarabouError(Return code: 1),1.1069
+CIFAR_P56_N30,MarabouError(Return code: 1),1.353
+CIFAR_P54_N18,unsat,64.1398
+CIFAR_P0_N44,MarabouError(Return code: 1),1.5316
+CIFAR_P34_N46,MarabouError(Return code: 1),1.3212
+CIFAR_P70_N45,MarabouError(Return code: 1),1.2532
+CIFAR_P0_N41,MarabouError(Return code: 1),1.2612
+CIFAR_P2_N9,MarabouError(Return code: 1),1.7712
+CIFAR_P45_N47,MarabouError(Return code: 1),1.134
+CIFAR_P97_N14,MarabouError(Return code: 1),1.26
+CIFAR_P8_N31,MarabouError(Return code: 1),1.2924
+CIFAR_P29_N12,MarabouError(Return code: 1),1.1536
+CIFAR_P60_N34,unsat,66.2777
+CIFAR_P25_N13,unsat,98.4886
+CIFAR_P34_N42,timeout,3600.008
+CIFAR_P38_N28,MarabouError(Return code: 1),1.2609
+CIFAR_P65_N18,unsat,62.6833
+CIFAR_P18_N1,MarabouError(Return code: 1),1.2254
+CIFAR_P5_N43,MarabouError(Return code: 1),1.279
+CIFAR_P87_N45,MarabouError(Return code: 1),1.2927
+CIFAR_P93_N44,MarabouError(Return code: 1),1.264
+CIFAR_P36_N16,MarabouError(Return code: 1),1.1609
+CIFAR_P8_N45,MarabouError(Return code: 1),1.342
+CIFAR_P45_N44,MarabouError(Return code: 1),1.2523
+CIFAR_P78_N30,MarabouError(Return code: 1),1.3984
+CIFAR_P92_N7,MarabouError(Return code: 1),1.319
+CIFAR_P20_N34,unsat,63.5483
+CIFAR_P39_N4,timeout,3600.001
+CIFAR_P46_N9,MarabouError(Return code: 1),1.7682
+CIFAR_P51_N14,MarabouError(Return code: 1),1.24
+CIFAR_P52_N4,timeout,3600.008
+CIFAR_P3_N8,timeout,3600.014
+CIFAR_P88_N27,MarabouError(Return code: 1),1.1926
+CIFAR_P96_N41,MarabouError(Return code: 1),1.3022
+CIFAR_P84_N4,timeout,3600.02
+CIFAR_P45_N26,MarabouError(Return code: 1),1.2974
+CIFAR_P62_N32,unsat,98.2221
+CIFAR_P80_N23,MarabouError(Return code: 1),1.2296
+CIFAR_P88_N26,MarabouError(Return code: 1),1.2867
+CIFAR_P18_N9,MarabouError(Return code: 1),1.7112
+CIFAR_P54_N21,MarabouError(Return code: 1),1.3233
+CIFAR_P86_N34,unsat,63.6137
+CIFAR_P96_N26,MarabouError(Return code: 1),1.3796
+CIFAR_P14_N25,outofmemory,134.926
+CIFAR_P25_N41,MarabouError(Return code: 1),1.4319
+CIFAR_P33_N18,unsat,64.0452
+CIFAR_P77_N44,MarabouError(Return code: 1),1.2526
+CIFAR_P2_N24,MarabouError(Return code: 1),1.3533
+CIFAR_P83_N19,MarabouError(Return code: 1),1.1947
+CIFAR_P51_N9,MarabouError(Return code: 1),1.8651
+CIFAR_P80_N15,outofmemory,75.92
+CIFAR_P0_N22,MarabouError(Return code: 1),1.2606
+CIFAR_P48_N28,MarabouError(Return code: 1),1.6269
+CIFAR_P31_N18,unsat,65.7792
+CIFAR_P11_N14,MarabouError(Return code: 1),1.4751
+CIFAR_P30_N32,unsat,100.3891
+CIFAR_P27_N15,outofmemory,69.782
+CIFAR_P65_N16,MarabouError(Return code: 1),1.1124
+CIFAR_P27_N20,MarabouError(Return code: 1),1.3812
+CIFAR_P3_N16,MarabouError(Return code: 1),1.2183
+CIFAR_P18_N34,unsat,63.0581
+CIFAR_P94_N12,MarabouError(Return code: 1),1.139
+CIFAR_P22_N25,outofmemory,107.231
+CIFAR_P53_N13,unsat,105.71
+CIFAR_P18_N46,MarabouError(Return code: 1),1.2906
+CIFAR_P54_N42,timeout,3600.017
+CIFAR_P95_N9,MarabouError(Return code: 1),1.8885
+CIFAR_P32_N35,MarabouError(Return code: 1),1.2741
+CIFAR_P65_N45,MarabouError(Return code: 1),1.2538
+CIFAR_P13_N15,outofmemory,71.239
+CIFAR_P86_N31,MarabouError(Return code: 1),1.3499
+CIFAR_P12_N27,MarabouError(Return code: 1),1.1348
+CIFAR_P96_N13,unsat,102.2935
+CIFAR_P6_N13,unsat,99.8689
+CIFAR_P58_N31,MarabouError(Return code: 1),1.2941
+CIFAR_P4_N44,MarabouError(Return code: 1),1.2751
+CIFAR_P96_N29,timeout,3600.016
+CIFAR_P88_N47,MarabouError(Return code: 1),1.1706
+CIFAR_P96_N35,MarabouError(Return code: 1),1.1702
+CIFAR_P8_N9,MarabouError(Return code: 1),1.7208
+CIFAR_P24_N31,MarabouError(Return code: 1),1.2844
+CIFAR_P88_N17,timeout,3600.019
+CIFAR_P41_N6,MarabouError(Return code: 1),1.3115
+CIFAR_P20_N20,MarabouError(Return code: 1),1.2351
+CIFAR_P26_N30,MarabouError(Return code: 1),1.3441
+CIFAR_P38_N16,MarabouError(Return code: 1),1.1973
+CIFAR_P92_N16,MarabouError(Return code: 1),1.2673
+CIFAR_P26_N44,MarabouError(Return code: 1),1.2276
+CIFAR_P55_N4,timeout,3600.01
+CIFAR_P49_N47,MarabouError(Return code: 1),1.1161
+CIFAR_P2_N16,MarabouError(Return code: 1),1.1101
+CIFAR_P91_N16,MarabouError(Return code: 1),1.3108
+CIFAR_P30_N28,MarabouError(Return code: 1),1.211
+CIFAR_P78_N21,MarabouError(Return code: 1),1.3172
+CIFAR_P69_N28,MarabouError(Return code: 1),1.2962
+CIFAR_P18_N18,unsat,64.3125
+CIFAR_P3_N24,MarabouError(Return code: 1),1.212
+CIFAR_P90_N9,MarabouError(Return code: 1),1.7333
+CIFAR_P4_N17,timeout,3600.012
+CIFAR_P13_N27,MarabouError(Return code: 1),1.171
+CIFAR_P25_N25,outofmemory,114.208
+CIFAR_P71_N38,MarabouError(Return code: 1),1.3985
+CIFAR_P94_N9,MarabouError(Return code: 1),1.8456
+CIFAR_P57_N23,MarabouError(Return code: 1),1.2484
+CIFAR_P16_N23,MarabouError(Return code: 1),1.3627
+CIFAR_P48_N1,MarabouError(Return code: 1),1.3042
+CIFAR_P23_N46,MarabouError(Return code: 1),1.4785
+CIFAR_P19_N21,MarabouError(Return code: 1),1.2218
+CIFAR_P33_N24,MarabouError(Return code: 1),1.4685
+CIFAR_P19_N42,timeout,3600.008
+CIFAR_P93_N5,outofmemory,203.352
+CIFAR_P22_N32,unsat,100.8002
+CIFAR_P14_N45,MarabouError(Return code: 1),1.2962
+CIFAR_P36_N42,timeout,3600.007
+CIFAR_P4_N33,MarabouError(Return code: 1),1.3148
+CIFAR_P59_N1,MarabouError(Return code: 1),1.2705
+CIFAR_P12_N21,MarabouError(Return code: 1),1.3406
+CIFAR_P80_N34,unsat,61.7324
+CIFAR_P1_N27,MarabouError(Return code: 1),1.1348
+CIFAR_P85_N46,MarabouError(Return code: 1),1.3121
+CIFAR_P99_N1,MarabouError(Return code: 1),1.3352
+CIFAR_P55_N45,MarabouError(Return code: 1),1.2981
+CIFAR_P78_N5,outofmemory,110.921
+CIFAR_P99_N9,MarabouError(Return code: 1),1.6384
+CIFAR_P65_N37,MarabouError(Return code: 1),1.2256
+CIFAR_P12_N37,MarabouError(Return code: 1),1.2754
+CIFAR_P28_N37,MarabouError(Return code: 1),1.482
+CIFAR_P98_N8,timeout,3600.002
+CIFAR_P54_N43,MarabouError(Return code: 1),1.3333
+CIFAR_P39_N25,outofmemory,111.108
+CIFAR_P61_N7,MarabouError(Return code: 1),1.3022
+CIFAR_P31_N19,MarabouError(Return code: 1),1.2707
+CIFAR_P69_N30,MarabouError(Return code: 1),1.2795
+CIFAR_P11_N37,MarabouError(Return code: 1),1.3633
+CIFAR_P14_N43,MarabouError(Return code: 1),1.3374
+CIFAR_P16_N44,MarabouError(Return code: 1),1.3157
+CIFAR_P46_N16,MarabouError(Return code: 1),1.1518
+CIFAR_P20_N29,timeout,3600.009
+CIFAR_P64_N24,MarabouError(Return code: 1),1.2914
+CIFAR_P7_N13,unsat,99.0442
+CIFAR_P86_N41,MarabouError(Return code: 1),1.319
+CIFAR_P84_N33,MarabouError(Return code: 1),1.2974
+CIFAR_P51_N19,MarabouError(Return code: 1),1.2101
+CIFAR_P15_N43,MarabouError(Return code: 1),1.3248
+CIFAR_P77_N24,MarabouError(Return code: 1),1.3538
+CIFAR_P98_N29,timeout,3600.021
+CIFAR_P60_N41,MarabouError(Return code: 1),1.2859
+CIFAR_P77_N16,MarabouError(Return code: 1),1.1619
+CIFAR_P90_N24,MarabouError(Return code: 1),1.3108
+CIFAR_P41_N13,unsat,99.263
+CIFAR_P66_N37,MarabouError(Return code: 1),1.2558
+CIFAR_P10_N12,MarabouError(Return code: 1),1.1714
+CIFAR_P11_N33,MarabouError(Return code: 1),1.2628
+CIFAR_P9_N16,MarabouError(Return code: 1),1.1878
+CIFAR_P41_N18,unsat,63.1951
+CIFAR_P3_N17,timeout,3600.012
+CIFAR_P31_N38,MarabouError(Return code: 1),1.2433
+CIFAR_P26_N4,timeout,3600.016
+CIFAR_P28_N7,MarabouError(Return code: 1),1.2868
+CIFAR_P96_N4,timeout,3600.009
+CIFAR_P40_N14,MarabouError(Return code: 1),1.1665
+CIFAR_P49_N29,timeout,3600.013
+CIFAR_P77_N8,timeout,3600.016
+CIFAR_P28_N30,MarabouError(Return code: 1),1.3363
+CIFAR_P70_N44,MarabouError(Return code: 1),1.3308
+CIFAR_P99_N46,MarabouError(Return code: 1),1.241
+CIFAR_P45_N22,MarabouError(Return code: 1),1.1515
+CIFAR_P25_N19,MarabouError(Return code: 1),1.2892
+CIFAR_P24_N7,MarabouError(Return code: 1),1.2858
+CIFAR_P55_N2,outofmemory,69.614
+CIFAR_P64_N4,timeout,3600.003
+CIFAR_P47_N3,outofmemory,30.065
+CIFAR_P51_N27,MarabouError(Return code: 1),1.0659
+CIFAR_P32_N33,MarabouError(Return code: 1),1.3587
+CIFAR_P14_N7,MarabouError(Return code: 1),1.2878
+CIFAR_P30_N5,outofmemory,112.479
+CIFAR_P62_N27,MarabouError(Return code: 1),1.1487
+CIFAR_P57_N15,outofmemory,67.393
+CIFAR_P67_N26,MarabouError(Return code: 1),1.2558
+CIFAR_P93_N14,MarabouError(Return code: 1),1.2446
+CIFAR_P0_N25,outofmemory,106.45
+CIFAR_P53_N31,MarabouError(Return code: 1),1.2511
+CIFAR_P23_N2,outofmemory,74.466
+CIFAR_P62_N2,outofmemory,69.812
+CIFAR_P58_N33,MarabouError(Return code: 1),1.2479
+CIFAR_P54_N41,MarabouError(Return code: 1),1.2797
+CIFAR_P15_N37,MarabouError(Return code: 1),1.398
+CIFAR_P45_N32,unsat,100.1263
+CIFAR_P69_N41,MarabouError(Return code: 1),1.3385
+CIFAR_P34_N3,outofmemory,30.133
+CIFAR_P61_N42,timeout,3600.01
+CIFAR_P52_N38,MarabouError(Return code: 1),1.2735
+CIFAR_P19_N41,MarabouError(Return code: 1),1.2744
+CIFAR_P93_N9,MarabouError(Return code: 1),1.7166
+CIFAR_P44_N23,MarabouError(Return code: 1),1.2978
+CIFAR_P16_N15,outofmemory,72.242
+CIFAR_P18_N24,MarabouError(Return code: 1),1.2963
+CIFAR_P61_N20,MarabouError(Return code: 1),1.3388
+CIFAR_P58_N3,outofmemory,30.306
+CIFAR_P14_N28,MarabouError(Return code: 1),1.3338
+CIFAR_P91_N13,unsat,99.4838
+CIFAR_P39_N12,MarabouError(Return code: 1),1.1764
+CIFAR_P42_N14,MarabouError(Return code: 1),1.2241
+CIFAR_P55_N28,MarabouError(Return code: 1),1.369
+CIFAR_P31_N14,MarabouError(Return code: 1),1.2632
+CIFAR_P87_N46,MarabouError(Return code: 1),1.2831
+CIFAR_P18_N42,timeout,3600.022
+CIFAR_P3_N14,MarabouError(Return code: 1),1.2091
+CIFAR_P34_N38,MarabouError(Return code: 1),1.2333
+CIFAR_P50_N1,MarabouError(Return code: 1),1.2761
+CIFAR_P94_N47,MarabouError(Return code: 1),1.1867
+CIFAR_P24_N13,unsat,101.0629
+CIFAR_P6_N7,MarabouError(Return code: 1),1.2579
+CIFAR_P87_N13,unsat,101.8621
+CIFAR_P56_N28,MarabouError(Return code: 1),1.2483
+CIFAR_P60_N35,MarabouError(Return code: 1),1.1221
+CIFAR_P81_N28,MarabouError(Return code: 1),1.33
+CIFAR_P89_N27,MarabouError(Return code: 1),1.0986
+CIFAR_P83_N14,MarabouError(Return code: 1),1.5126
+CIFAR_P31_N1,MarabouError(Return code: 1),1.4113
+CIFAR_P9_N12,MarabouError(Return code: 1),1.1713
+CIFAR_P20_N43,MarabouError(Return code: 1),1.4167
+CIFAR_P46_N28,MarabouError(Return code: 1),1.2964
+CIFAR_P7_N47,MarabouError(Return code: 1),1.1474
+CIFAR_P65_N22,MarabouError(Return code: 1),1.2113
+CIFAR_P90_N16,MarabouError(Return code: 1),1.1753
+CIFAR_P0_N46,MarabouError(Return code: 1),1.4254
+CIFAR_P41_N46,MarabouError(Return code: 1),1.4286
+CIFAR_P43_N14,MarabouError(Return code: 1),1.3426
+CIFAR_P44_N37,MarabouError(Return code: 1),1.3082
+CIFAR_P57_N27,MarabouError(Return code: 1),1.2417
+CIFAR_P10_N6,MarabouError(Return code: 1),1.2513
+CIFAR_P87_N6,MarabouError(Return code: 1),1.4289
+CIFAR_P20_N17,timeout,3600.014
+CIFAR_P56_N14,MarabouError(Return code: 1),1.2847
+CIFAR_P88_N25,outofmemory,110.268
+CIFAR_P92_N8,timeout,3600.0
+CIFAR_P70_N4,timeout,3600.01
+CIFAR_P24_N24,MarabouError(Return code: 1),1.2074
+CIFAR_P80_N7,MarabouError(Return code: 1),1.2252
+CIFAR_P16_N17,timeout,3600.008
+CIFAR_P84_N8,timeout,3600.014
+CIFAR_P85_N14,MarabouError(Return code: 1),1.3215
+CIFAR_P66_N14,MarabouError(Return code: 1),1.2942
+CIFAR_P94_N18,unsat,64.4501
+CIFAR_P15_N46,MarabouError(Return code: 1),1.2615
+CIFAR_P56_N18,unsat,63.0769
+CIFAR_P47_N14,MarabouError(Return code: 1),1.2524
+CIFAR_P13_N23,MarabouError(Return code: 1),1.392
+CIFAR_P17_N43,MarabouError(Return code: 1),1.3183
+CIFAR_P78_N44,MarabouError(Return code: 1),1.1992
+CIFAR_P40_N4,timeout,3600.01
+CIFAR_P66_N15,outofmemory,72.219
+CIFAR_P19_N1,MarabouError(Return code: 1),1.2997
+CIFAR_P77_N34,unsat,64.8876
+CIFAR_P9_N2,outofmemory,73.41
+CIFAR_P15_N5,outofmemory,104.626
+CIFAR_P6_N14,MarabouError(Return code: 1),1.2692
+CIFAR_P81_N8,timeout,3600.011
+CIFAR_P39_N18,unsat,64.0395
+CIFAR_P27_N47,MarabouError(Return code: 1),1.1976
+CIFAR_P65_N32,unsat,100.6616
+CIFAR_P1_N35,MarabouError(Return code: 1),1.3179
+CIFAR_P80_N1,MarabouError(Return code: 1),1.3391
+CIFAR_P70_N14,MarabouError(Return code: 1),1.2864
+CIFAR_P66_N34,unsat,63.8212
+CIFAR_P38_N14,MarabouError(Return code: 1),1.3056
+CIFAR_P57_N5,outofmemory,107.059
+CIFAR_P61_N27,MarabouError(Return code: 1),1.1474
+CIFAR_P94_N4,timeout,3600.022
+CIFAR_P45_N23,MarabouError(Return code: 1),1.4974
+CIFAR_P94_N38,MarabouError(Return code: 1),1.3393
+CIFAR_P35_N19,MarabouError(Return code: 1),1.2174
+CIFAR_P33_N26,MarabouError(Return code: 1),1.3054
+CIFAR_P51_N21,MarabouError(Return code: 1),1.2739
+CIFAR_P88_N1,MarabouError(Return code: 1),1.2939
+CIFAR_P98_N41,MarabouError(Return code: 1),1.3155
+CIFAR_P14_N12,MarabouError(Return code: 1),1.2135
+CIFAR_P8_N29,timeout,3600.009
+CIFAR_P43_N20,MarabouError(Return code: 1),1.2635
+CIFAR_P92_N13,unsat,97.6632
+CIFAR_P59_N35,MarabouError(Return code: 1),1.1114
+CIFAR_P96_N32,unsat,99.8055
+CIFAR_P65_N8,timeout,3600.012
+CIFAR_P34_N6,MarabouError(Return code: 1),1.3627
+CIFAR_P35_N1,MarabouError(Return code: 1),1.2856
+CIFAR_P74_N46,MarabouError(Return code: 1),1.3698
+CIFAR_P14_N44,MarabouError(Return code: 1),1.2448
+CIFAR_P60_N7,MarabouError(Return code: 1),1.223
+CIFAR_P76_N35,MarabouError(Return code: 1),1.1658
+CIFAR_P80_N30,MarabouError(Return code: 1),1.3318
+CIFAR_P73_N4,timeout,3600.022
+CIFAR_P62_N20,MarabouError(Return code: 1),1.2691
+CIFAR_P78_N3,outofmemory,30.307
+CIFAR_P10_N38,MarabouError(Return code: 1),1.2187
+CIFAR_P59_N30,MarabouError(Return code: 1),1.322
+CIFAR_P17_N32,unsat,98.7636
+CIFAR_P18_N17,timeout,3600.001
+CIFAR_P7_N5,outofmemory,107.909
+CIFAR_P75_N20,MarabouError(Return code: 1),1.333
+CIFAR_P79_N27,MarabouError(Return code: 1),1.0945
+CIFAR_P83_N7,MarabouError(Return code: 1),1.2089
+CIFAR_P47_N8,timeout,3600.008
+CIFAR_P63_N20,MarabouError(Return code: 1),1.229
+CIFAR_P39_N19,MarabouError(Return code: 1),1.2939
+CIFAR_P63_N46,MarabouError(Return code: 1),1.4206
+CIFAR_P79_N35,MarabouError(Return code: 1),1.0869
+CIFAR_P60_N15,outofmemory,71.915
+CIFAR_P29_N33,MarabouError(Return code: 1),1.2983
+CIFAR_P47_N31,MarabouError(Return code: 1),1.2691
+CIFAR_P82_N28,MarabouError(Return code: 1),1.335
+CIFAR_P46_N33,MarabouError(Return code: 1),1.253
+CIFAR_P96_N21,MarabouError(Return code: 1),1.3866
+CIFAR_P49_N38,MarabouError(Return code: 1),1.3391
+CIFAR_P24_N30,MarabouError(Return code: 1),1.4364
+CIFAR_P75_N18,unsat,64.3683
+CIFAR_P72_N28,MarabouError(Return code: 1),1.2613
+CIFAR_P61_N19,MarabouError(Return code: 1),1.1595
+CIFAR_P72_N35,MarabouError(Return code: 1),1.289
+CIFAR_P74_N18,unsat,64.0794
+CIFAR_P83_N41,MarabouError(Return code: 1),1.4183
+CIFAR_P72_N4,timeout,3600.0
+CIFAR_P52_N14,MarabouError(Return code: 1),1.281
+CIFAR_P1_N3,outofmemory,29.546
+CIFAR_P30_N3,outofmemory,29.194
+CIFAR_P32_N29,timeout,3600.021
+CIFAR_P24_N21,MarabouError(Return code: 1),1.2518
+CIFAR_P91_N30,MarabouError(Return code: 1),1.3067
+CIFAR_P72_N6,MarabouError(Return code: 1),1.448
+CIFAR_P83_N15,outofmemory,69.045
+CIFAR_P74_N1,MarabouError(Return code: 1),1.2186
+CIFAR_P48_N15,outofmemory,87.669
+CIFAR_P12_N47,MarabouError(Return code: 1),1.2084
+CIFAR_P0_N45,MarabouError(Return code: 1),1.2784
+CIFAR_P65_N26,MarabouError(Return code: 1),1.3097
+CIFAR_P29_N15,outofmemory,71.605
+CIFAR_P98_N4,timeout,3600.006
+CIFAR_P73_N27,MarabouError(Return code: 1),1.0913
+CIFAR_P41_N22,MarabouError(Return code: 1),1.182
+CIFAR_P77_N13,unsat,99.8154
+CIFAR_P16_N32,unsat,99.1188
+CIFAR_P84_N14,MarabouError(Return code: 1),1.326
+CIFAR_P12_N34,unsat,62.9919
+CIFAR_P76_N14,MarabouError(Return code: 1),1.2634
+CIFAR_P15_N38,MarabouError(Return code: 1),1.4513
+CIFAR_P29_N22,MarabouError(Return code: 1),1.0999
+CIFAR_P46_N32,unsat,102.0675
+CIFAR_P9_N34,unsat,63.8093
+CIFAR_P72_N43,MarabouError(Return code: 1),1.3399
+CIFAR_P17_N23,MarabouError(Return code: 1),1.3604
+CIFAR_P61_N43,MarabouError(Return code: 1),1.4404
+CIFAR_P83_N13,unsat,102.4103
+CIFAR_P52_N21,MarabouError(Return code: 1),1.2885
+CIFAR_P74_N38,MarabouError(Return code: 1),1.2877
+CIFAR_P8_N37,MarabouError(Return code: 1),1.3047
+CIFAR_P44_N17,timeout,3600.006
+CIFAR_P37_N30,MarabouError(Return code: 1),1.3671
+CIFAR_P53_N25,outofmemory,107.842
+CIFAR_P49_N28,MarabouError(Return code: 1),1.3324
+CIFAR_P56_N3,outofmemory,30.446
+CIFAR_P31_N9,MarabouError(Return code: 1),1.6542
+CIFAR_P52_N41,MarabouError(Return code: 1),1.3303
+CIFAR_P23_N30,MarabouError(Return code: 1),1.446
+CIFAR_P51_N22,MarabouError(Return code: 1),1.1962
+CIFAR_P74_N26,MarabouError(Return code: 1),1.2803
+CIFAR_P25_N34,unsat,62.8027
+CIFAR_P87_N32,unsat,100.346
+CIFAR_P72_N2,outofmemory,77.307
+CIFAR_P68_N45,MarabouError(Return code: 1),1.3145
+CIFAR_P34_N29,timeout,3600.016
+CIFAR_P17_N14,MarabouError(Return code: 1),1.3498
+CIFAR_P8_N21,MarabouError(Return code: 1),1.2722
+CIFAR_P64_N28,MarabouError(Return code: 1),1.2889
+CIFAR_P74_N24,MarabouError(Return code: 1),1.2725
+CIFAR_P15_N45,MarabouError(Return code: 1),1.2988
+CIFAR_P84_N5,outofmemory,104.738
+CIFAR_P9_N45,MarabouError(Return code: 1),1.2662
+CIFAR_P85_N7,MarabouError(Return code: 1),1.2761
+CIFAR_P91_N17,timeout,3600.011
+CIFAR_P57_N37,MarabouError(Return code: 1),1.275
+CIFAR_P22_N26,MarabouError(Return code: 1),1.3648
+CIFAR_P95_N7,MarabouError(Return code: 1),1.2943
+CIFAR_P19_N9,MarabouError(Return code: 1),1.8457
+CIFAR_P48_N43,MarabouError(Return code: 1),1.2759
+CIFAR_P4_N18,unsat,64.5982
+CIFAR_P63_N45,MarabouError(Return code: 1),1.363
+CIFAR_P90_N37,MarabouError(Return code: 1),1.2437
+CIFAR_P99_N42,timeout,3600.007
+CIFAR_P1_N38,MarabouError(Return code: 1),1.2123
+CIFAR_P86_N22,MarabouError(Return code: 1),1.1386
+CIFAR_P27_N25,outofmemory,105.913
+CIFAR_P10_N22,MarabouError(Return code: 1),1.1269
+CIFAR_P15_N19,MarabouError(Return code: 1),1.1546
+CIFAR_P20_N8,timeout,3600.017
+CIFAR_P47_N6,MarabouError(Return code: 1),1.3238
+CIFAR_P66_N8,timeout,3600.003
+CIFAR_P32_N47,MarabouError(Return code: 1),1.1866
+CIFAR_P56_N46,MarabouError(Return code: 1),1.3402
+CIFAR_P58_N12,MarabouError(Return code: 1),1.1899
+CIFAR_P8_N28,MarabouError(Return code: 1),1.2667
+CIFAR_P37_N46,MarabouError(Return code: 1),1.2401
+CIFAR_P59_N14,MarabouError(Return code: 1),1.2393
+CIFAR_P62_N7,MarabouError(Return code: 1),1.2686
+CIFAR_P80_N28,MarabouError(Return code: 1),1.2485
+CIFAR_P98_N30,MarabouError(Return code: 1),1.3271
+CIFAR_P63_N14,MarabouError(Return code: 1),1.3242
+CIFAR_P11_N28,MarabouError(Return code: 1),1.3277
+CIFAR_P36_N41,MarabouError(Return code: 1),1.2356
+CIFAR_P10_N16,MarabouError(Return code: 1),1.2494
+CIFAR_P68_N37,MarabouError(Return code: 1),1.2793
+CIFAR_P55_N6,MarabouError(Return code: 1),1.4488
+CIFAR_P76_N44,MarabouError(Return code: 1),1.2539
+CIFAR_P31_N8,timeout,3600.007
+CIFAR_P51_N7,MarabouError(Return code: 1),1.2936
+CIFAR_P20_N37,MarabouError(Return code: 1),1.2898
+CIFAR_P75_N13,unsat,98.4308
+CIFAR_P42_N35,MarabouError(Return code: 1),1.1008
+CIFAR_P69_N37,MarabouError(Return code: 1),1.3103
+CIFAR_P79_N44,MarabouError(Return code: 1),1.2829
+CIFAR_P54_N4,timeout,3600.009
+CIFAR_P43_N15,outofmemory,76.108
+CIFAR_P69_N21,MarabouError(Return code: 1),1.2221
+CIFAR_P45_N43,MarabouError(Return code: 1),1.2833
+CIFAR_P59_N24,MarabouError(Return code: 1),1.2269
+CIFAR_P81_N24,MarabouError(Return code: 1),1.2501
+CIFAR_P41_N4,timeout,3600.001
+CIFAR_P21_N31,MarabouError(Return code: 1),1.2881
+CIFAR_P29_N44,MarabouError(Return code: 1),1.3717
+CIFAR_P50_N26,MarabouError(Return code: 1),1.2139
+CIFAR_P88_N34,unsat,63.1189
+CIFAR_P1_N33,MarabouError(Return code: 1),1.4399
+CIFAR_P37_N1,MarabouError(Return code: 1),1.421
+CIFAR_P13_N29,timeout,3600.012
+CIFAR_P60_N18,unsat,62.3564
+CIFAR_P45_N31,MarabouError(Return code: 1),1.279
+CIFAR_P62_N41,MarabouError(Return code: 1),1.2728
+CIFAR_P42_N27,MarabouError(Return code: 1),1.0571
+CIFAR_P15_N16,MarabouError(Return code: 1),1.1122
+CIFAR_P44_N4,timeout,3600.013
+CIFAR_P81_N16,MarabouError(Return code: 1),1.1261
+CIFAR_P71_N47,MarabouError(Return code: 1),1.1542
+CIFAR_P55_N38,MarabouError(Return code: 1),1.2671
+CIFAR_P75_N8,timeout,3600.007
+CIFAR_P25_N27,MarabouError(Return code: 1),1.0571
+CIFAR_P53_N5,outofmemory,105.803
+CIFAR_P18_N38,MarabouError(Return code: 1),1.3337
+CIFAR_P16_N18,unsat,64.1594
+CIFAR_P21_N43,MarabouError(Return code: 1),1.3401
+CIFAR_P36_N24,MarabouError(Return code: 1),1.4049
+CIFAR_P93_N2,outofmemory,68.525
+CIFAR_P7_N26,MarabouError(Return code: 1),1.3486
+CIFAR_P78_N35,MarabouError(Return code: 1),1.1655
+CIFAR_P7_N37,MarabouError(Return code: 1),1.2756
+CIFAR_P27_N12,MarabouError(Return code: 1),1.0995
+CIFAR_P2_N7,MarabouError(Return code: 1),1.3332
+CIFAR_P9_N32,unsat,100.9754
+CIFAR_P15_N20,MarabouError(Return code: 1),1.3123
+CIFAR_P1_N16,MarabouError(Return code: 1),1.1654
+CIFAR_P5_N22,MarabouError(Return code: 1),1.2107
+CIFAR_P48_N9,MarabouError(Return code: 1),1.7633
+CIFAR_P73_N33,MarabouError(Return code: 1),1.2911
+CIFAR_P15_N17,timeout,3600.0
+CIFAR_P84_N45,MarabouError(Return code: 1),1.2285
+CIFAR_P43_N44,MarabouError(Return code: 1),1.2309
+CIFAR_P44_N19,MarabouError(Return code: 1),1.1307
+CIFAR_P34_N1,MarabouError(Return code: 1),1.2977
+CIFAR_P31_N13,unsat,98.8375
+CIFAR_P89_N16,MarabouError(Return code: 1),1.1308
+CIFAR_P22_N24,MarabouError(Return code: 1),1.352
+CIFAR_P27_N4,timeout,3600.007
+CIFAR_P48_N3,outofmemory,30.548
+CIFAR_P82_N9,MarabouError(Return code: 1),1.7482
+CIFAR_P22_N20,MarabouError(Return code: 1),1.3384
+CIFAR_P97_N6,MarabouError(Return code: 1),1.2968
+CIFAR_P86_N3,outofmemory,29.381
+CIFAR_P58_N2,outofmemory,71.066
+CIFAR_P74_N5,outofmemory,108.954
+CIFAR_P32_N5,outofmemory,108.463
+CIFAR_P49_N24,MarabouError(Return code: 1),1.2886
+CIFAR_P94_N27,MarabouError(Return code: 1),1.118
+CIFAR_P94_N42,timeout,3600.002
+CIFAR_P22_N38,MarabouError(Return code: 1),1.3216
+CIFAR_P62_N35,MarabouError(Return code: 1),1.2446
+CIFAR_P9_N35,MarabouError(Return code: 1),1.1493
+CIFAR_P47_N34,unsat,62.9077
+CIFAR_P94_N29,timeout,3600.02
+CIFAR_P51_N45,MarabouError(Return code: 1),1.3679
+CIFAR_P24_N4,timeout,3600.012
+CIFAR_P27_N33,MarabouError(Return code: 1),1.242
+CIFAR_P3_N25,outofmemory,117.275
+CIFAR_P53_N20,MarabouError(Return code: 1),1.2571
+CIFAR_P59_N12,MarabouError(Return code: 1),1.1537
+CIFAR_P84_N29,timeout,3600.004
+CIFAR_P69_N45,MarabouError(Return code: 1),1.3608
+CIFAR_P91_N38,MarabouError(Return code: 1),1.3621
+CIFAR_P60_N8,timeout,3600.013
+CIFAR_P31_N35,MarabouError(Return code: 1),1.1335
+CIFAR_P6_N15,outofmemory,72.608
+CIFAR_P15_N32,unsat,100.6787
+CIFAR_P47_N46,MarabouError(Return code: 1),1.3104
+CIFAR_P45_N24,MarabouError(Return code: 1),1.217
+CIFAR_P83_N16,MarabouError(Return code: 1),1.1996
+CIFAR_P14_N16,MarabouError(Return code: 1),1.1574
+CIFAR_P30_N41,MarabouError(Return code: 1),1.3054
+CIFAR_P77_N42,timeout,3600.003
+CIFAR_P87_N21,MarabouError(Return code: 1),1.3388
+CIFAR_P78_N38,MarabouError(Return code: 1),1.2659
+CIFAR_P40_N26,MarabouError(Return code: 1),1.3126
+CIFAR_P50_N12,MarabouError(Return code: 1),1.2875
+CIFAR_P77_N20,MarabouError(Return code: 1),1.2153
+CIFAR_P41_N29,timeout,3600.018
+CIFAR_P62_N24,MarabouError(Return code: 1),1.359
+CIFAR_P6_N19,MarabouError(Return code: 1),1.1302
+CIFAR_P16_N7,MarabouError(Return code: 1),1.2507
+CIFAR_P21_N33,MarabouError(Return code: 1),1.3126
+CIFAR_P38_N15,outofmemory,70.307
+CIFAR_P63_N37,MarabouError(Return code: 1),1.29
+CIFAR_P63_N19,MarabouError(Return code: 1),1.1277
+CIFAR_P88_N6,MarabouError(Return code: 1),1.2937
+CIFAR_P3_N28,MarabouError(Return code: 1),1.2584
+CIFAR_P39_N17,timeout,3600.011
+CIFAR_P41_N34,unsat,64.048
+CIFAR_P55_N46,MarabouError(Return code: 1),1.3078
+CIFAR_P69_N18,unsat,64.6815
+CIFAR_P48_N19,MarabouError(Return code: 1),1.2347
+CIFAR_P62_N19,MarabouError(Return code: 1),1.2181
+CIFAR_P59_N26,MarabouError(Return code: 1),1.3694
+CIFAR_P70_N28,MarabouError(Return code: 1),1.2995
+CIFAR_P84_N31,MarabouError(Return code: 1),1.4885
+CIFAR_P51_N12,MarabouError(Return code: 1),1.1514
+CIFAR_P75_N46,MarabouError(Return code: 1),1.3604
+CIFAR_P28_N16,MarabouError(Return code: 1),1.0985
+CIFAR_P52_N12,MarabouError(Return code: 1),1.1785
+CIFAR_P24_N2,outofmemory,70.45
+CIFAR_P47_N26,MarabouError(Return code: 1),1.4775
+CIFAR_P20_N18,unsat,63.9352
+CIFAR_P38_N44,MarabouError(Return code: 1),1.3858
+CIFAR_P47_N20,MarabouError(Return code: 1),1.1709
+CIFAR_P94_N22,MarabouError(Return code: 1),1.2846
+CIFAR_P51_N8,timeout,3600.006
+CIFAR_P49_N15,outofmemory,77.627
+CIFAR_P59_N41,MarabouError(Return code: 1),1.3193
+CIFAR_P66_N21,MarabouError(Return code: 1),1.3385
+CIFAR_P3_N45,MarabouError(Return code: 1),1.3359
+CIFAR_P67_N43,MarabouError(Return code: 1),1.2867
+CIFAR_P14_N4,timeout,3600.017
+CIFAR_P32_N27,MarabouError(Return code: 1),1.1779
+CIFAR_P19_N18,unsat,64.3445
+CIFAR_P34_N44,MarabouError(Return code: 1),1.2605
+CIFAR_P81_N22,MarabouError(Return code: 1),1.2233
+CIFAR_P40_N46,MarabouError(Return code: 1),1.2893
+CIFAR_P33_N29,timeout,3600.005
+CIFAR_P57_N28,MarabouError(Return code: 1),1.3469
+CIFAR_P77_N38,MarabouError(Return code: 1),1.2043
+CIFAR_P97_N45,MarabouError(Return code: 1),1.3634
+CIFAR_P99_N4,timeout,3600.01
+CIFAR_P67_N2,outofmemory,74.78
+CIFAR_P28_N14,MarabouError(Return code: 1),1.2802
+CIFAR_P69_N6,MarabouError(Return code: 1),1.3796
+CIFAR_P91_N26,MarabouError(Return code: 1),1.2787
+CIFAR_P36_N1,MarabouError(Return code: 1),1.4104
+CIFAR_P56_N17,timeout,3600.01
+CIFAR_P8_N32,unsat,98.0677
+CIFAR_P1_N21,MarabouError(Return code: 1),1.3567
+CIFAR_P40_N2,outofmemory,68.299
+CIFAR_P43_N33,MarabouError(Return code: 1),1.2406
+CIFAR_P88_N9,MarabouError(Return code: 1),1.7234
+CIFAR_P43_N17,timeout,3600.001
+CIFAR_P52_N47,MarabouError(Return code: 1),1.2099
+CIFAR_P94_N43,MarabouError(Return code: 1),1.2608
+CIFAR_P0_N3,outofmemory,30.148
+CIFAR_P15_N13,unsat,96.5418
+CIFAR_P54_N13,unsat,100.7103
+CIFAR_P68_N44,MarabouError(Return code: 1),1.2539
+CIFAR_P71_N24,MarabouError(Return code: 1),1.2791
+CIFAR_P77_N14,MarabouError(Return code: 1),1.2154
+CIFAR_P78_N2,outofmemory,69.77
+CIFAR_P82_N23,MarabouError(Return code: 1),1.2626
+CIFAR_P87_N4,timeout,3600.014
+CIFAR_P6_N22,MarabouError(Return code: 1),1.1387
+CIFAR_P95_N12,MarabouError(Return code: 1),1.08
+CIFAR_P79_N18,unsat,62.4424
+CIFAR_P12_N35,MarabouError(Return code: 1),1.2097
+CIFAR_P92_N47,MarabouError(Return code: 1),1.2217
+CIFAR_P68_N38,MarabouError(Return code: 1),1.2656
+CIFAR_P37_N34,unsat,63.6973
+CIFAR_P86_N7,MarabouError(Return code: 1),1.2372
+CIFAR_P20_N33,MarabouError(Return code: 1),1.2409
+CIFAR_P41_N37,MarabouError(Return code: 1),1.3897
+CIFAR_P53_N21,MarabouError(Return code: 1),1.3542
+CIFAR_P44_N42,timeout,3600.007
+CIFAR_P55_N1,MarabouError(Return code: 1),1.277
+CIFAR_P63_N29,timeout,3600.013
+CIFAR_P50_N19,MarabouError(Return code: 1),1.2584
+CIFAR_P34_N19,MarabouError(Return code: 1),1.2045
+CIFAR_P41_N44,MarabouError(Return code: 1),1.3009
+CIFAR_P71_N20,MarabouError(Return code: 1),1.2007
+CIFAR_P62_N1,MarabouError(Return code: 1),1.3041
+CIFAR_P83_N42,timeout,3600.006
+CIFAR_P56_N8,timeout,3600.009
+CIFAR_P38_N21,MarabouError(Return code: 1),1.2454
+CIFAR_P72_N26,MarabouError(Return code: 1),1.2501
+CIFAR_P22_N1,MarabouError(Return code: 1),1.2562
+CIFAR_P86_N2,outofmemory,69.389
+CIFAR_P77_N22,MarabouError(Return code: 1),1.1407
+CIFAR_P52_N17,timeout,3600.022
+CIFAR_P72_N31,MarabouError(Return code: 1),1.2504
+CIFAR_P69_N47,MarabouError(Return code: 1),1.1684
+CIFAR_P75_N19,MarabouError(Return code: 1),1.1345
+CIFAR_P9_N46,MarabouError(Return code: 1),1.2729
+CIFAR_P35_N34,unsat,62.5872
+CIFAR_P60_N21,MarabouError(Return code: 1),1.254
+CIFAR_P12_N46,MarabouError(Return code: 1),1.1919
+CIFAR_P37_N45,MarabouError(Return code: 1),1.3241
+CIFAR_P13_N25,outofmemory,105.388
+CIFAR_P3_N27,MarabouError(Return code: 1),1.082
+CIFAR_P66_N12,MarabouError(Return code: 1),1.094
+CIFAR_P79_N46,MarabouError(Return code: 1),1.2148
+CIFAR_P93_N1,MarabouError(Return code: 1),1.2573
+CIFAR_P18_N16,MarabouError(Return code: 1),1.1157
+CIFAR_P25_N1,MarabouError(Return code: 1),1.401
+CIFAR_P77_N43,MarabouError(Return code: 1),1.3051
+CIFAR_P86_N29,timeout,3600.012
+CIFAR_P6_N12,MarabouError(Return code: 1),1.1841
+CIFAR_P54_N34,unsat,61.5099
+CIFAR_P62_N17,timeout,3600.015
+CIFAR_P0_N43,MarabouError(Return code: 1),1.3014
+CIFAR_P92_N26,MarabouError(Return code: 1),1.2328
+CIFAR_P77_N30,MarabouError(Return code: 1),1.3318
+CIFAR_P2_N26,MarabouError(Return code: 1),1.354
+CIFAR_P44_N9,MarabouError(Return code: 1),1.7149
+CIFAR_P54_N6,MarabouError(Return code: 1),1.408
+CIFAR_P59_N44,MarabouError(Return code: 1),1.2265
+CIFAR_P83_N43,MarabouError(Return code: 1),1.2808
+CIFAR_P79_N6,MarabouError(Return code: 1),1.3522
+CIFAR_P6_N21,MarabouError(Return code: 1),1.2979
+CIFAR_P27_N3,outofmemory,31.459
+CIFAR_P27_N29,timeout,3600.014
+CIFAR_P72_N30,MarabouError(Return code: 1),1.309
+CIFAR_P42_N45,MarabouError(Return code: 1),1.2161
+CIFAR_P91_N9,MarabouError(Return code: 1),1.6981
+CIFAR_P79_N45,MarabouError(Return code: 1),1.2912
+CIFAR_P53_N6,MarabouError(Return code: 1),1.2548
+CIFAR_P1_N47,MarabouError(Return code: 1),1.1979
+CIFAR_P30_N14,MarabouError(Return code: 1),1.2521
+CIFAR_P13_N4,timeout,3600.007
+CIFAR_P55_N21,MarabouError(Return code: 1),1.268
+CIFAR_P19_N28,MarabouError(Return code: 1),1.316
+CIFAR_P76_N1,MarabouError(Return code: 1),1.2615
+CIFAR_P82_N27,MarabouError(Return code: 1),1.1149
+CIFAR_P93_N7,MarabouError(Return code: 1),1.2599
+CIFAR_P81_N19,MarabouError(Return code: 1),1.2018
+CIFAR_P29_N34,unsat,62.8013
+CIFAR_P0_N42,timeout,3600.002
+CIFAR_P27_N38,MarabouError(Return code: 1),1.2666
+CIFAR_P5_N12,MarabouError(Return code: 1),1.3289
+CIFAR_P13_N38,MarabouError(Return code: 1),1.3885
+CIFAR_P25_N43,MarabouError(Return code: 1),1.3487
+CIFAR_P48_N23,MarabouError(Return code: 1),1.235
+CIFAR_P12_N17,timeout,3600.004
+CIFAR_P38_N19,MarabouError(Return code: 1),1.2296
+CIFAR_P74_N32,unsat,99.8584
+CIFAR_P24_N34,unsat,63.7679
+CIFAR_P7_N1,MarabouError(Return code: 1),1.2815
+CIFAR_P73_N12,MarabouError(Return code: 1),1.1064
+CIFAR_P66_N38,MarabouError(Return code: 1),1.2805
+CIFAR_P53_N7,MarabouError(Return code: 1),1.3012
+CIFAR_P0_N18,unsat,62.8692
+CIFAR_P24_N38,MarabouError(Return code: 1),1.2914
+CIFAR_P31_N32,unsat,102.5841
+CIFAR_P81_N45,MarabouError(Return code: 1),1.2854
+CIFAR_P23_N15,outofmemory,72.107
+CIFAR_P66_N16,MarabouError(Return code: 1),1.2386
+CIFAR_P25_N38,MarabouError(Return code: 1),1.323
+CIFAR_P3_N38,MarabouError(Return code: 1),1.2543
+CIFAR_P95_N34,unsat,64.5447
+CIFAR_P70_N24,MarabouError(Return code: 1),1.2968
+CIFAR_P43_N24,MarabouError(Return code: 1),1.3074
+CIFAR_P96_N7,MarabouError(Return code: 1),1.3737
+CIFAR_P70_N34,unsat,65.5667
+CIFAR_P10_N9,MarabouError(Return code: 1),1.699
+CIFAR_P42_N44,MarabouError(Return code: 1),1.2302
+CIFAR_P83_N44,MarabouError(Return code: 1),1.3294
+CIFAR_P1_N29,timeout,3600.0
+CIFAR_P42_N33,MarabouError(Return code: 1),1.2787
+CIFAR_P29_N3,outofmemory,29.681
+CIFAR_P16_N27,MarabouError(Return code: 1),1.064
+CIFAR_P30_N17,timeout,3600.002
+CIFAR_P41_N1,MarabouError(Return code: 1),1.3354
+CIFAR_P15_N34,unsat,63.566
+CIFAR_P56_N35,MarabouError(Return code: 1),1.1864
+CIFAR_P97_N44,MarabouError(Return code: 1),1.342
+CIFAR_P49_N3,outofmemory,29.517
+CIFAR_P41_N17,timeout,3600.021
+CIFAR_P40_N7,MarabouError(Return code: 1),1.3436
+CIFAR_P87_N18,unsat,62.4959
+CIFAR_P8_N18,unsat,65.1525
+CIFAR_P23_N7,MarabouError(Return code: 1),1.2805
+CIFAR_P44_N12,MarabouError(Return code: 1),1.1344
+CIFAR_P44_N33,MarabouError(Return code: 1),1.3668
+CIFAR_P73_N32,unsat,98.5799
+CIFAR_P77_N45,MarabouError(Return code: 1),1.3432
+CIFAR_P77_N27,MarabouError(Return code: 1),1.0781
+CIFAR_P60_N4,timeout,3600.02
+CIFAR_P18_N30,MarabouError(Return code: 1),1.4242
+CIFAR_P19_N35,MarabouError(Return code: 1),1.2294
+CIFAR_P28_N12,MarabouError(Return code: 1),1.1511
+CIFAR_P30_N44,MarabouError(Return code: 1),1.3421
+CIFAR_P18_N3,outofmemory,31.979
+CIFAR_P26_N46,MarabouError(Return code: 1),1.2171
+CIFAR_P38_N45,MarabouError(Return code: 1),1.3592
+CIFAR_P66_N30,MarabouError(Return code: 1),1.3413
+CIFAR_P7_N20,MarabouError(Return code: 1),1.2434
+CIFAR_P74_N23,MarabouError(Return code: 1),1.2657
+CIFAR_P72_N18,unsat,62.8397
+CIFAR_P11_N35,MarabouError(Return code: 1),1.1073
+CIFAR_P19_N34,unsat,64.903
+CIFAR_P37_N3,outofmemory,29.898
+CIFAR_P37_N29,timeout,3600.021
+CIFAR_P94_N16,MarabouError(Return code: 1),1.0973
+CIFAR_P61_N31,MarabouError(Return code: 1),1.2838
+CIFAR_P23_N32,unsat,99.3137
+CIFAR_P63_N32,unsat,98.9923
+CIFAR_P7_N42,timeout,3600.017
+CIFAR_P37_N7,MarabouError(Return code: 1),1.2891
+CIFAR_P50_N35,MarabouError(Return code: 1),1.208
+CIFAR_P91_N18,unsat,64.7069
+CIFAR_P3_N31,MarabouError(Return code: 1),1.33
+CIFAR_P57_N33,MarabouError(Return code: 1),1.3796
+CIFAR_P65_N33,MarabouError(Return code: 1),1.2662
+CIFAR_P75_N43,MarabouError(Return code: 1),1.4804
+CIFAR_P31_N16,MarabouError(Return code: 1),1.2198
+CIFAR_P48_N41,MarabouError(Return code: 1),1.3418
+CIFAR_P49_N30,MarabouError(Return code: 1),1.3799
+CIFAR_P74_N12,MarabouError(Return code: 1),1.2804
+CIFAR_P37_N17,timeout,3600.008
+CIFAR_P68_N23,MarabouError(Return code: 1),1.4383
+CIFAR_P31_N23,MarabouError(Return code: 1),1.3165
+CIFAR_P96_N46,MarabouError(Return code: 1),1.3334
+CIFAR_P78_N19,MarabouError(Return code: 1),1.2023
+CIFAR_P16_N14,MarabouError(Return code: 1),1.2802
+CIFAR_P76_N4,timeout,3600.023
+CIFAR_P44_N21,MarabouError(Return code: 1),1.2873
+CIFAR_P21_N44,MarabouError(Return code: 1),1.2887
+CIFAR_P44_N6,MarabouError(Return code: 1),1.3267
+CIFAR_P70_N35,MarabouError(Return code: 1),1.1493
+CIFAR_P82_N4,timeout,3600.022
+CIFAR_P32_N21,MarabouError(Return code: 1),1.3083
+CIFAR_P64_N26,MarabouError(Return code: 1),1.3578
+CIFAR_P84_N43,MarabouError(Return code: 1),1.3453
+CIFAR_P0_N32,unsat,100.073
+CIFAR_P85_N42,timeout,3600.008
+CIFAR_P46_N18,unsat,64.0129
+CIFAR_P52_N28,MarabouError(Return code: 1),1.2644
+CIFAR_P66_N33,MarabouError(Return code: 1),1.2821
+CIFAR_P68_N30,MarabouError(Return code: 1),1.39
+CIFAR_P92_N20,MarabouError(Return code: 1),1.3172
+CIFAR_P14_N46,MarabouError(Return code: 1),1.2178
+CIFAR_P71_N25,outofmemory,108.557
+CIFAR_P44_N32,unsat,96.5539
+CIFAR_P84_N12,MarabouError(Return code: 1),1.1157
+CIFAR_P98_N47,MarabouError(Return code: 1),1.2274
+CIFAR_P84_N17,timeout,3600.014
+CIFAR_P64_N6,MarabouError(Return code: 1),1.2661
+CIFAR_P87_N42,timeout,3600.02
+CIFAR_P62_N13,unsat,98.9392
+CIFAR_P6_N26,MarabouError(Return code: 1),1.2301
+CIFAR_P74_N31,MarabouError(Return code: 1),1.2981
+CIFAR_P96_N24,MarabouError(Return code: 1),1.3115
+CIFAR_P4_N4,timeout,3600.009
+CIFAR_P96_N3,outofmemory,30.671
+CIFAR_P37_N6,MarabouError(Return code: 1),1.2899
+CIFAR_P47_N30,MarabouError(Return code: 1),1.3293
+CIFAR_P24_N15,outofmemory,70.566
+CIFAR_P61_N4,timeout,3600.009
+CIFAR_P31_N15,outofmemory,73.13
+CIFAR_P37_N9,MarabouError(Return code: 1),1.7891
+CIFAR_P82_N16,MarabouError(Return code: 1),1.1468
+CIFAR_P81_N14,MarabouError(Return code: 1),1.2608
+CIFAR_P77_N4,timeout,3600.018
+CIFAR_P93_N34,unsat,63.7616
+CIFAR_P2_N1,MarabouError(Return code: 1),1.3545
+CIFAR_P34_N2,outofmemory,71.329
+CIFAR_P6_N28,MarabouError(Return code: 1),1.326
+CIFAR_P48_N32,unsat,101.1616
+CIFAR_P67_N42,timeout,3600.006
+CIFAR_P90_N31,MarabouError(Return code: 1),1.2833
+CIFAR_P95_N5,outofmemory,104.541
+CIFAR_P42_N41,MarabouError(Return code: 1),1.2935
+CIFAR_P76_N5,outofmemory,110.062
+CIFAR_P1_N19,MarabouError(Return code: 1),1.1708
+CIFAR_P16_N25,outofmemory,113.177
+CIFAR_P15_N1,MarabouError(Return code: 1),1.3064
+CIFAR_P85_N23,MarabouError(Return code: 1),1.2932
+CIFAR_P70_N21,MarabouError(Return code: 1),1.3023
+CIFAR_P5_N18,unsat,61.956
+CIFAR_P61_N32,unsat,98.2776
+CIFAR_P75_N17,timeout,3600.011
+CIFAR_P68_N27,MarabouError(Return code: 1),1.0867
+CIFAR_P68_N28,MarabouError(Return code: 1),1.3297
+CIFAR_P67_N44,MarabouError(Return code: 1),1.3124
+CIFAR_P96_N43,MarabouError(Return code: 1),1.3462
+CIFAR_P76_N16,MarabouError(Return code: 1),1.2176
+CIFAR_P49_N44,MarabouError(Return code: 1),1.2744
+CIFAR_P53_N32,unsat,97.105
+CIFAR_P28_N3,outofmemory,30.784
+CIFAR_P30_N12,MarabouError(Return code: 1),1.1415
+CIFAR_P77_N23,MarabouError(Return code: 1),1.2077
+CIFAR_P81_N34,unsat,62.0546
+CIFAR_P16_N24,MarabouError(Return code: 1),1.3201
+CIFAR_P87_N26,MarabouError(Return code: 1),1.2798
+CIFAR_P1_N5,outofmemory,105.082
+CIFAR_P22_N9,MarabouError(Return code: 1),1.7107
+CIFAR_P54_N26,MarabouError(Return code: 1),1.281
+CIFAR_P47_N33,MarabouError(Return code: 1),1.3253
+CIFAR_P74_N43,MarabouError(Return code: 1),1.2643
+CIFAR_P25_N33,MarabouError(Return code: 1),1.2488
+CIFAR_P11_N32,unsat,101.8441
+CIFAR_P63_N27,MarabouError(Return code: 1),1.2779
+CIFAR_P64_N25,outofmemory,117.855
+CIFAR_P38_N26,MarabouError(Return code: 1),1.3241
+CIFAR_P48_N17,timeout,3600.006
+CIFAR_P16_N43,MarabouError(Return code: 1),1.3862
+CIFAR_P42_N12,MarabouError(Return code: 1),1.0863
+CIFAR_P22_N14,MarabouError(Return code: 1),1.2198
+CIFAR_P49_N34,unsat,62.0099
+CIFAR_P71_N4,timeout,3600.01
+CIFAR_P48_N5,outofmemory,106.446
+CIFAR_P73_N34,unsat,62.725
+CIFAR_P72_N7,MarabouError(Return code: 1),1.2766
+CIFAR_P7_N23,MarabouError(Return code: 1),1.4061
+CIFAR_P13_N32,unsat,99.9202
+CIFAR_P33_N15,outofmemory,84.037
+CIFAR_P40_N8,timeout,3600.016
+CIFAR_P7_N3,outofmemory,30.512
+CIFAR_P27_N5,outofmemory,108.825
+CIFAR_P91_N21,MarabouError(Return code: 1),1.3244
+CIFAR_P22_N37,MarabouError(Return code: 1),1.3157
+CIFAR_P98_N33,MarabouError(Return code: 1),1.1969
+CIFAR_P41_N19,MarabouError(Return code: 1),1.2258
+CIFAR_P54_N1,MarabouError(Return code: 1),1.4305
+CIFAR_P33_N47,MarabouError(Return code: 1),1.235
+CIFAR_P90_N30,MarabouError(Return code: 1),1.3383
+CIFAR_P59_N46,MarabouError(Return code: 1),1.3461
+CIFAR_P80_N35,MarabouError(Return code: 1),1.2797
+CIFAR_P84_N16,MarabouError(Return code: 1),1.2285
+CIFAR_P18_N29,timeout,3600.003
+CIFAR_P0_N1,MarabouError(Return code: 1),1.3242
+CIFAR_P94_N19,MarabouError(Return code: 1),1.1419
+CIFAR_P46_N31,MarabouError(Return code: 1),1.4178
+CIFAR_P98_N1,MarabouError(Return code: 1),1.255
+CIFAR_P11_N38,MarabouError(Return code: 1),1.2403
+CIFAR_P65_N30,MarabouError(Return code: 1),1.2196
+CIFAR_P0_N38,MarabouError(Return code: 1),1.2843
+CIFAR_P59_N16,MarabouError(Return code: 1),1.1449
+CIFAR_P0_N13,unsat,99.8686
+CIFAR_P37_N38,MarabouError(Return code: 1),1.2756
+CIFAR_P45_N9,MarabouError(Return code: 1),1.721
+CIFAR_P34_N30,MarabouError(Return code: 1),1.2966
+CIFAR_P26_N29,timeout,3600.012
+CIFAR_P28_N31,MarabouError(Return code: 1),1.2301
+CIFAR_P60_N16,MarabouError(Return code: 1),1.1221
+CIFAR_P29_N46,MarabouError(Return code: 1),1.2969
+CIFAR_P0_N24,MarabouError(Return code: 1),1.354
+CIFAR_P44_N29,timeout,3600.02
+CIFAR_P7_N34,unsat,62.4418
+CIFAR_P57_N6,MarabouError(Return code: 1),1.4704
+CIFAR_P87_N27,MarabouError(Return code: 1),1.266
+CIFAR_P90_N2,outofmemory,70.824
+CIFAR_P21_N15,outofmemory,74.407
+CIFAR_P47_N41,MarabouError(Return code: 1),1.2639
+CIFAR_P6_N8,timeout,3600.018
+CIFAR_P32_N23,MarabouError(Return code: 1),1.3031
+CIFAR_P31_N28,MarabouError(Return code: 1),1.3228
+CIFAR_P22_N5,outofmemory,103.054
+CIFAR_P46_N23,MarabouError(Return code: 1),1.3962
+CIFAR_P76_N23,MarabouError(Return code: 1),1.2642
+CIFAR_P7_N44,MarabouError(Return code: 1),1.2519
+CIFAR_P34_N16,MarabouError(Return code: 1),1.1782
+CIFAR_P74_N37,MarabouError(Return code: 1),1.2827
+CIFAR_P64_N27,MarabouError(Return code: 1),1.1197
+CIFAR_P7_N43,MarabouError(Return code: 1),1.329
+CIFAR_P84_N1,MarabouError(Return code: 1),1.3433
+CIFAR_P95_N22,MarabouError(Return code: 1),1.2516
+CIFAR_P30_N13,unsat,103.4811
+CIFAR_P90_N14,MarabouError(Return code: 1),1.3083
+CIFAR_P24_N35,MarabouError(Return code: 1),1.157
+CIFAR_P26_N15,outofmemory,70.917
+CIFAR_P46_N17,timeout,3600.001
+CIFAR_P92_N41,MarabouError(Return code: 1),1.2791
+CIFAR_P95_N42,timeout,3600.022
+CIFAR_P37_N21,MarabouError(Return code: 1),1.3166
+CIFAR_P57_N3,outofmemory,29.995
+CIFAR_P80_N9,MarabouError(Return code: 1),1.6562
+CIFAR_P4_N38,MarabouError(Return code: 1),1.2562
+CIFAR_P5_N33,MarabouError(Return code: 1),1.3947
+CIFAR_P26_N12,MarabouError(Return code: 1),1.1829
+CIFAR_P66_N5,outofmemory,108.522
+CIFAR_P86_N26,MarabouError(Return code: 1),1.3126
+CIFAR_P69_N20,MarabouError(Return code: 1),1.2252
+CIFAR_P53_N46,MarabouError(Return code: 1),1.3662
+CIFAR_P51_N41,MarabouError(Return code: 1),1.3073
+CIFAR_P43_N26,MarabouError(Return code: 1),1.3814
+CIFAR_P15_N35,MarabouError(Return code: 1),1.1784
+CIFAR_P95_N46,MarabouError(Return code: 1),1.4317
+CIFAR_P57_N2,outofmemory,69.97
+CIFAR_P91_N33,MarabouError(Return code: 1),1.3399
+CIFAR_P75_N30,MarabouError(Return code: 1),1.3432
+CIFAR_P90_N27,MarabouError(Return code: 1),1.2407
+CIFAR_P10_N30,MarabouError(Return code: 1),1.6422
+CIFAR_P17_N8,timeout,3600.011
+CIFAR_P17_N22,MarabouError(Return code: 1),1.337
+CIFAR_P30_N21,MarabouError(Return code: 1),1.4219
+CIFAR_P69_N16,MarabouError(Return code: 1),1.112
+CIFAR_P20_N3,outofmemory,32.09
+CIFAR_P57_N30,MarabouError(Return code: 1),1.2732
+CIFAR_P8_N23,MarabouError(Return code: 1),1.261
+CIFAR_P55_N15,outofmemory,70.042
+CIFAR_P79_N3,outofmemory,31.134
+CIFAR_P99_N5,outofmemory,111.183
+CIFAR_P7_N46,MarabouError(Return code: 1),1.2206
+CIFAR_P89_N3,outofmemory,29.365
+CIFAR_P23_N27,MarabouError(Return code: 1),1.1673
+CIFAR_P70_N32,unsat,100.9204
+CIFAR_P21_N42,timeout,3600.015
+CIFAR_P57_N44,MarabouError(Return code: 1),1.241
+CIFAR_P98_N12,MarabouError(Return code: 1),1.1467
+CIFAR_P49_N2,outofmemory,69.592
+CIFAR_P57_N20,MarabouError(Return code: 1),1.3065
+CIFAR_P3_N20,MarabouError(Return code: 1),1.3223
+CIFAR_P95_N2,outofmemory,71.679
+CIFAR_P76_N46,MarabouError(Return code: 1),1.3743
+CIFAR_P94_N15,outofmemory,71.435
+CIFAR_P57_N25,outofmemory,105.999
+CIFAR_P98_N34,unsat,64.4834
+CIFAR_P17_N19,MarabouError(Return code: 1),1.2049
+CIFAR_P64_N12,MarabouError(Return code: 1),1.2488
+CIFAR_P34_N32,unsat,101.0115
+CIFAR_P25_N24,MarabouError(Return code: 1),1.3253
+CIFAR_P14_N38,MarabouError(Return code: 1),1.2205
+CIFAR_P28_N13,unsat,100.4341
+CIFAR_P93_N27,MarabouError(Return code: 1),1.0695
+CIFAR_P31_N4,timeout,3600.008
+CIFAR_P85_N44,MarabouError(Return code: 1),1.4267
+CIFAR_P93_N3,outofmemory,30.354
+CIFAR_P65_N5,outofmemory,108.834
+CIFAR_P86_N27,MarabouError(Return code: 1),1.0903
+CIFAR_P87_N7,MarabouError(Return code: 1),1.3829
+CIFAR_P97_N34,unsat,63.7815
+CIFAR_P60_N6,MarabouError(Return code: 1),1.427
+CIFAR_P82_N29,timeout,3600.0
+CIFAR_P10_N42,timeout,3600.016
+CIFAR_P26_N28,MarabouError(Return code: 1),1.3287
+CIFAR_P45_N30,MarabouError(Return code: 1),1.4095
+CIFAR_P78_N23,MarabouError(Return code: 1),1.283
+CIFAR_P14_N27,MarabouError(Return code: 1),1.0674
+CIFAR_P36_N7,MarabouError(Return code: 1),1.46
+CIFAR_P12_N19,MarabouError(Return code: 1),1.2345
+CIFAR_P39_N38,MarabouError(Return code: 1),1.342
+CIFAR_P33_N21,MarabouError(Return code: 1),1.3432
+CIFAR_P22_N18,unsat,64.5226
+CIFAR_P61_N16,MarabouError(Return code: 1),1.2589
+CIFAR_P33_N46,MarabouError(Return code: 1),1.3414
+CIFAR_P21_N46,MarabouError(Return code: 1),1.4016
+CIFAR_P47_N9,MarabouError(Return code: 1),1.7649
+CIFAR_P92_N3,outofmemory,29.966
+CIFAR_P41_N43,MarabouError(Return code: 1),1.316
+CIFAR_P94_N13,unsat,99.8794
+CIFAR_P32_N14,MarabouError(Return code: 1),1.352
+CIFAR_P12_N32,unsat,99.7194
+CIFAR_P22_N15,outofmemory,75.679
+CIFAR_P9_N43,MarabouError(Return code: 1),1.2245
+CIFAR_P66_N7,MarabouError(Return code: 1),1.354
+CIFAR_P72_N5,outofmemory,105.716
+CIFAR_P88_N12,MarabouError(Return code: 1),1.3165
+CIFAR_P89_N35,MarabouError(Return code: 1),1.2538
+CIFAR_P59_N33,MarabouError(Return code: 1),1.2882
+CIFAR_P49_N5,outofmemory,112.581
+CIFAR_P5_N35,MarabouError(Return code: 1),1.3311
+CIFAR_P96_N33,MarabouError(Return code: 1),1.3281
+CIFAR_P14_N24,MarabouError(Return code: 1),1.5302
+CIFAR_P4_N16,MarabouError(Return code: 1),1.1521
+CIFAR_P31_N12,MarabouError(Return code: 1),1.2189
+CIFAR_P30_N38,MarabouError(Return code: 1),1.2808
+CIFAR_P71_N17,timeout,3600.001
+CIFAR_P2_N46,MarabouError(Return code: 1),1.308
+CIFAR_P58_N20,MarabouError(Return code: 1),1.3533
+CIFAR_P71_N1,MarabouError(Return code: 1),1.3363
+CIFAR_P97_N1,MarabouError(Return code: 1),1.3681
+CIFAR_P6_N45,MarabouError(Return code: 1),1.3591
+CIFAR_P26_N17,timeout,3600.001
+CIFAR_P41_N25,outofmemory,103.931
+CIFAR_P29_N24,MarabouError(Return code: 1),1.3516
+CIFAR_P63_N25,outofmemory,117.722
+CIFAR_P21_N7,MarabouError(Return code: 1),1.3833
+CIFAR_P4_N29,timeout,3600.015
+CIFAR_P26_N5,outofmemory,108.695
+CIFAR_P20_N12,MarabouError(Return code: 1),1.176
+CIFAR_P54_N19,MarabouError(Return code: 1),1.1432
+CIFAR_P57_N1,MarabouError(Return code: 1),1.3813
+CIFAR_P65_N7,MarabouError(Return code: 1),1.4212
+CIFAR_P95_N28,MarabouError(Return code: 1),1.2751
+CIFAR_P57_N7,MarabouError(Return code: 1),1.2659
+CIFAR_P19_N32,unsat,100.9833
+CIFAR_P75_N2,outofmemory,72.637
+CIFAR_P25_N16,MarabouError(Return code: 1),1.138
+CIFAR_P94_N35,MarabouError(Return code: 1),1.3259
+CIFAR_P99_N31,MarabouError(Return code: 1),1.254
+CIFAR_P14_N19,MarabouError(Return code: 1),1.212
+CIFAR_P15_N7,MarabouError(Return code: 1),1.3552
+CIFAR_P19_N22,MarabouError(Return code: 1),1.0968
+CIFAR_P29_N38,MarabouError(Return code: 1),1.3151
+CIFAR_P96_N23,MarabouError(Return code: 1),1.3012
+CIFAR_P35_N32,unsat,102.1315
+CIFAR_P14_N3,outofmemory,30.779
+CIFAR_P19_N20,MarabouError(Return code: 1),1.4351
+CIFAR_P86_N47,MarabouError(Return code: 1),1.1057
+CIFAR_P43_N43,MarabouError(Return code: 1),1.4837
+CIFAR_P65_N13,unsat,101.5397
+CIFAR_P46_N19,MarabouError(Return code: 1),1.3024
+CIFAR_P53_N47,MarabouError(Return code: 1),1.2638
+CIFAR_P50_N5,outofmemory,106.52
+CIFAR_P30_N24,MarabouError(Return code: 1),1.4464
+CIFAR_P43_N12,MarabouError(Return code: 1),1.1549
+CIFAR_P60_N38,MarabouError(Return code: 1),1.4181
+CIFAR_P87_N33,MarabouError(Return code: 1),1.3496
+CIFAR_P6_N6,MarabouError(Return code: 1),1.2632
+CIFAR_P28_N46,MarabouError(Return code: 1),1.2794
+CIFAR_P68_N18,unsat,64.8536
+CIFAR_P90_N46,MarabouError(Return code: 1),1.3604
+CIFAR_P46_N2,outofmemory,76.467
+CIFAR_P43_N32,unsat,103.6197
+CIFAR_P6_N16,MarabouError(Return code: 1),1.1928
+CIFAR_P37_N20,MarabouError(Return code: 1),1.4886
+CIFAR_P42_N8,timeout,3600.005
+CIFAR_P46_N38,MarabouError(Return code: 1),1.4278
+CIFAR_P11_N17,timeout,3600.002
+CIFAR_P37_N16,MarabouError(Return code: 1),1.1314
+CIFAR_P90_N47,MarabouError(Return code: 1),1.3248
+CIFAR_P49_N22,MarabouError(Return code: 1),1.3535
+CIFAR_P55_N42,timeout,3600.009
+CIFAR_P93_N28,MarabouError(Return code: 1),1.3591
+CIFAR_P10_N35,MarabouError(Return code: 1),1.1943
+CIFAR_P45_N19,MarabouError(Return code: 1),1.3432
+CIFAR_P92_N45,MarabouError(Return code: 1),1.3524
+CIFAR_P34_N26,MarabouError(Return code: 1),1.2931
+CIFAR_P76_N27,MarabouError(Return code: 1),1.218
+CIFAR_P92_N35,MarabouError(Return code: 1),1.3713
+CIFAR_P11_N29,timeout,3600.007
+CIFAR_P28_N24,MarabouError(Return code: 1),1.3446
+CIFAR_P17_N35,MarabouError(Return code: 1),1.1326
+CIFAR_P60_N9,MarabouError(Return code: 1),1.8782
+CIFAR_P64_N47,MarabouError(Return code: 1),1.1551
+CIFAR_P8_N8,timeout,3600.018
+CIFAR_P11_N34,unsat,63.1828
+CIFAR_P64_N2,outofmemory,83.858
+CIFAR_P3_N32,unsat,96.0662
+CIFAR_P43_N38,MarabouError(Return code: 1),1.3858
+CIFAR_P27_N19,MarabouError(Return code: 1),1.3169
+CIFAR_P32_N41,MarabouError(Return code: 1),1.4118
+CIFAR_P81_N17,timeout,3600.007
+CIFAR_P93_N32,unsat,96.2602
+CIFAR_P84_N19,MarabouError(Return code: 1),1.1403
+CIFAR_P59_N29,timeout,3600.009
+CIFAR_P87_N20,MarabouError(Return code: 1),1.3861
+CIFAR_P92_N14,MarabouError(Return code: 1),1.2693
+CIFAR_P71_N16,MarabouError(Return code: 1),1.1404
+CIFAR_P13_N45,MarabouError(Return code: 1),1.3207
+CIFAR_P5_N24,MarabouError(Return code: 1),1.259
+CIFAR_P58_N14,MarabouError(Return code: 1),1.3922
+CIFAR_P1_N42,timeout,3600.004
+CIFAR_P55_N25,outofmemory,111.623
+CIFAR_P89_N31,MarabouError(Return code: 1),1.2853
+CIFAR_P19_N4,timeout,3600.005
+CIFAR_P1_N37,MarabouError(Return code: 1),1.2382
+CIFAR_P88_N4,timeout,3600.018
+CIFAR_P90_N26,MarabouError(Return code: 1),1.3145
+CIFAR_P14_N47,MarabouError(Return code: 1),1.1934
+CIFAR_P92_N23,MarabouError(Return code: 1),1.2473
+CIFAR_P53_N15,outofmemory,68.237
+CIFAR_P97_N41,MarabouError(Return code: 1),1.2511
+CIFAR_P54_N29,timeout,3600.001
+CIFAR_P54_N9,MarabouError(Return code: 1),1.7286
+CIFAR_P61_N21,MarabouError(Return code: 1),1.2861
+CIFAR_P58_N15,outofmemory,73.068
+CIFAR_P46_N42,timeout,3600.014
+CIFAR_P47_N5,outofmemory,112.463
+CIFAR_P21_N6,MarabouError(Return code: 1),1.3341
+CIFAR_P87_N37,MarabouError(Return code: 1),1.2888
+CIFAR_P44_N45,MarabouError(Return code: 1),1.261
+CIFAR_P36_N45,MarabouError(Return code: 1),1.2578
+CIFAR_P10_N4,timeout,3600.004
+CIFAR_P12_N16,MarabouError(Return code: 1),1.2447
+CIFAR_P76_N26,MarabouError(Return code: 1),1.2513
+CIFAR_P64_N22,MarabouError(Return code: 1),1.1913
+CIFAR_P34_N34,unsat,62.9476
+CIFAR_P81_N6,MarabouError(Return code: 1),1.3282
+CIFAR_P24_N27,MarabouError(Return code: 1),1.0586
+CIFAR_P5_N1,MarabouError(Return code: 1),1.3854
+CIFAR_P62_N16,MarabouError(Return code: 1),1.094
+CIFAR_P95_N47,MarabouError(Return code: 1),1.1264
+CIFAR_P2_N27,MarabouError(Return code: 1),1.0937
+CIFAR_P54_N32,unsat,102.3971
+CIFAR_P68_N24,MarabouError(Return code: 1),1.2769
+CIFAR_P62_N38,MarabouError(Return code: 1),1.3873
+CIFAR_P56_N41,MarabouError(Return code: 1),1.302
+CIFAR_P38_N17,timeout,3600.008
+CIFAR_P73_N9,MarabouError(Return code: 1),1.7995
+CIFAR_P13_N7,MarabouError(Return code: 1),1.2174
+CIFAR_P9_N6,MarabouError(Return code: 1),1.3054
+CIFAR_P69_N34,unsat,63.2214
+CIFAR_P1_N45,MarabouError(Return code: 1),1.2967
+CIFAR_P2_N47,MarabouError(Return code: 1),1.1328
+CIFAR_P53_N38,MarabouError(Return code: 1),1.2872
+CIFAR_P54_N37,MarabouError(Return code: 1),1.3558
+CIFAR_P97_N2,outofmemory,72.859
+CIFAR_P34_N24,MarabouError(Return code: 1),1.3421
+CIFAR_P61_N12,MarabouError(Return code: 1),1.1141
+CIFAR_P25_N45,MarabouError(Return code: 1),1.3438
+CIFAR_P52_N30,MarabouError(Return code: 1),1.3352
+CIFAR_P66_N6,MarabouError(Return code: 1),1.3234
+CIFAR_P17_N37,MarabouError(Return code: 1),1.2351
+CIFAR_P66_N3,outofmemory,30.239
+CIFAR_P69_N27,MarabouError(Return code: 1),1.1338
+CIFAR_P40_N30,MarabouError(Return code: 1),1.4614
+CIFAR_P32_N46,MarabouError(Return code: 1),1.332
+CIFAR_P82_N33,MarabouError(Return code: 1),1.2257
+CIFAR_P79_N26,MarabouError(Return code: 1),1.394
+CIFAR_P69_N26,MarabouError(Return code: 1),1.2901
+CIFAR_P80_N8,timeout,3600.001
+CIFAR_P91_N42,timeout,3600.019
+CIFAR_P35_N31,MarabouError(Return code: 1),1.26
+CIFAR_P52_N46,MarabouError(Return code: 1),1.2714
+CIFAR_P27_N2,outofmemory,72.2
+CIFAR_P54_N23,MarabouError(Return code: 1),1.3141
+CIFAR_P61_N37,MarabouError(Return code: 1),1.3619
+CIFAR_P44_N7,MarabouError(Return code: 1),1.3482
+CIFAR_P58_N35,MarabouError(Return code: 1),1.2916
+CIFAR_P62_N26,MarabouError(Return code: 1),1.3085
+CIFAR_P82_N25,outofmemory,103.963
+CIFAR_P55_N17,timeout,3600.007
+CIFAR_P75_N33,MarabouError(Return code: 1),1.3007
+CIFAR_P39_N22,MarabouError(Return code: 1),1.1056
+CIFAR_P41_N30,MarabouError(Return code: 1),1.3138
+CIFAR_P82_N3,outofmemory,29.407
+CIFAR_P67_N6,MarabouError(Return code: 1),1.3861
+CIFAR_P39_N43,MarabouError(Return code: 1),1.2815
+CIFAR_P85_N30,MarabouError(Return code: 1),1.3633
+CIFAR_P20_N38,MarabouError(Return code: 1),1.2936
+CIFAR_P13_N8,timeout,3600.002
+CIFAR_P19_N38,MarabouError(Return code: 1),1.2619
+CIFAR_P51_N1,MarabouError(Return code: 1),1.3286
+CIFAR_P10_N21,MarabouError(Return code: 1),1.2069
+CIFAR_P39_N8,timeout,3600.014
+CIFAR_P15_N44,MarabouError(Return code: 1),1.2661
+CIFAR_P30_N26,MarabouError(Return code: 1),1.2494
+CIFAR_P54_N17,timeout,3600.021
+CIFAR_P44_N15,outofmemory,74.824
+CIFAR_P90_N43,MarabouError(Return code: 1),1.1876
+CIFAR_P83_N21,MarabouError(Return code: 1),1.2799
+CIFAR_P36_N29,timeout,3600.009
+CIFAR_P78_N14,MarabouError(Return code: 1),1.251
+CIFAR_P61_N8,timeout,3600.008
+CIFAR_P4_N37,MarabouError(Return code: 1),1.263
+CIFAR_P22_N33,MarabouError(Return code: 1),1.3596
+CIFAR_P56_N44,MarabouError(Return code: 1),1.3363
+CIFAR_P64_N13,unsat,98.741
+CIFAR_P72_N23,MarabouError(Return code: 1),1.2595
+CIFAR_P76_N22,MarabouError(Return code: 1),1.1181
+CIFAR_P8_N47,MarabouError(Return code: 1),1.1379
+CIFAR_P16_N3,outofmemory,30.095
+CIFAR_P75_N7,MarabouError(Return code: 1),1.2835
+CIFAR_P1_N41,MarabouError(Return code: 1),1.3457
+CIFAR_P7_N38,MarabouError(Return code: 1),1.3462
+CIFAR_P85_N28,MarabouError(Return code: 1),1.3816
+CIFAR_P89_N33,MarabouError(Return code: 1),1.2905
+CIFAR_P96_N1,MarabouError(Return code: 1),1.3369
+CIFAR_P26_N20,MarabouError(Return code: 1),1.2371
+CIFAR_P61_N44,MarabouError(Return code: 1),1.2934
+CIFAR_P67_N4,timeout,3600.006
+CIFAR_P36_N9,MarabouError(Return code: 1),1.9001
+CIFAR_P90_N23,MarabouError(Return code: 1),1.2306
+CIFAR_P68_N8,timeout,3600.019
+CIFAR_P94_N30,MarabouError(Return code: 1),1.3222
+CIFAR_P98_N20,MarabouError(Return code: 1),1.4465
+CIFAR_P5_N29,timeout,3600.004
+CIFAR_P83_N35,MarabouError(Return code: 1),1.2991
+CIFAR_P76_N37,MarabouError(Return code: 1),1.4266
+CIFAR_P2_N35,MarabouError(Return code: 1),1.2932
+CIFAR_P89_N32,unsat,99.4529
+CIFAR_P21_N41,MarabouError(Return code: 1),1.3775
+CIFAR_P31_N22,MarabouError(Return code: 1),1.1031
+CIFAR_P12_N1,MarabouError(Return code: 1),1.1917
+CIFAR_P70_N18,unsat,65.1899
+CIFAR_P95_N43,MarabouError(Return code: 1),1.3735
+CIFAR_P96_N30,MarabouError(Return code: 1),1.3436
+CIFAR_P21_N4,timeout,3600.016
+CIFAR_P1_N44,MarabouError(Return code: 1),1.2791
+CIFAR_P49_N8,timeout,3600.003
+CIFAR_P6_N41,MarabouError(Return code: 1),1.2971
+CIFAR_P99_N30,MarabouError(Return code: 1),1.3657
+CIFAR_P85_N8,timeout,3600.017
+CIFAR_P42_N19,MarabouError(Return code: 1),1.2826
+CIFAR_P52_N32,unsat,98.3693
+CIFAR_P4_N35,MarabouError(Return code: 1),1.2147
+CIFAR_P53_N9,MarabouError(Return code: 1),1.712
+CIFAR_P75_N44,MarabouError(Return code: 1),1.4125
+CIFAR_P77_N47,MarabouError(Return code: 1),1.1844
+CIFAR_P89_N42,timeout,3600.012
+CIFAR_P34_N41,MarabouError(Return code: 1),1.2011
+CIFAR_P84_N6,MarabouError(Return code: 1),1.4716
+CIFAR_P95_N1,MarabouError(Return code: 1),1.2578
+CIFAR_P8_N19,MarabouError(Return code: 1),1.2596
+CIFAR_P17_N25,outofmemory,102.614
+CIFAR_P70_N29,timeout,3600.017
+CIFAR_P48_N16,MarabouError(Return code: 1),1.1862
+CIFAR_P16_N1,MarabouError(Return code: 1),1.1924
+CIFAR_P38_N22,MarabouError(Return code: 1),1.1016
+CIFAR_P78_N18,unsat,62.9923
+CIFAR_P2_N43,MarabouError(Return code: 1),1.1938
+CIFAR_P9_N28,MarabouError(Return code: 1),1.3132
+CIFAR_P70_N12,MarabouError(Return code: 1),1.0691
+CIFAR_P78_N31,MarabouError(Return code: 1),1.2492
+CIFAR_P78_N7,MarabouError(Return code: 1),1.2208
+CIFAR_P22_N31,MarabouError(Return code: 1),1.3255
+CIFAR_P68_N21,MarabouError(Return code: 1),1.3979
+CIFAR_P94_N8,timeout,3600.012
+CIFAR_P99_N15,outofmemory,79.809
+CIFAR_P12_N38,MarabouError(Return code: 1),1.2396
+CIFAR_P13_N16,MarabouError(Return code: 1),1.1038
+CIFAR_P3_N13,unsat,99.7421
+CIFAR_P38_N7,MarabouError(Return code: 1),1.2676
+CIFAR_P54_N20,MarabouError(Return code: 1),1.2782
+CIFAR_P52_N45,MarabouError(Return code: 1),1.2931
+CIFAR_P98_N31,MarabouError(Return code: 1),1.3057
+CIFAR_P35_N47,MarabouError(Return code: 1),1.189
+CIFAR_P44_N28,MarabouError(Return code: 1),1.3869
+CIFAR_P72_N44,MarabouError(Return code: 1),1.2713
+CIFAR_P61_N17,timeout,3600.02
+CIFAR_P19_N44,MarabouError(Return code: 1),1.2137
+CIFAR_P55_N7,MarabouError(Return code: 1),1.2366
+CIFAR_P29_N28,MarabouError(Return code: 1),1.2191
+CIFAR_P5_N44,MarabouError(Return code: 1),1.3031
+CIFAR_P27_N42,timeout,3600.004
+CIFAR_P42_N22,MarabouError(Return code: 1),1.1736
+CIFAR_P56_N45,MarabouError(Return code: 1),1.2717
+CIFAR_P83_N46,MarabouError(Return code: 1),1.3328
+CIFAR_P66_N9,MarabouError(Return code: 1),1.7402
+CIFAR_P13_N20,MarabouError(Return code: 1),1.3171
+CIFAR_P6_N18,unsat,63.5248
+CIFAR_P16_N22,MarabouError(Return code: 1),1.1559
+CIFAR_P12_N7,MarabouError(Return code: 1),1.2824
+CIFAR_P50_N43,MarabouError(Return code: 1),1.1766
+CIFAR_P50_N16,MarabouError(Return code: 1),1.2124
+CIFAR_P92_N1,MarabouError(Return code: 1),1.2262
+CIFAR_P54_N31,MarabouError(Return code: 1),1.369
+CIFAR_P26_N27,MarabouError(Return code: 1),1.0896
+CIFAR_P17_N17,timeout,3600.016
+CIFAR_P73_N19,MarabouError(Return code: 1),1.2035
+CIFAR_P83_N2,outofmemory,69.988
+CIFAR_P91_N47,MarabouError(Return code: 1),1.148
+CIFAR_P56_N23,MarabouError(Return code: 1),1.1953
+CIFAR_P45_N28,MarabouError(Return code: 1),1.2431
+CIFAR_P52_N22,MarabouError(Return code: 1),1.0844
+CIFAR_P78_N27,MarabouError(Return code: 1),1.1476
+CIFAR_P31_N2,outofmemory,74.892
+CIFAR_P95_N20,MarabouError(Return code: 1),1.1966
+CIFAR_P95_N32,unsat,98.01
+CIFAR_P3_N34,unsat,62.5263
+CIFAR_P11_N44,MarabouError(Return code: 1),1.2524
+CIFAR_P44_N44,MarabouError(Return code: 1),1.2671
+CIFAR_P32_N25,outofmemory,108.549
+CIFAR_P44_N46,MarabouError(Return code: 1),1.3218
+CIFAR_P79_N20,MarabouError(Return code: 1),1.359
+CIFAR_P88_N29,timeout,3600.022
+CIFAR_P71_N28,MarabouError(Return code: 1),1.2973
+CIFAR_P68_N32,unsat,100.6971
+CIFAR_P74_N33,MarabouError(Return code: 1),1.2976
+CIFAR_P5_N9,MarabouError(Return code: 1),1.6656
+CIFAR_P75_N37,MarabouError(Return code: 1),1.3168
+CIFAR_P46_N4,timeout,3600.002
+CIFAR_P2_N33,MarabouError(Return code: 1),1.2953
+CIFAR_P2_N38,MarabouError(Return code: 1),1.3283
+CIFAR_P31_N31,MarabouError(Return code: 1),1.2511
+CIFAR_P63_N43,MarabouError(Return code: 1),1.263
+CIFAR_P24_N1,MarabouError(Return code: 1),1.2687
+CIFAR_P34_N5,outofmemory,107.351
+CIFAR_P34_N13,unsat,96.5427
+CIFAR_P1_N31,MarabouError(Return code: 1),1.1989
+CIFAR_P30_N1,MarabouError(Return code: 1),1.3861
+CIFAR_P16_N37,MarabouError(Return code: 1),1.3173
+CIFAR_P37_N35,MarabouError(Return code: 1),1.1913
+CIFAR_P4_N27,MarabouError(Return code: 1),1.1909
+CIFAR_P83_N29,timeout,3600.001
+CIFAR_P66_N32,unsat,97.7155
+CIFAR_P70_N37,MarabouError(Return code: 1),1.2319
+CIFAR_P38_N25,outofmemory,106.801
+CIFAR_P62_N34,unsat,63.0555
+CIFAR_P63_N31,MarabouError(Return code: 1),1.2352
+CIFAR_P7_N25,outofmemory,112.752
+CIFAR_P69_N46,MarabouError(Return code: 1),1.2872
+CIFAR_P22_N29,timeout,3600.004
+CIFAR_P71_N34,unsat,64.0632
+CIFAR_P96_N42,timeout,3600.001
+CIFAR_P86_N46,MarabouError(Return code: 1),1.2181
+CIFAR_P94_N23,MarabouError(Return code: 1),1.197
+CIFAR_P12_N14,MarabouError(Return code: 1),1.3036
+CIFAR_P20_N5,outofmemory,131.139
+CIFAR_P23_N8,timeout,3600.012
+CIFAR_P60_N1,MarabouError(Return code: 1),1.2886
+CIFAR_P62_N5,outofmemory,104.512
+CIFAR_P88_N42,timeout,3600.005
+CIFAR_P9_N26,MarabouError(Return code: 1),1.3319
+CIFAR_P46_N26,MarabouError(Return code: 1),1.2857
+CIFAR_P16_N41,MarabouError(Return code: 1),1.2727
+CIFAR_P13_N34,unsat,63.8121
+CIFAR_P66_N1,MarabouError(Return code: 1),1.4577
+CIFAR_P41_N12,MarabouError(Return code: 1),1.1914
+CIFAR_P63_N18,unsat,64.0835
+CIFAR_P8_N12,MarabouError(Return code: 1),1.0711
+CIFAR_P34_N25,outofmemory,116.976
+CIFAR_P50_N44,MarabouError(Return code: 1),1.3304
+CIFAR_P78_N29,timeout,3600.012
+CIFAR_P96_N22,MarabouError(Return code: 1),1.1731
+CIFAR_P10_N2,outofmemory,79.398
+CIFAR_P65_N20,MarabouError(Return code: 1),1.3212
+CIFAR_P17_N15,outofmemory,68.731
+CIFAR_P19_N15,outofmemory,73.751
+CIFAR_P29_N29,timeout,3600.015
+CIFAR_P25_N30,MarabouError(Return code: 1),1.271
+CIFAR_P62_N30,MarabouError(Return code: 1),1.2946
+CIFAR_P97_N47,MarabouError(Return code: 1),1.1115
+CIFAR_P96_N16,MarabouError(Return code: 1),1.1165
+CIFAR_P51_N15,outofmemory,70.07
+CIFAR_P91_N29,timeout,3600.01
+CIFAR_P31_N7,MarabouError(Return code: 1),1.2956
+CIFAR_P24_N44,MarabouError(Return code: 1),1.2242
+CIFAR_P39_N47,MarabouError(Return code: 1),1.1079
+CIFAR_P52_N37,MarabouError(Return code: 1),1.2162
+CIFAR_P61_N35,MarabouError(Return code: 1),1.1537
+CIFAR_P36_N14,MarabouError(Return code: 1),1.3141
+CIFAR_P18_N4,timeout,3600.017
+CIFAR_P50_N42,timeout,3600.014
+CIFAR_P54_N7,MarabouError(Return code: 1),1.3356
+CIFAR_P71_N15,outofmemory,68.959
+CIFAR_P98_N19,MarabouError(Return code: 1),1.1584
+CIFAR_P93_N23,MarabouError(Return code: 1),1.2718
+CIFAR_P33_N23,MarabouError(Return code: 1),1.2501
+CIFAR_P1_N30,MarabouError(Return code: 1),1.3156
+CIFAR_P13_N22,MarabouError(Return code: 1),1.1383
+CIFAR_P63_N3,outofmemory,29.773
+CIFAR_P46_N12,MarabouError(Return code: 1),1.145
+CIFAR_P66_N24,MarabouError(Return code: 1),1.3634
+CIFAR_P42_N7,MarabouError(Return code: 1),1.4148
+CIFAR_P80_N29,timeout,3600.018
+CIFAR_P90_N8,timeout,3600.024
+CIFAR_P36_N18,unsat,63.6324
+CIFAR_P2_N44,MarabouError(Return code: 1),1.3119
+CIFAR_P50_N37,MarabouError(Return code: 1),1.3489
+CIFAR_P57_N41,MarabouError(Return code: 1),1.2813
+CIFAR_P19_N27,MarabouError(Return code: 1),1.1901
+CIFAR_P49_N27,MarabouError(Return code: 1),1.2865
+CIFAR_P82_N44,MarabouError(Return code: 1),1.3094
+CIFAR_P44_N24,MarabouError(Return code: 1),1.1865
+CIFAR_P50_N31,MarabouError(Return code: 1),1.3693
+CIFAR_P60_N22,MarabouError(Return code: 1),1.2133
+CIFAR_P6_N43,MarabouError(Return code: 1),1.2429
+CIFAR_P58_N6,MarabouError(Return code: 1),1.4279
+CIFAR_P1_N18,unsat,64.8956
+CIFAR_P7_N27,MarabouError(Return code: 1),1.1296
+CIFAR_P73_N37,MarabouError(Return code: 1),1.3335
+CIFAR_P98_N43,MarabouError(Return code: 1),1.2552
+CIFAR_P52_N5,outofmemory,105.307
+CIFAR_P31_N25,outofmemory,106.055
+CIFAR_P47_N45,MarabouError(Return code: 1),1.3316
+CIFAR_P5_N14,MarabouError(Return code: 1),1.3045
+CIFAR_P86_N17,timeout,3600.003
+CIFAR_P14_N41,MarabouError(Return code: 1),1.3334
+CIFAR_P82_N5,outofmemory,105.235
+CIFAR_P13_N37,MarabouError(Return code: 1),1.2816
+CIFAR_P0_N26,MarabouError(Return code: 1),1.1989
+CIFAR_P18_N44,MarabouError(Return code: 1),1.3742
+CIFAR_P18_N2,outofmemory,71.886
+CIFAR_P46_N13,unsat,98.5389
+CIFAR_P50_N13,unsat,100.3743
+CIFAR_P32_N4,timeout,3600.019
+CIFAR_P66_N19,MarabouError(Return code: 1),1.0888
+CIFAR_P29_N31,MarabouError(Return code: 1),1.3348
+CIFAR_P0_N8,timeout,3600.009
+CIFAR_P15_N31,MarabouError(Return code: 1),1.2687
+CIFAR_P19_N19,MarabouError(Return code: 1),1.2271
+CIFAR_P65_N31,MarabouError(Return code: 1),1.2973
+CIFAR_P71_N7,MarabouError(Return code: 1),1.281
+CIFAR_P62_N8,timeout,3600.007
+CIFAR_P98_N32,unsat,101.0827
+CIFAR_P35_N26,MarabouError(Return code: 1),1.2493
+CIFAR_P4_N26,MarabouError(Return code: 1),1.2726
+CIFAR_P33_N3,outofmemory,29.674
+CIFAR_P76_N9,MarabouError(Return code: 1),1.7178
+CIFAR_P59_N15,outofmemory,70.224
+CIFAR_P84_N30,MarabouError(Return code: 1),1.373
+CIFAR_P7_N24,MarabouError(Return code: 1),1.2367
+CIFAR_P99_N37,MarabouError(Return code: 1),1.2967
+CIFAR_P51_N2,outofmemory,84.371
+CIFAR_P38_N29,timeout,3600.01
+CIFAR_P56_N4,timeout,3600.022
+CIFAR_P32_N9,MarabouError(Return code: 1),1.8152
+CIFAR_P2_N32,unsat,101.5614
+CIFAR_P61_N9,MarabouError(Return code: 1),1.6554
+CIFAR_P14_N17,timeout,3600.011
+CIFAR_P51_N42,timeout,3600.013
+CIFAR_P18_N13,unsat,100.2589
+CIFAR_P78_N13,unsat,98.4146
+CIFAR_P48_N4,timeout,3600.006
+CIFAR_P36_N46,MarabouError(Return code: 1),1.2393
+CIFAR_P78_N8,timeout,3600.01
+CIFAR_P35_N35,MarabouError(Return code: 1),1.1398
+CIFAR_P95_N41,MarabouError(Return code: 1),1.2919
+CIFAR_P23_N26,MarabouError(Return code: 1),1.2619
+CIFAR_P54_N15,outofmemory,71.126
+CIFAR_P46_N27,MarabouError(Return code: 1),1.1739
+CIFAR_P99_N47,MarabouError(Return code: 1),1.1786
+CIFAR_P15_N15,outofmemory,68.637
+CIFAR_P62_N31,MarabouError(Return code: 1),1.4063
+CIFAR_P1_N20,MarabouError(Return code: 1),1.3251
+CIFAR_P36_N19,MarabouError(Return code: 1),1.2578
+CIFAR_P38_N32,unsat,98.1977
+CIFAR_P63_N22,MarabouError(Return code: 1),1.1163
+CIFAR_P67_N3,outofmemory,29.468
+CIFAR_P28_N23,MarabouError(Return code: 1),1.3439
+CIFAR_P73_N45,MarabouError(Return code: 1),1.2263
+CIFAR_P70_N42,timeout,3600.01
+CIFAR_P43_N6,MarabouError(Return code: 1),1.3425
+CIFAR_P16_N26,MarabouError(Return code: 1),1.2693
+CIFAR_P36_N37,MarabouError(Return code: 1),1.2928
+CIFAR_P92_N38,MarabouError(Return code: 1),1.2546
+CIFAR_P47_N21,MarabouError(Return code: 1),1.2659
+CIFAR_P65_N17,timeout,3600.021
+CIFAR_P16_N5,outofmemory,109.656
+CIFAR_P79_N21,MarabouError(Return code: 1),1.2846
+CIFAR_P85_N3,outofmemory,30.501
+CIFAR_P27_N6,MarabouError(Return code: 1),1.3799
+CIFAR_P79_N15,outofmemory,72.148
+CIFAR_P44_N35,MarabouError(Return code: 1),1.1652
+CIFAR_P52_N31,MarabouError(Return code: 1),1.2638
+CIFAR_P10_N1,MarabouError(Return code: 1),1.2134
+CIFAR_P19_N5,outofmemory,113.361
+CIFAR_P42_N47,MarabouError(Return code: 1),1.1921
+CIFAR_P67_N1,MarabouError(Return code: 1),1.2836
+CIFAR_P79_N41,MarabouError(Return code: 1),1.3553
+CIFAR_P99_N7,MarabouError(Return code: 1),1.2737
+CIFAR_P29_N37,MarabouError(Return code: 1),1.3026
+CIFAR_P0_N31,MarabouError(Return code: 1),1.3188
+CIFAR_P87_N9,MarabouError(Return code: 1),1.6745
+CIFAR_P80_N5,outofmemory,105.092
+CIFAR_P59_N31,MarabouError(Return code: 1),1.2968
+CIFAR_P24_N5,outofmemory,118.249
+CIFAR_P41_N35,MarabouError(Return code: 1),1.1315
+CIFAR_P55_N22,MarabouError(Return code: 1),1.2064
+CIFAR_P65_N21,MarabouError(Return code: 1),1.2604
+CIFAR_P35_N43,MarabouError(Return code: 1),1.2107
+CIFAR_P37_N5,outofmemory,104.589
+CIFAR_P91_N7,MarabouError(Return code: 1),1.2734
+CIFAR_P81_N18,unsat,64.752
+CIFAR_P67_N14,MarabouError(Return code: 1),1.3911
+CIFAR_P3_N15,outofmemory,74.678
+CIFAR_P15_N2,outofmemory,67.818
+CIFAR_P10_N46,MarabouError(Return code: 1),1.228
+CIFAR_P54_N27,MarabouError(Return code: 1),1.1698
+CIFAR_P32_N26,MarabouError(Return code: 1),1.3682
+CIFAR_P15_N14,MarabouError(Return code: 1),1.3427
+CIFAR_P57_N9,MarabouError(Return code: 1),1.777
+CIFAR_P2_N13,unsat,99.7441
+CIFAR_P80_N2,outofmemory,69.858
+CIFAR_P99_N3,outofmemory,29.436
+CIFAR_P56_N13,unsat,99.4556
+CIFAR_P28_N19,MarabouError(Return code: 1),1.3418
+CIFAR_P96_N20,MarabouError(Return code: 1),1.3101
+CIFAR_P16_N34,unsat,64.028
+CIFAR_P19_N7,MarabouError(Return code: 1),1.2761
+CIFAR_P9_N8,timeout,3600.001
+CIFAR_P2_N5,outofmemory,110.73
+CIFAR_P21_N21,MarabouError(Return code: 1),1.4237
+CIFAR_P36_N12,MarabouError(Return code: 1),1.4017
+CIFAR_P69_N15,outofmemory,69.464
+CIFAR_P21_N5,outofmemory,107.43
+CIFAR_P83_N8,timeout,3600.021
+CIFAR_P18_N28,MarabouError(Return code: 1),1.2618
+CIFAR_P70_N7,MarabouError(Return code: 1),1.2508
+CIFAR_P3_N29,timeout,3600.002
+CIFAR_P95_N45,MarabouError(Return code: 1),1.3078
+CIFAR_P81_N13,unsat,103.5643
+CIFAR_P75_N34,unsat,64.5401
+CIFAR_P17_N30,MarabouError(Return code: 1),1.3301
+CIFAR_P66_N13,unsat,100.9138
+CIFAR_P53_N43,MarabouError(Return code: 1),1.3289
+CIFAR_P53_N18,unsat,63.815
+CIFAR_P60_N25,outofmemory,109.231
+CIFAR_P45_N18,unsat,65.0119
+CIFAR_P84_N34,unsat,66.5433
+CIFAR_P50_N30,MarabouError(Return code: 1),1.4601
+CIFAR_P83_N30,MarabouError(Return code: 1),1.3697
+CIFAR_P5_N17,timeout,3600.013
+CIFAR_P96_N44,MarabouError(Return code: 1),1.5352
+CIFAR_P7_N16,MarabouError(Return code: 1),1.2099
+CIFAR_P54_N28,MarabouError(Return code: 1),1.4433
+CIFAR_P57_N22,MarabouError(Return code: 1),1.3624
+CIFAR_P48_N13,unsat,101.3601
+CIFAR_P54_N35,MarabouError(Return code: 1),1.1648
+CIFAR_P96_N37,MarabouError(Return code: 1),1.46
+CIFAR_P24_N28,MarabouError(Return code: 1),1.3056
+CIFAR_P28_N2,outofmemory,73.568
+CIFAR_P77_N46,MarabouError(Return code: 1),1.2327
+CIFAR_P55_N35,MarabouError(Return code: 1),1.3287
+CIFAR_P81_N31,MarabouError(Return code: 1),1.3096
+CIFAR_P75_N27,MarabouError(Return code: 1),1.2208
+CIFAR_P48_N7,MarabouError(Return code: 1),1.2467
+CIFAR_P70_N9,MarabouError(Return code: 1),1.9007
+CIFAR_P94_N41,MarabouError(Return code: 1),1.2307
+CIFAR_P35_N41,MarabouError(Return code: 1),1.3362
+CIFAR_P55_N20,MarabouError(Return code: 1),1.4401
+CIFAR_P5_N15,outofmemory,72.75
+CIFAR_P58_N29,timeout,3600.009
+CIFAR_P45_N8,timeout,3600.016
+CIFAR_P71_N45,MarabouError(Return code: 1),1.3198
+CIFAR_P90_N22,MarabouError(Return code: 1),1.2889
+CIFAR_P22_N23,MarabouError(Return code: 1),1.2445
+CIFAR_P54_N12,MarabouError(Return code: 1),1.1593
+CIFAR_P22_N35,MarabouError(Return code: 1),1.2779
+CIFAR_P49_N25,outofmemory,106.284
+CIFAR_P79_N25,outofmemory,111.864
+CIFAR_P97_N33,MarabouError(Return code: 1),1.3681
+CIFAR_P87_N12,MarabouError(Return code: 1),1.1405
+CIFAR_P56_N38,MarabouError(Return code: 1),1.242
+CIFAR_P1_N25,outofmemory,113.634
+CIFAR_P21_N37,MarabouError(Return code: 1),1.2556
+CIFAR_P2_N14,MarabouError(Return code: 1),1.2415
+CIFAR_P21_N14,MarabouError(Return code: 1),1.3472
+CIFAR_P48_N8,timeout,3600.008
+CIFAR_P22_N4,timeout,3600.016
+CIFAR_P30_N46,MarabouError(Return code: 1),1.2695
+CIFAR_P80_N12,MarabouError(Return code: 1),1.1026
+CIFAR_P66_N25,outofmemory,106.511
+CIFAR_P77_N25,outofmemory,118.849
+CIFAR_P43_N1,MarabouError(Return code: 1),1.373
+CIFAR_P24_N43,MarabouError(Return code: 1),1.2924
+CIFAR_P63_N28,MarabouError(Return code: 1),1.4551
+CIFAR_P48_N26,MarabouError(Return code: 1),1.2665
+CIFAR_P27_N41,MarabouError(Return code: 1),1.4101
+CIFAR_P42_N28,MarabouError(Return code: 1),1.4301
+CIFAR_P46_N44,MarabouError(Return code: 1),1.2932
+CIFAR_P66_N27,MarabouError(Return code: 1),1.1238
+CIFAR_P95_N27,MarabouError(Return code: 1),1.3116
+CIFAR_P43_N31,MarabouError(Return code: 1),1.3056
+CIFAR_P86_N44,MarabouError(Return code: 1),1.4602
+CIFAR_P30_N33,MarabouError(Return code: 1),1.2381
+CIFAR_P6_N34,unsat,62.8779
+CIFAR_P2_N15,outofmemory,73.354
+CIFAR_P33_N16,MarabouError(Return code: 1),1.1866
+CIFAR_P57_N35,MarabouError(Return code: 1),1.2446
+CIFAR_P91_N45,MarabouError(Return code: 1),1.4489
+CIFAR_P11_N1,MarabouError(Return code: 1),1.2368
+CIFAR_P69_N32,unsat,98.3873
+CIFAR_P32_N15,outofmemory,70.249
+CIFAR_P53_N27,MarabouError(Return code: 1),1.2317
+CIFAR_P22_N17,timeout,3600.003
+CIFAR_P10_N3,outofmemory,30.092
+CIFAR_P1_N26,MarabouError(Return code: 1),1.3102
+CIFAR_P85_N15,outofmemory,71.193
+CIFAR_P81_N9,MarabouError(Return code: 1),1.6509
+CIFAR_P79_N22,MarabouError(Return code: 1),1.1595
+CIFAR_P38_N18,unsat,64.9867
+CIFAR_P5_N45,MarabouError(Return code: 1),1.2867
+CIFAR_P42_N34,unsat,64.1875
+CIFAR_P31_N3,outofmemory,31.52
+CIFAR_P19_N45,MarabouError(Return code: 1),1.2173
+CIFAR_P12_N22,MarabouError(Return code: 1),1.169
+CIFAR_P56_N20,MarabouError(Return code: 1),1.2312
+CIFAR_P43_N41,MarabouError(Return code: 1),1.4076
+CIFAR_P51_N18,unsat,63.2613
+CIFAR_P7_N6,MarabouError(Return code: 1),1.438
+CIFAR_P99_N23,MarabouError(Return code: 1),1.4279
+CIFAR_P35_N20,MarabouError(Return code: 1),1.2748
+CIFAR_P34_N35,MarabouError(Return code: 1),1.2367
+CIFAR_P50_N17,timeout,3600.008
+CIFAR_P73_N41,MarabouError(Return code: 1),1.5218
+CIFAR_P70_N22,MarabouError(Return code: 1),1.2083
+CIFAR_P91_N37,MarabouError(Return code: 1),1.3911
+CIFAR_P20_N7,MarabouError(Return code: 1),1.4209
+CIFAR_P97_N43,MarabouError(Return code: 1),1.416
+CIFAR_P62_N25,outofmemory,103.407
+CIFAR_P42_N21,MarabouError(Return code: 1),1.4573
+CIFAR_P68_N29,timeout,3600.004
+CIFAR_P70_N6,MarabouError(Return code: 1),1.294
+CIFAR_P26_N8,timeout,3600.005
+CIFAR_P50_N14,MarabouError(Return code: 1),1.3368
+CIFAR_P58_N27,MarabouError(Return code: 1),1.1137
+CIFAR_P75_N38,MarabouError(Return code: 1),1.2679
+CIFAR_P9_N21,MarabouError(Return code: 1),1.3502
+CIFAR_P98_N42,timeout,3600.014
+CIFAR_P28_N8,timeout,3600.001
+CIFAR_P76_N2,outofmemory,68.39
+CIFAR_P64_N33,MarabouError(Return code: 1),1.3389
+CIFAR_P97_N17,timeout,3600.013
+CIFAR_P93_N33,MarabouError(Return code: 1),1.2433
+CIFAR_P32_N1,MarabouError(Return code: 1),1.2969
+CIFAR_P45_N12,MarabouError(Return code: 1),1.0934
+CIFAR_P67_N32,unsat,97.8116
+CIFAR_P89_N6,MarabouError(Return code: 1),1.2914
+CIFAR_P57_N32,unsat,100.3577
+CIFAR_P2_N2,outofmemory,76.255
+CIFAR_P4_N22,MarabouError(Return code: 1),1.1402
+CIFAR_P72_N32,unsat,100.7702
+CIFAR_P64_N14,MarabouError(Return code: 1),1.3763
+CIFAR_P25_N9,MarabouError(Return code: 1),1.7965
+CIFAR_P45_N38,MarabouError(Return code: 1),1.2141
+CIFAR_P90_N18,unsat,65.5225
+CIFAR_P36_N30,MarabouError(Return code: 1),1.3767
+CIFAR_P43_N19,MarabouError(Return code: 1),1.141
+CIFAR_P67_N31,MarabouError(Return code: 1),1.2984
+CIFAR_P23_N1,MarabouError(Return code: 1),1.2366
+CIFAR_P60_N33,MarabouError(Return code: 1),1.3081
+CIFAR_P37_N33,MarabouError(Return code: 1),1.2881
+CIFAR_P57_N18,unsat,64.647
+CIFAR_P61_N6,MarabouError(Return code: 1),1.2741
+CIFAR_P12_N2,outofmemory,76.911
+CIFAR_P97_N46,MarabouError(Return code: 1),1.2523
+CIFAR_P86_N12,MarabouError(Return code: 1),1.2184
+CIFAR_P93_N47,MarabouError(Return code: 1),1.1326
+CIFAR_P62_N12,MarabouError(Return code: 1),1.3003
+CIFAR_P58_N4,timeout,3600.016
+CIFAR_P33_N8,timeout,3600.001
+CIFAR_P60_N27,MarabouError(Return code: 1),1.2341
+CIFAR_P74_N3,outofmemory,29.472
+CIFAR_P71_N29,timeout,3600.015
+CIFAR_P45_N4,timeout,3600.006
+CIFAR_P74_N42,timeout,3600.01
+CIFAR_P10_N8,timeout,3600.007
+CIFAR_P50_N24,MarabouError(Return code: 1),1.2706
+CIFAR_P85_N37,MarabouError(Return code: 1),1.2818
+CIFAR_P49_N17,timeout,3600.006
+CIFAR_P95_N17,timeout,3600.02
+CIFAR_P26_N38,MarabouError(Return code: 1),1.2816
+CIFAR_P94_N28,MarabouError(Return code: 1),1.2618
+CIFAR_P83_N47,MarabouError(Return code: 1),1.1281
+CIFAR_P53_N16,MarabouError(Return code: 1),1.2391
+CIFAR_P52_N33,MarabouError(Return code: 1),1.2752
+CIFAR_P24_N9,MarabouError(Return code: 1),1.8465
+CIFAR_P63_N38,MarabouError(Return code: 1),1.2348
+CIFAR_P92_N12,MarabouError(Return code: 1),1.112
+CIFAR_P26_N45,MarabouError(Return code: 1),1.2211
+CIFAR_P5_N47,MarabouError(Return code: 1),1.1194
+CIFAR_P32_N17,timeout,3600.022
+CIFAR_P77_N26,MarabouError(Return code: 1),1.3035
+CIFAR_P0_N9,MarabouError(Return code: 1),1.701
+CIFAR_P18_N37,MarabouError(Return code: 1),1.2026
+CIFAR_P3_N2,outofmemory,73.856
+CIFAR_P35_N14,MarabouError(Return code: 1),1.2268
+CIFAR_P67_N22,MarabouError(Return code: 1),1.0926
+CIFAR_P79_N4,timeout,3600.0
+CIFAR_P19_N17,timeout,3600.006
+CIFAR_P17_N2,outofmemory,70.16
+CIFAR_P12_N33,MarabouError(Return code: 1),1.3278
+CIFAR_P33_N37,MarabouError(Return code: 1),1.2228
+CIFAR_P42_N2,outofmemory,69.099
+CIFAR_P91_N28,MarabouError(Return code: 1),1.3093
+CIFAR_P89_N28,MarabouError(Return code: 1),1.3566
+CIFAR_P38_N42,timeout,3600.015
+CIFAR_P19_N16,MarabouError(Return code: 1),1.188
+CIFAR_P32_N12,MarabouError(Return code: 1),1.165
+CIFAR_P53_N4,timeout,3600.008
+CIFAR_P5_N19,MarabouError(Return code: 1),1.2842
+CIFAR_P79_N42,timeout,3600.002
+CIFAR_P45_N37,MarabouError(Return code: 1),1.3644
+CIFAR_P4_N43,MarabouError(Return code: 1),1.3304
+CIFAR_P8_N14,MarabouError(Return code: 1),1.3698
+CIFAR_P35_N3,outofmemory,29.566
+CIFAR_P90_N35,MarabouError(Return code: 1),1.2362
+CIFAR_P41_N31,MarabouError(Return code: 1),1.2206
+CIFAR_P20_N32,unsat,103.3092
+CIFAR_P69_N12,MarabouError(Return code: 1),1.0884
+CIFAR_P46_N24,MarabouError(Return code: 1),1.3094
+CIFAR_P82_N32,unsat,98.06
+CIFAR_P82_N43,MarabouError(Return code: 1),1.3066
+CIFAR_P87_N14,MarabouError(Return code: 1),1.2229
+CIFAR_P52_N6,MarabouError(Return code: 1),1.4189
+CIFAR_P98_N27,MarabouError(Return code: 1),1.0923
+CIFAR_P83_N20,MarabouError(Return code: 1),1.2606
+CIFAR_P33_N41,MarabouError(Return code: 1),1.3935
+CIFAR_P72_N1,MarabouError(Return code: 1),1.2857
+CIFAR_P67_N45,MarabouError(Return code: 1),1.3697
+CIFAR_P95_N19,MarabouError(Return code: 1),1.2897
+CIFAR_P1_N46,MarabouError(Return code: 1),1.2636
+CIFAR_P19_N31,MarabouError(Return code: 1),1.3199
+CIFAR_P32_N32,unsat,101.4274
+CIFAR_P94_N6,MarabouError(Return code: 1),1.2693
+CIFAR_P4_N31,MarabouError(Return code: 1),1.4639
+CIFAR_P92_N44,MarabouError(Return code: 1),1.2537
+CIFAR_P20_N4,timeout,3600.015
+CIFAR_P32_N7,MarabouError(Return code: 1),1.3134
+CIFAR_P57_N29,timeout,3600.02
+CIFAR_P26_N32,unsat,101.3394
+CIFAR_P8_N22,MarabouError(Return code: 1),1.1889
+CIFAR_P12_N4,timeout,3600.023
+CIFAR_P27_N37,MarabouError(Return code: 1),1.2964
+CIFAR_P49_N31,MarabouError(Return code: 1),1.3607
+CIFAR_P54_N44,MarabouError(Return code: 1),1.3226
+CIFAR_P23_N18,unsat,63.5494
+CIFAR_P84_N46,MarabouError(Return code: 1),1.2508
+CIFAR_P98_N45,MarabouError(Return code: 1),1.2716
+CIFAR_P4_N46,MarabouError(Return code: 1),1.1951
+CIFAR_P16_N45,MarabouError(Return code: 1),1.2522
+CIFAR_P8_N41,MarabouError(Return code: 1),1.261
+CIFAR_P59_N4,timeout,3600.009
+CIFAR_P72_N9,MarabouError(Return code: 1),1.6243
+CIFAR_P17_N41,MarabouError(Return code: 1),1.2667
+CIFAR_P65_N23,MarabouError(Return code: 1),1.4219
+CIFAR_P38_N33,MarabouError(Return code: 1),1.3282
+CIFAR_P58_N9,MarabouError(Return code: 1),1.7371
+CIFAR_P77_N37,MarabouError(Return code: 1),1.3726
+CIFAR_P29_N18,unsat,63.8434
+CIFAR_P87_N30,MarabouError(Return code: 1),1.3897
+CIFAR_P17_N4,timeout,3600.013
+CIFAR_P82_N24,MarabouError(Return code: 1),1.2995
+CIFAR_P61_N1,MarabouError(Return code: 1),1.302
+CIFAR_P2_N23,MarabouError(Return code: 1),1.2663
+CIFAR_P38_N35,MarabouError(Return code: 1),1.1393
+CIFAR_P75_N23,MarabouError(Return code: 1),1.3968
+CIFAR_P64_N30,MarabouError(Return code: 1),1.3368
+CIFAR_P40_N13,unsat,99.3306
+CIFAR_P35_N13,unsat,102.8314
+CIFAR_P15_N26,MarabouError(Return code: 1),1.2821
+CIFAR_P28_N15,outofmemory,73.009
+CIFAR_P2_N45,MarabouError(Return code: 1),1.3081
+CIFAR_P71_N42,timeout,3600.012
+CIFAR_P76_N8,timeout,3600.018
+CIFAR_P76_N3,outofmemory,30.056
+CIFAR_P97_N37,MarabouError(Return code: 1),1.3968
+CIFAR_P51_N17,timeout,3600.016
+CIFAR_P25_N35,MarabouError(Return code: 1),1.282
+CIFAR_P40_N27,MarabouError(Return code: 1),1.0721
+CIFAR_P58_N38,MarabouError(Return code: 1),1.2806
+CIFAR_P51_N5,outofmemory,107.731
+CIFAR_P82_N41,MarabouError(Return code: 1),1.2893
+CIFAR_P97_N15,outofmemory,73.616
+CIFAR_P75_N4,timeout,3600.02
+CIFAR_P64_N41,MarabouError(Return code: 1),1.3227
+CIFAR_P28_N35,MarabouError(Return code: 1),1.135
+CIFAR_P68_N16,MarabouError(Return code: 1),1.1344
+CIFAR_P76_N30,MarabouError(Return code: 1),1.299
+CIFAR_P61_N18,unsat,65.7154
+CIFAR_P63_N4,timeout,3600.005
+CIFAR_P80_N33,MarabouError(Return code: 1),1.2675
+CIFAR_P0_N37,MarabouError(Return code: 1),1.2783
+CIFAR_P67_N41,MarabouError(Return code: 1),1.2251
+CIFAR_P77_N15,outofmemory,72.285
+CIFAR_P68_N17,timeout,3600.004
+CIFAR_P82_N7,MarabouError(Return code: 1),1.3297
+CIFAR_P27_N35,MarabouError(Return code: 1),1.2233
+CIFAR_P70_N30,MarabouError(Return code: 1),1.4085
+CIFAR_P10_N5,outofmemory,118.759
+CIFAR_P57_N47,MarabouError(Return code: 1),1.1856
+CIFAR_P97_N20,MarabouError(Return code: 1),1.3114
+CIFAR_P3_N18,unsat,64.5867
+CIFAR_P78_N20,MarabouError(Return code: 1),1.2446
+CIFAR_P13_N24,MarabouError(Return code: 1),1.3459
+CIFAR_P42_N42,timeout,3600.008
+CIFAR_P10_N7,MarabouError(Return code: 1),1.3777
+CIFAR_P32_N3,outofmemory,30.892
+CIFAR_P46_N7,MarabouError(Return code: 1),1.3019
+CIFAR_P64_N37,MarabouError(Return code: 1),1.2209
+CIFAR_P36_N4,timeout,3600.02
+CIFAR_P41_N45,MarabouError(Return code: 1),1.1867
+CIFAR_P70_N26,MarabouError(Return code: 1),1.2729
+CIFAR_P81_N35,MarabouError(Return code: 1),1.2062
+CIFAR_P85_N12,MarabouError(Return code: 1),1.2044
+CIFAR_P87_N34,unsat,62.9735
+CIFAR_P18_N21,MarabouError(Return code: 1),1.315
+CIFAR_P14_N32,unsat,97.0378
+CIFAR_P98_N44,MarabouError(Return code: 1),1.265
+CIFAR_P24_N23,MarabouError(Return code: 1),1.3176
+CIFAR_P38_N20,MarabouError(Return code: 1),1.2595
+CIFAR_P86_N14,MarabouError(Return code: 1),1.3059
+CIFAR_P87_N2,outofmemory,74.551
+CIFAR_P26_N9,MarabouError(Return code: 1),1.7959
+CIFAR_P53_N28,MarabouError(Return code: 1),1.3301
+CIFAR_P88_N28,MarabouError(Return code: 1),1.2946
+CIFAR_P53_N23,MarabouError(Return code: 1),1.2409
+CIFAR_P41_N28,MarabouError(Return code: 1),1.3013
+CIFAR_P76_N21,MarabouError(Return code: 1),1.2685
+CIFAR_P5_N2,outofmemory,69.152
+CIFAR_P83_N28,MarabouError(Return code: 1),1.2499
+CIFAR_P73_N31,MarabouError(Return code: 1),1.2424
+CIFAR_P31_N42,timeout,3600.008
+CIFAR_P89_N5,outofmemory,114.767
+CIFAR_P16_N29,timeout,3600.008
+CIFAR_P62_N46,MarabouError(Return code: 1),1.3613
+CIFAR_P26_N33,MarabouError(Return code: 1),1.2247
+CIFAR_P80_N37,MarabouError(Return code: 1),1.3665
+CIFAR_P4_N13,unsat,101.6599
+CIFAR_P65_N47,MarabouError(Return code: 1),1.1231
+CIFAR_P53_N1,MarabouError(Return code: 1),1.3257
+CIFAR_P57_N17,timeout,3600.018
+CIFAR_P8_N38,MarabouError(Return code: 1),1.3472
+CIFAR_P51_N38,MarabouError(Return code: 1),1.3176
+CIFAR_P30_N18,unsat,63.9196
+CIFAR_P58_N46,MarabouError(Return code: 1),1.2436
+CIFAR_P69_N2,outofmemory,75.004
+CIFAR_P36_N6,MarabouError(Return code: 1),1.3753
+CIFAR_P50_N29,timeout,3600.012
+CIFAR_P58_N19,MarabouError(Return code: 1),1.2045
+CIFAR_P60_N44,MarabouError(Return code: 1),1.2041
+CIFAR_P89_N2,outofmemory,69.981
+CIFAR_P33_N13,unsat,106.8317
+CIFAR_P2_N34,unsat,63.0222
+CIFAR_P6_N3,outofmemory,30.797
+CIFAR_P20_N16,MarabouError(Return code: 1),1.1511
+CIFAR_P38_N9,MarabouError(Return code: 1),1.7482
+CIFAR_P12_N41,MarabouError(Return code: 1),1.2813
+CIFAR_P41_N33,MarabouError(Return code: 1),1.2863
+CIFAR_P7_N18,unsat,64.361
+CIFAR_P49_N7,MarabouError(Return code: 1),1.3708
+CIFAR_P4_N23,MarabouError(Return code: 1),1.2751
+CIFAR_P50_N47,MarabouError(Return code: 1),1.1519
+CIFAR_P64_N17,timeout,3600.019
+CIFAR_P76_N47,MarabouError(Return code: 1),1.1929
+CIFAR_P53_N14,MarabouError(Return code: 1),1.2626
+CIFAR_P86_N20,MarabouError(Return code: 1),1.2914
+CIFAR_P91_N23,MarabouError(Return code: 1),1.2708
+CIFAR_P80_N41,MarabouError(Return code: 1),1.2632
+CIFAR_P65_N14,MarabouError(Return code: 1),1.2388
+CIFAR_P52_N27,MarabouError(Return code: 1),1.1225
+CIFAR_P56_N9,MarabouError(Return code: 1),1.7836
+CIFAR_P9_N13,unsat,101.4713
+CIFAR_P39_N27,MarabouError(Return code: 1),1.1291
+CIFAR_P72_N24,MarabouError(Return code: 1),1.2651
+CIFAR_P14_N5,outofmemory,112.709
+CIFAR_P67_N17,timeout,3600.0
+CIFAR_P75_N9,MarabouError(Return code: 1),1.7498
+CIFAR_P95_N30,MarabouError(Return code: 1),1.3302
+CIFAR_P30_N35,MarabouError(Return code: 1),1.1789
+CIFAR_P43_N45,MarabouError(Return code: 1),1.4541
+CIFAR_P52_N9,MarabouError(Return code: 1),1.8119
+CIFAR_P55_N19,MarabouError(Return code: 1),1.3349
+CIFAR_P89_N14,MarabouError(Return code: 1),1.258
+CIFAR_P95_N14,MarabouError(Return code: 1),1.4122
+CIFAR_P45_N2,outofmemory,75.616
+CIFAR_P35_N33,MarabouError(Return code: 1),1.3675
+CIFAR_P72_N46,MarabouError(Return code: 1),1.332
+CIFAR_P59_N38,MarabouError(Return code: 1),1.2496
+CIFAR_P12_N28,MarabouError(Return code: 1),1.2439
+CIFAR_P73_N21,MarabouError(Return code: 1),1.2857
+CIFAR_P39_N46,MarabouError(Return code: 1),1.2997
+CIFAR_P14_N23,MarabouError(Return code: 1),1.3708
+CIFAR_P7_N12,MarabouError(Return code: 1),1.1843
+CIFAR_P45_N14,MarabouError(Return code: 1),1.3176
+CIFAR_P76_N42,timeout,3600.009
+CIFAR_P50_N28,MarabouError(Return code: 1),1.2358
+CIFAR_P15_N30,MarabouError(Return code: 1),1.3214
+CIFAR_P20_N2,outofmemory,71.039
+CIFAR_P45_N7,MarabouError(Return code: 1),1.2916
+CIFAR_P10_N34,unsat,64.7853
+CIFAR_P11_N27,MarabouError(Return code: 1),1.0942
+CIFAR_P87_N35,MarabouError(Return code: 1),1.4177
+CIFAR_P65_N29,timeout,3600.004
+CIFAR_P60_N3,outofmemory,29.754
+CIFAR_P99_N34,unsat,63.4094
+CIFAR_P81_N44,MarabouError(Return code: 1),1.287
+CIFAR_P53_N22,MarabouError(Return code: 1),1.1482
+CIFAR_P80_N20,MarabouError(Return code: 1),1.3026
+CIFAR_P80_N14,MarabouError(Return code: 1),1.2683
+CIFAR_P98_N2,outofmemory,77.023
+CIFAR_P58_N47,MarabouError(Return code: 1),1.3107
+CIFAR_P27_N18,unsat,62.1314
+CIFAR_P18_N26,MarabouError(Return code: 1),1.367
+CIFAR_P29_N13,unsat,100.4907
+CIFAR_P17_N38,MarabouError(Return code: 1),1.2425
+CIFAR_P47_N37,MarabouError(Return code: 1),1.4837
+CIFAR_P12_N42,timeout,3600.006
+CIFAR_P93_N8,timeout,3600.003
+CIFAR_P49_N32,unsat,99.69
+CIFAR_P71_N22,MarabouError(Return code: 1),1.1595
+CIFAR_P56_N32,unsat,101.9842
+CIFAR_P26_N37,MarabouError(Return code: 1),1.322
+CIFAR_P32_N30,MarabouError(Return code: 1),1.3498
+CIFAR_P36_N28,MarabouError(Return code: 1),1.2465
+CIFAR_P74_N41,MarabouError(Return code: 1),1.25
+CIFAR_P96_N17,timeout,3600.007
+CIFAR_P25_N14,MarabouError(Return code: 1),1.2765
+CIFAR_P3_N1,MarabouError(Return code: 1),1.3178
+CIFAR_P58_N13,unsat,100.5246
+CIFAR_P15_N3,outofmemory,30.761
+CIFAR_P74_N2,outofmemory,69.326
+CIFAR_P11_N20,MarabouError(Return code: 1),1.2279
+CIFAR_P88_N8,timeout,3600.005
+CIFAR_P74_N20,MarabouError(Return code: 1),1.2846
+CIFAR_P54_N22,MarabouError(Return code: 1),1.1474
+CIFAR_P95_N24,MarabouError(Return code: 1),1.31
+CIFAR_P95_N6,MarabouError(Return code: 1),1.3685
+CIFAR_P72_N29,timeout,3600.011
+CIFAR_P99_N18,unsat,63.5928
+CIFAR_P68_N26,MarabouError(Return code: 1),1.3203
+CIFAR_P27_N46,MarabouError(Return code: 1),1.3455
+CIFAR_P51_N3,outofmemory,29.365
+CIFAR_P37_N26,MarabouError(Return code: 1),1.3972
+CIFAR_P3_N9,MarabouError(Return code: 1),1.8056
+CIFAR_P30_N16,MarabouError(Return code: 1),1.1105
+CIFAR_P57_N8,timeout,3600.007
+CIFAR_P16_N42,timeout,3600.006
+CIFAR_P46_N45,MarabouError(Return code: 1),1.2646
+CIFAR_P63_N42,timeout,3600.02
+CIFAR_P51_N28,MarabouError(Return code: 1),1.2321
+CIFAR_P23_N25,outofmemory,108.889
+CIFAR_P87_N47,MarabouError(Return code: 1),1.1001
+CIFAR_P35_N5,outofmemory,103.314
+CIFAR_P93_N41,MarabouError(Return code: 1),1.2674
+CIFAR_P63_N16,MarabouError(Return code: 1),1.2186
+CIFAR_P97_N7,MarabouError(Return code: 1),1.3199
+CIFAR_P68_N2,outofmemory,72.464
+CIFAR_P57_N24,MarabouError(Return code: 1),1.2777
+CIFAR_P12_N18,unsat,64.58
+CIFAR_P40_N47,MarabouError(Return code: 1),1.2252
+CIFAR_P78_N47,MarabouError(Return code: 1),1.1071
+CIFAR_P25_N32,unsat,97.5665
+CIFAR_P37_N23,MarabouError(Return code: 1),1.319
+CIFAR_P54_N47,MarabouError(Return code: 1),1.1492
+CIFAR_P17_N5,outofmemory,106.421
+CIFAR_P12_N45,MarabouError(Return code: 1),1.3504
+CIFAR_P45_N42,timeout,3600.002
+CIFAR_P27_N16,MarabouError(Return code: 1),1.2058
+CIFAR_P13_N17,timeout,3600.014
+CIFAR_P68_N33,MarabouError(Return code: 1),1.2962
+CIFAR_P59_N5,outofmemory,102.852
+CIFAR_P93_N42,timeout,3600.015
+CIFAR_P7_N45,MarabouError(Return code: 1),1.2423
+CIFAR_P37_N12,MarabouError(Return code: 1),1.1683
+CIFAR_P3_N4,timeout,3600.008
+CIFAR_P24_N3,outofmemory,29.549
+CIFAR_P24_N8,timeout,3600.022
+CIFAR_P50_N27,MarabouError(Return code: 1),1.1511
+CIFAR_P78_N34,unsat,61.0382
+CIFAR_P48_N25,outofmemory,111.489
+CIFAR_P80_N6,MarabouError(Return code: 1),1.3738
+CIFAR_P44_N8,timeout,3600.007
+CIFAR_P41_N24,MarabouError(Return code: 1),1.3155
+CIFAR_P28_N45,MarabouError(Return code: 1),1.2608
+CIFAR_P87_N29,timeout,3600.0
+CIFAR_P39_N33,MarabouError(Return code: 1),1.2578
+CIFAR_P26_N26,MarabouError(Return code: 1),1.2365
+CIFAR_P40_N16,MarabouError(Return code: 1),1.155
+CIFAR_P98_N21,MarabouError(Return code: 1),1.2816
+CIFAR_P40_N31,MarabouError(Return code: 1),1.2615
+CIFAR_P65_N19,MarabouError(Return code: 1),1.1314
+CIFAR_P58_N24,MarabouError(Return code: 1),1.2559
+CIFAR_P99_N45,MarabouError(Return code: 1),1.3948
+CIFAR_P71_N27,MarabouError(Return code: 1),1.068
+CIFAR_P59_N23,MarabouError(Return code: 1),1.2749
+CIFAR_P2_N37,MarabouError(Return code: 1),1.2683
+CIFAR_P91_N34,unsat,61.0543
+CIFAR_P82_N30,MarabouError(Return code: 1),1.2956
+CIFAR_P58_N42,timeout,3600.011
+CIFAR_P17_N3,outofmemory,29.06
+CIFAR_P62_N29,timeout,3600.008
+CIFAR_P60_N46,MarabouError(Return code: 1),1.2674
+CIFAR_P29_N27,MarabouError(Return code: 1),1.1574
+CIFAR_P80_N31,MarabouError(Return code: 1),1.2354
+CIFAR_P53_N45,MarabouError(Return code: 1),1.3345
+CIFAR_P17_N31,MarabouError(Return code: 1),1.2151
+CIFAR_P91_N2,outofmemory,68.419
+CIFAR_P91_N14,MarabouError(Return code: 1),1.2988
+CIFAR_P91_N19,MarabouError(Return code: 1),1.2987
+CIFAR_P93_N43,MarabouError(Return code: 1),1.2662
+CIFAR_P40_N17,timeout,3600.009
+CIFAR_P71_N43,MarabouError(Return code: 1),1.3201
+CIFAR_P22_N22,MarabouError(Return code: 1),1.1369
+CIFAR_P5_N5,outofmemory,109.739
+CIFAR_P36_N3,outofmemory,29.987
+CIFAR_P74_N14,MarabouError(Return code: 1),1.2791
+CIFAR_P88_N22,MarabouError(Return code: 1),1.0973
+CIFAR_P58_N32,unsat,100.2242
+CIFAR_P20_N41,MarabouError(Return code: 1),1.3702
+CIFAR_P48_N22,MarabouError(Return code: 1),1.217
+CIFAR_P57_N4,timeout,3600.013
+CIFAR_P63_N44,MarabouError(Return code: 1),1.2526
+CIFAR_P43_N35,MarabouError(Return code: 1),1.1545
+CIFAR_P59_N28,MarabouError(Return code: 1),1.2561
+CIFAR_P57_N42,timeout,3600.009
+CIFAR_P74_N7,MarabouError(Return code: 1),1.3166
+CIFAR_P85_N33,MarabouError(Return code: 1),1.2431
+CIFAR_P47_N29,timeout,3600.011
+CIFAR_P64_N21,MarabouError(Return code: 1),1.2569
+CIFAR_P46_N30,MarabouError(Return code: 1),1.284
+CIFAR_P75_N22,MarabouError(Return code: 1),1.1042
+CIFAR_P95_N16,MarabouError(Return code: 1),1.1999
+CIFAR_P44_N34,unsat,61.7481
+CIFAR_P5_N27,MarabouError(Return code: 1),1.1068
+CIFAR_P81_N33,MarabouError(Return code: 1),1.306
+CIFAR_P93_N6,MarabouError(Return code: 1),1.2407
+CIFAR_P98_N9,MarabouError(Return code: 1),1.7197
+CIFAR_P15_N6,MarabouError(Return code: 1),1.3775
+CIFAR_P38_N3,outofmemory,29.166
+CIFAR_P9_N37,MarabouError(Return code: 1),1.274
+CIFAR_P56_N21,MarabouError(Return code: 1),1.2871
+CIFAR_P11_N21,MarabouError(Return code: 1),1.3878
+CIFAR_P52_N18,unsat,63.5461
+CIFAR_P13_N28,MarabouError(Return code: 1),1.3362
+CIFAR_P22_N3,outofmemory,32.654
+CIFAR_P76_N31,MarabouError(Return code: 1),1.2673
+CIFAR_P36_N44,MarabouError(Return code: 1),1.3339
+CIFAR_P72_N47,MarabouError(Return code: 1),1.1173
+CIFAR_P78_N46,MarabouError(Return code: 1),1.2567
+CIFAR_P61_N13,unsat,100.0057
+CIFAR_P77_N28,MarabouError(Return code: 1),1.2988
+CIFAR_P79_N34,unsat,63.2521
+CIFAR_P25_N31,MarabouError(Return code: 1),1.453
+CIFAR_P73_N18,unsat,63.0768
+CIFAR_P87_N15,outofmemory,86.487
+CIFAR_P27_N31,MarabouError(Return code: 1),1.2541
+CIFAR_P90_N42,timeout,3600.015
+CIFAR_P16_N12,MarabouError(Return code: 1),1.0937
+CIFAR_P87_N22,MarabouError(Return code: 1),1.1363
+CIFAR_P43_N21,MarabouError(Return code: 1),1.2462
+CIFAR_P82_N38,MarabouError(Return code: 1),1.3733
+CIFAR_P56_N1,MarabouError(Return code: 1),1.218
+CIFAR_P82_N31,MarabouError(Return code: 1),1.2195
+CIFAR_P95_N35,MarabouError(Return code: 1),1.2196
+CIFAR_P67_N18,unsat,63.2654
+CIFAR_P76_N28,MarabouError(Return code: 1),1.342
+CIFAR_P34_N17,timeout,3600.019
+CIFAR_P22_N45,MarabouError(Return code: 1),1.2215
+CIFAR_P7_N29,timeout,3600.005
+CIFAR_P44_N27,MarabouError(Return code: 1),1.2101
+CIFAR_P68_N47,MarabouError(Return code: 1),1.2304
+CIFAR_P42_N20,MarabouError(Return code: 1),1.3436
+CIFAR_P2_N21,MarabouError(Return code: 1),1.339
+CIFAR_P13_N2,outofmemory,68.591
+CIFAR_P26_N42,timeout,3600.021
+CIFAR_P24_N20,MarabouError(Return code: 1),1.1675
+CIFAR_P78_N33,MarabouError(Return code: 1),1.26
+CIFAR_P81_N3,outofmemory,30.121
+CIFAR_P35_N46,MarabouError(Return code: 1),1.3481
+CIFAR_P37_N31,MarabouError(Return code: 1),1.2241
+CIFAR_P78_N1,MarabouError(Return code: 1),1.3329
+CIFAR_P34_N7,MarabouError(Return code: 1),1.1923
+CIFAR_P61_N14,MarabouError(Return code: 1),1.2761
+CIFAR_P46_N37,MarabouError(Return code: 1),1.2866
+CIFAR_P76_N12,MarabouError(Return code: 1),1.3345
+CIFAR_P96_N31,MarabouError(Return code: 1),1.3298
+CIFAR_P22_N8,timeout,3600.001
+CIFAR_P18_N14,MarabouError(Return code: 1),1.3672
+CIFAR_P48_N27,MarabouError(Return code: 1),1.0913
+CIFAR_P94_N1,MarabouError(Return code: 1),1.229
+CIFAR_P41_N26,MarabouError(Return code: 1),1.2298
+CIFAR_P13_N44,MarabouError(Return code: 1),1.2303
+CIFAR_P75_N24,MarabouError(Return code: 1),1.2105
+CIFAR_P32_N38,MarabouError(Return code: 1),1.2344
+CIFAR_P46_N47,MarabouError(Return code: 1),1.2212
+CIFAR_P10_N32,unsat,99.8702
+CIFAR_P4_N34,unsat,62.5984
+CIFAR_P29_N32,unsat,101.0446
+CIFAR_P48_N24,MarabouError(Return code: 1),1.3369
+CIFAR_P22_N34,unsat,62.6157
+CIFAR_P75_N42,timeout,3600.011
+CIFAR_P76_N7,MarabouError(Return code: 1),1.3072
+CIFAR_P98_N22,MarabouError(Return code: 1),1.1173
+CIFAR_P54_N5,outofmemory,123.361
+CIFAR_P55_N5,outofmemory,107.854
+CIFAR_P39_N9,MarabouError(Return code: 1),1.7171
+CIFAR_P55_N47,MarabouError(Return code: 1),1.1732
+CIFAR_P85_N21,MarabouError(Return code: 1),1.3362
+CIFAR_P62_N18,unsat,61.919
+CIFAR_P65_N34,unsat,63.6237
+CIFAR_P21_N25,outofmemory,105.861
+CIFAR_P48_N21,MarabouError(Return code: 1),1.2894
+CIFAR_P98_N38,MarabouError(Return code: 1),1.3455
+CIFAR_P84_N23,MarabouError(Return code: 1),1.2718
+CIFAR_P70_N27,MarabouError(Return code: 1),1.2198
+CIFAR_P71_N46,MarabouError(Return code: 1),1.1967
+CIFAR_P12_N9,MarabouError(Return code: 1),1.7843
+CIFAR_P93_N35,MarabouError(Return code: 1),1.2139
+CIFAR_P20_N6,MarabouError(Return code: 1),1.4032
+CIFAR_P99_N33,MarabouError(Return code: 1),1.2346
+CIFAR_P4_N42,timeout,3600.013
+CIFAR_P67_N9,MarabouError(Return code: 1),1.7581
+CIFAR_P88_N41,MarabouError(Return code: 1),1.3061
+CIFAR_P56_N42,timeout,3600.009
+CIFAR_P75_N5,outofmemory,107.759
+CIFAR_P43_N23,MarabouError(Return code: 1),1.3893
+CIFAR_P4_N32,unsat,99.552
+CIFAR_P31_N24,MarabouError(Return code: 1),1.2707
+CIFAR_P47_N16,MarabouError(Return code: 1),1.1409
+CIFAR_P12_N15,outofmemory,68.709
+CIFAR_P35_N27,MarabouError(Return code: 1),1.0917
+CIFAR_P72_N22,MarabouError(Return code: 1),1.2445
+CIFAR_P57_N16,MarabouError(Return code: 1),1.1448
+CIFAR_P56_N27,MarabouError(Return code: 1),1.1208
+CIFAR_P7_N31,MarabouError(Return code: 1),1.2888
+CIFAR_P11_N46,MarabouError(Return code: 1),1.3112
+CIFAR_P51_N16,MarabouError(Return code: 1),1.2345
+CIFAR_P86_N1,MarabouError(Return code: 1),1.403
+CIFAR_P29_N7,MarabouError(Return code: 1),1.3571
+CIFAR_P65_N6,MarabouError(Return code: 1),1.3099
+CIFAR_P71_N14,MarabouError(Return code: 1),1.3479
+CIFAR_P4_N5,outofmemory,104.139
+CIFAR_P76_N13,unsat,98.6437
+CIFAR_P11_N31,MarabouError(Return code: 1),1.4064
+CIFAR_P2_N29,timeout,3600.009
+CIFAR_P86_N24,MarabouError(Return code: 1),1.3182
+CIFAR_P58_N1,MarabouError(Return code: 1),1.2497
+CIFAR_P98_N37,MarabouError(Return code: 1),1.3231
+CIFAR_P49_N41,MarabouError(Return code: 1),1.2531
+CIFAR_P51_N26,MarabouError(Return code: 1),1.2929
+CIFAR_P42_N29,timeout,3600.011
+CIFAR_P17_N29,timeout,3600.002
+CIFAR_P6_N35,MarabouError(Return code: 1),1.0847
+CIFAR_P19_N6,MarabouError(Return code: 1),1.4134
+CIFAR_P99_N13,unsat,101.8022
+CIFAR_P65_N27,MarabouError(Return code: 1),1.1569
+CIFAR_P78_N22,MarabouError(Return code: 1),1.1063
+CIFAR_P87_N5,outofmemory,107.617
+CIFAR_P91_N31,MarabouError(Return code: 1),1.3053
+CIFAR_P48_N34,unsat,62.5031
+CIFAR_P87_N24,MarabouError(Return code: 1),1.4063
+CIFAR_P43_N30,MarabouError(Return code: 1),1.3702
+CIFAR_P47_N22,MarabouError(Return code: 1),1.2356
+CIFAR_P21_N29,timeout,3600.001
+CIFAR_P40_N28,MarabouError(Return code: 1),1.2778
+CIFAR_P89_N17,timeout,3600.012
+CIFAR_P23_N34,unsat,61.9924
+CIFAR_P84_N27,MarabouError(Return code: 1),1.1967
+CIFAR_P55_N29,timeout,3600.015
+CIFAR_P34_N23,MarabouError(Return code: 1),1.3106
+CIFAR_P60_N31,MarabouError(Return code: 1),1.2538
+CIFAR_P71_N5,outofmemory,103.393
+CIFAR_P85_N6,MarabouError(Return code: 1),1.2816
+CIFAR_P28_N44,MarabouError(Return code: 1),1.3061
+CIFAR_P33_N5,outofmemory,106.643
+CIFAR_P77_N19,MarabouError(Return code: 1),1.3727
+CIFAR_P35_N44,MarabouError(Return code: 1),1.2278
+CIFAR_P56_N31,MarabouError(Return code: 1),1.2641
+CIFAR_P0_N47,MarabouError(Return code: 1),1.1327
+CIFAR_P98_N25,outofmemory,118.915
+CIFAR_P85_N16,MarabouError(Return code: 1),1.1254
+CIFAR_P91_N27,MarabouError(Return code: 1),1.081
+CIFAR_P70_N16,MarabouError(Return code: 1),1.1822
+CIFAR_P13_N21,MarabouError(Return code: 1),1.2854
+CIFAR_P31_N46,MarabouError(Return code: 1),1.2766
+CIFAR_P55_N8,timeout,3600.008
+CIFAR_P17_N27,MarabouError(Return code: 1),1.22
+CIFAR_P14_N35,MarabouError(Return code: 1),1.2498
+CIFAR_P27_N23,MarabouError(Return code: 1),1.4783
+CIFAR_P30_N8,timeout,3600.015
+CIFAR_P63_N34,unsat,62.5134
+CIFAR_P1_N12,MarabouError(Return code: 1),1.266
+CIFAR_P54_N16,MarabouError(Return code: 1),1.1251
+CIFAR_P92_N21,MarabouError(Return code: 1),1.3033
+CIFAR_P37_N32,unsat,100.2909
+CIFAR_P63_N2,outofmemory,69.773
+CIFAR_P71_N8,timeout,3600.009
+CIFAR_P93_N22,MarabouError(Return code: 1),1.1827
+CIFAR_P82_N45,MarabouError(Return code: 1),1.3906
+CIFAR_P89_N19,MarabouError(Return code: 1),1.2155
+CIFAR_P63_N17,timeout,3600.004
+CIFAR_P35_N16,MarabouError(Return code: 1),1.1357
+CIFAR_P17_N21,MarabouError(Return code: 1),1.3188
+CIFAR_P3_N12,MarabouError(Return code: 1),1.0959
+CIFAR_P96_N34,unsat,62.3677
+CIFAR_P23_N16,MarabouError(Return code: 1),1.1583
+CIFAR_P41_N23,MarabouError(Return code: 1),1.3092
+CIFAR_P33_N45,MarabouError(Return code: 1),1.3223
+CIFAR_P57_N12,MarabouError(Return code: 1),1.1214
+CIFAR_P80_N17,timeout,3600.009
+CIFAR_P55_N27,MarabouError(Return code: 1),1.0893
