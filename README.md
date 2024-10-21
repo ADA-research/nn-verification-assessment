@@ -9,4 +9,4 @@ This repository provides
 - the performance data collected for this study;
 - the neural networks, which were verified.
 
-**Note:** The ground truth of each instance cannot be known a priori. In some cases, the verifiers returned different solutions (i.e. one verifier found a given instance to be sat whereas another found it to be unsat). We observed this specifically among GPU-based methods. In our analysis, we treated these instances as unsat as we did not investigate the validity of the counterexample if any was found.
+**Note:** The ground truth of each instance cannot be known a priori. In some cases, the verifiers returned different solutions (i.e. one verifier found a given instance to be *sat* whereas another found it to be *unsat*). We observed this specifically among GPU-based methods. In our analysis, we treated these instances as *unsat* as we did not investigate the validity of the counterexample if any was found.
