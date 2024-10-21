@@ -12,7 +12,7 @@ This repository provides
 **Note:** The ground truth of each instance cannot be known a priori. In some cases, the verifiers returned different solutions (i.e. one verifier found a given instance to be *sat* whereas another found it to be *unsat*). We observed this specifically among GPU-based methods. In our analysis, we treated these instances as *unsat* as we did not investigate the validity of the counterexample if any was found.
 
 Citation:
-\\\
+```
 @article{KonEtAl24b,
     author = {K{\"o}nig, Matthias and Bosman, Annelot W and Hoos, Holger H and van Rijn, Jan N},
     title = "Critically Assessing the State of the Art in Neural Network Verification",
@@ -22,4 +22,4 @@ Citation:
     number = "12",
     pages = "1--53"
 }
-\\\
+```
